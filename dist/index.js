@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 28 Jun 2021 19:23:37 GMT
+ * Generated on Mon, 28 Jun 2021 19:42:46 GMT
  */
 
 export const utrechtBlockquoteMarginInlineStart = "1.6em";
