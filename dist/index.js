@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 07 Jul 2021 10:00:37 GMT
+ * Generated on Wed, 07 Jul 2021 14:03:10 GMT
  */
 
 export const utrechtBlockquoteMarginInlineStart = "1.6em";
@@ -124,6 +124,19 @@ export const utrechtParagraphMarginBlockStart = "16px";
 export const utrechtParagraphLeadFontSize = "1.25rem";
 export const utrechtSeparatorColor = "hsl(0 0% 90%)";
 export const utrechtSeparatorWidth = "8px";
+export const utrechtTableRowBorderBlockEndColor = "hsl(0 0% 90%)";
+export const utrechtTableRowBorderBlockEndWidth = "1px";
+export const utrechtTableCaptionFontWeight = "bold";
+export const utrechtTableCaptionFontSize = "1.125em";
+export const utrechtTableCaptionTextAlign = "start";
+export const utrechtTableCaptionMarginBlockEnd = "1em";
+export const utrechtTableHeaderFontWeight = "bold";
+export const utrechtTableHeaderBorderBlockEndColor = "hsl(0 100% 40%)";
+export const utrechtTableHeaderBorderBlockEndWidth = "2px";
+export const utrechtTableCellPaddingBlockEnd = "0.5em";
+export const utrechtTableCellPaddingBlockStart = "0.5em";
+export const utrechtTableCellPaddingInlineEnd = "0";
+export const utrechtTableCellPaddingInlineStart = "0.4em";
 export const utrechtTextareaBorderBottomWidth = "3px";
 export const utrechtTextareaBorderColor = "hsl(0 0% 30%)";
 export const utrechtTextareaBorderRadius = "0";

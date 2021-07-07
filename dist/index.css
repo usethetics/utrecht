@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 07 Jul 2021 10:00:37 GMT
+ * Generated on Wed, 07 Jul 2021 14:03:10 GMT
  */
 
 :root {
@@ -99,6 +99,13 @@
   --utrecht-textbox-max-width: 28em;
   --utrecht-textbox-border-radius: 0;
   --utrecht-textbox-border-bottom-width: 3px;
+  --utrecht-table-cell-padding-inline-start: 0.4em;
+  --utrecht-table-cell-padding-inline-end: 0;
+  --utrecht-table-cell-padding-block-start: 0.5em;
+  --utrecht-table-cell-padding-block-end: 0.5em;
+  --utrecht-table-caption-margin-block-end: 1em;
+  --utrecht-table-caption-text-align: start;
+  --utrecht-table-caption-font-size: 1.125em;
   --utrecht-separator-width: 8px;
   --utrecht-paragraph-line-height: 1.4;
   --utrecht-mapcontrolbutton-focus-text-decoration: none;
@@ -173,6 +180,12 @@
   --utrecht-textarea-max-width: var(--utrecht-textbox-max-width);
   --utrecht-textarea-border-radius: var(--utrecht-textbox-border-radius);
   --utrecht-textarea-border-bottom-width: var(--utrecht-textbox-border-bottom-width);
+  --utrecht-table-header-border-block-end-width: var(--utrecht-border-width-md);
+  --utrecht-table-header-border-block-end-color: var(--utrecht-color-red-40);
+  --utrecht-table-header-font-weight: var(--utrecht-typography-weight-scale-bold-font-weight);
+  --utrecht-table-caption-font-weight: var(--utrecht-typography-weight-scale-bold-font-weight);
+  --utrecht-table-row-border-block-end-width: var(--utrecht-border-width-sm);
+  --utrecht-table-row-border-block-end-color: var(--utrecht-color-grey-90);
   --utrecht-separator-color: var(--utrecht-color-grey-90);
   --utrecht-paragraph-lead-font-size: var(--utrecht-typography-scale-lg-font-size);
   --utrecht-paragraph-margin-block-start: var(--utrecht-space-row-md);

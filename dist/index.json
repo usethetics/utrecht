@@ -2499,6 +2499,312 @@
       },
       "margin-block": {}
     },
+    "table": {
+      "margin-block-end": {},
+      "margin-block-start": {},
+      "row": {
+        "alternate-odd": {
+          "background-color": {},
+          "color": {}
+        },
+        "alternate-even": {
+          "background-color": {},
+          "color": {}
+        },
+        "border-block-end-color": {
+          "value": "hsl(0 0% 90%)",
+          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.color.grey.90.value}"
+          },
+          "name": "utrechtTableRowBorderBlockEndColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "table",
+            "item": "row",
+            "subitem": "border-block-end-color"
+          },
+          "path": [
+            "utrecht",
+            "table",
+            "row",
+            "border-block-end-color"
+          ]
+        },
+        "border-block-end-width": {
+          "value": "1px",
+          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.border-width.sm.value}"
+          },
+          "name": "utrechtTableRowBorderBlockEndWidth",
+          "attributes": {
+            "category": "utrecht",
+            "type": "table",
+            "item": "row",
+            "subitem": "border-block-end-width"
+          },
+          "path": [
+            "utrecht",
+            "table",
+            "row",
+            "border-block-end-width"
+          ]
+        },
+        "padding-inline-end": {},
+        "padding-inline-start": {}
+      },
+      "caption": {
+        "font-weight": {
+          "value": "bold",
+          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.typography.weight-scale.bold.font-weight.value}"
+          },
+          "name": "utrechtTableCaptionFontWeight",
+          "attributes": {
+            "category": "utrecht",
+            "type": "table",
+            "item": "caption",
+            "subitem": "font-weight"
+          },
+          "path": [
+            "utrecht",
+            "table",
+            "caption",
+            "font-weight"
+          ]
+        },
+        "font-family": {},
+        "font-size": {
+          "value": "1.125em",
+          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "1.125em"
+          },
+          "name": "utrechtTableCaptionFontSize",
+          "attributes": {
+            "category": "utrecht",
+            "type": "table",
+            "item": "caption",
+            "subitem": "font-size"
+          },
+          "path": [
+            "utrecht",
+            "table",
+            "caption",
+            "font-size"
+          ]
+        },
+        "color": {},
+        "line-height": {},
+        "text-align": {
+          "value": "start",
+          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "start"
+          },
+          "name": "utrechtTableCaptionTextAlign",
+          "attributes": {
+            "category": "utrecht",
+            "type": "table",
+            "item": "caption",
+            "subitem": "text-align"
+          },
+          "path": [
+            "utrecht",
+            "table",
+            "caption",
+            "text-align"
+          ]
+        },
+        "margin-block-end": {
+          "value": "1em",
+          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "1em"
+          },
+          "name": "utrechtTableCaptionMarginBlockEnd",
+          "attributes": {
+            "category": "utrecht",
+            "type": "table",
+            "item": "caption",
+            "subitem": "margin-block-end"
+          },
+          "path": [
+            "utrecht",
+            "table",
+            "caption",
+            "margin-block-end"
+          ]
+        }
+      },
+      "header": {
+        "font-weight": {
+          "value": "bold",
+          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.typography.weight-scale.bold.font-weight.value}"
+          },
+          "name": "utrechtTableHeaderFontWeight",
+          "attributes": {
+            "category": "utrecht",
+            "type": "table",
+            "item": "header",
+            "subitem": "font-weight"
+          },
+          "path": [
+            "utrecht",
+            "table",
+            "header",
+            "font-weight"
+          ]
+        },
+        "color": {},
+        "text-transform": {},
+        "border-block-end-color": {
+          "value": "hsl(0 100% 40%)",
+          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.color.red.40.value}"
+          },
+          "name": "utrechtTableHeaderBorderBlockEndColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "table",
+            "item": "header",
+            "subitem": "border-block-end-color"
+          },
+          "path": [
+            "utrecht",
+            "table",
+            "header",
+            "border-block-end-color"
+          ]
+        },
+        "border-block-end-width": {
+          "value": "2px",
+          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.border-width.md.value}"
+          },
+          "name": "utrechtTableHeaderBorderBlockEndWidth",
+          "attributes": {
+            "category": "utrecht",
+            "type": "table",
+            "item": "header",
+            "subitem": "border-block-end-width"
+          },
+          "path": [
+            "utrecht",
+            "table",
+            "header",
+            "border-block-end-width"
+          ]
+        }
+      },
+      "heading": {
+        "font-weight": {},
+        "color": {},
+        "text-transform": {}
+      },
+      "cell": {
+        "line-height": {},
+        "padding-block-end": {
+          "value": "0.5em",
+          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "0.5em"
+          },
+          "name": "utrechtTableCellPaddingBlockEnd",
+          "attributes": {
+            "category": "utrecht",
+            "type": "table",
+            "item": "cell",
+            "subitem": "padding-block-end"
+          },
+          "path": [
+            "utrecht",
+            "table",
+            "cell",
+            "padding-block-end"
+          ]
+        },
+        "padding-block-start": {
+          "value": "0.5em",
+          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "0.5em"
+          },
+          "name": "utrechtTableCellPaddingBlockStart",
+          "attributes": {
+            "category": "utrecht",
+            "type": "table",
+            "item": "cell",
+            "subitem": "padding-block-start"
+          },
+          "path": [
+            "utrecht",
+            "table",
+            "cell",
+            "padding-block-start"
+          ]
+        },
+        "padding-inline-end": {
+          "value": "0",
+          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "0"
+          },
+          "name": "utrechtTableCellPaddingInlineEnd",
+          "attributes": {
+            "category": "utrecht",
+            "type": "table",
+            "item": "cell",
+            "subitem": "padding-inline-end"
+          },
+          "path": [
+            "utrecht",
+            "table",
+            "cell",
+            "padding-inline-end"
+          ]
+        },
+        "padding-inline-start": {
+          "value": "0.4em",
+          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "0.4em"
+          },
+          "name": "utrechtTableCellPaddingInlineStart",
+          "attributes": {
+            "category": "utrecht",
+            "type": "table",
+            "item": "cell",
+            "subitem": "padding-inline-start"
+          },
+          "path": [
+            "utrecht",
+            "table",
+            "cell",
+            "padding-inline-start"
+          ]
+        }
+      }
+    },
     "textarea": {
       "border-bottom-width": {
         "value": "3px",
