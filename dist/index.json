@@ -1,5 +1,194 @@
 {
   "utrecht": {
+    "badge-data": {
+      "letter-spacing": {
+        "value": "0.15ch",
+        "filePath": "./src/component/utrecht/badge-data/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "0.15ch"
+        },
+        "name": "utrechtBadgeDataLetterSpacing",
+        "attributes": {
+          "category": "utrecht",
+          "type": "badge-data",
+          "item": "letter-spacing"
+        },
+        "path": [
+          "utrecht",
+          "badge-data",
+          "letter-spacing"
+        ]
+      },
+      "text-transform": {
+        "value": "uppercase",
+        "filePath": "./src/component/utrecht/badge-data/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "uppercase"
+        },
+        "name": "utrechtBadgeDataTextTransform",
+        "attributes": {
+          "category": "utrecht",
+          "type": "badge-data",
+          "item": "text-transform"
+        },
+        "path": [
+          "utrecht",
+          "badge-data",
+          "text-transform"
+        ]
+      }
+    },
+    "badge-status": {
+      "letter-spacing": {
+        "value": "0.15ch",
+        "filePath": "./src/component/utrecht/badge-status/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "0.15ch"
+        },
+        "name": "utrechtBadgeStatusLetterSpacing",
+        "attributes": {
+          "category": "utrecht",
+          "type": "badge-status",
+          "item": "letter-spacing"
+        },
+        "path": [
+          "utrecht",
+          "badge-status",
+          "letter-spacing"
+        ]
+      },
+      "text-transform": {
+        "value": "uppercase",
+        "filePath": "./src/component/utrecht/badge-status/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "uppercase"
+        },
+        "name": "utrechtBadgeStatusTextTransform",
+        "attributes": {
+          "category": "utrecht",
+          "type": "badge-status",
+          "item": "text-transform"
+        },
+        "path": [
+          "utrecht",
+          "badge-status",
+          "text-transform"
+        ]
+      }
+    },
+    "badge": {
+      "background-color": {
+        "comment": "Default background color for badge components",
+        "value": "hsl(0 0% 30%)",
+        "filePath": "./src/component/utrecht/badge/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "comment": "Default background color for badge components",
+          "value": "{utrecht.color.grey.30.value}"
+        },
+        "name": "utrechtBadgeBackgroundColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "badge",
+          "item": "background-color"
+        },
+        "path": [
+          "utrecht",
+          "badge",
+          "background-color"
+        ]
+      },
+      "border-radius": {
+        "comment": "Default corner radius for badge components",
+        "value": "0",
+        "filePath": "./src/component/utrecht/badge/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "comment": "Default corner radius for badge components",
+          "value": "0"
+        },
+        "name": "utrechtBadgeBorderRadius",
+        "attributes": {
+          "category": "utrecht",
+          "type": "badge",
+          "item": "border-radius"
+        },
+        "path": [
+          "utrecht",
+          "badge",
+          "border-radius"
+        ]
+      },
+      "color": {
+        "comment": "Default text color for badge components",
+        "value": "hsl(0 0% 100%)",
+        "filePath": "./src/component/utrecht/badge/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "comment": "Default text color for badge components",
+          "value": "{utrecht.color.white.value}"
+        },
+        "name": "utrechtBadgeColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "badge",
+          "item": "color"
+        },
+        "path": [
+          "utrecht",
+          "badge",
+          "color"
+        ]
+      },
+      "font-weight": {},
+      "padding-block": {
+        "comment": "Default block padding for badge components",
+        "value": "8px",
+        "filePath": "./src/component/utrecht/badge/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "comment": "Default block padding for badge components",
+          "value": "{utrecht.space.block.xs.value}"
+        },
+        "name": "utrechtBadgePaddingBlock",
+        "attributes": {
+          "category": "utrecht",
+          "type": "badge",
+          "item": "padding-block"
+        },
+        "path": [
+          "utrecht",
+          "badge",
+          "padding-block"
+        ]
+      },
+      "padding-inline": {
+        "comment": "Default inline padding color for badge components",
+        "value": "1ch",
+        "filePath": "./src/component/utrecht/badge/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "comment": "Default inline padding color for badge components",
+          "value": "{utrecht.space.inline.md.value}"
+        },
+        "name": "utrechtBadgePaddingInline",
+        "attributes": {
+          "category": "utrecht",
+          "type": "badge",
+          "item": "padding-inline"
+        },
+        "path": [
+          "utrecht",
+          "badge",
+          "padding-inline"
+        ]
+      },
+      "text-transform": {}
+    },
     "blockquote": {
       "margin-inline-start": {
         "value": "1.6em",
@@ -4345,13 +4534,442 @@
       }
     },
     "feedback": {
-      "invalid": {
+      "danger": {
+        "fill": {
+          "background-color": {
+            "value": "hsl(0 100% 40%)",
+            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.feedback.danger.background-color.value}"
+            },
+            "name": "utrechtFeedbackDangerFillBackgroundColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "feedback",
+              "item": "danger",
+              "subitem": "fill",
+              "state": "background-color"
+            },
+            "path": [
+              "utrecht",
+              "feedback",
+              "danger",
+              "fill",
+              "background-color"
+            ]
+          },
+          "color": {
+            "value": "hsl(0 0% 100%)",
+            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.color.white.value}"
+            },
+            "name": "utrechtFeedbackDangerFillColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "feedback",
+              "item": "danger",
+              "subitem": "fill",
+              "state": "color"
+            },
+            "path": [
+              "utrecht",
+              "feedback",
+              "danger",
+              "fill",
+              "color"
+            ]
+          }
+        },
+        "background-color": {
+          "value": "hsl(0 100% 40%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.feedback.danger.color.value}"
+          },
+          "name": "utrechtFeedbackDangerBackgroundColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "danger",
+            "subitem": "background-color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "danger",
+            "background-color"
+          ]
+        },
+        "border-color": {
+          "value": "hsl(0 100% 40%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.feedback.danger.color.value}"
+          },
+          "name": "utrechtFeedbackDangerBorderColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "danger",
+            "subitem": "border-color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "danger",
+            "border-color"
+          ]
+        },
         "color": {
           "value": "hsl(0 100% 40%)",
           "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.color.red.40.value}"
+          },
+          "name": "utrechtFeedbackDangerColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "danger",
+            "subitem": "color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "danger",
+            "color"
+          ]
+        }
+      },
+      "warning": {
+        "fill": {
+          "background-color": {
+            "value": "hsl(48 100% 50%)",
+            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.feedback.warning.background-color.value}"
+            },
+            "name": "utrechtFeedbackWarningFillBackgroundColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "feedback",
+              "item": "warning",
+              "subitem": "fill",
+              "state": "background-color"
+            },
+            "path": [
+              "utrecht",
+              "feedback",
+              "warning",
+              "fill",
+              "background-color"
+            ]
+          },
+          "color": {
+            "value": "hsl(0 0% 0%)",
+            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.color.black.value}"
+            },
+            "name": "utrechtFeedbackWarningFillColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "feedback",
+              "item": "warning",
+              "subitem": "fill",
+              "state": "color"
+            },
+            "path": [
+              "utrecht",
+              "feedback",
+              "warning",
+              "fill",
+              "color"
+            ]
+          }
+        },
+        "background-color": {
+          "value": "hsl(48 100% 50%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.feedback.warning.color.value}"
+          },
+          "name": "utrechtFeedbackWarningBackgroundColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "warning",
+            "subitem": "background-color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "warning",
+            "background-color"
+          ]
+        },
+        "border-color": {
+          "value": "hsl(48 100% 50%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.feedback.warning.color.value}"
+          },
+          "name": "utrechtFeedbackWarningBorderColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "warning",
+            "subitem": "border-color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "warning",
+            "border-color"
+          ]
+        },
+        "color": {
+          "value": "hsl(48 100% 50%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.color.yellow.50.value}"
+          },
+          "name": "utrechtFeedbackWarningColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "warning",
+            "subitem": "color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "warning",
+            "color"
+          ]
+        }
+      },
+      "safe": {
+        "fill": {
+          "background-color": {
+            "value": "hsl(90 30% 50%)",
+            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.feedback.safe.background-color.value}"
+            },
+            "name": "utrechtFeedbackSafeFillBackgroundColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "feedback",
+              "item": "safe",
+              "subitem": "fill",
+              "state": "background-color"
+            },
+            "path": [
+              "utrecht",
+              "feedback",
+              "safe",
+              "fill",
+              "background-color"
+            ]
+          },
+          "color": {
+            "value": "hsl(0 0% 100%)",
+            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.color.white.value}"
+            },
+            "name": "utrechtFeedbackSafeFillColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "feedback",
+              "item": "safe",
+              "subitem": "fill",
+              "state": "color"
+            },
+            "path": [
+              "utrecht",
+              "feedback",
+              "safe",
+              "fill",
+              "color"
+            ]
+          }
+        },
+        "background-color": {
+          "value": "hsl(90 30% 50%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.feedback.safe.color.value}"
+          },
+          "name": "utrechtFeedbackSafeBackgroundColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "safe",
+            "subitem": "background-color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "safe",
+            "background-color"
+          ]
+        },
+        "border-color": {
+          "value": "hsl(90 30% 50%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.feedback.safe.color.value}"
+          },
+          "name": "utrechtFeedbackSafeBorderColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "safe",
+            "subitem": "border-color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "safe",
+            "border-color"
+          ]
+        },
+        "color": {
+          "value": "hsl(90 30% 50%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.color.green.50.value}"
+          },
+          "name": "utrechtFeedbackSafeColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "safe",
+            "subitem": "color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "safe",
+            "color"
+          ]
+        }
+      },
+      "invalid": {
+        "fill": {
+          "background-color": {
+            "value": "hsl(0 100% 40%)",
+            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.feedback.invalid.background-color.value}"
+            },
+            "name": "utrechtFeedbackInvalidFillBackgroundColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "feedback",
+              "item": "invalid",
+              "subitem": "fill",
+              "state": "background-color"
+            },
+            "path": [
+              "utrecht",
+              "feedback",
+              "invalid",
+              "fill",
+              "background-color"
+            ]
+          },
+          "color": {
+            "value": "hsl(0 0% 100%)",
+            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.color.white.value}"
+            },
+            "name": "utrechtFeedbackInvalidFillColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "feedback",
+              "item": "invalid",
+              "subitem": "fill",
+              "state": "color"
+            },
+            "path": [
+              "utrecht",
+              "feedback",
+              "invalid",
+              "fill",
+              "color"
+            ]
+          }
+        },
+        "background-color": {
+          "value": "hsl(0 100% 40%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.feedback.danger.background-color.value}"
+          },
+          "name": "utrechtFeedbackInvalidBackgroundColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "invalid",
+            "subitem": "background-color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "invalid",
+            "background-color"
+          ]
+        },
+        "border-color": {
+          "value": "hsl(0 100% 40%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.feedback.danger.border-color.value}"
+          },
+          "name": "utrechtFeedbackInvalidBorderColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "invalid",
+            "subitem": "border-color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "invalid",
+            "border-color"
+          ]
+        },
+        "color": {
+          "value": "hsl(0 100% 40%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.feedback.danger.color.value}"
           },
           "name": "utrechtFeedbackInvalidColor",
           "attributes": {
@@ -4366,26 +4984,570 @@
             "invalid",
             "color"
           ]
+        }
+      },
+      "valid": {
+        "fill": {
+          "background-color": {
+            "value": "hsl(90 30% 50%)",
+            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.feedback.valid.background-color.value}"
+            },
+            "name": "utrechtFeedbackValidFillBackgroundColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "feedback",
+              "item": "valid",
+              "subitem": "fill",
+              "state": "background-color"
+            },
+            "path": [
+              "utrecht",
+              "feedback",
+              "valid",
+              "fill",
+              "background-color"
+            ]
+          },
+          "color": {
+            "value": "hsl(0 0% 100%)",
+            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.color.white.value}"
+            },
+            "name": "utrechtFeedbackValidFillColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "feedback",
+              "item": "valid",
+              "subitem": "fill",
+              "state": "color"
+            },
+            "path": [
+              "utrecht",
+              "feedback",
+              "valid",
+              "fill",
+              "color"
+            ]
+          }
+        },
+        "background-color": {
+          "value": "hsl(90 30% 50%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.feedback.safe.background-color.value}"
+          },
+          "name": "utrechtFeedbackValidBackgroundColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "valid",
+            "subitem": "background-color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "valid",
+            "background-color"
+          ]
+        },
+        "border-color": {
+          "value": "hsl(90 30% 50%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.feedback.safe.border-color.value}"
+          },
+          "name": "utrechtFeedbackValidBorderColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "valid",
+            "subitem": "border-color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "valid",
+            "border-color"
+          ]
+        },
+        "color": {
+          "value": "hsl(90 30% 50%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.feedback.safe.color.value}"
+          },
+          "name": "utrechtFeedbackValidColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "valid",
+            "subitem": "color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "valid",
+            "color"
+          ]
+        }
+      },
+      "error": {
+        "fill": {
+          "background-color": {
+            "value": "hsl(0 100% 40%)",
+            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.feedback.error.background-color.value}"
+            },
+            "name": "utrechtFeedbackErrorFillBackgroundColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "feedback",
+              "item": "error",
+              "subitem": "fill",
+              "state": "background-color"
+            },
+            "path": [
+              "utrecht",
+              "feedback",
+              "error",
+              "fill",
+              "background-color"
+            ]
+          },
+          "color": {
+            "value": "hsl(0 0% 100%)",
+            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.color.white.value}"
+            },
+            "name": "utrechtFeedbackErrorFillColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "feedback",
+              "item": "error",
+              "subitem": "fill",
+              "state": "color"
+            },
+            "path": [
+              "utrecht",
+              "feedback",
+              "error",
+              "fill",
+              "color"
+            ]
+          }
+        },
+        "background-color": {
+          "value": "hsl(0 100% 40%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.feedback.danger.background-color.value}"
+          },
+          "name": "utrechtFeedbackErrorBackgroundColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "error",
+            "subitem": "background-color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "error",
+            "background-color"
+          ]
         },
         "border-color": {
           "value": "hsl(0 100% 40%)",
           "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "{utrecht.feedback.invalid.color.value}"
+            "value": "{utrecht.feedback.danger.border-color.value}"
           },
-          "name": "utrechtFeedbackInvalidBorderColor",
+          "name": "utrechtFeedbackErrorBorderColor",
           "attributes": {
             "category": "utrecht",
             "type": "feedback",
-            "item": "invalid",
+            "item": "error",
             "subitem": "border-color"
           },
           "path": [
             "utrecht",
             "feedback",
-            "invalid",
+            "error",
             "border-color"
+          ]
+        },
+        "color": {
+          "value": "hsl(0 100% 40%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.feedback.danger.color.value}"
+          },
+          "name": "utrechtFeedbackErrorColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "error",
+            "subitem": "color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "error",
+            "color"
+          ]
+        }
+      },
+      "success": {
+        "fill": {
+          "background-color": {
+            "value": "hsl(90 30% 50%)",
+            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.feedback.success.background-color.value}"
+            },
+            "name": "utrechtFeedbackSuccessFillBackgroundColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "feedback",
+              "item": "success",
+              "subitem": "fill",
+              "state": "background-color"
+            },
+            "path": [
+              "utrecht",
+              "feedback",
+              "success",
+              "fill",
+              "background-color"
+            ]
+          },
+          "color": {
+            "value": "hsl(0 0% 100%)",
+            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.color.white.value}"
+            },
+            "name": "utrechtFeedbackSuccessFillColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "feedback",
+              "item": "success",
+              "subitem": "fill",
+              "state": "color"
+            },
+            "path": [
+              "utrecht",
+              "feedback",
+              "success",
+              "fill",
+              "color"
+            ]
+          }
+        },
+        "background-color": {
+          "value": "hsl(90 30% 50%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.feedback.safe.background-color.value}"
+          },
+          "name": "utrechtFeedbackSuccessBackgroundColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "success",
+            "subitem": "background-color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "success",
+            "background-color"
+          ]
+        },
+        "border-color": {
+          "value": "hsl(90 30% 50%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.feedback.safe.border-color.value}"
+          },
+          "name": "utrechtFeedbackSuccessBorderColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "success",
+            "subitem": "border-color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "success",
+            "border-color"
+          ]
+        },
+        "color": {
+          "value": "hsl(90 30% 50%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.feedback.safe.color.value}"
+          },
+          "name": "utrechtFeedbackSuccessColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "success",
+            "subitem": "color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "success",
+            "color"
+          ]
+        }
+      },
+      "inactive": {
+        "fill": {
+          "background-color": {
+            "value": "hsl(0 100% 40%)",
+            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.feedback.inactive.background-color.value}"
+            },
+            "name": "utrechtFeedbackInactiveFillBackgroundColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "feedback",
+              "item": "inactive",
+              "subitem": "fill",
+              "state": "background-color"
+            },
+            "path": [
+              "utrecht",
+              "feedback",
+              "inactive",
+              "fill",
+              "background-color"
+            ]
+          },
+          "color": {
+            "value": "hsl(0 0% 100%)",
+            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.color.white.value}"
+            },
+            "name": "utrechtFeedbackInactiveFillColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "feedback",
+              "item": "inactive",
+              "subitem": "fill",
+              "state": "color"
+            },
+            "path": [
+              "utrecht",
+              "feedback",
+              "inactive",
+              "fill",
+              "color"
+            ]
+          }
+        },
+        "background-color": {
+          "value": "hsl(0 100% 40%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.feedback.danger.background-color.value}"
+          },
+          "name": "utrechtFeedbackInactiveBackgroundColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "inactive",
+            "subitem": "background-color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "inactive",
+            "background-color"
+          ]
+        },
+        "border-color": {
+          "value": "hsl(0 100% 40%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.feedback.danger.border-color.value}"
+          },
+          "name": "utrechtFeedbackInactiveBorderColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "inactive",
+            "subitem": "border-color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "inactive",
+            "border-color"
+          ]
+        },
+        "color": {
+          "value": "hsl(0 100% 40%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.feedback.danger.color.value}"
+          },
+          "name": "utrechtFeedbackInactiveColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "inactive",
+            "subitem": "color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "inactive",
+            "color"
+          ]
+        }
+      },
+      "active": {
+        "fill": {
+          "background-color": {
+            "value": "hsl(90 30% 50%)",
+            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.feedback.active.background-color.value}"
+            },
+            "name": "utrechtFeedbackActiveFillBackgroundColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "feedback",
+              "item": "active",
+              "subitem": "fill",
+              "state": "background-color"
+            },
+            "path": [
+              "utrecht",
+              "feedback",
+              "active",
+              "fill",
+              "background-color"
+            ]
+          },
+          "color": {
+            "value": "hsl(0 0% 100%)",
+            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.color.white.value}"
+            },
+            "name": "utrechtFeedbackActiveFillColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "feedback",
+              "item": "active",
+              "subitem": "fill",
+              "state": "color"
+            },
+            "path": [
+              "utrecht",
+              "feedback",
+              "active",
+              "fill",
+              "color"
+            ]
+          }
+        },
+        "background-color": {
+          "value": "hsl(90 30% 50%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.feedback.safe.background-color.value}"
+          },
+          "name": "utrechtFeedbackActiveBackgroundColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "active",
+            "subitem": "background-color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "active",
+            "background-color"
+          ]
+        },
+        "border-color": {
+          "value": "hsl(90 30% 50%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.feedback.safe.border-color.value}"
+          },
+          "name": "utrechtFeedbackActiveBorderColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "active",
+            "subitem": "border-color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "active",
+            "border-color"
+          ]
+        },
+        "color": {
+          "value": "hsl(90 30% 50%)",
+          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.feedback.safe.color.value}"
+          },
+          "name": "utrechtFeedbackActiveColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "feedback",
+            "item": "active",
+            "subitem": "color"
+          },
+          "path": [
+            "utrecht",
+            "feedback",
+            "active",
+            "color"
           ]
         }
       }
@@ -5438,6 +6600,104 @@
             "5xl"
           ]
         }
+      }
+    },
+    "badge-counter": {
+      "background-color": {
+        "value": "hsl(0 100% 40%)",
+        "filePath": "./src/component/utrecht/badge-counter/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.color.red.40.value}"
+        },
+        "name": "utrechtBadgeCounterBackgroundColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "badge-counter",
+          "item": "background-color"
+        },
+        "path": [
+          "utrecht",
+          "badge-counter",
+          "background-color"
+        ]
+      },
+      "border-radius": {
+        "value": "3ex",
+        "filePath": "./src/component/utrecht/badge-counter/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "3ex"
+        },
+        "name": "utrechtBadgeCounterBorderRadius",
+        "attributes": {
+          "category": "utrecht",
+          "type": "badge-counter",
+          "item": "border-radius"
+        },
+        "path": [
+          "utrecht",
+          "badge-counter",
+          "border-radius"
+        ]
+      },
+      "color": {
+        "value": "hsl(0 0% 100%)",
+        "filePath": "./src/component/utrecht/badge-counter/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.color.white.value}"
+        },
+        "name": "utrechtBadgeCounterColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "badge-counter",
+          "item": "color"
+        },
+        "path": [
+          "utrecht",
+          "badge-counter",
+          "color"
+        ]
+      },
+      "font-weight": {},
+      "padding-block": {
+        "value": "1ex",
+        "filePath": "./src/component/utrecht/badge-counter/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "1ex"
+        },
+        "name": "utrechtBadgeCounterPaddingBlock",
+        "attributes": {
+          "category": "utrecht",
+          "type": "badge-counter",
+          "item": "padding-block"
+        },
+        "path": [
+          "utrecht",
+          "badge-counter",
+          "padding-block"
+        ]
+      },
+      "padding-inline": {
+        "value": "1ex",
+        "filePath": "./src/component/utrecht/badge-counter/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "1ex"
+        },
+        "name": "utrechtBadgeCounterPaddingInline",
+        "attributes": {
+          "category": "utrecht",
+          "type": "badge-counter",
+          "item": "padding-inline"
+        },
+        "path": [
+          "utrecht",
+          "badge-counter",
+          "padding-inline"
+        ]
       }
     },
     "form-input": {
