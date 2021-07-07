@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 07 Jul 2021 17:43:38 GMT
+ * Generated on Wed, 07 Jul 2021 18:22:03 GMT
  */
 
 export const utrechtBadgeDataLetterSpacing = "0.15ch";
@@ -55,6 +55,15 @@ export const utrechtDocumentColor = "hsl(0 0% 0%)";
 export const utrechtDocumentFontFamily = "\"Lucida Grande\", \"Lucida Sans Unicode\", \"Lucida Sans\", Verdana, sans-serif";
 export const utrechtDocumentFontSize = "1rem";
 export const utrechtDocumentLineHeight = "1.4";
+export const utrechtFocusBackgroundColor = "hsl(48 100% 60%)";
+export const utrechtFocusBorderColor = "hsl(0 0% 0%)";
+export const utrechtFocusBorderStyle = "dotted";
+export const utrechtFocusBoxShadowColor = "hsl(48 100% 80%)";
+export const utrechtFocusBoxShadowSpreadRadius = "2px";
+export const utrechtFocusColor = "hsl(0 0% 0%)";
+export const utrechtFocusOutlineColor = "hsl(0 0% 0%)";
+export const utrechtFocusOutlineStyle = "dotted";
+export const utrechtFocusOutlineWidth = "2px";
 export const utrechtFormFieldMarginBlockStart = "4px";
 export const utrechtFormFieldMarginBlockEnd = "4px";
 export const utrechtHeadingFontWeight = "bold";
@@ -94,7 +103,7 @@ export const utrechtLinkColor = "hsl(211 60% 30%)";
 export const utrechtLinkTextDecoration = "none";
 export const utrechtLinkActiveColor = "hsl(211 60% 30%)";
 export const utrechtLinkFocusColor = "hsl(211 60% 40%)";
-export const utrechtLinkFocusTextDecoration = "underline";
+export const utrechtLinkFocusTextDecoration = "none";
 export const utrechtLinkHoverColor = "hsl(211 60% 40%)";
 export const utrechtLinkHoverTextDecoration = "underline";
 export const utrechtLinkVisitedColor = "hsl(211 60% 30%)";
@@ -121,7 +130,7 @@ export const utrechtMapcontrolbuttonColor = "hsl(0 0% 40%)";
 export const utrechtMapcontrolbuttonBorderColor = "hsl(0 0% 40%)";
 export const utrechtMapcontrolbuttonFocusColor = "hsl(0 0% 0%)";
 export const utrechtMapcontrolbuttonFocusBoxShadowColor = "hsl(48 100% 80%)";
-export const utrechtMapcontrolbuttonFocusBorderType = "dotted";
+export const utrechtMapcontrolbuttonFocusBorderStyle = "dotted";
 export const utrechtMapcontrolbuttonFocusTextDecoration = "none";
 export const utrechtMapcontrolbuttonFocusBackgroundColor = "hsl(48 100% 60%)";
 export const utrechtMapcontrolbuttonFocusOutlineColor = "hsl(0 0% 0%)";
@@ -260,12 +269,6 @@ export const utrechtFeedbackActiveFillColor = "hsl(0 0% 100%)";
 export const utrechtFeedbackActiveBackgroundColor = "hsl(90 30% 50%)";
 export const utrechtFeedbackActiveBorderColor = "hsl(90 30% 50%)";
 export const utrechtFeedbackActiveColor = "hsl(90 30% 50%)";
-export const utrechtFocusBackgroundColor = "hsl(48 100% 60%)";
-export const utrechtFocusBorderColor = "hsl(0 0% 0%)";
-export const utrechtFocusColor = "hsl(0 0% 0%)";
-export const utrechtFocusBorderType = "dotted";
-export const utrechtFocusOutlineColor = "hsl(0 0% 0%)";
-export const utrechtFocusBoxShadowColor = "hsl(48 100% 80%)";
 export const utrechtSpaceBlock3xs = "2px";
 export const utrechtSpaceBlock2xs = "4px";
 export const utrechtSpaceBlockXs = "8px";

@@ -1096,6 +1096,180 @@
         ]
       }
     },
+    "focus": {
+      "background-color": {
+        "value": "hsl(48 100% 60%)",
+        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.color.yellow.60.value}"
+        },
+        "name": "utrechtFocusBackgroundColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "focus",
+          "item": "background-color"
+        },
+        "path": [
+          "utrecht",
+          "focus",
+          "background-color"
+        ]
+      },
+      "border-color": {
+        "value": "hsl(0 0% 0%)",
+        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.color.black.value}"
+        },
+        "name": "utrechtFocusBorderColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "focus",
+          "item": "border-color"
+        },
+        "path": [
+          "utrecht",
+          "focus",
+          "border-color"
+        ]
+      },
+      "border-style": {
+        "value": "dotted",
+        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.border-style.dotted.value}"
+        },
+        "name": "utrechtFocusBorderStyle",
+        "attributes": {
+          "category": "utrecht",
+          "type": "focus",
+          "item": "border-style"
+        },
+        "path": [
+          "utrecht",
+          "focus",
+          "border-style"
+        ]
+      },
+      "box-shadow-color": {
+        "value": "hsl(48 100% 80%)",
+        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.color.yellow.80.value}"
+        },
+        "name": "utrechtFocusBoxShadowColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "focus",
+          "item": "box-shadow-color"
+        },
+        "path": [
+          "utrecht",
+          "focus",
+          "box-shadow-color"
+        ]
+      },
+      "box-shadow-spread-radius": {
+        "value": "2px",
+        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.border-width.md.value}"
+        },
+        "name": "utrechtFocusBoxShadowSpreadRadius",
+        "attributes": {
+          "category": "utrecht",
+          "type": "focus",
+          "item": "box-shadow-spread-radius"
+        },
+        "path": [
+          "utrecht",
+          "focus",
+          "box-shadow-spread-radius"
+        ]
+      },
+      "color": {
+        "value": "hsl(0 0% 0%)",
+        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.color.black.value}"
+        },
+        "name": "utrechtFocusColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "focus",
+          "item": "color"
+        },
+        "path": [
+          "utrecht",
+          "focus",
+          "color"
+        ]
+      },
+      "outline-color": {
+        "value": "hsl(0 0% 0%)",
+        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.color.black.value}"
+        },
+        "name": "utrechtFocusOutlineColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "focus",
+          "item": "outline-color"
+        },
+        "path": [
+          "utrecht",
+          "focus",
+          "outline-color"
+        ]
+      },
+      "outline-offset": {},
+      "outline-style": {
+        "value": "dotted",
+        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.border-style.dotted.value}"
+        },
+        "name": "utrechtFocusOutlineStyle",
+        "attributes": {
+          "category": "utrecht",
+          "type": "focus",
+          "item": "outline-style"
+        },
+        "path": [
+          "utrecht",
+          "focus",
+          "outline-style"
+        ]
+      },
+      "outline-width": {
+        "value": "2px",
+        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.border-width.md.value}"
+        },
+        "name": "utrechtFocusOutlineWidth",
+        "attributes": {
+          "category": "utrecht",
+          "type": "focus",
+          "item": "outline-width"
+        },
+        "path": [
+          "utrecht",
+          "focus",
+          "outline-width"
+        ]
+      }
+    },
     "form-field": {
       "margin-block-start": {
         "value": "4px",
@@ -1886,11 +2060,11 @@
           ]
         },
         "text-decoration": {
-          "value": "underline",
+          "value": "none",
           "filePath": "./src/component/utrecht/link/modifier.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "underline"
+            "value": "none"
           },
           "name": "utrechtLinkFocusTextDecoration",
           "attributes": {
@@ -2434,25 +2608,25 @@
             "box-shadow-color"
           ]
         },
-        "border-type": {
+        "border-style": {
           "value": "dotted",
           "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "{utrecht.focus.border-type.value}"
+            "value": "{utrecht.focus.border-style.value}"
           },
-          "name": "utrechtMapcontrolbuttonFocusBorderType",
+          "name": "utrechtMapcontrolbuttonFocusBorderStyle",
           "attributes": {
             "category": "utrecht",
             "type": "mapcontrolbutton",
             "item": "focus",
-            "subitem": "border-type"
+            "subitem": "border-style"
           },
           "path": [
             "utrecht",
             "mapcontrolbutton",
             "focus",
-            "border-type"
+            "border-style"
           ]
         },
         "text-decoration": {
@@ -5550,122 +5724,6 @@
             "color"
           ]
         }
-      }
-    },
-    "focus": {
-      "background-color": {
-        "value": "hsl(48 100% 60%)",
-        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "value": "{utrecht.color.yellow.60.value}"
-        },
-        "name": "utrechtFocusBackgroundColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "focus",
-          "item": "background-color"
-        },
-        "path": [
-          "utrecht",
-          "focus",
-          "background-color"
-        ]
-      },
-      "border-color": {
-        "value": "hsl(0 0% 0%)",
-        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "value": "{utrecht.color.black.value}"
-        },
-        "name": "utrechtFocusBorderColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "focus",
-          "item": "border-color"
-        },
-        "path": [
-          "utrecht",
-          "focus",
-          "border-color"
-        ]
-      },
-      "color": {
-        "value": "hsl(0 0% 0%)",
-        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "value": "{utrecht.color.black.value}"
-        },
-        "name": "utrechtFocusColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "focus",
-          "item": "color"
-        },
-        "path": [
-          "utrecht",
-          "focus",
-          "color"
-        ]
-      },
-      "border-type": {
-        "value": "dotted",
-        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "value": "{utrecht.border-style.dotted.value}"
-        },
-        "name": "utrechtFocusBorderType",
-        "attributes": {
-          "category": "utrecht",
-          "type": "focus",
-          "item": "border-type"
-        },
-        "path": [
-          "utrecht",
-          "focus",
-          "border-type"
-        ]
-      },
-      "outline-color": {
-        "value": "hsl(0 0% 0%)",
-        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "value": "{utrecht.color.black.value}"
-        },
-        "name": "utrechtFocusOutlineColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "focus",
-          "item": "outline-color"
-        },
-        "path": [
-          "utrecht",
-          "focus",
-          "outline-color"
-        ]
-      },
-      "box-shadow-color": {
-        "value": "hsl(48 100% 80%)",
-        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "value": "{utrecht.color.yellow.80.value}"
-        },
-        "name": "utrechtFocusBoxShadowColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "focus",
-          "item": "box-shadow-color"
-        },
-        "path": [
-          "utrecht",
-          "focus",
-          "box-shadow-color"
-        ]
       }
     },
     "space": {

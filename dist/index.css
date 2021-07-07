@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 07 Jul 2021 17:43:38 GMT
+ * Generated on Wed, 07 Jul 2021 18:22:03 GMT
  */
 
 :root {
@@ -116,7 +116,7 @@
   --utrecht-mapcontrolbutton-margin-inline-end: 0;
   --utrecht-mapcontrolbutton-margin-inline-start: 0;
   --utrecht-link-hover-text-decoration: underline;
-  --utrecht-link-focus-text-decoration: underline;
+  --utrecht-link-focus-text-decoration: none;
   --utrecht-link-text-decoration: none;
   --utrecht-heading-6-text-transform: uppercase;
   --utrecht-heading-6-letter-spacing: 0.72px;
@@ -173,12 +173,6 @@
   --utrecht-form-input-color: var(--utrecht-color-black);
   --utrecht-badge-counter-color: var(--utrecht-color-white);
   --utrecht-badge-counter-background-color: var(--utrecht-color-red-40);
-  --utrecht-focus-box-shadow-color: var(--utrecht-color-yellow-80);
-  --utrecht-focus-outline-color: var(--utrecht-color-black);
-  --utrecht-focus-border-type: var(--utrecht-border-style-dotted);
-  --utrecht-focus-color: var(--utrecht-color-black);
-  --utrecht-focus-border-color: var(--utrecht-color-black);
-  --utrecht-focus-background-color: var(--utrecht-color-yellow-60);
   --utrecht-feedback-active-fill-color: var(--utrecht-color-white);
   --utrecht-feedback-inactive-fill-color: var(--utrecht-color-white);
   --utrecht-feedback-success-fill-color: var(--utrecht-color-white);
@@ -239,6 +233,15 @@
   --utrecht-heading-font-weight: var(--utrecht-typography-weight-scale-bold-font-weight);
   --utrecht-form-field-margin-block-end: var(--utrecht-space-block-2xs);
   --utrecht-form-field-margin-block-start: var(--utrecht-space-block-2xs);
+  --utrecht-focus-outline-width: var(--utrecht-border-width-md);
+  --utrecht-focus-outline-style: var(--utrecht-border-style-dotted);
+  --utrecht-focus-outline-color: var(--utrecht-color-black);
+  --utrecht-focus-color: var(--utrecht-color-black);
+  --utrecht-focus-box-shadow-spread-radius: var(--utrecht-border-width-md);
+  --utrecht-focus-box-shadow-color: var(--utrecht-color-yellow-80);
+  --utrecht-focus-border-style: var(--utrecht-border-style-dotted);
+  --utrecht-focus-border-color: var(--utrecht-color-black);
+  --utrecht-focus-background-color: var(--utrecht-color-yellow-60);
   --utrecht-document-font-size: var(--utrecht-typography-scale-md-font-size);
   --utrecht-document-font-family: var(--utrecht-typography-sans-serif-font-family);
   --utrecht-document-color: var(--utrecht-color-black);
@@ -294,7 +297,7 @@
   --utrecht-mapcontrolbutton-focus-border-color: var(--utrecht-focus-border-color);
   --utrecht-mapcontrolbutton-focus-outline-color: var(--utrecht-focus-outline-color);
   --utrecht-mapcontrolbutton-focus-background-color: var(--utrecht-focus-background-color);
-  --utrecht-mapcontrolbutton-focus-border-type: var(--utrecht-focus-border-type);
+  --utrecht-mapcontrolbutton-focus-border-style: var(--utrecht-focus-border-style);
   --utrecht-mapcontrolbutton-focus-box-shadow-color: var(--utrecht-focus-box-shadow-color);
   --utrecht-mapcontrolbutton-focus-color: var(--utrecht-focus-color);
   --utrecht-link-visited-color: var(--utrecht-link-color);

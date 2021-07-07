@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Wed, 07 Jul 2021 17:43:38 GMT
+// Generated on Wed, 07 Jul 2021 18:22:03 GMT
 
 $utrecht-form-label-font-size: 1em;
 $utrecht-form-input-block-size: 42px;
@@ -114,7 +114,7 @@ $utrecht-mapcontrolbutton-border-radius: 0;
 $utrecht-mapcontrolbutton-margin-inline-end: 0;
 $utrecht-mapcontrolbutton-margin-inline-start: 0;
 $utrecht-link-hover-text-decoration: underline;
-$utrecht-link-focus-text-decoration: underline;
+$utrecht-link-focus-text-decoration: none;
 $utrecht-link-text-decoration: none;
 $utrecht-heading-6-text-transform: uppercase;
 $utrecht-heading-6-letter-spacing: 0.72px;
@@ -171,12 +171,6 @@ $utrecht-form-input-border-color: $utrecht-color-grey-30;
 $utrecht-form-input-color: $utrecht-color-black;
 $utrecht-badge-counter-color: $utrecht-color-white;
 $utrecht-badge-counter-background-color: $utrecht-color-red-40;
-$utrecht-focus-box-shadow-color: $utrecht-color-yellow-80;
-$utrecht-focus-outline-color: $utrecht-color-black;
-$utrecht-focus-border-type: $utrecht-border-style-dotted;
-$utrecht-focus-color: $utrecht-color-black;
-$utrecht-focus-border-color: $utrecht-color-black;
-$utrecht-focus-background-color: $utrecht-color-yellow-60;
 $utrecht-feedback-active-fill-color: $utrecht-color-white;
 $utrecht-feedback-inactive-fill-color: $utrecht-color-white;
 $utrecht-feedback-success-fill-color: $utrecht-color-white;
@@ -237,6 +231,15 @@ $utrecht-heading-3-font-weight: $utrecht-typography-weight-scale-normal-font-wei
 $utrecht-heading-font-weight: $utrecht-typography-weight-scale-bold-font-weight;
 $utrecht-form-field-margin-block-end: $utrecht-space-block-2xs;
 $utrecht-form-field-margin-block-start: $utrecht-space-block-2xs;
+$utrecht-focus-outline-width: $utrecht-border-width-md;
+$utrecht-focus-outline-style: $utrecht-border-style-dotted;
+$utrecht-focus-outline-color: $utrecht-color-black;
+$utrecht-focus-color: $utrecht-color-black;
+$utrecht-focus-box-shadow-spread-radius: $utrecht-border-width-md;
+$utrecht-focus-box-shadow-color: $utrecht-color-yellow-80;
+$utrecht-focus-border-style: $utrecht-border-style-dotted;
+$utrecht-focus-border-color: $utrecht-color-black;
+$utrecht-focus-background-color: $utrecht-color-yellow-60;
 $utrecht-document-font-size: $utrecht-typography-scale-md-font-size;
 $utrecht-document-font-family: $utrecht-typography-sans-serif-font-family;
 $utrecht-document-color: $utrecht-color-black;
@@ -292,7 +295,7 @@ $utrecht-textarea-border-width: $utrecht-textbox-border-width;
 $utrecht-mapcontrolbutton-focus-border-color: $utrecht-focus-border-color;
 $utrecht-mapcontrolbutton-focus-outline-color: $utrecht-focus-outline-color;
 $utrecht-mapcontrolbutton-focus-background-color: $utrecht-focus-background-color;
-$utrecht-mapcontrolbutton-focus-border-type: $utrecht-focus-border-type;
+$utrecht-mapcontrolbutton-focus-border-style: $utrecht-focus-border-style;
 $utrecht-mapcontrolbutton-focus-box-shadow-color: $utrecht-focus-box-shadow-color;
 $utrecht-mapcontrolbutton-focus-color: $utrecht-focus-color;
 $utrecht-link-visited-color: $utrecht-link-color;
