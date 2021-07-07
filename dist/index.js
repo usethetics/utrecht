@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 07 Jul 2021 22:50:14 GMT
+ * Generated on Wed, 07 Jul 2021 22:55:09 GMT
  */
 
 export const utrechtBadgeDataLetterSpacing = "0.15ch";
