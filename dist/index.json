@@ -1786,6 +1786,572 @@
         }
       }
     },
+    "mapcontrolbutton": {
+      "border-width": {
+        "value": "1px",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.border-width.sm.value}"
+        },
+        "name": "utrechtMapcontrolbuttonBorderWidth",
+        "attributes": {
+          "category": "utrecht",
+          "type": "mapcontrolbutton",
+          "item": "border-width"
+        },
+        "path": [
+          "utrecht",
+          "mapcontrolbutton",
+          "border-width"
+        ]
+      },
+      "focus-transform-scale": {},
+      "font-size": {},
+      "margin-block-start": {
+        "value": "8px",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.space.row.xs.value}"
+        },
+        "name": "utrechtMapcontrolbuttonMarginBlockStart",
+        "attributes": {
+          "category": "utrecht",
+          "type": "mapcontrolbutton",
+          "item": "margin-block-start"
+        },
+        "path": [
+          "utrecht",
+          "mapcontrolbutton",
+          "margin-block-start"
+        ]
+      },
+      "margin-block-end": {
+        "value": "8px",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.space.row.xs.value}"
+        },
+        "name": "utrechtMapcontrolbuttonMarginBlockEnd",
+        "attributes": {
+          "category": "utrecht",
+          "type": "mapcontrolbutton",
+          "item": "margin-block-end"
+        },
+        "path": [
+          "utrecht",
+          "mapcontrolbutton",
+          "margin-block-end"
+        ]
+      },
+      "margin-inline-start": {
+        "value": "0",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "0"
+        },
+        "name": "utrechtMapcontrolbuttonMarginInlineStart",
+        "attributes": {
+          "category": "utrecht",
+          "type": "mapcontrolbutton",
+          "item": "margin-inline-start"
+        },
+        "path": [
+          "utrecht",
+          "mapcontrolbutton",
+          "margin-inline-start"
+        ]
+      },
+      "margin-inline-end": {
+        "value": "0",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "0"
+        },
+        "name": "utrechtMapcontrolbuttonMarginInlineEnd",
+        "attributes": {
+          "category": "utrecht",
+          "type": "mapcontrolbutton",
+          "item": "margin-inline-end"
+        },
+        "path": [
+          "utrecht",
+          "mapcontrolbutton",
+          "margin-inline-end"
+        ]
+      },
+      "padding-block-start": {
+        "value": "4px",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.space.block.2xs.value}"
+        },
+        "name": "utrechtMapcontrolbuttonPaddingBlockStart",
+        "attributes": {
+          "category": "utrecht",
+          "type": "mapcontrolbutton",
+          "item": "padding-block-start"
+        },
+        "path": [
+          "utrecht",
+          "mapcontrolbutton",
+          "padding-block-start"
+        ]
+      },
+      "padding-block-end": {
+        "value": "4px",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.space.block.2xs.value}"
+        },
+        "name": "utrechtMapcontrolbuttonPaddingBlockEnd",
+        "attributes": {
+          "category": "utrecht",
+          "type": "mapcontrolbutton",
+          "item": "padding-block-end"
+        },
+        "path": [
+          "utrecht",
+          "mapcontrolbutton",
+          "padding-block-end"
+        ]
+      },
+      "padding-inline-start": {
+        "value": "0.75ch",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.space.inline.sm.value}"
+        },
+        "name": "utrechtMapcontrolbuttonPaddingInlineStart",
+        "attributes": {
+          "category": "utrecht",
+          "type": "mapcontrolbutton",
+          "item": "padding-inline-start"
+        },
+        "path": [
+          "utrecht",
+          "mapcontrolbutton",
+          "padding-inline-start"
+        ]
+      },
+      "padding-inline-end": {
+        "value": "0.75ch",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.space.inline.sm.value}"
+        },
+        "name": "utrechtMapcontrolbuttonPaddingInlineEnd",
+        "attributes": {
+          "category": "utrecht",
+          "type": "mapcontrolbutton",
+          "item": "padding-inline-end"
+        },
+        "path": [
+          "utrecht",
+          "mapcontrolbutton",
+          "padding-inline-end"
+        ]
+      },
+      "width": {
+        "value": "32px",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.space.block.2xl.value}"
+        },
+        "name": "utrechtMapcontrolbuttonWidth",
+        "attributes": {
+          "category": "utrecht",
+          "type": "mapcontrolbutton",
+          "item": "width"
+        },
+        "path": [
+          "utrecht",
+          "mapcontrolbutton",
+          "width"
+        ]
+      },
+      "height": {
+        "value": "32px",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.space.block.2xl.value}"
+        },
+        "name": "utrechtMapcontrolbuttonHeight",
+        "attributes": {
+          "category": "utrecht",
+          "type": "mapcontrolbutton",
+          "item": "height"
+        },
+        "path": [
+          "utrecht",
+          "mapcontrolbutton",
+          "height"
+        ]
+      },
+      "border-radius": {
+        "value": "0",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "0"
+        },
+        "name": "utrechtMapcontrolbuttonBorderRadius",
+        "attributes": {
+          "category": "utrecht",
+          "type": "mapcontrolbutton",
+          "item": "border-radius"
+        },
+        "path": [
+          "utrecht",
+          "mapcontrolbutton",
+          "border-radius"
+        ]
+      },
+      "border-style": {
+        "value": "solid",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.border-style.solid.value}"
+        },
+        "name": "utrechtMapcontrolbuttonBorderStyle",
+        "attributes": {
+          "category": "utrecht",
+          "type": "mapcontrolbutton",
+          "item": "border-style"
+        },
+        "path": [
+          "utrecht",
+          "mapcontrolbutton",
+          "border-style"
+        ]
+      },
+      "hover": {
+        "background-color": {
+          "value": "hsl(0 0% 90%)",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/modifier-state.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.color.grey.90.value}"
+          },
+          "name": "utrechtMapcontrolbuttonHoverBackgroundColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "mapcontrolbutton",
+            "item": "hover",
+            "subitem": "background-color"
+          },
+          "path": [
+            "utrecht",
+            "mapcontrolbutton",
+            "hover",
+            "background-color"
+          ]
+        },
+        "color": {
+          "value": "hsl(0 0% 100%)",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/modifier-state.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.color.white.value}"
+          },
+          "name": "utrechtMapcontrolbuttonHoverColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "mapcontrolbutton",
+            "item": "hover",
+            "subitem": "color"
+          },
+          "path": [
+            "utrecht",
+            "mapcontrolbutton",
+            "hover",
+            "color"
+          ]
+        }
+      },
+      "disabled": {
+        "background-color": {
+          "value": "hsl(0 0% 90%)",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.color.grey.90.value}"
+          },
+          "name": "utrechtMapcontrolbuttonDisabledBackgroundColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "mapcontrolbutton",
+            "item": "disabled",
+            "subitem": "background-color"
+          },
+          "path": [
+            "utrecht",
+            "mapcontrolbutton",
+            "disabled",
+            "background-color"
+          ]
+        },
+        "color": {
+          "value": "hsl(0 0% 80%)",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.color.grey.80.value}"
+          },
+          "name": "utrechtMapcontrolbuttonDisabledColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "mapcontrolbutton",
+            "item": "disabled",
+            "subitem": "color"
+          },
+          "path": [
+            "utrecht",
+            "mapcontrolbutton",
+            "disabled",
+            "color"
+          ]
+        },
+        "border-color": {
+          "value": "hsl(0 0% 80%)",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.color.grey.80.value}"
+          },
+          "name": "utrechtMapcontrolbuttonDisabledBorderColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "mapcontrolbutton",
+            "item": "disabled",
+            "subitem": "border-color"
+          },
+          "path": [
+            "utrecht",
+            "mapcontrolbutton",
+            "disabled",
+            "border-color"
+          ]
+        }
+      },
+      "background-color": {
+        "value": "hsl(0 0% 100%)",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/modifier.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.color.white.value}"
+        },
+        "name": "utrechtMapcontrolbuttonBackgroundColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "mapcontrolbutton",
+          "item": "background-color"
+        },
+        "path": [
+          "utrecht",
+          "mapcontrolbutton",
+          "background-color"
+        ]
+      },
+      "color": {
+        "value": "hsl(0 0% 40%)",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/modifier.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.color.grey.40.value}"
+        },
+        "name": "utrechtMapcontrolbuttonColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "mapcontrolbutton",
+          "item": "color"
+        },
+        "path": [
+          "utrecht",
+          "mapcontrolbutton",
+          "color"
+        ]
+      },
+      "border-color": {
+        "value": "hsl(0 0% 40%)",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/modifier.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.color.grey.40.value}"
+        },
+        "name": "utrechtMapcontrolbuttonBorderColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "mapcontrolbutton",
+          "item": "border-color"
+        },
+        "path": [
+          "utrecht",
+          "mapcontrolbutton",
+          "border-color"
+        ]
+      },
+      "focus": {
+        "color": {
+          "value": "hsl(0 0% 0%)",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.focus.color.value}"
+          },
+          "name": "utrechtMapcontrolbuttonFocusColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "mapcontrolbutton",
+            "item": "focus",
+            "subitem": "color"
+          },
+          "path": [
+            "utrecht",
+            "mapcontrolbutton",
+            "focus",
+            "color"
+          ]
+        },
+        "box-shadow-color": {
+          "value": "hsl(48 100% 80%)",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.focus.box-shadow-color.value}"
+          },
+          "name": "utrechtMapcontrolbuttonFocusBoxShadowColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "mapcontrolbutton",
+            "item": "focus",
+            "subitem": "box-shadow-color"
+          },
+          "path": [
+            "utrecht",
+            "mapcontrolbutton",
+            "focus",
+            "box-shadow-color"
+          ]
+        },
+        "border-type": {
+          "value": "dotted",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.focus.border-type.value}"
+          },
+          "name": "utrechtMapcontrolbuttonFocusBorderType",
+          "attributes": {
+            "category": "utrecht",
+            "type": "mapcontrolbutton",
+            "item": "focus",
+            "subitem": "border-type"
+          },
+          "path": [
+            "utrecht",
+            "mapcontrolbutton",
+            "focus",
+            "border-type"
+          ]
+        },
+        "text-decoration": {
+          "value": "none",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "none"
+          },
+          "name": "utrechtMapcontrolbuttonFocusTextDecoration",
+          "attributes": {
+            "category": "utrecht",
+            "type": "mapcontrolbutton",
+            "item": "focus",
+            "subitem": "text-decoration"
+          },
+          "path": [
+            "utrecht",
+            "mapcontrolbutton",
+            "focus",
+            "text-decoration"
+          ]
+        },
+        "background-color": {
+          "value": "hsl(48 100% 60%)",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.focus.background-color.value}"
+          },
+          "name": "utrechtMapcontrolbuttonFocusBackgroundColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "mapcontrolbutton",
+            "item": "focus",
+            "subitem": "background-color"
+          },
+          "path": [
+            "utrecht",
+            "mapcontrolbutton",
+            "focus",
+            "background-color"
+          ]
+        },
+        "outline-color": {
+          "value": "hsl(0 0% 0%)",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.focus.outline-color.value}"
+          },
+          "name": "utrechtMapcontrolbuttonFocusOutlineColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "mapcontrolbutton",
+            "item": "focus",
+            "subitem": "outline-color"
+          },
+          "path": [
+            "utrecht",
+            "mapcontrolbutton",
+            "focus",
+            "outline-color"
+          ]
+        },
+        "border-color": {
+          "value": "hsl(0 0% 0%)",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.focus.border-color.value}"
+          },
+          "name": "utrechtMapcontrolbuttonFocusBorderColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "mapcontrolbutton",
+            "item": "focus",
+            "subitem": "border-color"
+          },
+          "path": [
+            "utrecht",
+            "mapcontrolbutton",
+            "focus",
+            "border-color"
+          ]
+        }
+      }
+    },
     "paragraph": {
       "color": {},
       "font-family": {},
@@ -3432,6 +3998,46 @@
         ]
       }
     },
+    "border-style": {
+      "solid": {
+        "value": "solid",
+        "filePath": "./src/common/utrecht/border.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "solid"
+        },
+        "name": "utrechtBorderStyleSolid",
+        "attributes": {
+          "category": "utrecht",
+          "type": "border-style",
+          "item": "solid"
+        },
+        "path": [
+          "utrecht",
+          "border-style",
+          "solid"
+        ]
+      },
+      "dotted": {
+        "value": "dotted",
+        "filePath": "./src/common/utrecht/border.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "dotted"
+        },
+        "name": "utrechtBorderStyleDotted",
+        "attributes": {
+          "category": "utrecht",
+          "type": "border-style",
+          "item": "dotted"
+        },
+        "path": [
+          "utrecht",
+          "border-style",
+          "dotted"
+        ]
+      }
+    },
     "feedback": {
       "invalid": {
         "color": {
@@ -3534,6 +4140,63 @@
           "utrecht",
           "focus",
           "color"
+        ]
+      },
+      "border-type": {
+        "value": "dotted",
+        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.border-style.dotted.value}"
+        },
+        "name": "utrechtFocusBorderType",
+        "attributes": {
+          "category": "utrecht",
+          "type": "focus",
+          "item": "border-type"
+        },
+        "path": [
+          "utrecht",
+          "focus",
+          "border-type"
+        ]
+      },
+      "outline-color": {
+        "value": "hsl(0 0% 0%)",
+        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.color.black.value}"
+        },
+        "name": "utrechtFocusOutlineColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "focus",
+          "item": "outline-color"
+        },
+        "path": [
+          "utrecht",
+          "focus",
+          "outline-color"
+        ]
+      },
+      "box-shadow-color": {
+        "value": "hsl(48 100% 80%)",
+        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.color.yellow.80.value}"
+        },
+        "name": "utrechtFocusBoxShadowColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "focus",
+          "item": "box-shadow-color"
+        },
+        "path": [
+          "utrecht",
+          "focus",
+          "box-shadow-color"
         ]
       }
     },
