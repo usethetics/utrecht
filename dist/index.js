@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 08 Jul 2021 12:09:46 GMT
+ * Generated on Thu, 08 Jul 2021 16:00:28 GMT
  */
 
 export const utrechtBadgeDataLetterSpacing = "0.15ch";
@@ -55,6 +55,7 @@ export const utrechtDocumentColor = "hsl(0 0% 0%)";
 export const utrechtDocumentFontFamily = "\"Lucida Grande\", \"Lucida Sans Unicode\", \"Lucida Sans\", Verdana, sans-serif";
 export const utrechtDocumentFontSize = "1rem";
 export const utrechtDocumentLineHeight = "1.4";
+export const utrechtEmphasisStrongFontWeight = "bold";
 export const utrechtFocusBackgroundColor = "hsl(48 100% 60%)";
 export const utrechtFocusBorderColor = "hsl(0 0% 0%)";
 export const utrechtFocusBorderStyle = "dotted";

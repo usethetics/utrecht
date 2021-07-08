@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 08 Jul 2021 12:09:46 GMT
+ * Generated on Thu, 08 Jul 2021 16:00:28 GMT
  */
 
 :root {
@@ -242,6 +242,7 @@
   --utrecht-focus-border-style: var(--utrecht-border-style-dotted);
   --utrecht-focus-border-color: var(--utrecht-color-black);
   --utrecht-focus-background-color: var(--utrecht-color-yellow-60);
+  --utrecht-emphasis-strong-font-weight: var(--utrecht-typography-weight-scale-bold-font-weight);
   --utrecht-document-font-size: var(--utrecht-typography-scale-md-font-size);
   --utrecht-document-font-family: var(--utrecht-typography-sans-serif-font-family);
   --utrecht-document-color: var(--utrecht-color-black);

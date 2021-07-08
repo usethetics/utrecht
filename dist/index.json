@@ -1096,6 +1096,34 @@
         ]
       }
     },
+    "emphasis": {
+      "stressed": {
+        "font-style": {}
+      },
+      "strong": {
+        "font-weight": {
+          "value": "bold",
+          "filePath": "./src/component/utrecht/emphasis/modifier.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.typography.weight-scale.bold.font-weight.value}"
+          },
+          "name": "utrechtEmphasisStrongFontWeight",
+          "attributes": {
+            "category": "utrecht",
+            "type": "emphasis",
+            "item": "strong",
+            "subitem": "font-weight"
+          },
+          "path": [
+            "utrecht",
+            "emphasis",
+            "strong",
+            "font-weight"
+          ]
+        }
+      }
+    },
     "focus": {
       "background-color": {
         "value": "hsl(48 100% 60%)",
