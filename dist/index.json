@@ -1338,19 +1338,6 @@
         ]
       }
     },
-    "form-fieldset": {
-      "margin-block-end": {},
-      "margin-block-start": {},
-      "legend": {
-        "color": {},
-        "font-family": {},
-        "font-size": {},
-        "font-weight": {},
-        "line-height": {},
-        "margin-block-end": {},
-        "margin-block-start": {}
-      }
-    },
     "label": {
       "font-weight": {},
       "font-size": {}
