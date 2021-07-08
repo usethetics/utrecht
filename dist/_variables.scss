@@ -1,8 +1,7 @@
 
 // Do not edit directly
-// Generated on Thu, 08 Jul 2021 16:00:28 GMT
+// Generated on Thu, 08 Jul 2021 22:01:35 GMT
 
-$utrecht-form-label-font-size: 1em;
 $utrecht-form-input-block-size: 42px;
 $utrecht-badge-counter-padding-inline: 1ex;
 $utrecht-badge-counter-padding-block: 1ex;
@@ -144,6 +143,7 @@ $utrecht-heading-1-margin-block-start: 0.67rem;
 $utrecht-heading-1-margin-block-end: 0.67rem;
 $utrecht-heading-1-line-height: 1.4;
 $utrecht-heading-1-font-size: 1rem;
+$utrecht-form-label-font-size: 1em;
 $utrecht-document-line-height: 1.4;
 $utrecht-button-focus-transform-scale: 1.02;
 $utrecht-button-border-radius: 0;
@@ -163,7 +163,6 @@ $utrecht-badge-data-text-transform: uppercase;
 $utrecht-badge-data-letter-spacing: 0.15ch;
 $utrecht-menulijst-item-color: $utrecht-color-blue-35;
 $utrecht-menulijst-item-hover-color: $utrecht-color-blue-40;
-$utrecht-form-label-font-weight: $utrecht-typography-weight-scale-bold-font-weight;
 $utrecht-form-input-focus-border-color: $utrecht-color-grey-80;
 $utrecht-form-input-placeholder-color: $utrecht-color-grey-40;
 $utrecht-form-input-font-family: $utrecht-typography-sans-serif-font-family;
@@ -229,6 +228,9 @@ $utrecht-heading-5-font-weight: $utrecht-typography-weight-scale-normal-font-wei
 $utrecht-heading-4-font-weight: $utrecht-typography-weight-scale-normal-font-weight;
 $utrecht-heading-3-font-weight: $utrecht-typography-weight-scale-normal-font-weight;
 $utrecht-heading-font-weight: $utrecht-typography-weight-scale-bold-font-weight;
+$utrecht-form-label-font-weight: $utrecht-typography-weight-scale-bold-font-weight;
+$utrecht-form-label-radio-font-weight: $utrecht-typography-weight-scale-normal-font-weight;
+$utrecht-form-label-checkbox-font-weight: $utrecht-typography-weight-scale-normal-font-weight;
 $utrecht-form-field-margin-block-end: $utrecht-space-block-2xs;
 $utrecht-form-field-margin-block-start: $utrecht-space-block-2xs;
 $utrecht-focus-outline-width: $utrecht-border-width-md;

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 08 Jul 2021 16:00:28 GMT
+ * Generated on Thu, 08 Jul 2021 22:01:35 GMT
  */
 
 export const utrechtBadgeDataLetterSpacing = "0.15ch";
@@ -67,6 +67,10 @@ export const utrechtFocusOutlineStyle = "dotted";
 export const utrechtFocusOutlineWidth = "2px";
 export const utrechtFormFieldMarginBlockStart = "4px";
 export const utrechtFormFieldMarginBlockEnd = "4px";
+export const utrechtFormLabelCheckboxFontWeight = "normal";
+export const utrechtFormLabelRadioFontWeight = "normal";
+export const utrechtFormLabelFontSize = "1em";
+export const utrechtFormLabelFontWeight = "bold";
 export const utrechtHeadingFontWeight = "bold";
 export const utrechtHeading1FontSize = "1rem";
 export const utrechtHeading1LineHeight = "1.4";
@@ -325,7 +329,5 @@ export const utrechtFormInputBorderColor = "hsl(0 0% 30%)";
 export const utrechtFormInputFontFamily = "\"Lucida Grande\", \"Lucida Sans Unicode\", \"Lucida Sans\", Verdana, sans-serif";
 export const utrechtFormInputPlaceholderColor = "hsl(0 0% 40%)";
 export const utrechtFormInputFocusBorderColor = "hsl(0 0% 80%)";
-export const utrechtFormLabelFontSize = "1em";
-export const utrechtFormLabelFontWeight = "bold";
 export const utrechtMenulijstItemHoverColor = "hsl(211 60% 40%)";
 export const utrechtMenulijstItemColor = "hsl(211 60% 35%)";

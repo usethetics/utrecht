@@ -1338,9 +1338,108 @@
         ]
       }
     },
+    "form-fieldset": {
+      "margin-block-end": {},
+      "margin-block-start": {},
+      "legend": {
+        "color": {},
+        "font-family": {},
+        "font-size": {},
+        "font-weight": {},
+        "line-height": {},
+        "margin-block-end": {},
+        "margin-block-start": {}
+      }
+    },
     "label": {
       "font-weight": {},
       "font-size": {}
+    },
+    "form-label": {
+      "checkbox": {
+        "font-weight": {
+          "value": "normal",
+          "filePath": "./src/component/utrecht/form-label/modifier.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.typography.weight-scale.normal.font-weight.value}"
+          },
+          "name": "utrechtFormLabelCheckboxFontWeight",
+          "attributes": {
+            "category": "utrecht",
+            "type": "form-label",
+            "item": "checkbox",
+            "subitem": "font-weight"
+          },
+          "path": [
+            "utrecht",
+            "form-label",
+            "checkbox",
+            "font-weight"
+          ]
+        }
+      },
+      "radio": {
+        "font-weight": {
+          "value": "normal",
+          "filePath": "./src/component/utrecht/form-label/modifier.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.typography.weight-scale.normal.font-weight.value}"
+          },
+          "name": "utrechtFormLabelRadioFontWeight",
+          "attributes": {
+            "category": "utrecht",
+            "type": "form-label",
+            "item": "radio",
+            "subitem": "font-weight"
+          },
+          "path": [
+            "utrecht",
+            "form-label",
+            "radio",
+            "font-weight"
+          ]
+        }
+      },
+      "font-size": {
+        "value": "1em",
+        "filePath": "./src/component/utrecht/form-label/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "1em"
+        },
+        "name": "utrechtFormLabelFontSize",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-label",
+          "item": "font-size"
+        },
+        "path": [
+          "utrecht",
+          "form-label",
+          "font-size"
+        ]
+      },
+      "font-weight": {
+        "value": "bold",
+        "filePath": "./src/component/utrecht/form-label/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.typography.weight-scale.bold.font-weight.value}"
+        },
+        "name": "utrechtFormLabelFontWeight",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-label",
+          "item": "font-weight"
+        },
+        "path": [
+          "utrecht",
+          "form-label",
+          "font-weight"
+        ]
+      }
     },
     "heading": {
       "color": {},
@@ -6908,46 +7007,6 @@
             "border-color"
           ]
         }
-      }
-    },
-    "form-label": {
-      "font-size": {
-        "value": "1em",
-        "filePath": "./src/component/utrecht/form-label/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "value": "1em"
-        },
-        "name": "utrechtFormLabelFontSize",
-        "attributes": {
-          "category": "utrecht",
-          "type": "form-label",
-          "item": "font-size"
-        },
-        "path": [
-          "utrecht",
-          "form-label",
-          "font-size"
-        ]
-      },
-      "font-weight": {
-        "value": "bold",
-        "filePath": "./src/component/utrecht/form-label/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "value": "{utrecht.typography.weight-scale.bold.font-weight.value}"
-        },
-        "name": "utrechtFormLabelFontWeight",
-        "attributes": {
-          "category": "utrecht",
-          "type": "form-label",
-          "item": "font-weight"
-        },
-        "path": [
-          "utrecht",
-          "form-label",
-          "font-weight"
-        ]
       }
     },
     "menulijst": {
