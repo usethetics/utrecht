@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 08 Jul 2021 22:01:42 GMT
+ * Generated on Fri, 09 Jul 2021 07:08:07 GMT
  */
 
 export const utrechtBadgeDataLetterSpacing = "0.15ch";
@@ -105,7 +105,7 @@ export const utrechtHeading6MarginBlockStart = "1rem";
 export const utrechtHeading6LetterSpacing = "0.72px";
 export const utrechtHeading6TextTransform = "uppercase";
 export const utrechtLinkColor = "hsl(211 60% 30%)";
-export const utrechtLinkTextDecoration = "none";
+export const utrechtLinkTextDecoration = "underline";
 export const utrechtLinkActiveColor = "hsl(211 60% 30%)";
 export const utrechtLinkFocusColor = "hsl(211 60% 40%)";
 export const utrechtLinkFocusTextDecoration = "none";

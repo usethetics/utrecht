@@ -1338,6 +1338,19 @@
         ]
       }
     },
+    "form-fieldset": {
+      "margin-block-end": {},
+      "margin-block-start": {},
+      "legend": {
+        "color": {},
+        "font-family": {},
+        "font-size": {},
+        "font-weight": {},
+        "line-height": {},
+        "margin-block-end": {},
+        "margin-block-start": {}
+      }
+    },
     "label": {
       "font-weight": {},
       "font-size": {}
@@ -2110,11 +2123,11 @@
         ]
       },
       "text-decoration": {
-        "value": "none",
+        "value": "underline",
         "filePath": "./src/component/utrecht/link/block.style-dictionary.json",
         "isSource": true,
         "original": {
-          "value": "none"
+          "value": "underline"
         },
         "name": "utrechtLinkTextDecoration",
         "attributes": {
