@@ -1,8 +1,9 @@
 /**
  * Do not edit directly
- * Generated on Fri, 09 Jul 2021 07:08:07 GMT
+ * Generated on Sun, 11 Jul 2021 13:53:29 GMT
  */
 
+export const utrechtArticleMaxInlineSize = "780px";
 export const utrechtBadgeDataLetterSpacing = "0.15ch";
 export const utrechtBadgeDataTextTransform = "uppercase";
 export const utrechtBadgeStatusLetterSpacing = "0.15ch";

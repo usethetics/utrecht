@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 09 Jul 2021 07:08:07 GMT
+ * Generated on Sun, 11 Jul 2021 13:53:29 GMT
  */
 
 :root {
@@ -163,6 +163,7 @@
   --utrecht-badge-status-letter-spacing: 0.15ch;
   --utrecht-badge-data-text-transform: uppercase;
   --utrecht-badge-data-letter-spacing: 0.15ch;
+  --utrecht-article-max-inline-size: 780px;
   --utrecht-menulijst-item-color: var(--utrecht-color-blue-35);
   --utrecht-menulijst-item-hover-color: var(--utrecht-color-blue-40);
   --utrecht-form-input-focus-border-color: var(--utrecht-color-grey-80);

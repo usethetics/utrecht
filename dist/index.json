@@ -1,5 +1,26 @@
 {
   "utrecht": {
+    "article": {
+      "max-inline-size": {
+        "value": "780px",
+        "filePath": "./src/component/utrecht/article/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "780px"
+        },
+        "name": "utrechtArticleMaxInlineSize",
+        "attributes": {
+          "category": "utrecht",
+          "type": "article",
+          "item": "max-inline-size"
+        },
+        "path": [
+          "utrecht",
+          "article",
+          "max-inline-size"
+        ]
+      }
+    },
     "badge-data": {
       "letter-spacing": {
         "value": "0.15ch",
