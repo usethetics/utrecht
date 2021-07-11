@@ -1,3 +1,10 @@
+.utrecht-page-footer {
+  --utrecht-heading-2-font-size: 1em;
+  --utrecht-heading-2-text-transform: uppercase;
+  --utrecht-heading-3-font-size: 1.125em;
+  --utrecht-heading-3-font-weight: normal;
+}
+
 /**
  * @license SEE LICENSE.md
  * Copyright (c) 2021 Gemeente Utrecht

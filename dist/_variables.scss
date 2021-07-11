@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Sun, 11 Jul 2021 13:53:29 GMT
+// Generated on Sun, 11 Jul 2021 13:55:13 GMT
 
 $utrecht-form-input-block-size: 42px;
 $utrecht-badge-counter-padding-inline: 1ex;
@@ -108,6 +108,10 @@ $utrecht-table-caption-text-align: start;
 $utrecht-table-caption-font-size: 1.125em;
 $utrecht-separator-width: 8px;
 $utrecht-paragraph-line-height: 1.4;
+$utrecht-page-footer-padding-block-start: 1.8em;
+$utrecht-page-footer-padding-block-end: 1.8em;
+$utrecht-page-footer-padding-inline-start: 1em;
+$utrecht-page-footer-padding-inline-end: 1em;
 $utrecht-mapcontrolbutton-focus-text-decoration: none;
 $utrecht-mapcontrolbutton-border-radius: 0;
 $utrecht-mapcontrolbutton-margin-inline-end: 0;
@@ -204,6 +208,9 @@ $utrecht-paragraph-lead-font-size: $utrecht-typography-scale-lg-font-size;
 $utrecht-paragraph-margin-block-start: $utrecht-space-row-md;
 $utrecht-paragraph-font-weight: $utrecht-typography-weight-scale-normal-font-weight;
 $utrecht-paragraph-font-size: $utrecht-typography-scale-md-font-size;
+$utrecht-page-footer-background-image: linear-gradient(45deg, $utrecht-color-red-40, $utrecht-color-red-40 50%, hsl(5 54% 59%) 50%);;
+$utrecht-page-footer-background-color: $utrecht-color-red-40;
+$utrecht-page-footer-color: $utrecht-color-white;
 $utrecht-mapcontrolbutton-border-color: $utrecht-color-grey-40;
 $utrecht-mapcontrolbutton-color: $utrecht-color-grey-40;
 $utrecht-mapcontrolbutton-background-color: $utrecht-color-white;

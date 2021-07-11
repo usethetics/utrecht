@@ -2863,6 +2863,141 @@
         }
       }
     },
+    "page-footer": {
+      "color": {
+        "value": "hsl(0 0% 100%)",
+        "filePath": "./src/component/utrecht/page-footer/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.color.white.value}"
+        },
+        "name": "utrechtPageFooterColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "page-footer",
+          "item": "color"
+        },
+        "path": [
+          "utrecht",
+          "page-footer",
+          "color"
+        ]
+      },
+      "background-color": {
+        "value": "hsl(0 100% 40%)",
+        "filePath": "./src/component/utrecht/page-footer/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.color.red.40.value}"
+        },
+        "name": "utrechtPageFooterBackgroundColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "page-footer",
+          "item": "background-color"
+        },
+        "path": [
+          "utrecht",
+          "page-footer",
+          "background-color"
+        ]
+      },
+      "background-image": {
+        "value": "linear-gradient(45deg, hsl(0 100% 40%), hsl(0 100% 40%) 50%, hsl(5 54% 59%) 50%);",
+        "filePath": "./src/component/utrecht/page-footer/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "linear-gradient(45deg, {utrecht.color.red.40.value}, {utrecht.color.red.40.value} 50%, hsl(5 54% 59%) 50%);"
+        },
+        "name": "utrechtPageFooterBackgroundImage",
+        "attributes": {
+          "category": "utrecht",
+          "type": "page-footer",
+          "item": "background-image"
+        },
+        "path": [
+          "utrecht",
+          "page-footer",
+          "background-image"
+        ]
+      },
+      "padding-inline-end": {
+        "value": "1em",
+        "filePath": "./src/component/utrecht/page-footer/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "1em"
+        },
+        "name": "utrechtPageFooterPaddingInlineEnd",
+        "attributes": {
+          "category": "utrecht",
+          "type": "page-footer",
+          "item": "padding-inline-end"
+        },
+        "path": [
+          "utrecht",
+          "page-footer",
+          "padding-inline-end"
+        ]
+      },
+      "padding-inline-start": {
+        "value": "1em",
+        "filePath": "./src/component/utrecht/page-footer/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "1em"
+        },
+        "name": "utrechtPageFooterPaddingInlineStart",
+        "attributes": {
+          "category": "utrecht",
+          "type": "page-footer",
+          "item": "padding-inline-start"
+        },
+        "path": [
+          "utrecht",
+          "page-footer",
+          "padding-inline-start"
+        ]
+      },
+      "padding-block-end": {
+        "value": "1.8em",
+        "filePath": "./src/component/utrecht/page-footer/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "1.8em"
+        },
+        "name": "utrechtPageFooterPaddingBlockEnd",
+        "attributes": {
+          "category": "utrecht",
+          "type": "page-footer",
+          "item": "padding-block-end"
+        },
+        "path": [
+          "utrecht",
+          "page-footer",
+          "padding-block-end"
+        ]
+      },
+      "padding-block-start": {
+        "value": "1.8em",
+        "filePath": "./src/component/utrecht/page-footer/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "1.8em"
+        },
+        "name": "utrechtPageFooterPaddingBlockStart",
+        "attributes": {
+          "category": "utrecht",
+          "type": "page-footer",
+          "item": "padding-block-start"
+        },
+        "path": [
+          "utrecht",
+          "page-footer",
+          "padding-block-start"
+        ]
+      }
+    },
     "paragraph": {
       "color": {},
       "font-family": {},

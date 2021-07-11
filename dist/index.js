@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 11 Jul 2021 13:53:29 GMT
+ * Generated on Sun, 11 Jul 2021 13:55:13 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -141,6 +141,13 @@ export const utrechtMapcontrolbuttonFocusTextDecoration = "none";
 export const utrechtMapcontrolbuttonFocusBackgroundColor = "hsl(48 100% 60%)";
 export const utrechtMapcontrolbuttonFocusOutlineColor = "hsl(0 0% 0%)";
 export const utrechtMapcontrolbuttonFocusBorderColor = "hsl(0 0% 0%)";
+export const utrechtPageFooterColor = "hsl(0 0% 100%)";
+export const utrechtPageFooterBackgroundColor = "hsl(0 100% 40%)";
+export const utrechtPageFooterBackgroundImage = "linear-gradient(45deg, hsl(0 100% 40%), hsl(0 100% 40%) 50%, hsl(5 54% 59%) 50%);";
+export const utrechtPageFooterPaddingInlineEnd = "1em";
+export const utrechtPageFooterPaddingInlineStart = "1em";
+export const utrechtPageFooterPaddingBlockEnd = "1.8em";
+export const utrechtPageFooterPaddingBlockStart = "1.8em";
 export const utrechtParagraphFontSize = "1rem";
 export const utrechtParagraphFontWeight = "normal";
 export const utrechtParagraphLineHeight = "1.4";
