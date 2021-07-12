@@ -1489,11 +1489,11 @@
       "color": {},
       "font-family": {},
       "font-size": {
-        "value": "1rem",
+        "value": "1.5rem",
         "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
         "isSource": true,
         "original": {
-          "value": "1rem"
+          "value": "1.5rem"
         },
         "name": "utrechtHeading1FontSize",
         "attributes": {

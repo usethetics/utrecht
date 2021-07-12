@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 11 Jul 2021 13:55:13 GMT
+ * Generated on Mon, 12 Jul 2021 14:53:56 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -73,7 +73,7 @@ export const utrechtFormLabelRadioFontWeight = "normal";
 export const utrechtFormLabelFontSize = "1em";
 export const utrechtFormLabelFontWeight = "bold";
 export const utrechtHeadingFontWeight = "bold";
-export const utrechtHeading1FontSize = "1rem";
+export const utrechtHeading1FontSize = "1.5rem";
 export const utrechtHeading1LineHeight = "1.4";
 export const utrechtHeading1MarginBlockEnd = "0.67rem";
 export const utrechtHeading1MarginBlockStart = "0.67rem";
