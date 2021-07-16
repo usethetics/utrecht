@@ -189,12 +189,12 @@
       },
       "padding-inline": {
         "comment": "Default inline padding color for badge components",
-        "value": "1ch",
+        "value": "12px",
         "filePath": "./src/component/utrecht/badge/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "comment": "Default inline padding color for badge components",
-          "value": "{utrecht.space.inline.md.value}"
+          "value": "{utrecht.space.inline.sm.value}"
         },
         "name": "utrechtBadgePaddingInline",
         "attributes": {
@@ -513,11 +513,11 @@
         ]
       },
       "padding-inline-start": {
-        "value": "1.5ch",
+        "value": "16px",
         "filePath": "./src/component/utrecht/button/block.style-dictionary.json",
         "isSource": true,
         "original": {
-          "value": "{utrecht.space.inline.lg.value}"
+          "value": "{utrecht.space.inline.md.value}"
         },
         "name": "utrechtButtonPaddingInlineStart",
         "attributes": {
@@ -532,11 +532,11 @@
         ]
       },
       "padding-inline-end": {
-        "value": "1.5ch",
+        "value": "16px",
         "filePath": "./src/component/utrecht/button/block.style-dictionary.json",
         "isSource": true,
         "original": {
-          "value": "{utrecht.space.inline.lg.value}"
+          "value": "{utrecht.space.inline.md.value}"
         },
         "name": "utrechtButtonPaddingInlineEnd",
         "attributes": {
@@ -2434,11 +2434,11 @@
         ]
       },
       "padding-inline-start": {
-        "value": "0.75ch",
+        "value": "4px",
         "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
         "isSource": true,
         "original": {
-          "value": "{utrecht.space.inline.sm.value}"
+          "value": "{utrecht.space.inline.2xs.value}"
         },
         "name": "utrechtMapcontrolbuttonPaddingInlineStart",
         "attributes": {
@@ -2453,11 +2453,11 @@
         ]
       },
       "padding-inline-end": {
-        "value": "0.75ch",
+        "value": "4px",
         "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
         "isSource": true,
         "original": {
-          "value": "{utrecht.space.inline.sm.value}"
+          "value": "{utrecht.space.inline.2xs.value}"
         },
         "name": "utrechtMapcontrolbuttonPaddingInlineEnd",
         "attributes": {
@@ -6059,10 +6059,12 @@
       "block": {
         "3xs": {
           "value": "2px",
+          "comment": "12.5% / Extra Small 3",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "2px"
+            "value": "2px",
+            "comment": "12.5% / Extra Small 3"
           },
           "name": "utrechtSpaceBlock3xs",
           "attributes": {
@@ -6080,10 +6082,12 @@
         },
         "2xs": {
           "value": "4px",
+          "comment": "25% / Extra Small 2",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "4px"
+            "value": "4px",
+            "comment": "25% / Extra Small 2"
           },
           "name": "utrechtSpaceBlock2xs",
           "attributes": {
@@ -6101,10 +6105,12 @@
         },
         "xs": {
           "value": "8px",
+          "comment": "50% / Extra Small",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "8px"
+            "value": "8px",
+            "comment": "50% / Extra Small"
           },
           "name": "utrechtSpaceBlockXs",
           "attributes": {
@@ -6122,10 +6128,12 @@
         },
         "sm": {
           "value": "12px",
+          "comment": "75% / Small",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "12px"
+            "value": "12px",
+            "comment": "75% / Small"
           },
           "name": "utrechtSpaceBlockSm",
           "attributes": {
@@ -6143,10 +6151,12 @@
         },
         "md": {
           "value": "16px",
+          "comment": "100% / Medium",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "16px"
+            "value": "16px",
+            "comment": "100% / Medium"
           },
           "name": "utrechtSpaceBlockMd",
           "attributes": {
@@ -6164,10 +6174,12 @@
         },
         "lg": {
           "value": "24px",
+          "comment": "150% / Large",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "24px"
+            "value": "24px",
+            "comment": "150% / Large"
           },
           "name": "utrechtSpaceBlockLg",
           "attributes": {
@@ -6185,10 +6197,12 @@
         },
         "xl": {
           "value": "28px",
+          "comment": "175% / Extra Large",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "28px"
+            "value": "28px",
+            "comment": "175% / Extra Large"
           },
           "name": "utrechtSpaceBlockXl",
           "attributes": {
@@ -6206,10 +6220,12 @@
         },
         "2xl": {
           "value": "32px",
+          "comment": "200% / Extra Large 2",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "32px"
+            "value": "32px",
+            "comment": "200% / Extra Large 2"
           },
           "name": "utrechtSpaceBlock2xl",
           "attributes": {
@@ -6227,10 +6243,12 @@
         },
         "3xl": {
           "value": "48px",
+          "comment": "300% / Extra Large 3",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "48px"
+            "value": "48px",
+            "comment": "300% / Extra Large 3"
           },
           "name": "utrechtSpaceBlock3xl",
           "attributes": {
@@ -6248,10 +6266,12 @@
         },
         "4xl": {
           "value": "64px",
+          "comment": "400% / Extra Large 4",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "64px"
+            "value": "64px",
+            "comment": "400% / Extra Large 4"
           },
           "name": "utrechtSpaceBlock4xl",
           "attributes": {
@@ -6269,10 +6289,12 @@
         },
         "5xl": {
           "value": "80px",
+          "comment": "500% / Extra Large 5",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "80px"
+            "value": "80px",
+            "comment": "500% / Extra Large 5"
           },
           "name": "utrechtSpaceBlock5xl",
           "attributes": {
@@ -6291,11 +6313,13 @@
       },
       "inline": {
         "3xs": {
-          "value": "0.125ch",
+          "value": "2px",
+          "comment": "12.5% / Extra Small 3",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "0.125ch"
+            "value": "2px",
+            "comment": "12.5% / Extra Small 3"
           },
           "name": "utrechtSpaceInline3xs",
           "attributes": {
@@ -6312,11 +6336,13 @@
           ]
         },
         "2xs": {
-          "value": "0.25ch",
+          "value": "4px",
+          "comment": "25% / Extra Small 2",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "0.25ch"
+            "value": "4px",
+            "comment": "25% / Extra Small 2"
           },
           "name": "utrechtSpaceInline2xs",
           "attributes": {
@@ -6333,11 +6359,13 @@
           ]
         },
         "xs": {
-          "value": "0.5ch",
+          "value": "8px",
+          "comment": "50% / Extra Small",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "0.5ch"
+            "value": "8px",
+            "comment": "50% / Extra Small"
           },
           "name": "utrechtSpaceInlineXs",
           "attributes": {
@@ -6354,11 +6382,13 @@
           ]
         },
         "sm": {
-          "value": "0.75ch",
+          "value": "12px",
+          "comment": "75% / Small",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "0.75ch"
+            "value": "12px",
+            "comment": "75% / Small"
           },
           "name": "utrechtSpaceInlineSm",
           "attributes": {
@@ -6375,11 +6405,13 @@
           ]
         },
         "md": {
-          "value": "1ch",
+          "value": "16px",
+          "comment": "100% / Medium",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "1ch"
+            "value": "16px",
+            "comment": "100% / Medium"
           },
           "name": "utrechtSpaceInlineMd",
           "attributes": {
@@ -6396,11 +6428,13 @@
           ]
         },
         "lg": {
-          "value": "1.5ch",
+          "value": "24px",
+          "comment": "150% / Large",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "1.5ch"
+            "value": "24px",
+            "comment": "150% / Large"
           },
           "name": "utrechtSpaceInlineLg",
           "attributes": {
@@ -6417,11 +6451,13 @@
           ]
         },
         "xl": {
-          "value": "1.75ch",
+          "value": "28px",
+          "comment": "175% / Extra Large",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "1.75ch"
+            "value": "28px",
+            "comment": "175% / Extra Large"
           },
           "name": "utrechtSpaceInlineXl",
           "attributes": {
@@ -6438,11 +6474,13 @@
           ]
         },
         "2xl": {
-          "value": "2ch",
+          "value": "32px",
+          "comment": "200% / Extra Large 2",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "2ch"
+            "value": "32px",
+            "comment": "200% / Extra Large 2"
           },
           "name": "utrechtSpaceInline2xl",
           "attributes": {
@@ -6459,11 +6497,13 @@
           ]
         },
         "3xl": {
-          "value": "3ch",
+          "value": "48px",
+          "comment": "300% / Extra Large 3",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "3ch"
+            "value": "48px",
+            "comment": "300% / Extra Large 3"
           },
           "name": "utrechtSpaceInline3xl",
           "attributes": {
@@ -6480,13 +6520,224 @@
           ]
         }
       },
-      "row": {
-        "4xs": {
-          "value": "1px",
+      "text": {
+        "3xs": {
+          "value": "0.125ch",
+          "comment": "12.5% / Extra Small 3",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "1px"
+            "value": "0.125ch",
+            "comment": "12.5% / Extra Small 3"
+          },
+          "name": "utrechtSpaceText3xs",
+          "attributes": {
+            "category": "utrecht",
+            "type": "space",
+            "item": "text",
+            "subitem": "3xs"
+          },
+          "path": [
+            "utrecht",
+            "space",
+            "text",
+            "3xs"
+          ]
+        },
+        "2xs": {
+          "value": "0.25ch",
+          "comment": "25% / Extra Small 2",
+          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "0.25ch",
+            "comment": "25% / Extra Small 2"
+          },
+          "name": "utrechtSpaceText2xs",
+          "attributes": {
+            "category": "utrecht",
+            "type": "space",
+            "item": "text",
+            "subitem": "2xs"
+          },
+          "path": [
+            "utrecht",
+            "space",
+            "text",
+            "2xs"
+          ]
+        },
+        "xs": {
+          "value": "0.5ch",
+          "comment": "50% / Extra Small",
+          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "0.5ch",
+            "comment": "50% / Extra Small"
+          },
+          "name": "utrechtSpaceTextXs",
+          "attributes": {
+            "category": "utrecht",
+            "type": "space",
+            "item": "text",
+            "subitem": "xs"
+          },
+          "path": [
+            "utrecht",
+            "space",
+            "text",
+            "xs"
+          ]
+        },
+        "sm": {
+          "value": "0.75ch",
+          "comment": "75% / Small",
+          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "0.75ch",
+            "comment": "75% / Small"
+          },
+          "name": "utrechtSpaceTextSm",
+          "attributes": {
+            "category": "utrecht",
+            "type": "space",
+            "item": "text",
+            "subitem": "sm"
+          },
+          "path": [
+            "utrecht",
+            "space",
+            "text",
+            "sm"
+          ]
+        },
+        "md": {
+          "value": "1ch",
+          "comment": "100% / Medium",
+          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "1ch",
+            "comment": "100% / Medium"
+          },
+          "name": "utrechtSpaceTextMd",
+          "attributes": {
+            "category": "utrecht",
+            "type": "space",
+            "item": "text",
+            "subitem": "md"
+          },
+          "path": [
+            "utrecht",
+            "space",
+            "text",
+            "md"
+          ]
+        },
+        "lg": {
+          "value": "1.5ch",
+          "comment": "150% / Large",
+          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "1.5ch",
+            "comment": "150% / Large"
+          },
+          "name": "utrechtSpaceTextLg",
+          "attributes": {
+            "category": "utrecht",
+            "type": "space",
+            "item": "text",
+            "subitem": "lg"
+          },
+          "path": [
+            "utrecht",
+            "space",
+            "text",
+            "lg"
+          ]
+        },
+        "xl": {
+          "value": "1.75ch",
+          "comment": "175% / Extra Large",
+          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "1.75ch",
+            "comment": "175% / Extra Large"
+          },
+          "name": "utrechtSpaceTextXl",
+          "attributes": {
+            "category": "utrecht",
+            "type": "space",
+            "item": "text",
+            "subitem": "xl"
+          },
+          "path": [
+            "utrecht",
+            "space",
+            "text",
+            "xl"
+          ]
+        },
+        "2xl": {
+          "value": "2ch",
+          "comment": "200% / Extra Large 2",
+          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "2ch",
+            "comment": "200% / Extra Large 2"
+          },
+          "name": "utrechtSpaceText2xl",
+          "attributes": {
+            "category": "utrecht",
+            "type": "space",
+            "item": "text",
+            "subitem": "2xl"
+          },
+          "path": [
+            "utrecht",
+            "space",
+            "text",
+            "2xl"
+          ]
+        },
+        "3xl": {
+          "value": "3ch",
+          "comment": "300% / Extra Large 3",
+          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "3ch",
+            "comment": "300% / Extra Large 3"
+          },
+          "name": "utrechtSpaceText3xl",
+          "attributes": {
+            "category": "utrecht",
+            "type": "space",
+            "item": "text",
+            "subitem": "3xl"
+          },
+          "path": [
+            "utrecht",
+            "space",
+            "text",
+            "3xl"
+          ]
+        }
+      },
+      "row": {
+        "4xs": {
+          "value": "1px",
+          "comment": "6.25% / Extra Small 4",
+          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "1px",
+            "comment": "6.25% / Extra Small 4"
           },
           "name": "utrechtSpaceRow4xs",
           "attributes": {
@@ -6504,10 +6755,12 @@
         },
         "3xs": {
           "value": "2px",
+          "comment": "12.5% / Extra Small 3",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "2px"
+            "value": "2px",
+            "comment": "12.5% / Extra Small 3"
           },
           "name": "utrechtSpaceRow3xs",
           "attributes": {
@@ -6525,10 +6778,12 @@
         },
         "2xs": {
           "value": "4px",
+          "comment": "25% / Extra Small 2",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "4px"
+            "value": "4px",
+            "comment": "25% / Extra Small 2"
           },
           "name": "utrechtSpaceRow2xs",
           "attributes": {
@@ -6546,10 +6801,12 @@
         },
         "xs": {
           "value": "8px",
+          "comment": "50% / Extra Small",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "8px"
+            "value": "8px",
+            "comment": "50% / Extra Small"
           },
           "name": "utrechtSpaceRowXs",
           "attributes": {
@@ -6567,10 +6824,12 @@
         },
         "sm": {
           "value": "12px",
+          "comment": "75% / Small",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "12px"
+            "value": "12px",
+            "comment": "75% / Small"
           },
           "name": "utrechtSpaceRowSm",
           "attributes": {
@@ -6588,10 +6847,12 @@
         },
         "md": {
           "value": "16px",
+          "comment": "100% / Medium",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "16px"
+            "value": "16px",
+            "comment": "100% / Medium"
           },
           "name": "utrechtSpaceRowMd",
           "attributes": {
@@ -6609,10 +6870,12 @@
         },
         "lg": {
           "value": "24px",
+          "comment": "150% / Large",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "24px"
+            "value": "24px",
+            "comment": "150% / Large"
           },
           "name": "utrechtSpaceRowLg",
           "attributes": {
@@ -6630,10 +6893,12 @@
         },
         "xl": {
           "value": "28px",
+          "comment": "175% / Extra Large",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "28px"
+            "value": "28px",
+            "comment": "175% / Extra Large"
           },
           "name": "utrechtSpaceRowXl",
           "attributes": {
@@ -6651,10 +6916,12 @@
         },
         "2xl": {
           "value": "32px",
+          "comment": "200% / Extra Large 2",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "32px"
+            "value": "32px",
+            "comment": "200% / Extra Large 2"
           },
           "name": "utrechtSpaceRow2xl",
           "attributes": {
@@ -6672,10 +6939,12 @@
         },
         "3xl": {
           "value": "48px",
+          "comment": "300% / Extra Large 3",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "48px"
+            "value": "48px",
+            "comment": "300% / Extra Large 3"
           },
           "name": "utrechtSpaceRow3xl",
           "attributes": {
@@ -6693,10 +6962,12 @@
         },
         "4xl": {
           "value": "64px",
+          "comment": "400% / Extra Large 4",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "64px"
+            "value": "64px",
+            "comment": "400% / Extra Large 4"
           },
           "name": "utrechtSpaceRow4xl",
           "attributes": {
@@ -6714,10 +6985,12 @@
         },
         "5xl": {
           "value": "80px",
+          "comment": "500% / Extra Large 5",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "80px"
+            "value": "80px",
+            "comment": "500% / Extra Large 5"
           },
           "name": "utrechtSpaceRow5xl",
           "attributes": {
@@ -6737,10 +7010,12 @@
       "column": {
         "4xs": {
           "value": "1px",
+          "comment": "6.25% / Extra Small 4",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "1px"
+            "value": "1px",
+            "comment": "6.25% / Extra Small 4"
           },
           "name": "utrechtSpaceColumn4xs",
           "attributes": {
@@ -6758,10 +7033,12 @@
         },
         "3xs": {
           "value": "2px",
+          "comment": "12.5% / Extra Small 3",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "2px"
+            "value": "2px",
+            "comment": "12.5% / Extra Small 3"
           },
           "name": "utrechtSpaceColumn3xs",
           "attributes": {
@@ -6779,10 +7056,12 @@
         },
         "2xs": {
           "value": "4px",
+          "comment": "25% / Extra Small 2",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "4px"
+            "value": "4px",
+            "comment": "25% / Extra Small 2"
           },
           "name": "utrechtSpaceColumn2xs",
           "attributes": {
@@ -6800,10 +7079,12 @@
         },
         "xs": {
           "value": "8px",
+          "comment": "50% / Extra Small",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "8px"
+            "value": "8px",
+            "comment": "50% / Extra Small"
           },
           "name": "utrechtSpaceColumnXs",
           "attributes": {
@@ -6821,10 +7102,12 @@
         },
         "sm": {
           "value": "12px",
+          "comment": "75% / Small",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "12px"
+            "value": "12px",
+            "comment": "75% / Small"
           },
           "name": "utrechtSpaceColumnSm",
           "attributes": {
@@ -6842,10 +7125,12 @@
         },
         "md": {
           "value": "16px",
+          "comment": "100% / Medium",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "16px"
+            "value": "16px",
+            "comment": "100% / Medium"
           },
           "name": "utrechtSpaceColumnMd",
           "attributes": {
@@ -6863,10 +7148,12 @@
         },
         "lg": {
           "value": "24px",
+          "comment": "150% / Large",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "24px"
+            "value": "24px",
+            "comment": "150% / Large"
           },
           "name": "utrechtSpaceColumnLg",
           "attributes": {
@@ -6884,10 +7171,12 @@
         },
         "xl": {
           "value": "28px",
+          "comment": "175% / Extra Large",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "28px"
+            "value": "28px",
+            "comment": "175% / Extra Large"
           },
           "name": "utrechtSpaceColumnXl",
           "attributes": {
@@ -6905,10 +7194,12 @@
         },
         "2xl": {
           "value": "32px",
+          "comment": "200% / Extra Large 2",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "32px"
+            "value": "32px",
+            "comment": "200% / Extra Large 2"
           },
           "name": "utrechtSpaceColumn2xl",
           "attributes": {
@@ -6926,10 +7217,12 @@
         },
         "3xl": {
           "value": "48px",
+          "comment": "300% / Extra Large 3",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "48px"
+            "value": "48px",
+            "comment": "300% / Extra Large 3"
           },
           "name": "utrechtSpaceColumn3xl",
           "attributes": {
@@ -6947,10 +7240,12 @@
         },
         "4xl": {
           "value": "64px",
+          "comment": "400% / Extra Large 4",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "64px"
+            "value": "64px",
+            "comment": "400% / Extra Large 4"
           },
           "name": "utrechtSpaceColumn4xl",
           "attributes": {
@@ -6968,10 +7263,12 @@
         },
         "5xl": {
           "value": "80px",
+          "comment": "500% / Extra Large 5",
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "80px"
+            "value": "80px",
+            "comment": "500% / Extra Large 5"
           },
           "name": "utrechtSpaceColumn5xl",
           "attributes": {
@@ -7338,11 +7635,11 @@
           }
         },
         "margin-block-start": {
-          "value": "0.5ch",
+          "value": "8px",
           "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "{utrecht.space.inline.xs.value}"
+            "value": "{utrecht.space.block.xs.value}"
           },
           "name": "utrechtSidenavItemMarginBlockStart",
           "attributes": {
@@ -7359,11 +7656,11 @@
           ]
         },
         "margin-block-end": {
-          "value": "0.5ch",
+          "value": "8px",
           "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "{utrecht.space.inline.xs.value}"
+            "value": "{utrecht.space.block.xs.value}"
           },
           "name": "utrechtSidenavItemMarginBlockEnd",
           "attributes": {
@@ -7380,11 +7677,11 @@
           ]
         },
         "margin-inline-start": {
-          "value": "0.5ch",
+          "value": "2px",
           "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "{utrecht.space.inline.xs.value}"
+            "value": "{utrecht.space.inline.3xs.value}"
           },
           "name": "utrechtSidenavItemMarginInlineStart",
           "attributes": {
@@ -7401,11 +7698,11 @@
           ]
         },
         "margin-inline-end": {
-          "value": "0.5ch",
+          "value": "2px",
           "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "{utrecht.space.inline.xs.value}"
+            "value": "{utrecht.space.inline.3xs.value}"
           },
           "name": "utrechtSidenavItemMarginInlineEnd",
           "attributes": {
