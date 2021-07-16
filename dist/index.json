@@ -4247,6 +4247,29 @@
             "40"
           ]
         },
+        "50": {
+          "value": "hsl(211 60% 50%)",
+          "comment": "experimenteel / beperkt gebruiken",
+          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "hsl(211 60% 50%)",
+            "comment": "experimenteel / beperkt gebruiken"
+          },
+          "name": "utrechtColorBlue50",
+          "attributes": {
+            "category": "utrecht",
+            "type": "color",
+            "item": "blue",
+            "subitem": "50"
+          },
+          "path": [
+            "utrecht",
+            "color",
+            "blue",
+            "50"
+          ]
+        },
         "80": {
           "value": "hsl(211 60% 80%)",
           "comment": "licht blauw voor achtergrond",
@@ -4295,6 +4318,29 @@
         }
       },
       "grey": {
+        "15": {
+          "value": "hsl(0 0% 15%)",
+          "comment": "experimenteel / beperkt gebruiken",
+          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "hsl(0 0% 15%)",
+            "comment": "experimenteel / beperkt gebruiken"
+          },
+          "name": "utrechtColorGrey15",
+          "attributes": {
+            "category": "utrecht",
+            "type": "color",
+            "item": "grey",
+            "subitem": "15"
+          },
+          "path": [
+            "utrecht",
+            "color",
+            "grey",
+            "15"
+          ]
+        },
         "30": {
           "value": "hsl(0 0% 30%)",
           "comment": "border grijs #888",
@@ -7211,6 +7257,471 @@
             "menulijst",
             "item",
             "color"
+          ]
+        }
+      }
+    },
+    "sidenav": {
+      "link": {
+        "focus": {},
+        "hover": {
+          "color": {
+            "value": "hsl(211 60% 40%)",
+            "filePath": "./src/component/utrecht/navigatie/element-modifier.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.color.blue.40.value}"
+            },
+            "name": "utrechtSidenavLinkHoverColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "sidenav",
+              "item": "link",
+              "subitem": "hover",
+              "state": "color"
+            },
+            "path": [
+              "utrecht",
+              "sidenav",
+              "link",
+              "hover",
+              "color"
+            ]
+          }
+        },
+        "color": {
+          "value": "hsl(211 60% 40%)",
+          "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.color.blue.40.value}"
+          },
+          "name": "utrechtSidenavLinkColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "sidenav",
+            "item": "link",
+            "subitem": "color"
+          },
+          "path": [
+            "utrecht",
+            "sidenav",
+            "link",
+            "color"
+          ]
+        }
+      },
+      "item": {
+        "hover": {
+          "color": {
+            "value": "hsl(211 60% 40%)",
+            "filePath": "./src/component/utrecht/navigatie/element-modifier.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.color.blue.40.value}"
+            },
+            "name": "utrechtSidenavItemHoverColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "sidenav",
+              "item": "item",
+              "subitem": "hover",
+              "state": "color"
+            },
+            "path": [
+              "utrecht",
+              "sidenav",
+              "item",
+              "hover",
+              "color"
+            ]
+          }
+        },
+        "margin-block-start": {
+          "value": "0.5ch",
+          "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.space.inline.xs.value}"
+          },
+          "name": "utrechtSidenavItemMarginBlockStart",
+          "attributes": {
+            "category": "utrecht",
+            "type": "sidenav",
+            "item": "item",
+            "subitem": "margin-block-start"
+          },
+          "path": [
+            "utrecht",
+            "sidenav",
+            "item",
+            "margin-block-start"
+          ]
+        },
+        "margin-block-end": {
+          "value": "0.5ch",
+          "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.space.inline.xs.value}"
+          },
+          "name": "utrechtSidenavItemMarginBlockEnd",
+          "attributes": {
+            "category": "utrecht",
+            "type": "sidenav",
+            "item": "item",
+            "subitem": "margin-block-end"
+          },
+          "path": [
+            "utrecht",
+            "sidenav",
+            "item",
+            "margin-block-end"
+          ]
+        },
+        "margin-inline-start": {
+          "value": "0.5ch",
+          "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.space.inline.xs.value}"
+          },
+          "name": "utrechtSidenavItemMarginInlineStart",
+          "attributes": {
+            "category": "utrecht",
+            "type": "sidenav",
+            "item": "item",
+            "subitem": "margin-inline-start"
+          },
+          "path": [
+            "utrecht",
+            "sidenav",
+            "item",
+            "margin-inline-start"
+          ]
+        },
+        "margin-inline-end": {
+          "value": "0.5ch",
+          "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.space.inline.xs.value}"
+          },
+          "name": "utrechtSidenavItemMarginInlineEnd",
+          "attributes": {
+            "category": "utrecht",
+            "type": "sidenav",
+            "item": "item",
+            "subitem": "margin-inline-end"
+          },
+          "path": [
+            "utrecht",
+            "sidenav",
+            "item",
+            "margin-inline-end"
+          ]
+        }
+      },
+      "item-marker": {
+        "hover": {
+          "color": {
+            "value": "hsl(211 60% 50%)",
+            "filePath": "./src/component/utrecht/navigatie/element-modifier.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.color.blue.50.value}"
+            },
+            "name": "utrechtSidenavItemMarkerHoverColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "sidenav",
+              "item": "item-marker",
+              "subitem": "hover",
+              "state": "color"
+            },
+            "path": [
+              "utrecht",
+              "sidenav",
+              "item-marker",
+              "hover",
+              "color"
+            ]
+          }
+        },
+        "color": {
+          "value": "hsl(0 0% 80%)",
+          "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.color.grey.80.value}"
+          },
+          "name": "utrechtSidenavItemMarkerColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "sidenav",
+            "item": "item-marker",
+            "subitem": "color"
+          },
+          "path": [
+            "utrecht",
+            "sidenav",
+            "item-marker",
+            "color"
+          ]
+        }
+      }
+    },
+    "topnav": {
+      "link": {
+        "focus": {
+          "color": {
+            "value": "hsl(0 0% 0%)",
+            "filePath": "./src/component/utrecht/navigatie/element-modifier.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.color.black.value}"
+            },
+            "name": "utrechtTopnavLinkFocusColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "topnav",
+              "item": "link",
+              "subitem": "focus",
+              "state": "color"
+            },
+            "path": [
+              "utrecht",
+              "topnav",
+              "link",
+              "focus",
+              "color"
+            ]
+          },
+          "box-shadow-color": {
+            "value": "hsl(48 100% 80%)",
+            "filePath": "./src/component/utrecht/navigatie/element-modifier.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.color.yellow.80.value}"
+            },
+            "name": "utrechtTopnavLinkFocusBoxShadowColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "topnav",
+              "item": "link",
+              "subitem": "focus",
+              "state": "box-shadow-color"
+            },
+            "path": [
+              "utrecht",
+              "topnav",
+              "link",
+              "focus",
+              "box-shadow-color"
+            ]
+          },
+          "border-type": {
+            "value": "dotted",
+            "filePath": "./src/component/utrecht/navigatie/element-modifier.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "dotted"
+            },
+            "name": "utrechtTopnavLinkFocusBorderType",
+            "attributes": {
+              "category": "utrecht",
+              "type": "topnav",
+              "item": "link",
+              "subitem": "focus",
+              "state": "border-type"
+            },
+            "path": [
+              "utrecht",
+              "topnav",
+              "link",
+              "focus",
+              "border-type"
+            ]
+          },
+          "text-decoration": {
+            "value": "none",
+            "filePath": "./src/component/utrecht/navigatie/element-modifier.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "none"
+            },
+            "name": "utrechtTopnavLinkFocusTextDecoration",
+            "attributes": {
+              "category": "utrecht",
+              "type": "topnav",
+              "item": "link",
+              "subitem": "focus",
+              "state": "text-decoration"
+            },
+            "path": [
+              "utrecht",
+              "topnav",
+              "link",
+              "focus",
+              "text-decoration"
+            ]
+          },
+          "background-color": {
+            "value": "hsl(48 100% 80%)",
+            "filePath": "./src/component/utrecht/navigatie/element-modifier.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.color.yellow.80.value}"
+            },
+            "name": "utrechtTopnavLinkFocusBackgroundColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "topnav",
+              "item": "link",
+              "subitem": "focus",
+              "state": "background-color"
+            },
+            "path": [
+              "utrecht",
+              "topnav",
+              "link",
+              "focus",
+              "background-color"
+            ]
+          },
+          "outline-color": {
+            "value": "hsl(0 0% 0%)",
+            "filePath": "./src/component/utrecht/navigatie/element-modifier.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.color.black.value}"
+            },
+            "name": "utrechtTopnavLinkFocusOutlineColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "topnav",
+              "item": "link",
+              "subitem": "focus",
+              "state": "outline-color"
+            },
+            "path": [
+              "utrecht",
+              "topnav",
+              "link",
+              "focus",
+              "outline-color"
+            ]
+          }
+        },
+        "hover": {
+          "background-color": {
+            "value": "hsl(0 0% 0%)",
+            "filePath": "./src/component/utrecht/navigatie/element-modifier.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "value": "{utrecht.color.black.value}"
+            },
+            "name": "utrechtTopnavLinkHoverBackgroundColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "topnav",
+              "item": "link",
+              "subitem": "hover",
+              "state": "background-color"
+            },
+            "path": [
+              "utrecht",
+              "topnav",
+              "link",
+              "hover",
+              "background-color"
+            ]
+          }
+        },
+        "color": {
+          "value": "hsl(0 0% 100%)",
+          "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.color.white.value}"
+          },
+          "name": "utrechtTopnavLinkColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "topnav",
+            "item": "link",
+            "subitem": "color"
+          },
+          "path": [
+            "utrecht",
+            "topnav",
+            "link",
+            "color"
+          ]
+        },
+        "background-color": {
+          "value": "hsl(211 60% 40%)",
+          "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.color.blue.40.value}"
+          },
+          "name": "utrechtTopnavLinkBackgroundColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "topnav",
+            "item": "link",
+            "subitem": "background-color"
+          },
+          "path": [
+            "utrecht",
+            "topnav",
+            "link",
+            "background-color"
+          ]
+        }
+      },
+      "list": {
+        "background-color": {
+          "value": "hsl(0 0% 15%)",
+          "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.color.grey.15.value}"
+          },
+          "name": "utrechtTopnavListBackgroundColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "topnav",
+            "item": "list",
+            "subitem": "background-color"
+          },
+          "path": [
+            "utrecht",
+            "topnav",
+            "list",
+            "background-color"
+          ]
+        },
+        "border-color": {
+          "value": "hsl(0 0% 40%)",
+          "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.color.grey.40.value}"
+          },
+          "name": "utrechtTopnavListBorderColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "topnav",
+            "item": "list",
+            "subitem": "border-color"
+          },
+          "path": [
+            "utrecht",
+            "topnav",
+            "list",
+            "border-color"
           ]
         }
       }

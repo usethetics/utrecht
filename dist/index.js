@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 16 Jul 2021 13:48:13 GMT
+ * Generated on Fri, 16 Jul 2021 14:17:05 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -206,8 +206,10 @@ export const utrechtColorBlue20 = "hsl(211 60% 20%)"; // basis donkerblauw (OS f
 export const utrechtColorBlue30 = "hsl(211 60% 30%)"; // basis link en knoppen CTA donkerblauw
 export const utrechtColorBlue35 = "hsl(211 60% 35%)"; // basis link en knoppen CTA donkerblauw
 export const utrechtColorBlue40 = "hsl(211 60% 40%)"; // blauw variant bij hover/focus #3669a5
+export const utrechtColorBlue50 = "hsl(211 60% 50%)"; // experimenteel / beperkt gebruiken
 export const utrechtColorBlue80 = "hsl(211 60% 80%)"; // licht blauw voor achtergrond
 export const utrechtColorBlue90 = "hsl(211 60% 90%)"; // ijsblauw variant achtergrond, spotlight en uitgelicht
+export const utrechtColorGrey15 = "hsl(0 0% 15%)"; // experimenteel / beperkt gebruiken
 export const utrechtColorGrey30 = "hsl(0 0% 30%)"; // border grijs #888
 export const utrechtColorGrey40 = "hsl(0 0% 40%)"; // basis grijs #727272
 export const utrechtColorGrey80 = "hsl(0 0% 80%)"; // grijs variant voor achtergrond content #e5e5e5
@@ -339,3 +341,23 @@ export const utrechtFormInputPlaceholderColor = "hsl(0 0% 40%)";
 export const utrechtFormInputFocusBorderColor = "hsl(0 0% 80%)";
 export const utrechtMenulijstItemHoverColor = "hsl(211 60% 40%)";
 export const utrechtMenulijstItemColor = "hsl(211 60% 35%)";
+export const utrechtSidenavLinkHoverColor = "hsl(211 60% 40%)";
+export const utrechtSidenavLinkColor = "hsl(211 60% 40%)";
+export const utrechtSidenavItemHoverColor = "hsl(211 60% 40%)";
+export const utrechtSidenavItemMarginBlockStart = "0.5ch";
+export const utrechtSidenavItemMarginBlockEnd = "0.5ch";
+export const utrechtSidenavItemMarginInlineStart = "0.5ch";
+export const utrechtSidenavItemMarginInlineEnd = "0.5ch";
+export const utrechtSidenavItemMarkerHoverColor = "hsl(211 60% 50%)";
+export const utrechtSidenavItemMarkerColor = "hsl(0 0% 80%)";
+export const utrechtTopnavLinkFocusColor = "hsl(0 0% 0%)";
+export const utrechtTopnavLinkFocusBoxShadowColor = "hsl(48 100% 80%)";
+export const utrechtTopnavLinkFocusBorderType = "dotted";
+export const utrechtTopnavLinkFocusTextDecoration = "none";
+export const utrechtTopnavLinkFocusBackgroundColor = "hsl(48 100% 80%)";
+export const utrechtTopnavLinkFocusOutlineColor = "hsl(0 0% 0%)";
+export const utrechtTopnavLinkHoverBackgroundColor = "hsl(0 0% 0%)";
+export const utrechtTopnavLinkColor = "hsl(0 0% 100%)";
+export const utrechtTopnavLinkBackgroundColor = "hsl(211 60% 40%)";
+export const utrechtTopnavListBackgroundColor = "hsl(0 0% 15%)";
+export const utrechtTopnavListBorderColor = "hsl(0 0% 40%)";

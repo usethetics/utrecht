@@ -1,7 +1,9 @@
 
 // Do not edit directly
-// Generated on Fri, 16 Jul 2021 13:48:13 GMT
+// Generated on Fri, 16 Jul 2021 14:17:05 GMT
 
+$utrecht-topnav-link-focus-text-decoration: none;
+$utrecht-topnav-link-focus-border-type: dotted;
 $utrecht-form-input-block-size: 42px;
 $utrecht-badge-counter-padding-inline: 1ex;
 $utrecht-badge-counter-padding-block: 1ex;
@@ -79,8 +81,10 @@ $utrecht-color-grey-90: hsl(0 0% 90%); // grijs variant voor achtergrond templat
 $utrecht-color-grey-80: hsl(0 0% 80%); // grijs variant voor achtergrond content #e5e5e5
 $utrecht-color-grey-40: hsl(0 0% 40%); // basis grijs #727272
 $utrecht-color-grey-30: hsl(0 0% 30%); // border grijs #888
+$utrecht-color-grey-15: hsl(0 0% 15%); // experimenteel / beperkt gebruiken
 $utrecht-color-blue-90: hsl(211 60% 90%); // ijsblauw variant achtergrond, spotlight en uitgelicht
 $utrecht-color-blue-80: hsl(211 60% 80%); // licht blauw voor achtergrond
+$utrecht-color-blue-50: hsl(211 60% 50%); // experimenteel / beperkt gebruiken
 $utrecht-color-blue-40: hsl(211 60% 40%); // blauw variant bij hover/focus #3669a5
 $utrecht-color-blue-35: hsl(211 60% 35%); // basis link en knoppen CTA donkerblauw
 $utrecht-color-blue-30: hsl(211 60% 30%); // basis link en knoppen CTA donkerblauw
@@ -166,6 +170,24 @@ $utrecht-badge-status-letter-spacing: 0.15ch;
 $utrecht-badge-data-text-transform: uppercase;
 $utrecht-badge-data-letter-spacing: 0.15ch;
 $utrecht-article-max-inline-size: 780px;
+$utrecht-topnav-list-border-color: $utrecht-color-grey-40;
+$utrecht-topnav-list-background-color: $utrecht-color-grey-15;
+$utrecht-topnav-link-background-color: $utrecht-color-blue-40;
+$utrecht-topnav-link-color: $utrecht-color-white;
+$utrecht-topnav-link-hover-background-color: $utrecht-color-black;
+$utrecht-topnav-link-focus-outline-color: $utrecht-color-black;
+$utrecht-topnav-link-focus-background-color: $utrecht-color-yellow-80;
+$utrecht-topnav-link-focus-box-shadow-color: $utrecht-color-yellow-80;
+$utrecht-topnav-link-focus-color: $utrecht-color-black;
+$utrecht-sidenav-item-marker-color: $utrecht-color-grey-80;
+$utrecht-sidenav-item-marker-hover-color: $utrecht-color-blue-50;
+$utrecht-sidenav-item-margin-inline-end: $utrecht-space-inline-xs;
+$utrecht-sidenav-item-margin-inline-start: $utrecht-space-inline-xs;
+$utrecht-sidenav-item-margin-block-end: $utrecht-space-inline-xs;
+$utrecht-sidenav-item-margin-block-start: $utrecht-space-inline-xs;
+$utrecht-sidenav-item-hover-color: $utrecht-color-blue-40;
+$utrecht-sidenav-link-color: $utrecht-color-blue-40;
+$utrecht-sidenav-link-hover-color: $utrecht-color-blue-40;
 $utrecht-menulijst-item-color: $utrecht-color-blue-35;
 $utrecht-menulijst-item-hover-color: $utrecht-color-blue-40;
 $utrecht-form-input-focus-border-color: $utrecht-color-grey-80;
