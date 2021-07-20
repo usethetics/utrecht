@@ -1147,11 +1147,11 @@
     },
     "focus": {
       "background-color": {
-        "value": "hsl(48 100% 60%)",
+        "value": "transparant.value",
         "filePath": "./src/common/utrecht/focus.style-dictionary.json",
         "isSource": true,
         "original": {
-          "value": "{utrecht.color.yellow.60.value}"
+          "value": "transparant.value"
         },
         "name": "utrechtFocusBackgroundColor",
         "attributes": {
@@ -1204,11 +1204,11 @@
         ]
       },
       "box-shadow-color": {
-        "value": "hsl(48 100% 80%)",
+        "value": "hsl(0 0% 100%)",
         "filePath": "./src/common/utrecht/focus.style-dictionary.json",
         "isSource": true,
         "original": {
-          "value": "{utrecht.color.yellow.80.value}"
+          "value": "{utrecht.color.white.value}"
         },
         "name": "utrechtFocusBoxShadowColor",
         "attributes": {
@@ -2736,7 +2736,7 @@
           ]
         },
         "box-shadow-color": {
-          "value": "hsl(48 100% 80%)",
+          "value": "hsl(0 0% 100%)",
           "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
           "isSource": true,
           "original": {
@@ -2799,7 +2799,7 @@
           ]
         },
         "background-color": {
-          "value": "hsl(48 100% 60%)",
+          "value": "transparant.value",
           "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
           "isSource": true,
           "original": {

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 19 Jul 2021 22:57:38 GMT
+ * Generated on Tue, 20 Jul 2021 16:27:38 GMT
  */
 
 .utrecht-theme {
@@ -163,6 +163,7 @@
   --utrecht-heading-1-line-height: 1.4;
   --utrecht-heading-1-font-size: 1.5rem;
   --utrecht-form-label-font-size: 1em;
+  --utrecht-focus-background-color: transparant.value;
   --utrecht-document-line-height: 1.4;
   --utrecht-button-focus-transform-scale: 1.02;
   --utrecht-button-border-radius: 0;
@@ -244,6 +245,7 @@
   --utrecht-page-footer-background-image: linear-gradient(45deg, var(--utrecht-color-red-40), var(--utrecht-color-red-40) 50%, hsl(5 54% 59%) 50%);;
   --utrecht-page-footer-background-color: var(--utrecht-color-red-40);
   --utrecht-page-footer-color: var(--utrecht-color-white);
+  --utrecht-mapcontrolbutton-focus-background-color: var(--utrecht-focus-background-color);
   --utrecht-mapcontrolbutton-border-color: var(--utrecht-color-grey-40);
   --utrecht-mapcontrolbutton-color: var(--utrecht-color-grey-40);
   --utrecht-mapcontrolbutton-background-color: var(--utrecht-color-white);
@@ -279,10 +281,9 @@
   --utrecht-focus-outline-color: var(--utrecht-color-black);
   --utrecht-focus-color: var(--utrecht-color-black);
   --utrecht-focus-box-shadow-spread-radius: var(--utrecht-border-width-md);
-  --utrecht-focus-box-shadow-color: var(--utrecht-color-yellow-80);
+  --utrecht-focus-box-shadow-color: var(--utrecht-color-white);
   --utrecht-focus-border-style: var(--utrecht-border-style-dotted);
   --utrecht-focus-border-color: var(--utrecht-color-black);
-  --utrecht-focus-background-color: var(--utrecht-color-yellow-60);
   --utrecht-emphasis-strong-font-weight: var(--utrecht-typography-weight-scale-bold-font-weight);
   --utrecht-document-font-size: var(--utrecht-typography-scale-md-font-size);
   --utrecht-document-font-family: var(--utrecht-typography-sans-serif-font-family);
@@ -338,7 +339,6 @@
   --utrecht-textarea-border-width: var(--utrecht-textbox-border-width);
   --utrecht-mapcontrolbutton-focus-border-color: var(--utrecht-focus-border-color);
   --utrecht-mapcontrolbutton-focus-outline-color: var(--utrecht-focus-outline-color);
-  --utrecht-mapcontrolbutton-focus-background-color: var(--utrecht-focus-background-color);
   --utrecht-mapcontrolbutton-focus-border-style: var(--utrecht-focus-border-style);
   --utrecht-mapcontrolbutton-focus-box-shadow-color: var(--utrecht-focus-box-shadow-color);
   --utrecht-mapcontrolbutton-focus-color: var(--utrecht-focus-color);
