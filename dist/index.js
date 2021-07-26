@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 26 Jul 2021 16:12:51 GMT
+ * Generated on Mon, 26 Jul 2021 19:36:36 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -20,6 +20,17 @@ export const utrechtBlockquoteMarginInlineBlockEnd = "1.6em";
 export const utrechtBlockquoteAttributionFontSize = "0.75rem";
 export const utrechtBlockquoteContentColor = "hsl(0 100% 40%)";
 export const utrechtBlockquoteContentFontSize = "1.125rem";
+export const utrechtBreadcrumbBlockSize = "34px";
+export const utrechtBreadcrumbFontSize = "0.9rem";
+export const utrechtBreadcrumbLinkFocusBackgroundColor = "hsl(48 100% 60%)";
+export const utrechtBreadcrumbLinkFocusColor = "hsl(0 0% 0%)";
+export const utrechtBreadcrumbLinkBackgroundColor = "hsl(0 0% 90%)";
+export const utrechtBreadcrumbLinkColor = "hsl(0 0% 0%)";
+export const utrechtBreadcrumbDividerInlineSize = "1px";
+export const utrechtBreadcrumbItemPaddingBlockStart = "8px";
+export const utrechtBreadcrumbItemPaddingBlockEnd = "8px";
+export const utrechtBreadcrumbItemPaddingInlineEnd = "16px";
+export const utrechtBreadcrumbItemPaddingInlineStart = "16px";
 export const utrechtButtonBorderWidth = "0";
 export const utrechtButtonFontSize = "1rem";
 export const utrechtButtonMarginBlockStart = "8px";
@@ -102,7 +113,6 @@ export const utrechtFeedbackActiveBorderColor = "hsl(90 30% 50%)";
 export const utrechtFeedbackActiveColor = "hsl(90 30% 50%)";
 export const utrechtFeedbackActiveFillBackgroundColor = "hsl(90 30% 50%)";
 export const utrechtFeedbackActiveFillColor = "hsl(0 0% 100%)";
-export const utrechtFocusBackgroundColor = "transparent";
 export const utrechtFocusBorderColor = "hsl(0 0% 0%)";
 export const utrechtFocusBorderStyle = "dotted";
 export const utrechtFocusBoxShadowColor = "hsl(0 0% 100%)";
@@ -181,7 +191,6 @@ export const utrechtMapcontrolbuttonFocusColor = "hsl(0 0% 0%)";
 export const utrechtMapcontrolbuttonFocusBoxShadowColor = "hsl(0 0% 100%)";
 export const utrechtMapcontrolbuttonFocusBorderStyle = "dotted";
 export const utrechtMapcontrolbuttonFocusTextDecoration = "none";
-export const utrechtMapcontrolbuttonFocusBackgroundColor = "transparent";
 export const utrechtMapcontrolbuttonFocusOutlineColor = "hsl(0 0% 0%)";
 export const utrechtMapcontrolbuttonFocusBorderColor = "hsl(0 0% 0%)";
 export const utrechtMapcontrolbuttonHoverBackgroundColor = "hsl(0 0% 90%)";

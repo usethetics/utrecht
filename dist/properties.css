@@ -15,6 +15,17 @@
 @property --utrecht-blockquote-margin-inline-block-start { syntax: '<length>'; inherits: true; }
 @property --utrecht-blockquote-margin-inline-end { syntax: '<length>'; inherits: true; }
 @property --utrecht-blockquote-margin-inline-start { syntax: '<length>'; inherits: true; }
+@property --utrecht-breadcrumb-block-size { syntax: '<length>'; inherits: true; }
+@property --utrecht-breadcrumb-divider-inline-size { syntax: '<length>'; inherits: true; }
+@property --utrecht-breadcrumb-font-size { syntax: '<length>'; inherits: true; }
+@property --utrecht-breadcrumb-item-padding-block-end { syntax: '<length>'; inherits: true; }
+@property --utrecht-breadcrumb-item-padding-block-start { syntax: '<length>'; inherits: true; }
+@property --utrecht-breadcrumb-item-padding-inline-end { syntax: '<length>'; inherits: true; }
+@property --utrecht-breadcrumb-item-padding-inline-start { syntax: '<length>'; inherits: true; }
+@property --utrecht-breadcrumb-link-background-color { syntax: '<color>'; inherits: true; }
+@property --utrecht-breadcrumb-link-color { syntax: '<color>'; inherits: true; }
+@property --utrecht-breadcrumb-link-focus-background-color { syntax: '<color>'; inherits: true; }
+@property --utrecht-breadcrumb-link-focus-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-button-border-width { syntax: '<length>'; inherits: true; }
 @property --utrecht-button-disabled-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-button-font-size { syntax: '<length>'; inherits: true; }
@@ -30,7 +41,6 @@
 @property --utrecht-button-primary-action-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-document-background-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-document-color { syntax: '<color>'; inherits: true; }
-@property --utrecht-document-font-family { syntax: '*'; inherits: true; }
 @property --utrecht-document-font-size { syntax: '<length>'; inherits: true; }
 @property --utrecht-document-line-height { syntax: '<length>'; inherits: true; }
 @property --utrecht-emphasis-strong-font-weight { syntax: '<number>'; inherits: true; }
@@ -79,7 +89,6 @@
 @property --utrecht-feedback-warning-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-feedback-warning-fill-background-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-feedback-warning-fill-color { syntax: '<color>'; inherits: true; }
-@property --utrecht-focus-background-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-focus-border-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-focus-border-style { syntax: 'dotted | none | solid'; inherits: true; }
 @property --utrecht-focus-box-shadow-color { syntax: '<color>'; inherits: true; }
@@ -224,7 +233,6 @@
 @property --utrecht-textarea-border-radius { syntax: '<length-percentage>'; inherits: true; }
 @property --utrecht-textarea-border-width { syntax: '<length>'; inherits: true; }
 @property --utrecht-textarea-color { syntax: '<color>'; inherits: true; }
-@property --utrecht-textarea-font-family { syntax: '*'; inherits: true; }
 @property --utrecht-textarea-font-size { syntax: '<length>'; inherits: true; }
 @property --utrecht-textarea-invalid-border-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-textarea-max-width { syntax: '<length>'; inherits: true; }
@@ -237,7 +245,6 @@
 @property --utrecht-textbox-border-radius { syntax: '<length-percentage>'; inherits: true; }
 @property --utrecht-textbox-border-width { syntax: '<length>'; inherits: true; }
 @property --utrecht-textbox-color { syntax: '<color>'; inherits: true; }
-@property --utrecht-textbox-font-family { syntax: '*'; inherits: true; }
 @property --utrecht-textbox-font-size { syntax: '<length>'; inherits: true; }
 @property --utrecht-textbox-invalid-border-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-textbox-max-width { syntax: '<length>'; inherits: true; }

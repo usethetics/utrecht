@@ -519,6 +519,353 @@
         }
       }
     },
+    "breadcrumb": {
+      "block-size": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "34px",
+        "filePath": "./src/component/utrecht/breadcrumb/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "34px"
+        },
+        "name": "utrechtBreadcrumbBlockSize",
+        "attributes": {
+          "category": "utrecht",
+          "type": "breadcrumb",
+          "item": "block-size"
+        },
+        "path": [
+          "utrecht",
+          "breadcrumb",
+          "block-size"
+        ]
+      },
+      "font-family": {
+        "css": {
+          "syntax": "*",
+          "inherits": true
+        }
+      },
+      "font-size": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "0.9rem",
+        "filePath": "./src/component/utrecht/breadcrumb/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "{utrecht.typography.scale.sm.font-size.value}"
+        },
+        "name": "utrechtBreadcrumbFontSize",
+        "attributes": {
+          "category": "utrecht",
+          "type": "breadcrumb",
+          "item": "font-size"
+        },
+        "path": [
+          "utrecht",
+          "breadcrumb",
+          "font-size"
+        ]
+      },
+      "text-transform": {
+        "css": {
+          "syntax": "inherit | none | uppercase",
+          "inherits": true
+        }
+      },
+      "link": {
+        "focus": {
+          "background-color": {
+            "css": {
+              "syntax": "<color>",
+              "inherits": true
+            },
+            "value": "hsl(48 100% 60%)",
+            "filePath": "./src/component/utrecht/breadcrumb/element-modifier.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "css": {
+                "syntax": "<color>",
+                "inherits": true
+              },
+              "value": "{utrecht.color.yellow.60.value}"
+            },
+            "name": "utrechtBreadcrumbLinkFocusBackgroundColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "breadcrumb",
+              "item": "link",
+              "subitem": "focus",
+              "state": "background-color"
+            },
+            "path": [
+              "utrecht",
+              "breadcrumb",
+              "link",
+              "focus",
+              "background-color"
+            ]
+          },
+          "color": {
+            "css": {
+              "syntax": "<color>",
+              "inherits": true
+            },
+            "value": "hsl(0 0% 0%)",
+            "filePath": "./src/component/utrecht/breadcrumb/element-modifier.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "css": {
+                "syntax": "<color>",
+                "inherits": true
+              },
+              "value": "{utrecht.color.black.value}"
+            },
+            "name": "utrechtBreadcrumbLinkFocusColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "breadcrumb",
+              "item": "link",
+              "subitem": "focus",
+              "state": "color"
+            },
+            "path": [
+              "utrecht",
+              "breadcrumb",
+              "link",
+              "focus",
+              "color"
+            ]
+          }
+        },
+        "background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "hsl(0 0% 90%)",
+          "filePath": "./src/component/utrecht/breadcrumb/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<color>",
+              "inherits": true
+            },
+            "value": "{utrecht.color.grey.90.value}"
+          },
+          "name": "utrechtBreadcrumbLinkBackgroundColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "breadcrumb",
+            "item": "link",
+            "subitem": "background-color"
+          },
+          "path": [
+            "utrecht",
+            "breadcrumb",
+            "link",
+            "background-color"
+          ]
+        },
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "hsl(0 0% 0%)",
+          "filePath": "./src/component/utrecht/breadcrumb/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<color>",
+              "inherits": true
+            },
+            "value": "{utrecht.color.black.value}"
+          },
+          "name": "utrechtBreadcrumbLinkColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "breadcrumb",
+            "item": "link",
+            "subitem": "color"
+          },
+          "path": [
+            "utrecht",
+            "breadcrumb",
+            "link",
+            "color"
+          ]
+        }
+      },
+      "divider": {
+        "content": {
+          "css": {
+            "syntax": "*",
+            "inherits": true
+          }
+        },
+        "inline-size": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "1px",
+          "filePath": "./src/component/utrecht/breadcrumb/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<length>",
+              "inherits": true
+            },
+            "value": "1px"
+          },
+          "name": "utrechtBreadcrumbDividerInlineSize",
+          "attributes": {
+            "category": "utrecht",
+            "type": "breadcrumb",
+            "item": "divider",
+            "subitem": "inline-size"
+          },
+          "path": [
+            "utrecht",
+            "breadcrumb",
+            "divider",
+            "inline-size"
+          ]
+        }
+      },
+      "item": {
+        "padding-block-start": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "8px",
+          "filePath": "./src/component/utrecht/breadcrumb/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<length>",
+              "inherits": true
+            },
+            "value": "{utrecht.space.block.xs.value}"
+          },
+          "name": "utrechtBreadcrumbItemPaddingBlockStart",
+          "attributes": {
+            "category": "utrecht",
+            "type": "breadcrumb",
+            "item": "item",
+            "subitem": "padding-block-start"
+          },
+          "path": [
+            "utrecht",
+            "breadcrumb",
+            "item",
+            "padding-block-start"
+          ]
+        },
+        "padding-block-end": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "8px",
+          "filePath": "./src/component/utrecht/breadcrumb/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<length>",
+              "inherits": true
+            },
+            "value": "{utrecht.space.block.xs.value}"
+          },
+          "name": "utrechtBreadcrumbItemPaddingBlockEnd",
+          "attributes": {
+            "category": "utrecht",
+            "type": "breadcrumb",
+            "item": "item",
+            "subitem": "padding-block-end"
+          },
+          "path": [
+            "utrecht",
+            "breadcrumb",
+            "item",
+            "padding-block-end"
+          ]
+        },
+        "padding-inline-end": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "16px",
+          "filePath": "./src/component/utrecht/breadcrumb/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<length>",
+              "inherits": true
+            },
+            "value": "{utrecht.space.inline.md.value}"
+          },
+          "name": "utrechtBreadcrumbItemPaddingInlineEnd",
+          "attributes": {
+            "category": "utrecht",
+            "type": "breadcrumb",
+            "item": "item",
+            "subitem": "padding-inline-end"
+          },
+          "path": [
+            "utrecht",
+            "breadcrumb",
+            "item",
+            "padding-inline-end"
+          ]
+        },
+        "padding-inline-start": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "16px",
+          "filePath": "./src/component/utrecht/breadcrumb/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<length>",
+              "inherits": true
+            },
+            "value": "{utrecht.space.inline.md.value}"
+          },
+          "name": "utrechtBreadcrumbItemPaddingInlineStart",
+          "attributes": {
+            "category": "utrecht",
+            "type": "breadcrumb",
+            "item": "item",
+            "subitem": "padding-inline-start"
+          },
+          "path": [
+            "utrecht",
+            "breadcrumb",
+            "item",
+            "padding-inline-start"
+          ]
+        }
+      }
+    },
     "button": {
       "border-width": {
         "css": {
@@ -2862,28 +3209,7 @@
         "css": {
           "syntax": "<color>",
           "inherits": true
-        },
-        "value": "transparent",
-        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<color>",
-            "inherits": true
-          },
-          "value": "transparent"
-        },
-        "name": "utrechtFocusBackgroundColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "focus",
-          "item": "background-color"
-        },
-        "path": [
-          "utrecht",
-          "focus",
-          "background-color"
-        ]
+        }
       },
       "border-color": {
         "css": {
@@ -5122,27 +5448,7 @@
             "text-decoration"
           ]
         },
-        "background-color": {
-          "value": "transparent",
-          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
-          "isSource": true,
-          "original": {
-            "value": "{utrecht.focus.background-color.value}"
-          },
-          "name": "utrechtMapcontrolbuttonFocusBackgroundColor",
-          "attributes": {
-            "category": "utrecht",
-            "type": "mapcontrolbutton",
-            "item": "focus",
-            "subitem": "background-color"
-          },
-          "path": [
-            "utrecht",
-            "mapcontrolbutton",
-            "focus",
-            "background-color"
-          ]
-        },
+        "background-color": {},
         "outline-color": {
           "value": "hsl(0 0% 0%)",
           "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
