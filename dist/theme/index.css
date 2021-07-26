@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 26 Jul 2021 16:12:36 GMT
+ * Generated on Mon, 26 Jul 2021 16:12:52 GMT
  */
 
 .utrecht-theme {
@@ -68,59 +68,59 @@
   --utrecht-table-caption-margin-block-end: 1em;
   --utrecht-table-caption-text-align: start;
   --utrecht-table-caption-font-size: 1.125em;
-  --utrecht-space-column-5xl: 80px; /* 500% / Extra Large 5 */
-  --utrecht-space-column-4xl: 64px; /* 400% / Extra Large 4 */
-  --utrecht-space-column-3xl: 48px; /* 300% / Extra Large 3 */
-  --utrecht-space-column-2xl: 32px; /* 200% / Extra Large 2 */
-  --utrecht-space-column-xl: 28px; /* 175% / Extra Large */
-  --utrecht-space-column-lg: 24px; /* 150% / Large */
-  --utrecht-space-column-md: 16px; /* 100% / Medium */
-  --utrecht-space-column-sm: 12px; /* 75% / Small */
-  --utrecht-space-column-xs: 8px; /* 50% / Extra Small */
-  --utrecht-space-column-2xs: 4px; /* 25% / Extra Small 2 */
-  --utrecht-space-column-3xs: 2px; /* 12.5% / Extra Small 3 */
-  --utrecht-space-column-4xs: 1px; /* 6.25% / Extra Small 4 */
-  --utrecht-space-row-5xl: 80px; /* 500% / Extra Large 5 */
-  --utrecht-space-row-4xl: 64px; /* 400% / Extra Large 4 */
-  --utrecht-space-row-3xl: 48px; /* 300% / Extra Large 3 */
-  --utrecht-space-row-2xl: 32px; /* 200% / Extra Large 2 */
-  --utrecht-space-row-xl: 28px; /* 175% / Extra Large */
-  --utrecht-space-row-lg: 24px; /* 150% / Large */
-  --utrecht-space-row-md: 16px; /* 100% / Medium */
-  --utrecht-space-row-sm: 12px; /* 75% / Small */
-  --utrecht-space-row-xs: 8px; /* 50% / Extra Small */
-  --utrecht-space-row-2xs: 4px; /* 25% / Extra Small 2 */
-  --utrecht-space-row-3xs: 2px; /* 12.5% / Extra Small 3 */
-  --utrecht-space-row-4xs: 1px; /* 6.25% / Extra Small 4 */
-  --utrecht-space-text-3xl: 3ch; /* 300% / Extra Large 3 */
-  --utrecht-space-text-2xl: 2ch; /* 200% / Extra Large 2 */
-  --utrecht-space-text-xl: 1.75ch; /* 175% / Extra Large */
-  --utrecht-space-text-lg: 1.5ch; /* 150% / Large */
-  --utrecht-space-text-md: 1ch; /* 100% / Medium */
-  --utrecht-space-text-sm: 0.75ch; /* 75% / Small */
-  --utrecht-space-text-xs: 0.5ch; /* 50% / Extra Small */
-  --utrecht-space-text-2xs: 0.25ch; /* 25% / Extra Small 2 */
-  --utrecht-space-text-3xs: 0.125ch; /* 12.5% / Extra Small 3 */
-  --utrecht-space-inline-3xl: 48px; /* 300% / Extra Large 3 */
-  --utrecht-space-inline-2xl: 32px; /* 200% / Extra Large 2 */
-  --utrecht-space-inline-xl: 28px; /* 175% / Extra Large */
-  --utrecht-space-inline-lg: 24px; /* 150% / Large */
-  --utrecht-space-inline-md: 16px; /* 100% / Medium */
-  --utrecht-space-inline-sm: 12px; /* 75% / Small */
-  --utrecht-space-inline-xs: 8px; /* 50% / Extra Small */
-  --utrecht-space-inline-2xs: 4px; /* 25% / Extra Small 2 */
-  --utrecht-space-inline-3xs: 2px; /* 12.5% / Extra Small 3 */
-  --utrecht-space-block-5xl: 80px; /* 500% / Extra Large 5 */
-  --utrecht-space-block-4xl: 64px; /* 400% / Extra Large 4 */
-  --utrecht-space-block-3xl: 48px; /* 300% / Extra Large 3 */
-  --utrecht-space-block-2xl: 32px; /* 200% / Extra Large 2 */
-  --utrecht-space-block-xl: 28px; /* 175% / Extra Large */
-  --utrecht-space-block-lg: 24px; /* 150% / Large */
-  --utrecht-space-block-md: 16px; /* 100% / Medium */
-  --utrecht-space-block-sm: 12px; /* 75% / Small */
-  --utrecht-space-block-xs: 8px; /* 50% / Extra Small */
-  --utrecht-space-block-2xs: 4px; /* 25% / Extra Small 2 */
-  --utrecht-space-block-3xs: 2px; /* 12.5% / Extra Small 3 */
+  --utrecht-space-column-5xl: 80px; /* Extra Large 5 */
+  --utrecht-space-column-4xl: 64px; /* Extra Large 4 */
+  --utrecht-space-column-3xl: 48px; /* Extra Large 3 */
+  --utrecht-space-column-2xl: 32px; /* Extra Large 2 */
+  --utrecht-space-column-xl: 28px; /* Extra Large */
+  --utrecht-space-column-lg: 24px; /* Large */
+  --utrecht-space-column-md: 16px; /* Medium */
+  --utrecht-space-column-sm: 12px; /* Small */
+  --utrecht-space-column-xs: 8px; /* Extra Small */
+  --utrecht-space-column-2xs: 4px; /* Extra Small 2 */
+  --utrecht-space-column-3xs: 2px; /* Extra Small 3 */
+  --utrecht-space-column-4xs: 1px; /* Extra Small 4 */
+  --utrecht-space-row-5xl: 80px; /* Extra Large 5 */
+  --utrecht-space-row-4xl: 64px; /* Extra Large 4 */
+  --utrecht-space-row-3xl: 48px; /* Extra Large 3 */
+  --utrecht-space-row-2xl: 32px; /* Extra Large 2 */
+  --utrecht-space-row-xl: 28px; /* Extra Large */
+  --utrecht-space-row-lg: 24px; /* Large */
+  --utrecht-space-row-md: 16px; /* Medium */
+  --utrecht-space-row-sm: 12px; /* Small */
+  --utrecht-space-row-xs: 8px; /* Extra Small */
+  --utrecht-space-row-2xs: 4px; /* Extra Small 2 */
+  --utrecht-space-row-3xs: 2px; /* Extra Small 3 */
+  --utrecht-space-row-4xs: 1px; /* Extra Small 4 */
+  --utrecht-space-text-3xl: 3ch; /* Extra Large 3 */
+  --utrecht-space-text-2xl: 2ch; /* Extra Large 2 */
+  --utrecht-space-text-xl: 1.75ch; /* Extra Large */
+  --utrecht-space-text-lg: 1.5ch; /* Large */
+  --utrecht-space-text-md: 1ch; /* Medium */
+  --utrecht-space-text-sm: 0.75ch; /* Small */
+  --utrecht-space-text-xs: 0.5ch; /* Extra Small */
+  --utrecht-space-text-2xs: 0.25ch; /* Extra Small 2 */
+  --utrecht-space-text-3xs: 0.125ch; /* Extra Small 3 */
+  --utrecht-space-inline-3xl: 48px; /* Extra Large 3 */
+  --utrecht-space-inline-2xl: 32px; /* Extra Large 2 */
+  --utrecht-space-inline-xl: 28px; /* Extra Large */
+  --utrecht-space-inline-lg: 24px; /* Large */
+  --utrecht-space-inline-md: 16px; /* Medium */
+  --utrecht-space-inline-sm: 12px; /* Small */
+  --utrecht-space-inline-xs: 8px; /* Extra Small */
+  --utrecht-space-inline-2xs: 4px; /* Extra Small 2 */
+  --utrecht-space-inline-3xs: 2px; /* Extra Small 3 */
+  --utrecht-space-block-5xl: 80px; /* Extra Large 5 */
+  --utrecht-space-block-4xl: 64px; /* Extra Large 4 */
+  --utrecht-space-block-3xl: 48px; /* Extra Large 3 */
+  --utrecht-space-block-2xl: 32px; /* Extra Large 2 */
+  --utrecht-space-block-xl: 28px; /* Extra Large */
+  --utrecht-space-block-lg: 24px; /* Large */
+  --utrecht-space-block-md: 16px; /* Medium */
+  --utrecht-space-block-sm: 12px; /* Small */
+  --utrecht-space-block-xs: 8px; /* Extra Small */
+  --utrecht-space-block-2xs: 4px; /* Extra Small 2 */
+  --utrecht-space-block-3xs: 2px; /* Extra Small 3 */
   --utrecht-separator-width: 8px;
   --utrecht-paragraph-line-height: 1.4;
   --utrecht-page-footer-padding-block-start: 1.8em;
@@ -163,7 +163,7 @@
   --utrecht-heading-1-line-height: 1.4;
   --utrecht-heading-1-font-size: 1.5rem;
   --utrecht-form-label-font-size: 1em;
-  --utrecht-focus-background-color: transparant.value;
+  --utrecht-focus-background-color: transparent;
   --utrecht-document-line-height: 1.4;
   --utrecht-button-focus-transform-scale: 1.02;
   --utrecht-button-border-radius: 0;
@@ -233,18 +233,18 @@
   --utrecht-page-footer-background-image: linear-gradient(45deg, var(--utrecht-color-red-40), var(--utrecht-color-red-40) 50%, hsl(5 54% 59%) 50%);;
   --utrecht-page-footer-background-color: var(--utrecht-color-red-40);
   --utrecht-page-footer-color: var(--utrecht-color-white);
+  --utrecht-mapcontrolbutton-hover-color: var(--utrecht-color-white);
+  --utrecht-mapcontrolbutton-hover-background-color: var(--utrecht-color-grey-90);
   --utrecht-mapcontrolbutton-focus-background-color: var(--utrecht-focus-background-color);
+  --utrecht-mapcontrolbutton-border-style: var(--utrecht-border-style-solid);
   --utrecht-mapcontrolbutton-border-color: var(--utrecht-color-grey-40);
+  --utrecht-mapcontrolbutton-height: var(--utrecht-space-block-2xl);
+  --utrecht-mapcontrolbutton-width: var(--utrecht-space-block-2xl);
   --utrecht-mapcontrolbutton-color: var(--utrecht-color-grey-40);
   --utrecht-mapcontrolbutton-background-color: var(--utrecht-color-white);
   --utrecht-mapcontrolbutton-disabled-border-color: var(--utrecht-color-grey-80);
-  --utrecht-mapcontrolbutton-disabled-color: var(--utrecht-color-grey-80);
   --utrecht-mapcontrolbutton-disabled-background-color: var(--utrecht-color-grey-90);
-  --utrecht-mapcontrolbutton-hover-color: var(--utrecht-color-white);
-  --utrecht-mapcontrolbutton-hover-background-color: var(--utrecht-color-grey-90);
-  --utrecht-mapcontrolbutton-border-style: var(--utrecht-border-style-solid);
-  --utrecht-mapcontrolbutton-height: var(--utrecht-space-block-2xl);
-  --utrecht-mapcontrolbutton-width: var(--utrecht-space-block-2xl);
+  --utrecht-mapcontrolbutton-disabled-color: var(--utrecht-color-grey-80);
   --utrecht-mapcontrolbutton-padding-inline-end: var(--utrecht-space-inline-2xs);
   --utrecht-mapcontrolbutton-padding-inline-start: var(--utrecht-space-inline-2xs);
   --utrecht-mapcontrolbutton-padding-block-end: var(--utrecht-space-block-2xs);

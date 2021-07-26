@@ -130,6 +130,7 @@
 @property --utrecht-link-text-decoration { syntax: 'none | underline'; inherits: true; }
 @property --utrecht-link-visited-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-mapcontrolbutton-border-width { syntax: '<length>'; inherits: true; }
+@property --utrecht-mapcontrolbutton-disabled-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-mapcontrolbutton-margin-block-end { syntax: '<length>'; inherits: true; }
 @property --utrecht-mapcontrolbutton-margin-block-start { syntax: '<length>'; inherits: true; }
 @property --utrecht-mapcontrolbutton-margin-inline-end { syntax: '<length>'; inherits: true; }

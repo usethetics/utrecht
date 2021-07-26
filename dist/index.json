@@ -2863,7 +2863,7 @@
           "syntax": "<color>",
           "inherits": true
         },
-        "value": "transparant.value",
+        "value": "transparent",
         "filePath": "./src/common/utrecht/focus.style-dictionary.json",
         "isSource": true,
         "original": {
@@ -2871,7 +2871,7 @@
             "syntax": "<color>",
             "inherits": true
           },
-          "value": "transparant.value"
+          "value": "transparent"
         },
         "name": "utrechtFocusBackgroundColor",
         "attributes": {
@@ -4805,6 +4805,143 @@
           "padding-inline-end"
         ]
       },
+      "disabled": {
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "hsl(0 0% 80%)",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<color>",
+              "inherits": true
+            },
+            "value": "{utrecht.color.grey.80.value}"
+          },
+          "name": "utrechtMapcontrolbuttonDisabledColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "mapcontrolbutton",
+            "item": "disabled",
+            "subitem": "color"
+          },
+          "path": [
+            "utrecht",
+            "mapcontrolbutton",
+            "disabled",
+            "color"
+          ]
+        },
+        "hover-background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "background-color": {
+          "value": "hsl(0 0% 90%)",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.color.grey.90.value}"
+          },
+          "name": "utrechtMapcontrolbuttonDisabledBackgroundColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "mapcontrolbutton",
+            "item": "disabled",
+            "subitem": "background-color"
+          },
+          "path": [
+            "utrecht",
+            "mapcontrolbutton",
+            "disabled",
+            "background-color"
+          ]
+        },
+        "border-color": {
+          "value": "hsl(0 0% 80%)",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.color.grey.80.value}"
+          },
+          "name": "utrechtMapcontrolbuttonDisabledBorderColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "mapcontrolbutton",
+            "item": "disabled",
+            "subitem": "border-color"
+          },
+          "path": [
+            "utrecht",
+            "mapcontrolbutton",
+            "disabled",
+            "border-color"
+          ]
+        }
+      },
+      "primary-action": {
+        "background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "hover-background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        }
+      },
+      "background-color": {
+        "value": "hsl(0 0% 100%)",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.color.white.value}"
+        },
+        "name": "utrechtMapcontrolbuttonBackgroundColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "mapcontrolbutton",
+          "item": "background-color"
+        },
+        "path": [
+          "utrecht",
+          "mapcontrolbutton",
+          "background-color"
+        ]
+      },
+      "color": {
+        "value": "hsl(0 0% 40%)",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.color.grey.40.value}"
+        },
+        "name": "utrechtMapcontrolbuttonColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "mapcontrolbutton",
+          "item": "color"
+        },
+        "path": [
+          "utrecht",
+          "mapcontrolbutton",
+          "color"
+        ]
+      },
       "width": {
         "value": "32px",
         "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
@@ -4843,6 +4980,25 @@
           "height"
         ]
       },
+      "border-color": {
+        "value": "hsl(0 0% 40%)",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.color.grey.40.value}"
+        },
+        "name": "utrechtMapcontrolbuttonBorderColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "mapcontrolbutton",
+          "item": "border-color"
+        },
+        "path": [
+          "utrecht",
+          "mapcontrolbutton",
+          "border-color"
+        ]
+      },
       "border-radius": {
         "value": "0",
         "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
@@ -4879,172 +5035,6 @@
           "utrecht",
           "mapcontrolbutton",
           "border-style"
-        ]
-      },
-      "hover": {
-        "background-color": {
-          "value": "hsl(0 0% 90%)",
-          "filePath": "./src/component/utrecht/mapcontrolbutton/modifier-state.style-dictionary.json",
-          "isSource": true,
-          "original": {
-            "value": "{utrecht.color.grey.90.value}"
-          },
-          "name": "utrechtMapcontrolbuttonHoverBackgroundColor",
-          "attributes": {
-            "category": "utrecht",
-            "type": "mapcontrolbutton",
-            "item": "hover",
-            "subitem": "background-color"
-          },
-          "path": [
-            "utrecht",
-            "mapcontrolbutton",
-            "hover",
-            "background-color"
-          ]
-        },
-        "color": {
-          "value": "hsl(0 0% 100%)",
-          "filePath": "./src/component/utrecht/mapcontrolbutton/modifier-state.style-dictionary.json",
-          "isSource": true,
-          "original": {
-            "value": "{utrecht.color.white.value}"
-          },
-          "name": "utrechtMapcontrolbuttonHoverColor",
-          "attributes": {
-            "category": "utrecht",
-            "type": "mapcontrolbutton",
-            "item": "hover",
-            "subitem": "color"
-          },
-          "path": [
-            "utrecht",
-            "mapcontrolbutton",
-            "hover",
-            "color"
-          ]
-        }
-      },
-      "disabled": {
-        "background-color": {
-          "value": "hsl(0 0% 90%)",
-          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
-          "isSource": true,
-          "original": {
-            "value": "{utrecht.color.grey.90.value}"
-          },
-          "name": "utrechtMapcontrolbuttonDisabledBackgroundColor",
-          "attributes": {
-            "category": "utrecht",
-            "type": "mapcontrolbutton",
-            "item": "disabled",
-            "subitem": "background-color"
-          },
-          "path": [
-            "utrecht",
-            "mapcontrolbutton",
-            "disabled",
-            "background-color"
-          ]
-        },
-        "color": {
-          "value": "hsl(0 0% 80%)",
-          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
-          "isSource": true,
-          "original": {
-            "value": "{utrecht.color.grey.80.value}"
-          },
-          "name": "utrechtMapcontrolbuttonDisabledColor",
-          "attributes": {
-            "category": "utrecht",
-            "type": "mapcontrolbutton",
-            "item": "disabled",
-            "subitem": "color"
-          },
-          "path": [
-            "utrecht",
-            "mapcontrolbutton",
-            "disabled",
-            "color"
-          ]
-        },
-        "border-color": {
-          "value": "hsl(0 0% 80%)",
-          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
-          "isSource": true,
-          "original": {
-            "value": "{utrecht.color.grey.80.value}"
-          },
-          "name": "utrechtMapcontrolbuttonDisabledBorderColor",
-          "attributes": {
-            "category": "utrecht",
-            "type": "mapcontrolbutton",
-            "item": "disabled",
-            "subitem": "border-color"
-          },
-          "path": [
-            "utrecht",
-            "mapcontrolbutton",
-            "disabled",
-            "border-color"
-          ]
-        }
-      },
-      "background-color": {
-        "value": "hsl(0 0% 100%)",
-        "filePath": "./src/component/utrecht/mapcontrolbutton/modifier.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "value": "{utrecht.color.white.value}"
-        },
-        "name": "utrechtMapcontrolbuttonBackgroundColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "mapcontrolbutton",
-          "item": "background-color"
-        },
-        "path": [
-          "utrecht",
-          "mapcontrolbutton",
-          "background-color"
-        ]
-      },
-      "color": {
-        "value": "hsl(0 0% 40%)",
-        "filePath": "./src/component/utrecht/mapcontrolbutton/modifier.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "value": "{utrecht.color.grey.40.value}"
-        },
-        "name": "utrechtMapcontrolbuttonColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "mapcontrolbutton",
-          "item": "color"
-        },
-        "path": [
-          "utrecht",
-          "mapcontrolbutton",
-          "color"
-        ]
-      },
-      "border-color": {
-        "value": "hsl(0 0% 40%)",
-        "filePath": "./src/component/utrecht/mapcontrolbutton/modifier.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "value": "{utrecht.color.grey.40.value}"
-        },
-        "name": "utrechtMapcontrolbuttonBorderColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "mapcontrolbutton",
-          "item": "border-color"
-        },
-        "path": [
-          "utrecht",
-          "mapcontrolbutton",
-          "border-color"
         ]
       },
       "focus": {
@@ -5133,7 +5123,7 @@
           ]
         },
         "background-color": {
-          "value": "transparant.value",
+          "value": "transparent",
           "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
           "isSource": true,
           "original": {
@@ -5193,6 +5183,50 @@
             "mapcontrolbutton",
             "focus",
             "border-color"
+          ]
+        }
+      },
+      "hover": {
+        "background-color": {
+          "value": "hsl(0 0% 90%)",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.color.grey.90.value}"
+          },
+          "name": "utrechtMapcontrolbuttonHoverBackgroundColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "mapcontrolbutton",
+            "item": "hover",
+            "subitem": "background-color"
+          },
+          "path": [
+            "utrecht",
+            "mapcontrolbutton",
+            "hover",
+            "background-color"
+          ]
+        },
+        "color": {
+          "value": "hsl(0 0% 100%)",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.color.white.value}"
+          },
+          "name": "utrechtMapcontrolbuttonHoverColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "mapcontrolbutton",
+            "item": "hover",
+            "subitem": "color"
+          },
+          "path": [
+            "utrecht",
+            "mapcontrolbutton",
+            "hover",
+            "color"
           ]
         }
       }
@@ -5624,7 +5658,7 @@
     "space": {
       "block": {
         "3xs": {
-          "comment": "12.5% / Extra Small 3",
+          "comment": "Extra Small 3",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -5633,7 +5667,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "12.5% / Extra Small 3",
+            "comment": "Extra Small 3",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -5655,7 +5689,7 @@
           ]
         },
         "2xs": {
-          "comment": "25% / Extra Small 2",
+          "comment": "Extra Small 2",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -5664,7 +5698,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "25% / Extra Small 2",
+            "comment": "Extra Small 2",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -5686,7 +5720,7 @@
           ]
         },
         "xs": {
-          "comment": "50% / Extra Small",
+          "comment": "Extra Small",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -5695,7 +5729,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "50% / Extra Small",
+            "comment": "Extra Small",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -5717,7 +5751,7 @@
           ]
         },
         "sm": {
-          "comment": "75% / Small",
+          "comment": "Small",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -5726,7 +5760,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "75% / Small",
+            "comment": "Small",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -5748,7 +5782,7 @@
           ]
         },
         "md": {
-          "comment": "100% / Medium",
+          "comment": "Medium",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -5757,7 +5791,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "100% / Medium",
+            "comment": "Medium",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -5779,7 +5813,7 @@
           ]
         },
         "lg": {
-          "comment": "150% / Large",
+          "comment": "Large",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -5788,7 +5822,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "150% / Large",
+            "comment": "Large",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -5810,7 +5844,7 @@
           ]
         },
         "xl": {
-          "comment": "175% / Extra Large",
+          "comment": "Extra Large",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -5819,7 +5853,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "175% / Extra Large",
+            "comment": "Extra Large",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -5841,7 +5875,7 @@
           ]
         },
         "2xl": {
-          "comment": "200% / Extra Large 2",
+          "comment": "Extra Large 2",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -5850,7 +5884,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "200% / Extra Large 2",
+            "comment": "Extra Large 2",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -5872,7 +5906,7 @@
           ]
         },
         "3xl": {
-          "comment": "300% / Extra Large 3",
+          "comment": "Extra Large 3",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -5881,7 +5915,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "300% / Extra Large 3",
+            "comment": "Extra Large 3",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -5903,7 +5937,7 @@
           ]
         },
         "4xl": {
-          "comment": "400% / Extra Large 4",
+          "comment": "Extra Large 4",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -5912,7 +5946,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "400% / Extra Large 4",
+            "comment": "Extra Large 4",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -5934,7 +5968,7 @@
           ]
         },
         "5xl": {
-          "comment": "500% / Extra Large 5",
+          "comment": "Extra Large 5",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -5943,7 +5977,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "500% / Extra Large 5",
+            "comment": "Extra Large 5",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -5967,7 +6001,7 @@
       },
       "inline": {
         "3xs": {
-          "comment": "12.5% / Extra Small 3",
+          "comment": "Extra Small 3",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -5976,7 +6010,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "12.5% / Extra Small 3",
+            "comment": "Extra Small 3",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -5998,7 +6032,7 @@
           ]
         },
         "2xs": {
-          "comment": "25% / Extra Small 2",
+          "comment": "Extra Small 2",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6007,7 +6041,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "25% / Extra Small 2",
+            "comment": "Extra Small 2",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6029,7 +6063,7 @@
           ]
         },
         "xs": {
-          "comment": "50% / Extra Small",
+          "comment": "Extra Small",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6038,7 +6072,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "50% / Extra Small",
+            "comment": "Extra Small",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6060,7 +6094,7 @@
           ]
         },
         "sm": {
-          "comment": "75% / Small",
+          "comment": "Small",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6069,7 +6103,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "75% / Small",
+            "comment": "Small",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6091,7 +6125,7 @@
           ]
         },
         "md": {
-          "comment": "100% / Medium",
+          "comment": "Medium",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6100,7 +6134,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "100% / Medium",
+            "comment": "Medium",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6122,7 +6156,7 @@
           ]
         },
         "lg": {
-          "comment": "150% / Large",
+          "comment": "Large",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6131,7 +6165,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "150% / Large",
+            "comment": "Large",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6153,7 +6187,7 @@
           ]
         },
         "xl": {
-          "comment": "175% / Extra Large",
+          "comment": "Extra Large",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6162,7 +6196,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "175% / Extra Large",
+            "comment": "Extra Large",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6184,7 +6218,7 @@
           ]
         },
         "2xl": {
-          "comment": "200% / Extra Large 2",
+          "comment": "Extra Large 2",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6193,7 +6227,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "200% / Extra Large 2",
+            "comment": "Extra Large 2",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6215,7 +6249,7 @@
           ]
         },
         "3xl": {
-          "comment": "300% / Extra Large 3",
+          "comment": "Extra Large 3",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6224,7 +6258,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "300% / Extra Large 3",
+            "comment": "Extra Large 3",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6248,7 +6282,7 @@
       },
       "text": {
         "3xs": {
-          "comment": "12.5% / Extra Small 3",
+          "comment": "Extra Small 3",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6257,7 +6291,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "12.5% / Extra Small 3",
+            "comment": "Extra Small 3",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6279,7 +6313,7 @@
           ]
         },
         "2xs": {
-          "comment": "25% / Extra Small 2",
+          "comment": "Extra Small 2",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6288,7 +6322,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "25% / Extra Small 2",
+            "comment": "Extra Small 2",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6310,7 +6344,7 @@
           ]
         },
         "xs": {
-          "comment": "50% / Extra Small",
+          "comment": "Extra Small",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6319,7 +6353,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "50% / Extra Small",
+            "comment": "Extra Small",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6341,7 +6375,7 @@
           ]
         },
         "sm": {
-          "comment": "75% / Small",
+          "comment": "Small",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6350,7 +6384,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "75% / Small",
+            "comment": "Small",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6372,7 +6406,7 @@
           ]
         },
         "md": {
-          "comment": "100% / Medium",
+          "comment": "Medium",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6381,7 +6415,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "100% / Medium",
+            "comment": "Medium",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6403,7 +6437,7 @@
           ]
         },
         "lg": {
-          "comment": "150% / Large",
+          "comment": "Large",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6412,7 +6446,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "150% / Large",
+            "comment": "Large",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6434,7 +6468,7 @@
           ]
         },
         "xl": {
-          "comment": "175% / Extra Large",
+          "comment": "Extra Large",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6443,7 +6477,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "175% / Extra Large",
+            "comment": "Extra Large",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6465,7 +6499,7 @@
           ]
         },
         "2xl": {
-          "comment": "200% / Extra Large 2",
+          "comment": "Extra Large 2",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6474,7 +6508,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "200% / Extra Large 2",
+            "comment": "Extra Large 2",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6496,7 +6530,7 @@
           ]
         },
         "3xl": {
-          "comment": "300% / Extra Large 3",
+          "comment": "Extra Large 3",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6505,7 +6539,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "300% / Extra Large 3",
+            "comment": "Extra Large 3",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6529,7 +6563,7 @@
       },
       "row": {
         "4xs": {
-          "comment": "6.25% / Extra Small 4",
+          "comment": "Extra Small 4",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6538,7 +6572,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "6.25% / Extra Small 4",
+            "comment": "Extra Small 4",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6560,7 +6594,7 @@
           ]
         },
         "3xs": {
-          "comment": "12.5% / Extra Small 3",
+          "comment": "Extra Small 3",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6569,7 +6603,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "12.5% / Extra Small 3",
+            "comment": "Extra Small 3",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6591,7 +6625,7 @@
           ]
         },
         "2xs": {
-          "comment": "25% / Extra Small 2",
+          "comment": "Extra Small 2",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6600,7 +6634,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "25% / Extra Small 2",
+            "comment": "Extra Small 2",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6622,7 +6656,7 @@
           ]
         },
         "xs": {
-          "comment": "50% / Extra Small",
+          "comment": "Extra Small",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6631,7 +6665,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "50% / Extra Small",
+            "comment": "Extra Small",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6653,7 +6687,7 @@
           ]
         },
         "sm": {
-          "comment": "75% / Small",
+          "comment": "Small",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6662,7 +6696,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "75% / Small",
+            "comment": "Small",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6684,7 +6718,7 @@
           ]
         },
         "md": {
-          "comment": "100% / Medium",
+          "comment": "Medium",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6693,7 +6727,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "100% / Medium",
+            "comment": "Medium",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6715,7 +6749,7 @@
           ]
         },
         "lg": {
-          "comment": "150% / Large",
+          "comment": "Large",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6724,7 +6758,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "150% / Large",
+            "comment": "Large",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6746,7 +6780,7 @@
           ]
         },
         "xl": {
-          "comment": "175% / Extra Large",
+          "comment": "Extra Large",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6755,7 +6789,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "175% / Extra Large",
+            "comment": "Extra Large",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6777,7 +6811,7 @@
           ]
         },
         "2xl": {
-          "comment": "200% / Extra Large 2",
+          "comment": "Extra Large 2",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6786,7 +6820,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "200% / Extra Large 2",
+            "comment": "Extra Large 2",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6808,7 +6842,7 @@
           ]
         },
         "3xl": {
-          "comment": "300% / Extra Large 3",
+          "comment": "Extra Large 3",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6817,7 +6851,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "300% / Extra Large 3",
+            "comment": "Extra Large 3",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6839,7 +6873,7 @@
           ]
         },
         "4xl": {
-          "comment": "400% / Extra Large 4",
+          "comment": "Extra Large 4",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6848,7 +6882,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "400% / Extra Large 4",
+            "comment": "Extra Large 4",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6870,7 +6904,7 @@
           ]
         },
         "5xl": {
-          "comment": "500% / Extra Large 5",
+          "comment": "Extra Large 5",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6879,7 +6913,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "500% / Extra Large 5",
+            "comment": "Extra Large 5",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6903,7 +6937,7 @@
       },
       "column": {
         "4xs": {
-          "comment": "6.25% / Extra Small 4",
+          "comment": "Extra Small 4",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6912,7 +6946,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "6.25% / Extra Small 4",
+            "comment": "Extra Small 4",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6934,7 +6968,7 @@
           ]
         },
         "3xs": {
-          "comment": "12.5% / Extra Small 3",
+          "comment": "Extra Small 3",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6943,7 +6977,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "12.5% / Extra Small 3",
+            "comment": "Extra Small 3",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6965,7 +6999,7 @@
           ]
         },
         "2xs": {
-          "comment": "25% / Extra Small 2",
+          "comment": "Extra Small 2",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -6974,7 +7008,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "25% / Extra Small 2",
+            "comment": "Extra Small 2",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -6996,7 +7030,7 @@
           ]
         },
         "xs": {
-          "comment": "50% / Extra Small",
+          "comment": "Extra Small",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -7005,7 +7039,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "50% / Extra Small",
+            "comment": "Extra Small",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -7027,7 +7061,7 @@
           ]
         },
         "sm": {
-          "comment": "75% / Small",
+          "comment": "Small",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -7036,7 +7070,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "75% / Small",
+            "comment": "Small",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -7058,7 +7092,7 @@
           ]
         },
         "md": {
-          "comment": "100% / Medium",
+          "comment": "Medium",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -7067,7 +7101,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "100% / Medium",
+            "comment": "Medium",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -7089,7 +7123,7 @@
           ]
         },
         "lg": {
-          "comment": "150% / Large",
+          "comment": "Large",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -7098,7 +7132,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "150% / Large",
+            "comment": "Large",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -7120,7 +7154,7 @@
           ]
         },
         "xl": {
-          "comment": "175% / Extra Large",
+          "comment": "Extra Large",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -7129,7 +7163,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "175% / Extra Large",
+            "comment": "Extra Large",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -7151,7 +7185,7 @@
           ]
         },
         "2xl": {
-          "comment": "200% / Extra Large 2",
+          "comment": "Extra Large 2",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -7160,7 +7194,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "200% / Extra Large 2",
+            "comment": "Extra Large 2",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -7182,7 +7216,7 @@
           ]
         },
         "3xl": {
-          "comment": "300% / Extra Large 3",
+          "comment": "Extra Large 3",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -7191,7 +7225,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "300% / Extra Large 3",
+            "comment": "Extra Large 3",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -7213,7 +7247,7 @@
           ]
         },
         "4xl": {
-          "comment": "400% / Extra Large 4",
+          "comment": "Extra Large 4",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -7222,7 +7256,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "400% / Extra Large 4",
+            "comment": "Extra Large 4",
             "css": {
               "syntax": "<length>",
               "inherits": true
@@ -7244,7 +7278,7 @@
           ]
         },
         "5xl": {
-          "comment": "500% / Extra Large 5",
+          "comment": "Extra Large 5",
           "css": {
             "syntax": "<length>",
             "inherits": true
@@ -7253,7 +7287,7 @@
           "filePath": "./src/common/utrecht/space.style-dictionary.json",
           "isSource": true,
           "original": {
-            "comment": "500% / Extra Large 5",
+            "comment": "Extra Large 5",
             "css": {
               "syntax": "<length>",
               "inherits": true
