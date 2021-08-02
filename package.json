@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-alpha.23",
+  "version": "1.0.0-alpha.24",
   "author": "Community for NL Design System",
   "description": "Design Tokens for the Municipality of Utrecht based on the NL Design System architecture",
   "license": "SEE LICENSE IN ../LICENSE.md",
@@ -13,10 +13,10 @@
     "url": "git@github.com:nl-design-system/utrecht.git"
   },
   "devDependencies": {
-    "chokidar-cli": "2.1.0",
+    "chokidar-cli": "3.0.0",
     "npm-run-all": "4.1.5",
     "rimraf": "3.0.2",
-    "sass": "1.36.0",
+    "sass": "1.37.0",
     "style-dictionary": "3.0.1"
   },
   "scripts": {
