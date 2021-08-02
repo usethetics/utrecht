@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 01 Aug 2021 16:09:45 GMT
+ * Generated on Mon, 02 Aug 2021 14:20:46 GMT
  */
 
 module.exports = {
@@ -5538,6 +5538,122 @@ module.exports = {
             "mapcontrolbutton",
             "hover",
             "color"
+          ]
+        }
+      }
+    },
+    "ordered-list": {
+      "margin-block-start": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "0",
+        "filePath": "./src/component/utrecht/ordered-list/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "0"
+        },
+        "name": "utrechtOrderedListMarginBlockStart",
+        "attributes": {
+          "category": "utrecht",
+          "type": "ordered-list",
+          "item": "margin-block-start"
+        },
+        "path": [
+          "utrecht",
+          "ordered-list",
+          "margin-block-start"
+        ]
+      },
+      "margin-block-end": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "1em",
+        "filePath": "./src/component/utrecht/ordered-list/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "1em"
+        },
+        "name": "utrechtOrderedListMarginBlockEnd",
+        "attributes": {
+          "category": "utrecht",
+          "type": "ordered-list",
+          "item": "margin-block-end"
+        },
+        "path": [
+          "utrecht",
+          "ordered-list",
+          "margin-block-end"
+        ]
+      },
+      "item": {
+        "margin-block-start": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "0.25em",
+          "filePath": "./src/component/utrecht/ordered-list/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<length>",
+              "inherits": true
+            },
+            "value": "0.25em"
+          },
+          "name": "utrechtOrderedListItemMarginBlockStart",
+          "attributes": {
+            "category": "utrecht",
+            "type": "ordered-list",
+            "item": "item",
+            "subitem": "margin-block-start"
+          },
+          "path": [
+            "utrecht",
+            "ordered-list",
+            "item",
+            "margin-block-start"
+          ]
+        },
+        "margin-block-end": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "0.25em",
+          "filePath": "./src/component/utrecht/ordered-list/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<length>",
+              "inherits": true
+            },
+            "value": "0.25em"
+          },
+          "name": "utrechtOrderedListItemMarginBlockEnd",
+          "attributes": {
+            "category": "utrecht",
+            "type": "ordered-list",
+            "item": "item",
+            "subitem": "margin-block-end"
+          },
+          "path": [
+            "utrecht",
+            "ordered-list",
+            "item",
+            "margin-block-end"
           ]
         }
       }

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 01 Aug 2021 16:09:45 GMT
+ * Generated on Mon, 02 Aug 2021 14:20:46 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -195,6 +195,10 @@ export const utrechtMapcontrolbuttonFocusOutlineColor = "hsl(0 0% 0%)";
 export const utrechtMapcontrolbuttonFocusBorderColor = "hsl(0 0% 0%)";
 export const utrechtMapcontrolbuttonHoverBackgroundColor = "hsl(0 0% 90%)";
 export const utrechtMapcontrolbuttonHoverColor = "hsl(0 0% 100%)";
+export const utrechtOrderedListMarginBlockStart = "0";
+export const utrechtOrderedListMarginBlockEnd = "1em";
+export const utrechtOrderedListItemMarginBlockStart = "0.25em";
+export const utrechtOrderedListItemMarginBlockEnd = "0.25em";
 export const utrechtPageFooterColor = "hsl(0 0% 100%)";
 export const utrechtPageFooterBackgroundColor = "hsl(0 100% 40%)";
 export const utrechtPageFooterBackgroundImage = "linear-gradient(45deg, hsl(0 100% 40%), hsl(0 100% 40%) 50%, hsl(5 54% 59%) 50%);";

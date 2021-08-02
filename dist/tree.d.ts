@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 01 Aug 2021 16:09:45 GMT
+ * Generated on Mon, 02 Aug 2021 14:20:46 GMT
  */
 
 export default tokens;
@@ -495,6 +495,14 @@ declare const tokens: {
       "hover": {
         "background-color": DesignToken,
         "color": DesignToken
+      }
+    },
+    "ordered-list": {
+      "margin-block-start": DesignToken,
+      "margin-block-end": DesignToken,
+      "item": {
+        "margin-block-start": DesignToken,
+        "margin-block-end": DesignToken
       }
     },
     "page-footer": {
