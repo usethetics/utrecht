@@ -4637,6 +4637,20 @@
         ]
       }
     },
+    "icon": {
+      "color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        }
+      },
+      "size": {
+        "css": {
+          "syntax": "<length-percentage>",
+          "inherits": true
+        }
+      }
+    },
     "link": {
       "color": {
         "css": {

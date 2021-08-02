@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 02 Aug 2021 17:24:49 GMT
+ * Generated on Mon, 02 Aug 2021 17:30:23 GMT
  */
 
 module.exports = {
@@ -4640,6 +4640,20 @@ module.exports = {
           "heading-6",
           "text-transform"
         ]
+      }
+    },
+    "icon": {
+      "color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        }
+      },
+      "size": {
+        "css": {
+          "syntax": "<length-percentage>",
+          "inherits": true
+        }
       }
     },
     "link": {
