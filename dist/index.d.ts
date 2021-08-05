@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 05 Aug 2021 15:42:02 GMT
+ * Generated on Thu, 05 Aug 2021 16:01:38 GMT
  */
 
 export const UtrechtArticleMaxInlineSize : string;
@@ -127,7 +127,6 @@ export const UtrechtFormLabelCheckboxFontWeight : string;
 export const UtrechtFormLabelRadioFontWeight : string;
 export const UtrechtFormLabelFontSize : string;
 export const UtrechtFormLabelFontWeight : string;
-export const UtrechtHeadingFontWeight : string;
 export const UtrechtHeading1FontSize : string;
 export const UtrechtHeading1LineHeight : string;
 export const UtrechtHeading1MarginBlockEnd : string;
@@ -160,6 +159,7 @@ export const UtrechtHeading6MarginBlockEnd : string;
 export const UtrechtHeading6MarginBlockStart : string;
 export const UtrechtHeading6LetterSpacing : string;
 export const UtrechtHeading6TextTransform : string;
+export const UtrechtHeadingFontWeight : string;
 export const UtrechtLinkColor : string;
 export const UtrechtLinkTextDecoration : string;
 export const UtrechtLinkActiveColor : string;

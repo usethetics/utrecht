@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 05 Aug 2021 15:42:02 GMT
+ * Generated on Thu, 05 Aug 2021 16:01:38 GMT
  */
 
 export default tokens;
@@ -333,15 +333,6 @@ declare const tokens: {
       "font-size": DesignToken,
       "font-weight": DesignToken
     },
-    "heading": {
-      "color": {
-        "css": {}
-      },
-      "font-family": {
-        "css": {}
-      },
-      "font-weight": DesignToken
-    },
     "heading-1": {
       "color": {
         "css": {}
@@ -431,6 +422,15 @@ declare const tokens: {
       "margin-block-start": DesignToken,
       "letter-spacing": DesignToken,
       "text-transform": DesignToken
+    },
+    "heading": {
+      "color": {
+        "css": {}
+      },
+      "font-family": {
+        "css": {}
+      },
+      "font-weight": DesignToken
     },
     "icon": {
       "color": {

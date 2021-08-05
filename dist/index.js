@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 05 Aug 2021 15:42:01 GMT
+ * Generated on Thu, 05 Aug 2021 16:01:37 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -127,7 +127,6 @@ export const utrechtFormLabelCheckboxFontWeight = "normal";
 export const utrechtFormLabelRadioFontWeight = "normal";
 export const utrechtFormLabelFontSize = "1em";
 export const utrechtFormLabelFontWeight = "bold";
-export const utrechtHeadingFontWeight = "bold";
 export const utrechtHeading1FontSize = "1.5rem";
 export const utrechtHeading1LineHeight = "1.4";
 export const utrechtHeading1MarginBlockEnd = "0.67rem";
@@ -160,6 +159,7 @@ export const utrechtHeading6MarginBlockEnd = "0.2rem";
 export const utrechtHeading6MarginBlockStart = "1rem";
 export const utrechtHeading6LetterSpacing = "0.72px";
 export const utrechtHeading6TextTransform = "uppercase";
+export const utrechtHeadingFontWeight = "bold";
 export const utrechtLinkColor = "hsl(211 60% 30%)";
 export const utrechtLinkTextDecoration = "underline";
 export const utrechtLinkActiveColor = "hsl(211 60% 30%)";

@@ -4273,7 +4273,7 @@
       "inherits": true
     },
     "value": "1.5rem",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-1/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4300,7 +4300,7 @@
       "inherits": true
     },
     "value": "1.4",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-1/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4327,7 +4327,7 @@
       "inherits": true
     },
     "value": "0.67rem",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-1/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4354,7 +4354,7 @@
       "inherits": true
     },
     "value": "0.67rem",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-1/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4381,7 +4381,7 @@
       "inherits": true
     },
     "value": "1.25rem",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-2/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4408,7 +4408,7 @@
       "inherits": true
     },
     "value": "1.2",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-2/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4435,7 +4435,7 @@
       "inherits": true
     },
     "value": "0.3rem",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-2/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4462,7 +4462,7 @@
       "inherits": true
     },
     "value": "1.5rem",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-2/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4489,7 +4489,7 @@
       "inherits": true
     },
     "value": "1.25rem",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-3/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4516,7 +4516,7 @@
       "inherits": true
     },
     "value": "normal",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-3/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4543,7 +4543,7 @@
       "inherits": true
     },
     "value": "1.2",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-3/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4570,7 +4570,7 @@
       "inherits": true
     },
     "value": "0.2rem",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-3/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4597,7 +4597,7 @@
       "inherits": true
     },
     "value": "1rem",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-3/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4624,7 +4624,7 @@
       "inherits": true
     },
     "value": "1.125rem",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-4/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4651,7 +4651,7 @@
       "inherits": true
     },
     "value": "normal",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-4/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4678,7 +4678,7 @@
       "inherits": true
     },
     "value": "1.25",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-4/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4705,7 +4705,7 @@
       "inherits": true
     },
     "value": "0.3rem",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-4/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4732,7 +4732,7 @@
       "inherits": true
     },
     "value": "1.2rem",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-4/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4759,7 +4759,7 @@
       "inherits": true
     },
     "value": "0.9rem",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-5/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4786,7 +4786,7 @@
       "inherits": true
     },
     "value": "normal",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-5/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4809,7 +4809,7 @@
   },
   {
     "value": "0.72px",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-5/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "value": "0.72px"
@@ -4832,7 +4832,7 @@
       "inherits": true
     },
     "value": "1.333",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-5/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4859,7 +4859,7 @@
       "inherits": true
     },
     "value": "0.2rem",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-5/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4886,7 +4886,7 @@
       "inherits": true
     },
     "value": "1rem",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-5/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4909,7 +4909,7 @@
   },
   {
     "value": "uppercase",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-5/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "value": "uppercase"
@@ -4932,7 +4932,7 @@
       "inherits": true
     },
     "value": "0.9rem",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-6/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4959,7 +4959,7 @@
       "inherits": true
     },
     "value": "normal",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-6/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -4982,7 +4982,7 @@
   },
   {
     "value": "0.72px",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-6/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "value": "0.72px"
@@ -5005,7 +5005,7 @@
       "inherits": true
     },
     "value": "1.333",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-6/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -5032,7 +5032,7 @@
       "inherits": true
     },
     "value": "0.2rem",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-6/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -5059,7 +5059,7 @@
       "inherits": true
     },
     "value": "1rem",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-6/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "css": {
@@ -5082,7 +5082,7 @@
   },
   {
     "value": "uppercase",
-    "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+    "filePath": "./src/component/utrecht/heading-6/block.style-dictionary.json",
     "isSource": true,
     "original": {
       "value": "uppercase"

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 05 Aug 2021 15:42:01 GMT
+ * Generated on Thu, 05 Aug 2021 16:01:37 GMT
  */
 
 module.exports = {
@@ -3687,47 +3687,6 @@ module.exports = {
         ]
       }
     },
-    "heading": {
-      "color": {
-        "css": {
-          "syntax": "<color>",
-          "inherits": true
-        }
-      },
-      "font-family": {
-        "css": {
-          "syntax": "*",
-          "inherits": true
-        }
-      },
-      "font-weight": {
-        "css": {
-          "syntax": "<number>",
-          "inherits": true
-        },
-        "value": "bold",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<number>",
-            "inherits": true
-          },
-          "value": "{utrecht.typography.weight-scale.bold.font-weight.value}"
-        },
-        "name": "utrechtHeadingFontWeight",
-        "attributes": {
-          "category": "utrecht",
-          "type": "heading",
-          "item": "font-weight"
-        },
-        "path": [
-          "utrecht",
-          "heading",
-          "font-weight"
-        ]
-      }
-    },
     "heading-1": {
       "color": {
         "css": {
@@ -3747,7 +3706,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.5rem",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-1/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3780,7 +3739,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.4",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-1/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3807,7 +3766,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0.67rem",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-1/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3834,7 +3793,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0.67rem",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-1/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3876,7 +3835,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.25rem",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-2/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3909,7 +3868,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.2",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-2/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3936,7 +3895,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0.3rem",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-2/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3963,7 +3922,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.5rem",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-2/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4005,7 +3964,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.25rem",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-3/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4032,7 +3991,7 @@ module.exports = {
           "inherits": true
         },
         "value": "normal",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-3/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4059,7 +4018,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.2",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-3/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4086,7 +4045,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0.2rem",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-3/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4113,7 +4072,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1rem",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-3/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4155,7 +4114,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.125rem",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-4/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4182,7 +4141,7 @@ module.exports = {
           "inherits": true
         },
         "value": "normal",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-4/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4209,7 +4168,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.25",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-4/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4236,7 +4195,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0.3rem",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-4/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4263,7 +4222,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.2rem",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-4/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4305,7 +4264,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0.9rem",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-5/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4332,7 +4291,7 @@ module.exports = {
           "inherits": true
         },
         "value": "normal",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-5/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4359,7 +4318,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.333",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-5/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4386,7 +4345,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0.2rem",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-5/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4413,7 +4372,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1rem",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-5/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4436,7 +4395,7 @@ module.exports = {
       },
       "letter-spacing": {
         "value": "0.72px",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-5/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "value": "0.72px"
@@ -4455,7 +4414,7 @@ module.exports = {
       },
       "text-transform": {
         "value": "uppercase",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-5/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "value": "uppercase"
@@ -4492,7 +4451,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0.9rem",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-6/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4519,7 +4478,7 @@ module.exports = {
           "inherits": true
         },
         "value": "normal",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-6/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4546,7 +4505,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.333",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-6/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4573,7 +4532,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0.2rem",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-6/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4600,7 +4559,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1rem",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-6/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4623,7 +4582,7 @@ module.exports = {
       },
       "letter-spacing": {
         "value": "0.72px",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-6/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "value": "0.72px"
@@ -4642,7 +4601,7 @@ module.exports = {
       },
       "text-transform": {
         "value": "uppercase",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-6/block.style-dictionary.json",
         "isSource": true,
         "original": {
           "value": "uppercase"
@@ -4657,6 +4616,47 @@ module.exports = {
           "utrecht",
           "heading-6",
           "text-transform"
+        ]
+      }
+    },
+    "heading": {
+      "color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        }
+      },
+      "font-family": {
+        "css": {
+          "syntax": "*",
+          "inherits": true
+        }
+      },
+      "font-weight": {
+        "css": {
+          "syntax": "<number>",
+          "inherits": true
+        },
+        "value": "bold",
+        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<number>",
+            "inherits": true
+          },
+          "value": "{utrecht.typography.weight-scale.bold.font-weight.value}"
+        },
+        "name": "utrechtHeadingFontWeight",
+        "attributes": {
+          "category": "utrecht",
+          "type": "heading",
+          "item": "font-weight"
+        },
+        "path": [
+          "utrecht",
+          "heading",
+          "font-weight"
         ]
       }
     },
