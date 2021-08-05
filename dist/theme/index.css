@@ -1,9 +1,16 @@
 /**
  * Do not edit directly
- * Generated on Wed, 04 Aug 2021 10:18:07 GMT
+ * Generated on Thu, 05 Aug 2021 15:42:01 GMT
  */
 
 .utrecht-theme {
+  --utrecht-searchbar-hover-transform: 1;
+  --utrecht-searchbar-hover-background-color: #d94e51;
+  --utrecht-search-bar-button-text-transform: uppercase;
+  --utrecht-search-bar-button-letter-spacing: .05em;
+  --utrecht-search-bar-textbox-background-size: 1em;
+  --utrecht-search-bar-textbox-background-position-y: 50%;
+  --utrecht-search-bar-textbox-background-position-x: .5em;
   --utrecht-topnav-link-focus-text-decoration: none;
   --utrecht-topnav-link-focus-border-type: dotted;
   --utrecht-form-input-block-size: 42px;
@@ -187,6 +194,13 @@
   --utrecht-badge-data-text-transform: uppercase;
   --utrecht-badge-data-letter-spacing: 0.15ch;
   --utrecht-article-max-inline-size: 780px;
+  --utrecht-search-bar-button-font-weight: var(--utrecht-typography-weight-scale-bold-font-weight);
+  --utrecht-search-bar-button-font-size: var(--utrecht-typography-scale-sm-font-size);
+  --utrecht-search-bar-button-color: var(--utrecht-color-white);
+  --utrecht-search-bar-button-border-color: var(--utrecht-color-red-40);
+  --utrecht-search-bar-button-background-color: var(--utrecht-color-red-40);
+  --utrecht-search-bar-textbox-padding-inline-start: var(--utrecht-space-inline-2xl);
+  --utrecht-search-bar-textbox-border-color: var(--utrecht-color-red-40);
   --utrecht-topnav-list-border-color: var(--utrecht-color-grey-40);
   --utrecht-topnav-list-background-color: var(--utrecht-color-grey-15);
   --utrecht-topnav-link-background-color: var(--utrecht-color-blue-40);
@@ -376,6 +390,7 @@
   --utrecht-feedback-safe-fill-background-color: var(--utrecht-feedback-safe-background-color);
   --utrecht-feedback-warning-fill-background-color: var(--utrecht-feedback-warning-background-color);
   --utrecht-feedback-danger-fill-background-color: var(--utrecht-feedback-danger-background-color);
+  --utrecht-searchbar-invalid-border-color: var(--utrecht-feedback-invalid-border-color);
   --utrecht-textbox-invalid-border-color: var(--utrecht-feedback-invalid-border-color);
   --utrecht-textarea-invalid-border-color: var(--utrecht-feedback-invalid-border-color);
   --utrecht-feedback-active-fill-background-color: var(--utrecht-feedback-active-background-color);

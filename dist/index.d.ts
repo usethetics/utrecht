@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 04 Aug 2021 10:18:07 GMT
+ * Generated on Thu, 05 Aug 2021 15:42:02 GMT
  */
 
 export const UtrechtArticleMaxInlineSize : string;
@@ -383,3 +383,18 @@ export const UtrechtTopnavLinkColor : string;
 export const UtrechtTopnavLinkBackgroundColor : string;
 export const UtrechtTopnavListBackgroundColor : string;
 export const UtrechtTopnavListBorderColor : string;
+export const UtrechtSearchBarTextboxBackgroundPositionX : string;
+export const UtrechtSearchBarTextboxBackgroundPositionY : string;
+export const UtrechtSearchBarTextboxBackgroundSize : string;
+export const UtrechtSearchBarTextboxBorderColor : string;
+export const UtrechtSearchBarTextboxPaddingInlineStart : string;
+export const UtrechtSearchBarButtonBackgroundColor : string;
+export const UtrechtSearchBarButtonBorderColor : string;
+export const UtrechtSearchBarButtonColor : string;
+export const UtrechtSearchBarButtonFontSize : string;
+export const UtrechtSearchBarButtonFontWeight : string;
+export const UtrechtSearchBarButtonLetterSpacing : string;
+export const UtrechtSearchBarButtonTextTransform : string;
+export const UtrechtSearchbarInvalidBorderColor : string;
+export const UtrechtSearchbarHoverBackgroundColor : string;
+export const UtrechtSearchbarHoverTransform : string;

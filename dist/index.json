@@ -6452,6 +6452,321 @@
     ]
   },
   {
+    "value": "hsl(0 100% 40%)",
+    "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "value": "{utrecht.color.red.40.value}"
+    },
+    "name": "utrechtSearchBarButtonBackgroundColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "search-bar",
+      "item": "button",
+      "subitem": "background-color"
+    },
+    "path": [
+      "utrecht",
+      "search-bar",
+      "button",
+      "background-color"
+    ]
+  },
+  {
+    "value": "hsl(0 100% 40%)",
+    "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "value": "{utrecht.color.red.40.value}"
+    },
+    "name": "utrechtSearchBarButtonBorderColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "search-bar",
+      "item": "button",
+      "subitem": "border-color"
+    },
+    "path": [
+      "utrecht",
+      "search-bar",
+      "button",
+      "border-color"
+    ]
+  },
+  {
+    "value": "hsl(0 0% 100%)",
+    "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "value": "{utrecht.color.white.value}"
+    },
+    "name": "utrechtSearchBarButtonColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "search-bar",
+      "item": "button",
+      "subitem": "color"
+    },
+    "path": [
+      "utrecht",
+      "search-bar",
+      "button",
+      "color"
+    ]
+  },
+  {
+    "value": "0.9rem",
+    "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "value": "{utrecht.typography.scale.sm.font-size.value}"
+    },
+    "name": "utrechtSearchBarButtonFontSize",
+    "attributes": {
+      "category": "utrecht",
+      "type": "search-bar",
+      "item": "button",
+      "subitem": "font-size"
+    },
+    "path": [
+      "utrecht",
+      "search-bar",
+      "button",
+      "font-size"
+    ]
+  },
+  {
+    "value": "bold",
+    "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "value": "{utrecht.typography.weight-scale.bold.font-weight.value}"
+    },
+    "name": "utrechtSearchBarButtonFontWeight",
+    "attributes": {
+      "category": "utrecht",
+      "type": "search-bar",
+      "item": "button",
+      "subitem": "font-weight"
+    },
+    "path": [
+      "utrecht",
+      "search-bar",
+      "button",
+      "font-weight"
+    ]
+  },
+  {
+    "value": ".05em",
+    "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "value": ".05em"
+    },
+    "name": "utrechtSearchBarButtonLetterSpacing",
+    "attributes": {
+      "category": "utrecht",
+      "type": "search-bar",
+      "item": "button",
+      "subitem": "letter-spacing"
+    },
+    "path": [
+      "utrecht",
+      "search-bar",
+      "button",
+      "letter-spacing"
+    ]
+  },
+  {
+    "value": "uppercase",
+    "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "value": "uppercase"
+    },
+    "name": "utrechtSearchBarButtonTextTransform",
+    "attributes": {
+      "category": "utrecht",
+      "type": "search-bar",
+      "item": "button",
+      "subitem": "text-transform"
+    },
+    "path": [
+      "utrecht",
+      "search-bar",
+      "button",
+      "text-transform"
+    ]
+  },
+  {
+    "value": ".5em",
+    "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "value": ".5em"
+    },
+    "name": "utrechtSearchBarTextboxBackgroundPositionX",
+    "attributes": {
+      "category": "utrecht",
+      "type": "search-bar",
+      "item": "textbox",
+      "subitem": "background-position-x"
+    },
+    "path": [
+      "utrecht",
+      "search-bar",
+      "textbox",
+      "background-position-x"
+    ]
+  },
+  {
+    "value": "50%",
+    "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "value": "50%"
+    },
+    "name": "utrechtSearchBarTextboxBackgroundPositionY",
+    "attributes": {
+      "category": "utrecht",
+      "type": "search-bar",
+      "item": "textbox",
+      "subitem": "background-position-y"
+    },
+    "path": [
+      "utrecht",
+      "search-bar",
+      "textbox",
+      "background-position-y"
+    ]
+  },
+  {
+    "value": "1em",
+    "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "value": "1em"
+    },
+    "name": "utrechtSearchBarTextboxBackgroundSize",
+    "attributes": {
+      "category": "utrecht",
+      "type": "search-bar",
+      "item": "textbox",
+      "subitem": "background-size"
+    },
+    "path": [
+      "utrecht",
+      "search-bar",
+      "textbox",
+      "background-size"
+    ]
+  },
+  {
+    "value": "hsl(0 100% 40%)",
+    "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "value": "{utrecht.color.red.40.value}"
+    },
+    "name": "utrechtSearchBarTextboxBorderColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "search-bar",
+      "item": "textbox",
+      "subitem": "border-color"
+    },
+    "path": [
+      "utrecht",
+      "search-bar",
+      "textbox",
+      "border-color"
+    ]
+  },
+  {
+    "value": "32px",
+    "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "value": "{utrecht.space.inline.2xl.value}"
+    },
+    "name": "utrechtSearchBarTextboxPaddingInlineStart",
+    "attributes": {
+      "category": "utrecht",
+      "type": "search-bar",
+      "item": "textbox",
+      "subitem": "padding-inline-start"
+    },
+    "path": [
+      "utrecht",
+      "search-bar",
+      "textbox",
+      "padding-inline-start"
+    ]
+  },
+  {
+    "value": "#d94e51",
+    "filePath": "./src/component/utrecht/search-bar/modifier.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "value": "#d94e51"
+    },
+    "name": "utrechtSearchbarHoverBackgroundColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "searchbar",
+      "item": "hover",
+      "subitem": "background-color"
+    },
+    "path": [
+      "utrecht",
+      "searchbar",
+      "hover",
+      "background-color"
+    ]
+  },
+  {
+    "value": "1",
+    "filePath": "./src/component/utrecht/search-bar/modifier.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "value": "1"
+    },
+    "name": "utrechtSearchbarHoverTransform",
+    "attributes": {
+      "category": "utrecht",
+      "type": "searchbar",
+      "item": "hover",
+      "subitem": "transform"
+    },
+    "path": [
+      "utrecht",
+      "searchbar",
+      "hover",
+      "transform"
+    ]
+  },
+  {
+    "value": "hsl(0 100% 40%)",
+    "filePath": "./src/component/utrecht/search-bar/modifier.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "value": "{utrecht.feedback.invalid.border-color.value}"
+    },
+    "name": "utrechtSearchbarInvalidBorderColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "searchbar",
+      "item": "invalid",
+      "subitem": "border-color"
+    },
+    "path": [
+      "utrecht",
+      "searchbar",
+      "invalid",
+      "border-color"
+    ]
+  },
+  {
     "css": {
       "syntax": "<color>",
       "inherits": true

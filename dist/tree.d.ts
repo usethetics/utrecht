@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 04 Aug 2021 10:18:07 GMT
+ * Generated on Thu, 05 Aug 2021 15:42:02 GMT
  */
 
 export default tokens;
@@ -105,6 +105,12 @@ declare const tokens: {
         "css": {}
       },
       "font-size": DesignToken,
+      "font-weight": {
+        "css": {}
+      },
+      "letter-spacing": {
+        "css": {}
+      },
       "margin-block-start": DesignToken,
       "margin-block-end": DesignToken,
       "margin-inline-start": DesignToken,
@@ -113,6 +119,9 @@ declare const tokens: {
       "padding-block-end": DesignToken,
       "padding-inline-start": DesignToken,
       "padding-inline-end": DesignToken,
+      "text-transform": {
+        "css": {}
+      },
       "disabled": {
         "color": DesignToken,
         "hover-background-color": {
@@ -936,6 +945,42 @@ declare const tokens: {
       "list": {
         "background-color": DesignToken,
         "border-color": DesignToken
+      }
+    },
+    "search-bar": {
+      "textbox": {
+        "background-position-x": DesignToken,
+        "background-position-y": DesignToken,
+        "background-size": DesignToken,
+        "border-color": DesignToken,
+        "padding-inline-start": DesignToken
+      },
+      "button": {
+        "background-color": DesignToken,
+        "border-color": DesignToken,
+        "color": DesignToken,
+        "font-size": DesignToken,
+        "font-weight": DesignToken,
+        "letter-spacing": DesignToken,
+        "text-transform": DesignToken
+      }
+    },
+    "searchbar": {
+      "disabled": {
+        "border-color": {},
+        "color": {}
+      },
+      "invalid": {
+        "border-color": DesignToken,
+        "border-width": {}
+      },
+      "read-only": {
+        "border-color": {},
+        "color": {}
+      },
+      "hover": {
+        "background-color": DesignToken,
+        "transform": DesignToken
       }
     }
   }

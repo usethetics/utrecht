@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 04 Aug 2021 10:18:07 GMT
+ * Generated on Thu, 05 Aug 2021 15:42:01 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -383,3 +383,18 @@ export const utrechtTopnavLinkColor = "hsl(0 0% 100%)";
 export const utrechtTopnavLinkBackgroundColor = "hsl(211 60% 40%)";
 export const utrechtTopnavListBackgroundColor = "hsl(0 0% 15%)";
 export const utrechtTopnavListBorderColor = "hsl(0 0% 40%)";
+export const utrechtSearchBarTextboxBackgroundPositionX = ".5em";
+export const utrechtSearchBarTextboxBackgroundPositionY = "50%";
+export const utrechtSearchBarTextboxBackgroundSize = "1em";
+export const utrechtSearchBarTextboxBorderColor = "hsl(0 100% 40%)";
+export const utrechtSearchBarTextboxPaddingInlineStart = "32px";
+export const utrechtSearchBarButtonBackgroundColor = "hsl(0 100% 40%)";
+export const utrechtSearchBarButtonBorderColor = "hsl(0 100% 40%)";
+export const utrechtSearchBarButtonColor = "hsl(0 0% 100%)";
+export const utrechtSearchBarButtonFontSize = "0.9rem";
+export const utrechtSearchBarButtonFontWeight = "bold";
+export const utrechtSearchBarButtonLetterSpacing = ".05em";
+export const utrechtSearchBarButtonTextTransform = "uppercase";
+export const utrechtSearchbarInvalidBorderColor = "hsl(0 100% 40%)";
+export const utrechtSearchbarHoverBackgroundColor = "#d94e51";
+export const utrechtSearchbarHoverTransform = "1";
