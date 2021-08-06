@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 05 Aug 2021 17:51:30 GMT
+ * Generated on Fri, 06 Aug 2021 10:33:31 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -396,5 +396,5 @@ export const utrechtSearchBarButtonFontWeight = "bold";
 export const utrechtSearchBarButtonLetterSpacing = ".05em";
 export const utrechtSearchBarButtonTextTransform = "uppercase";
 export const utrechtSearchbarInvalidBorderColor = "hsl(0 100% 40%)";
-export const utrechtSearchbarHoverBackgroundColor = "#d94e51";
+export const utrechtSearchbarHoverBackgroundColor = "hsl(359, 65%, 58%)";
 export const utrechtSearchbarHoverTransform = "1";

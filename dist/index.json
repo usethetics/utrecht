@@ -6704,11 +6704,11 @@
     ]
   },
   {
-    "value": "#d94e51",
+    "value": "hsl(359, 65%, 58%)",
     "filePath": "./src/component/utrecht/search-bar/modifier.style-dictionary.json",
     "isSource": true,
     "original": {
-      "value": "#d94e51"
+      "value": "hsl(359, 65%, 58%)"
     },
     "name": "utrechtSearchbarHoverBackgroundColor",
     "attributes": {

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 05 Aug 2021 17:51:30 GMT
+ * Generated on Fri, 06 Aug 2021 10:33:31 GMT
  */
 
 module.exports = {
@@ -11177,11 +11177,11 @@ module.exports = {
       },
       "hover": {
         "background-color": {
-          "value": "#d94e51",
+          "value": "hsl(359, 65%, 58%)",
           "filePath": "./src/component/utrecht/search-bar/modifier.style-dictionary.json",
           "isSource": true,
           "original": {
-            "value": "#d94e51"
+            "value": "hsl(359, 65%, 58%)"
           },
           "name": "utrechtSearchbarHoverBackgroundColor",
           "attributes": {
