@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 06 Aug 2021 10:33:32 GMT
+ * Generated on Fri, 06 Aug 2021 11:20:54 GMT
  */
 
 export default tokens;
@@ -530,6 +530,88 @@ declare const tokens: {
       "padding-inline-start": DesignToken,
       "padding-block-end": DesignToken,
       "padding-block-start": DesignToken
+    },
+    "pagination": {
+      "font-size": DesignToken,
+      "font-family": {
+        "css": {}
+      },
+      "margin-block-start": DesignToken,
+      "margin-block-end": DesignToken,
+      "page-link": {
+        "current": {
+          "background-color": DesignToken,
+          "border-color": DesignToken,
+          "color": DesignToken
+        },
+        "distanced": {
+          "margin-inline-start": DesignToken
+        },
+        "hover": {
+          "background-color": DesignToken,
+          "border-color": DesignToken,
+          "color": DesignToken
+        },
+        "background-color": DesignToken,
+        "border-radius": {
+          "css": {}
+        },
+        "border-width": DesignToken,
+        "color": DesignToken,
+        "font-weight": DesignToken,
+        "padding-inline-end": DesignToken,
+        "padding-inline-start": DesignToken,
+        "padding-block-end": DesignToken,
+        "padding-block-start": DesignToken,
+        "text-decoration": DesignToken,
+        "border-color": DesignToken
+      },
+      "relative-link": {
+        "background-color": DesignToken,
+        "border-radius": {
+          "css": {}
+        },
+        "border-width": DesignToken,
+        "color": DesignToken,
+        "font-weight": DesignToken,
+        "padding-inline-end": DesignToken,
+        "padding-inline-start": DesignToken,
+        "padding-block-end": DesignToken,
+        "padding-block-start": DesignToken,
+        "text-decoration": DesignToken,
+        "text-transform": DesignToken,
+        "distanced": {
+          "margin-inline-end": DesignToken,
+          "margin-inline-start": DesignToken
+        },
+        "hover": {
+          "background-color": DesignToken,
+          "border-color": DesignToken,
+          "color": DesignToken
+        },
+        "border-color": DesignToken
+      }
+    },
+    "relative-link": {
+      "distanced": {
+        "margin-inline-end": {
+          "css": {}
+        },
+        "margin-inline-start": {
+          "css": {}
+        }
+      },
+      "hover": {
+        "background-color": {
+          "css": {}
+        },
+        "border-color": {
+          "css": {}
+        },
+        "color": {
+          "css": {}
+        }
+      }
     },
     "paragraph": {
       "color": {

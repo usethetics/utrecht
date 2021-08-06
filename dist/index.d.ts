@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 06 Aug 2021 10:33:32 GMT
+ * Generated on Fri, 06 Aug 2021 11:20:54 GMT
  */
 
 export const UtrechtArticleMaxInlineSize : string;
@@ -206,6 +206,42 @@ export const UtrechtPageFooterPaddingInlineEnd : string;
 export const UtrechtPageFooterPaddingInlineStart : string;
 export const UtrechtPageFooterPaddingBlockEnd : string;
 export const UtrechtPageFooterPaddingBlockStart : string;
+export const UtrechtPaginationFontSize : string;
+export const UtrechtPaginationMarginBlockStart : string;
+export const UtrechtPaginationMarginBlockEnd : string;
+export const UtrechtPaginationPageLinkCurrentBackgroundColor : string;
+export const UtrechtPaginationPageLinkCurrentBorderColor : string;
+export const UtrechtPaginationPageLinkCurrentColor : string;
+export const UtrechtPaginationPageLinkDistancedMarginInlineStart : string;
+export const UtrechtPaginationPageLinkHoverBackgroundColor : string;
+export const UtrechtPaginationPageLinkHoverBorderColor : string;
+export const UtrechtPaginationPageLinkHoverColor : string;
+export const UtrechtPaginationPageLinkBackgroundColor : string;
+export const UtrechtPaginationPageLinkBorderWidth : string;
+export const UtrechtPaginationPageLinkColor : string;
+export const UtrechtPaginationPageLinkFontWeight : string;
+export const UtrechtPaginationPageLinkPaddingInlineEnd : string;
+export const UtrechtPaginationPageLinkPaddingInlineStart : string;
+export const UtrechtPaginationPageLinkPaddingBlockEnd : string;
+export const UtrechtPaginationPageLinkPaddingBlockStart : string;
+export const UtrechtPaginationPageLinkTextDecoration : string;
+export const UtrechtPaginationPageLinkBorderColor : string;
+export const UtrechtPaginationRelativeLinkBackgroundColor : string;
+export const UtrechtPaginationRelativeLinkBorderWidth : string;
+export const UtrechtPaginationRelativeLinkColor : string;
+export const UtrechtPaginationRelativeLinkFontWeight : string;
+export const UtrechtPaginationRelativeLinkPaddingInlineEnd : string;
+export const UtrechtPaginationRelativeLinkPaddingInlineStart : string;
+export const UtrechtPaginationRelativeLinkPaddingBlockEnd : string;
+export const UtrechtPaginationRelativeLinkPaddingBlockStart : string;
+export const UtrechtPaginationRelativeLinkTextDecoration : string;
+export const UtrechtPaginationRelativeLinkTextTransform : string;
+export const UtrechtPaginationRelativeLinkDistancedMarginInlineEnd : string;
+export const UtrechtPaginationRelativeLinkDistancedMarginInlineStart : string;
+export const UtrechtPaginationRelativeLinkHoverBackgroundColor : string;
+export const UtrechtPaginationRelativeLinkHoverBorderColor : string;
+export const UtrechtPaginationRelativeLinkHoverColor : string;
+export const UtrechtPaginationRelativeLinkBorderColor : string;
 export const UtrechtParagraphFontSize : string;
 export const UtrechtParagraphFontWeight : string;
 export const UtrechtParagraphLineHeight : string;

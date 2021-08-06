@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 06 Aug 2021 10:33:31 GMT
+ * Generated on Fri, 06 Aug 2021 11:20:53 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -206,6 +206,42 @@ export const utrechtPageFooterPaddingInlineEnd = "1em";
 export const utrechtPageFooterPaddingInlineStart = "1em";
 export const utrechtPageFooterPaddingBlockEnd = "1.8em";
 export const utrechtPageFooterPaddingBlockStart = "1.8em";
+export const utrechtPaginationFontSize = "14px";
+export const utrechtPaginationMarginBlockStart = "0";
+export const utrechtPaginationMarginBlockEnd = "1em";
+export const utrechtPaginationPageLinkCurrentBackgroundColor = "hsl(211 60% 35%)";
+export const utrechtPaginationPageLinkCurrentBorderColor = "hsl(211 60% 35%)";
+export const utrechtPaginationPageLinkCurrentColor = "hsl(0 0% 100%)";
+export const utrechtPaginationPageLinkDistancedMarginInlineStart = "0.5em";
+export const utrechtPaginationPageLinkHoverBackgroundColor = "hsl(211 60% 35%)";
+export const utrechtPaginationPageLinkHoverBorderColor = "hsl(211 60% 35%)";
+export const utrechtPaginationPageLinkHoverColor = "hsl(0 0% 100%)";
+export const utrechtPaginationPageLinkBackgroundColor = "transparent";
+export const utrechtPaginationPageLinkBorderWidth = "2px";
+export const utrechtPaginationPageLinkColor = "hsl(211 60% 35%)";
+export const utrechtPaginationPageLinkFontWeight = "bold";
+export const utrechtPaginationPageLinkPaddingInlineEnd = "0.5em";
+export const utrechtPaginationPageLinkPaddingInlineStart = "0.5em";
+export const utrechtPaginationPageLinkPaddingBlockEnd = "0.5em";
+export const utrechtPaginationPageLinkPaddingBlockStart = "0.5em";
+export const utrechtPaginationPageLinkTextDecoration = "none";
+export const utrechtPaginationPageLinkBorderColor = "transparent";
+export const utrechtPaginationRelativeLinkBackgroundColor = "hsl(0 0% 100%)";
+export const utrechtPaginationRelativeLinkBorderWidth = "2px";
+export const utrechtPaginationRelativeLinkColor = "hsl(211 60% 35%)";
+export const utrechtPaginationRelativeLinkFontWeight = "bold";
+export const utrechtPaginationRelativeLinkPaddingInlineEnd = "0.5em";
+export const utrechtPaginationRelativeLinkPaddingInlineStart = "0.5em";
+export const utrechtPaginationRelativeLinkPaddingBlockEnd = "0.5em";
+export const utrechtPaginationRelativeLinkPaddingBlockStart = "0.5em";
+export const utrechtPaginationRelativeLinkTextDecoration = "none";
+export const utrechtPaginationRelativeLinkTextTransform = "uppercase";
+export const utrechtPaginationRelativeLinkDistancedMarginInlineEnd = "0.5em";
+export const utrechtPaginationRelativeLinkDistancedMarginInlineStart = "0.5em";
+export const utrechtPaginationRelativeLinkHoverBackgroundColor = "hsl(211 60% 35%)";
+export const utrechtPaginationRelativeLinkHoverBorderColor = "hsl(211 60% 35%)";
+export const utrechtPaginationRelativeLinkHoverColor = "hsl(0 0% 100%)";
+export const utrechtPaginationRelativeLinkBorderColor = "hsl(211 60% 35%)";
 export const utrechtParagraphFontSize = "1rem";
 export const utrechtParagraphFontWeight = "normal";
 export const utrechtParagraphLineHeight = "1.4";

@@ -159,6 +159,35 @@
 @property --utrecht-page-footer-padding-block-start { syntax: '<length>'; inherits: true; }
 @property --utrecht-page-footer-padding-inline-end { syntax: '<length>'; inherits: true; }
 @property --utrecht-page-footer-padding-inline-start { syntax: '<length>'; inherits: true; }
+@property --utrecht-pagination-font-size { syntax: '<length>'; inherits: true; }
+@property --utrecht-pagination-margin-block-end { syntax: '<length>'; inherits: true; }
+@property --utrecht-pagination-margin-block-start { syntax: '<length>'; inherits: true; }
+@property --utrecht-pagination-page-link-background-color { syntax: '<color>'; inherits: true; }
+@property --utrecht-pagination-page-link-border-width { syntax: '<length>'; inherits: true; }
+@property --utrecht-pagination-page-link-color { syntax: '<color>'; inherits: true; }
+@property --utrecht-pagination-page-link-current-background-color { syntax: '<color>'; inherits: true; }
+@property --utrecht-pagination-page-link-current-border-color { syntax: '<color>'; inherits: true; }
+@property --utrecht-pagination-page-link-current-color { syntax: '<color>'; inherits: true; }
+@property --utrecht-pagination-page-link-distanced-margin-inline-start { syntax: '<length>'; inherits: true; }
+@property --utrecht-pagination-page-link-font-weight { syntax: '<number>'; inherits: true; }
+@property --utrecht-pagination-page-link-hover-background-color { syntax: '<color>'; inherits: true; }
+@property --utrecht-pagination-page-link-hover-border-color { syntax: '<color>'; inherits: true; }
+@property --utrecht-pagination-page-link-hover-color { syntax: '<color>'; inherits: true; }
+@property --utrecht-pagination-page-link-padding-block-end { syntax: '<length>'; inherits: true; }
+@property --utrecht-pagination-page-link-padding-block-start { syntax: '<length>'; inherits: true; }
+@property --utrecht-pagination-page-link-padding-inline-end { syntax: '<length>'; inherits: true; }
+@property --utrecht-pagination-page-link-padding-inline-start { syntax: '<length>'; inherits: true; }
+@property --utrecht-pagination-page-link-text-decoration { syntax: 'none | underline'; inherits: true; }
+@property --utrecht-pagination-relative-link-background-color { syntax: '<color>'; inherits: true; }
+@property --utrecht-pagination-relative-link-border-width { syntax: '<length>'; inherits: true; }
+@property --utrecht-pagination-relative-link-color { syntax: '<color>'; inherits: true; }
+@property --utrecht-pagination-relative-link-font-weight { syntax: '<number>'; inherits: true; }
+@property --utrecht-pagination-relative-link-padding-block-end { syntax: '<length>'; inherits: true; }
+@property --utrecht-pagination-relative-link-padding-block-start { syntax: '<length>'; inherits: true; }
+@property --utrecht-pagination-relative-link-padding-inline-end { syntax: '<length>'; inherits: true; }
+@property --utrecht-pagination-relative-link-padding-inline-start { syntax: '<length>'; inherits: true; }
+@property --utrecht-pagination-relative-link-text-decoration { syntax: 'none | underline'; inherits: true; }
+@property --utrecht-pagination-relative-link-text-transform { syntax: 'inherit | uppercase'; inherits: true; }
 @property --utrecht-paragraph-font-size { syntax: '<length>'; inherits: true; }
 @property --utrecht-paragraph-font-weight { syntax: '<number>'; inherits: true; }
 @property --utrecht-paragraph-lead-font-size { syntax: '<length>'; inherits: true; }

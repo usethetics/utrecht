@@ -6319,6 +6319,1012 @@
       "syntax": "<length>",
       "inherits": true
     },
+    "value": "14px",
+    "filePath": "./src/component/utrecht/pagination/block.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "14px"
+    },
+    "name": "utrechtPaginationFontSize",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "font-size"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "font-size"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "1em",
+    "filePath": "./src/component/utrecht/pagination/block.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "1em"
+    },
+    "name": "utrechtPaginationMarginBlockEnd",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "margin-block-end"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "margin-block-end"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "0",
+    "filePath": "./src/component/utrecht/pagination/block.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "0"
+    },
+    "name": "utrechtPaginationMarginBlockStart",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "margin-block-start"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "margin-block-start"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<color>",
+      "inherits": true
+    },
+    "value": "transparent",
+    "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<color>",
+        "inherits": true
+      },
+      "value": "transparent"
+    },
+    "name": "utrechtPaginationPageLinkBackgroundColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "page-link",
+      "subitem": "background-color"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "page-link",
+      "background-color"
+    ]
+  },
+  {
+    "value": "transparent",
+    "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "value": "transparent"
+    },
+    "name": "utrechtPaginationPageLinkBorderColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "page-link",
+      "subitem": "border-color"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "page-link",
+      "border-color"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "2px",
+    "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "2px"
+    },
+    "name": "utrechtPaginationPageLinkBorderWidth",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "page-link",
+      "subitem": "border-width"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "page-link",
+      "border-width"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<color>",
+      "inherits": true
+    },
+    "value": "hsl(211 60% 35%)",
+    "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<color>",
+        "inherits": true
+      },
+      "value": "{utrecht.color.blue.35.value}"
+    },
+    "name": "utrechtPaginationPageLinkColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "page-link",
+      "subitem": "color"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "page-link",
+      "color"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<color>",
+      "inherits": true
+    },
+    "value": "hsl(211 60% 35%)",
+    "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<color>",
+        "inherits": true
+      },
+      "value": "{utrecht.color.blue.35.value}"
+    },
+    "name": "utrechtPaginationPageLinkCurrentBackgroundColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "page-link",
+      "subitem": "current",
+      "state": "background-color"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "page-link",
+      "current",
+      "background-color"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<color>",
+      "inherits": true
+    },
+    "value": "hsl(211 60% 35%)",
+    "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<color>",
+        "inherits": true
+      },
+      "value": "{utrecht.color.blue.35.value}"
+    },
+    "name": "utrechtPaginationPageLinkCurrentBorderColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "page-link",
+      "subitem": "current",
+      "state": "border-color"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "page-link",
+      "current",
+      "border-color"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<color>",
+      "inherits": true
+    },
+    "value": "hsl(0 0% 100%)",
+    "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<color>",
+        "inherits": true
+      },
+      "value": "{utrecht.color.white.value}"
+    },
+    "name": "utrechtPaginationPageLinkCurrentColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "page-link",
+      "subitem": "current",
+      "state": "color"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "page-link",
+      "current",
+      "color"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "0.5em",
+    "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "0.5em"
+    },
+    "name": "utrechtPaginationPageLinkDistancedMarginInlineStart",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "page-link",
+      "subitem": "distanced",
+      "state": "margin-inline-start"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "page-link",
+      "distanced",
+      "margin-inline-start"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<number>",
+      "inherits": true
+    },
+    "value": "bold",
+    "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<number>",
+        "inherits": true
+      },
+      "value": "{utrecht.typography.weight-scale.bold.font-weight.value}"
+    },
+    "name": "utrechtPaginationPageLinkFontWeight",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "page-link",
+      "subitem": "font-weight"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "page-link",
+      "font-weight"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<color>",
+      "inherits": true
+    },
+    "value": "hsl(211 60% 35%)",
+    "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<color>",
+        "inherits": true
+      },
+      "value": "{utrecht.color.blue.35.value}"
+    },
+    "name": "utrechtPaginationPageLinkHoverBackgroundColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "page-link",
+      "subitem": "hover",
+      "state": "background-color"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "page-link",
+      "hover",
+      "background-color"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<color>",
+      "inherits": true
+    },
+    "value": "hsl(211 60% 35%)",
+    "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<color>",
+        "inherits": true
+      },
+      "value": "{utrecht.color.blue.35.value}"
+    },
+    "name": "utrechtPaginationPageLinkHoverBorderColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "page-link",
+      "subitem": "hover",
+      "state": "border-color"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "page-link",
+      "hover",
+      "border-color"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<color>",
+      "inherits": true
+    },
+    "value": "hsl(0 0% 100%)",
+    "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<color>",
+        "inherits": true
+      },
+      "value": "{utrecht.color.white.value}"
+    },
+    "name": "utrechtPaginationPageLinkHoverColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "page-link",
+      "subitem": "hover",
+      "state": "color"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "page-link",
+      "hover",
+      "color"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "0.5em",
+    "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "0.5em"
+    },
+    "name": "utrechtPaginationPageLinkPaddingBlockEnd",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "page-link",
+      "subitem": "padding-block-end"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "page-link",
+      "padding-block-end"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "0.5em",
+    "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "0.5em"
+    },
+    "name": "utrechtPaginationPageLinkPaddingBlockStart",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "page-link",
+      "subitem": "padding-block-start"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "page-link",
+      "padding-block-start"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "0.5em",
+    "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "0.5em"
+    },
+    "name": "utrechtPaginationPageLinkPaddingInlineEnd",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "page-link",
+      "subitem": "padding-inline-end"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "page-link",
+      "padding-inline-end"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "0.5em",
+    "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "0.5em"
+    },
+    "name": "utrechtPaginationPageLinkPaddingInlineStart",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "page-link",
+      "subitem": "padding-inline-start"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "page-link",
+      "padding-inline-start"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "none | underline",
+      "inherits": true
+    },
+    "value": "none",
+    "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "none | underline",
+        "inherits": true
+      },
+      "value": "none"
+    },
+    "name": "utrechtPaginationPageLinkTextDecoration",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "page-link",
+      "subitem": "text-decoration"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "page-link",
+      "text-decoration"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<color>",
+      "inherits": true
+    },
+    "value": "hsl(0 0% 100%)",
+    "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<color>",
+        "inherits": true
+      },
+      "value": "{utrecht.color.white.value}"
+    },
+    "name": "utrechtPaginationRelativeLinkBackgroundColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "relative-link",
+      "subitem": "background-color"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "relative-link",
+      "background-color"
+    ]
+  },
+  {
+    "value": "hsl(211 60% 35%)",
+    "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "value": "{utrecht.color.blue.35.value}"
+    },
+    "name": "utrechtPaginationRelativeLinkBorderColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "relative-link",
+      "subitem": "border-color"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "relative-link",
+      "border-color"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "2px",
+    "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "2px"
+    },
+    "name": "utrechtPaginationRelativeLinkBorderWidth",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "relative-link",
+      "subitem": "border-width"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "relative-link",
+      "border-width"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<color>",
+      "inherits": true
+    },
+    "value": "hsl(211 60% 35%)",
+    "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<color>",
+        "inherits": true
+      },
+      "value": "{utrecht.color.blue.35.value}"
+    },
+    "name": "utrechtPaginationRelativeLinkColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "relative-link",
+      "subitem": "color"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "relative-link",
+      "color"
+    ]
+  },
+  {
+    "value": "0.5em",
+    "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "value": "0.5em"
+    },
+    "name": "utrechtPaginationRelativeLinkDistancedMarginInlineEnd",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "relative-link",
+      "subitem": "distanced",
+      "state": "margin-inline-end"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "relative-link",
+      "distanced",
+      "margin-inline-end"
+    ]
+  },
+  {
+    "value": "0.5em",
+    "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "value": "0.5em"
+    },
+    "name": "utrechtPaginationRelativeLinkDistancedMarginInlineStart",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "relative-link",
+      "subitem": "distanced",
+      "state": "margin-inline-start"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "relative-link",
+      "distanced",
+      "margin-inline-start"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<number>",
+      "inherits": true
+    },
+    "value": "bold",
+    "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<number>",
+        "inherits": true
+      },
+      "value": "{utrecht.typography.weight-scale.bold.font-weight.value}"
+    },
+    "name": "utrechtPaginationRelativeLinkFontWeight",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "relative-link",
+      "subitem": "font-weight"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "relative-link",
+      "font-weight"
+    ]
+  },
+  {
+    "value": "hsl(211 60% 35%)",
+    "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "value": "{utrecht.color.blue.35.value}"
+    },
+    "name": "utrechtPaginationRelativeLinkHoverBackgroundColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "relative-link",
+      "subitem": "hover",
+      "state": "background-color"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "relative-link",
+      "hover",
+      "background-color"
+    ]
+  },
+  {
+    "value": "hsl(211 60% 35%)",
+    "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "value": "{utrecht.color.blue.35.value}"
+    },
+    "name": "utrechtPaginationRelativeLinkHoverBorderColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "relative-link",
+      "subitem": "hover",
+      "state": "border-color"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "relative-link",
+      "hover",
+      "border-color"
+    ]
+  },
+  {
+    "value": "hsl(0 0% 100%)",
+    "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "value": "{utrecht.color.white.value}"
+    },
+    "name": "utrechtPaginationRelativeLinkHoverColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "relative-link",
+      "subitem": "hover",
+      "state": "color"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "relative-link",
+      "hover",
+      "color"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "0.5em",
+    "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "0.5em"
+    },
+    "name": "utrechtPaginationRelativeLinkPaddingBlockEnd",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "relative-link",
+      "subitem": "padding-block-end"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "relative-link",
+      "padding-block-end"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "0.5em",
+    "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "0.5em"
+    },
+    "name": "utrechtPaginationRelativeLinkPaddingBlockStart",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "relative-link",
+      "subitem": "padding-block-start"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "relative-link",
+      "padding-block-start"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "0.5em",
+    "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "0.5em"
+    },
+    "name": "utrechtPaginationRelativeLinkPaddingInlineEnd",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "relative-link",
+      "subitem": "padding-inline-end"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "relative-link",
+      "padding-inline-end"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "0.5em",
+    "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "0.5em"
+    },
+    "name": "utrechtPaginationRelativeLinkPaddingInlineStart",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "relative-link",
+      "subitem": "padding-inline-start"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "relative-link",
+      "padding-inline-start"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "none | underline",
+      "inherits": true
+    },
+    "value": "none",
+    "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "none | underline",
+        "inherits": true
+      },
+      "value": "none"
+    },
+    "name": "utrechtPaginationRelativeLinkTextDecoration",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "relative-link",
+      "subitem": "text-decoration"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "relative-link",
+      "text-decoration"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "inherit | uppercase",
+      "inherits": true
+    },
+    "value": "uppercase",
+    "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "inherit | uppercase",
+        "inherits": true
+      },
+      "value": "uppercase"
+    },
+    "name": "utrechtPaginationRelativeLinkTextTransform",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pagination",
+      "item": "relative-link",
+      "subitem": "text-transform"
+    },
+    "path": [
+      "utrecht",
+      "pagination",
+      "relative-link",
+      "text-transform"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
     "value": "1rem",
     "filePath": "./src/component/utrecht/paragraph/block.style-dictionary.json",
     "isSource": true,

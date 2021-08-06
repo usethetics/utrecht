@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Fri, 06 Aug 2021 10:33:32 GMT
+// Generated on Fri, 06 Aug 2021 11:20:53 GMT
 
 $utrecht-searchbar-hover-transform: 1;
 $utrecht-searchbar-hover-background-color: hsl(359, 65%, 58%);
@@ -128,6 +128,27 @@ $utrecht-space-block-2xs: 4px; // Extra Small 2
 $utrecht-space-block-3xs: 2px; // Extra Small 3
 $utrecht-separator-width: 8px;
 $utrecht-paragraph-line-height: 1.4;
+$utrecht-pagination-relative-link-distanced-margin-inline-start: 0.5em;
+$utrecht-pagination-relative-link-distanced-margin-inline-end: 0.5em;
+$utrecht-pagination-relative-link-text-transform: uppercase;
+$utrecht-pagination-relative-link-text-decoration: none;
+$utrecht-pagination-relative-link-padding-block-start: 0.5em;
+$utrecht-pagination-relative-link-padding-block-end: 0.5em;
+$utrecht-pagination-relative-link-padding-inline-start: 0.5em;
+$utrecht-pagination-relative-link-padding-inline-end: 0.5em;
+$utrecht-pagination-relative-link-border-width: 2px;
+$utrecht-pagination-page-link-border-color: transparent;
+$utrecht-pagination-page-link-text-decoration: none;
+$utrecht-pagination-page-link-padding-block-start: 0.5em;
+$utrecht-pagination-page-link-padding-block-end: 0.5em;
+$utrecht-pagination-page-link-padding-inline-start: 0.5em;
+$utrecht-pagination-page-link-padding-inline-end: 0.5em;
+$utrecht-pagination-page-link-border-width: 2px;
+$utrecht-pagination-page-link-background-color: transparent;
+$utrecht-pagination-page-link-distanced-margin-inline-start: 0.5em;
+$utrecht-pagination-margin-block-end: 1em;
+$utrecht-pagination-margin-block-start: 0;
+$utrecht-pagination-font-size: 14px;
 $utrecht-page-footer-padding-block-start: 1.8em;
 $utrecht-page-footer-padding-block-end: 1.8em;
 $utrecht-page-footer-padding-inline-start: 1em;
@@ -247,6 +268,21 @@ $utrecht-paragraph-lead-font-size: $utrecht-typography-scale-lg-font-size;
 $utrecht-paragraph-margin-block-start: $utrecht-space-row-md;
 $utrecht-paragraph-font-weight: $utrecht-typography-weight-scale-normal-font-weight;
 $utrecht-paragraph-font-size: $utrecht-typography-scale-md-font-size;
+$utrecht-pagination-relative-link-border-color: $utrecht-color-blue-35;
+$utrecht-pagination-relative-link-hover-color: $utrecht-color-white;
+$utrecht-pagination-relative-link-hover-border-color: $utrecht-color-blue-35;
+$utrecht-pagination-relative-link-hover-background-color: $utrecht-color-blue-35;
+$utrecht-pagination-relative-link-font-weight: $utrecht-typography-weight-scale-bold-font-weight;
+$utrecht-pagination-relative-link-color: $utrecht-color-blue-35;
+$utrecht-pagination-relative-link-background-color: $utrecht-color-white;
+$utrecht-pagination-page-link-font-weight: $utrecht-typography-weight-scale-bold-font-weight;
+$utrecht-pagination-page-link-color: $utrecht-color-blue-35;
+$utrecht-pagination-page-link-hover-color: $utrecht-color-white;
+$utrecht-pagination-page-link-hover-border-color: $utrecht-color-blue-35;
+$utrecht-pagination-page-link-hover-background-color: $utrecht-color-blue-35;
+$utrecht-pagination-page-link-current-color: $utrecht-color-white;
+$utrecht-pagination-page-link-current-border-color: $utrecht-color-blue-35;
+$utrecht-pagination-page-link-current-background-color: $utrecht-color-blue-35;
 $utrecht-page-footer-background-image: linear-gradient(45deg, $utrecht-color-red-40, $utrecht-color-red-40 50%, hsl(5 54% 59%) 50%);;
 $utrecht-page-footer-background-color: $utrecht-color-red-40;
 $utrecht-page-footer-color: $utrecht-color-white;
