@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 06 Aug 2021 11:20:54 GMT
+ * Generated on Fri, 06 Aug 2021 12:46:11 GMT
  */
 
 export const UtrechtArticleMaxInlineSize : string;
