@@ -5355,6 +5355,60 @@
     ]
   },
   {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "58.97px",
+    "filePath": "./src/component/utrecht/logo/block.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "58.97px"
+    },
+    "name": "utrechtLogoMaxHeight",
+    "attributes": {
+      "category": "utrecht",
+      "type": "logo",
+      "item": "max-height"
+    },
+    "path": [
+      "utrecht",
+      "logo",
+      "max-height"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "110.57px",
+    "filePath": "./src/component/utrecht/logo/block.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "110.57px"
+    },
+    "name": "utrechtLogoMaxWidth",
+    "attributes": {
+      "category": "utrecht",
+      "type": "logo",
+      "item": "max-width"
+    },
+    "path": [
+      "utrecht",
+      "logo",
+      "max-width"
+    ]
+  },
+  {
     "value": "hsl(0 0% 100%)",
     "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
     "isSource": true,

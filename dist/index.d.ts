@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 06 Aug 2021 12:46:11 GMT
+ * Generated on Sun, 08 Aug 2021 12:18:48 GMT
  */
 
 export const UtrechtArticleMaxInlineSize : string;
@@ -168,6 +168,8 @@ export const UtrechtLinkFocusTextDecoration : string;
 export const UtrechtLinkHoverColor : string;
 export const UtrechtLinkHoverTextDecoration : string;
 export const UtrechtLinkVisitedColor : string;
+export const UtrechtLogoMaxHeight : string;
+export const UtrechtLogoMaxWidth : string;
 export const UtrechtMapcontrolbuttonBorderWidth : string;
 export const UtrechtMapcontrolbuttonMarginBlockStart : string;
 export const UtrechtMapcontrolbuttonMarginBlockEnd : string;

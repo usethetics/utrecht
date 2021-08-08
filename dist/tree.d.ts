@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 06 Aug 2021 12:46:11 GMT
+ * Generated on Sun, 08 Aug 2021 12:18:48 GMT
  */
 
 export default tokens;
@@ -456,6 +456,25 @@ declare const tokens: {
       },
       "visited": {
         "color": DesignToken
+      }
+    },
+    "logo": {
+      "max-height": DesignToken,
+      "max-width": DesignToken,
+      "decoration-1": {
+        "color": {
+          "css": {}
+        }
+      },
+      "decoration-2": {
+        "color": {
+          "css": {}
+        }
+      },
+      "decoration-3": {
+        "color": {
+          "css": {}
+        }
       }
     },
     "mapcontrolbutton": {

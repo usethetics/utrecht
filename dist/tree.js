@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 06 Aug 2021 12:46:10 GMT
+ * Generated on Sun, 08 Aug 2021 12:18:48 GMT
  */
 
 module.exports = {
@@ -4909,6 +4909,86 @@ module.exports = {
             "visited",
             "color"
           ]
+        }
+      }
+    },
+    "logo": {
+      "max-height": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "58.97px",
+        "filePath": "./src/component/utrecht/logo/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "58.97px"
+        },
+        "name": "utrechtLogoMaxHeight",
+        "attributes": {
+          "category": "utrecht",
+          "type": "logo",
+          "item": "max-height"
+        },
+        "path": [
+          "utrecht",
+          "logo",
+          "max-height"
+        ]
+      },
+      "max-width": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "110.57px",
+        "filePath": "./src/component/utrecht/logo/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "110.57px"
+        },
+        "name": "utrechtLogoMaxWidth",
+        "attributes": {
+          "category": "utrecht",
+          "type": "logo",
+          "item": "max-width"
+        },
+        "path": [
+          "utrecht",
+          "logo",
+          "max-width"
+        ]
+      },
+      "decoration-1": {
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        }
+      },
+      "decoration-2": {
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        }
+      },
+      "decoration-3": {
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
         }
       }
     },

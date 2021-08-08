@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 06 Aug 2021 12:46:10 GMT
+ * Generated on Sun, 08 Aug 2021 12:18:48 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -168,6 +168,8 @@ export const utrechtLinkFocusTextDecoration = "none";
 export const utrechtLinkHoverColor = "hsl(211 60% 40%)";
 export const utrechtLinkHoverTextDecoration = "underline";
 export const utrechtLinkVisitedColor = "hsl(211 60% 30%)";
+export const utrechtLogoMaxHeight = "58.97px";
+export const utrechtLogoMaxWidth = "110.57px";
 export const utrechtMapcontrolbuttonBorderWidth = "1px";
 export const utrechtMapcontrolbuttonMarginBlockStart = "8px";
 export const utrechtMapcontrolbuttonMarginBlockEnd = "8px";

@@ -138,6 +138,8 @@
 @property --utrecht-link-hover-text-decoration { syntax: 'none | underline'; inherits: true; }
 @property --utrecht-link-text-decoration { syntax: 'none | underline'; inherits: true; }
 @property --utrecht-link-visited-color { syntax: '<color>'; inherits: true; }
+@property --utrecht-logo-max-height { syntax: '<length>'; inherits: true; }
+@property --utrecht-logo-max-width { syntax: '<length>'; inherits: true; }
 @property --utrecht-mapcontrolbutton-border-width { syntax: '<length>'; inherits: true; }
 @property --utrecht-mapcontrolbutton-disabled-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-mapcontrolbutton-margin-block-end { syntax: '<length>'; inherits: true; }
