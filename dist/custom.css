@@ -27,5 +27,9 @@
     /* 20px on desktop min-width-60em */
   }
 }
+:root {
+  --utrecht-menulijst-item-background-image: url("./pijltje.svg");
+  --utrecht-search-bar-input-background-image: url("./icoon-zoek-rood.svg");
+}
 
 /*# sourceMappingURL=custom.css.map */
