@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 13 Aug 2021 13:28:22 GMT
+ * Generated on Sat, 14 Aug 2021 11:11:54 GMT
  */
 
 module.exports = {
@@ -3455,6 +3455,48 @@ module.exports = {
           "focus",
           "outline-width"
         ]
+      }
+    },
+    "form-field-description": {
+      "font-family": {
+        "css": {
+          "syntax": "*",
+          "inherits": true
+        }
+      },
+      "margin-block-start": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        }
+      },
+      "margin-block-end": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        }
+      },
+      "invalid": {
+        "font-weight": {
+          "css": {
+            "syntax": "<number>",
+            "inherits": true
+          }
+        },
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        }
+      },
+      "valid": {
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        }
       }
     },
     "form-field": {
