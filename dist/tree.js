@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 14 Aug 2021 16:46:50 GMT
+ * Generated on Sun, 15 Aug 2021 11:20:10 GMT
  */
 
 module.exports = {
@@ -7250,6 +7250,422 @@ module.exports = {
         }
       }
     },
+    "select": {
+      "background-color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        },
+        "value": "hsl(0 0% 100%)",
+        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "{utrecht.textbox.background-color.value}"
+        },
+        "name": "utrechtSelectBackgroundColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "select",
+          "item": "background-color"
+        },
+        "path": [
+          "utrecht",
+          "select",
+          "background-color"
+        ]
+      },
+      "border-bottom-width": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        }
+      },
+      "border-color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        },
+        "value": "hsl(0 0% 30%)",
+        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "{utrecht.textbox.border-color.value}"
+        },
+        "name": "utrechtSelectBorderColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "select",
+          "item": "border-color"
+        },
+        "path": [
+          "utrecht",
+          "select",
+          "border-color"
+        ]
+      },
+      "border-radius": {
+        "css": {
+          "syntax": "<length-percentage>",
+          "inherits": true
+        },
+        "value": "0",
+        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length-percentage>",
+            "inherits": true
+          },
+          "value": "{utrecht.textbox.border-radius.value}"
+        },
+        "name": "utrechtSelectBorderRadius",
+        "attributes": {
+          "category": "utrecht",
+          "type": "select",
+          "item": "border-radius"
+        },
+        "path": [
+          "utrecht",
+          "select",
+          "border-radius"
+        ]
+      },
+      "border-width": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "1px",
+        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "{utrecht.textbox.border-width.value}"
+        },
+        "name": "utrechtSelectBorderWidth",
+        "attributes": {
+          "category": "utrecht",
+          "type": "select",
+          "item": "border-width"
+        },
+        "path": [
+          "utrecht",
+          "select",
+          "border-width"
+        ]
+      },
+      "color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        },
+        "value": "hsl(0 0% 0%)",
+        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "{utrecht.textbox.color.value}"
+        },
+        "name": "utrechtSelectColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "select",
+          "item": "color"
+        },
+        "path": [
+          "utrecht",
+          "select",
+          "color"
+        ]
+      },
+      "font-family": {
+        "css": {
+          "syntax": "*",
+          "inherits": true
+        },
+        "value": "\"Lucida Grande\", \"Lucida Sans Unicode\", \"Lucida Sans\", Verdana, sans-serif",
+        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "*",
+            "inherits": true
+          },
+          "value": "{utrecht.textbox.font-family.value}"
+        },
+        "name": "utrechtSelectFontFamily",
+        "attributes": {
+          "category": "utrecht",
+          "type": "select",
+          "item": "font-family"
+        },
+        "path": [
+          "utrecht",
+          "select",
+          "font-family"
+        ]
+      },
+      "font-size": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "1rem",
+        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "{utrecht.textbox.font-size.value}"
+        },
+        "name": "utrechtSelectFontSize",
+        "attributes": {
+          "category": "utrecht",
+          "type": "select",
+          "item": "font-size"
+        },
+        "path": [
+          "utrecht",
+          "select",
+          "font-size"
+        ]
+      },
+      "max-inline-size": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "28em",
+        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "{utrecht.textbox.max-width.value}"
+        },
+        "name": "utrechtSelectMaxInlineSize",
+        "attributes": {
+          "category": "utrecht",
+          "type": "select",
+          "item": "max-inline-size"
+        },
+        "path": [
+          "utrecht",
+          "select",
+          "max-inline-size"
+        ]
+      },
+      "padding-block-end": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "8px",
+        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "{utrecht.textbox.padding-block-end.value}"
+        },
+        "name": "utrechtSelectPaddingBlockEnd",
+        "attributes": {
+          "category": "utrecht",
+          "type": "select",
+          "item": "padding-block-end"
+        },
+        "path": [
+          "utrecht",
+          "select",
+          "padding-block-end"
+        ]
+      },
+      "padding-block-start": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "8px",
+        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "{utrecht.textbox.padding-block-start.value}"
+        },
+        "name": "utrechtSelectPaddingBlockStart",
+        "attributes": {
+          "category": "utrecht",
+          "type": "select",
+          "item": "padding-block-start"
+        },
+        "path": [
+          "utrecht",
+          "select",
+          "padding-block-start"
+        ]
+      },
+      "padding-inline-end": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "12px",
+        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "{utrecht.textbox.padding-inline-end.value}"
+        },
+        "name": "utrechtSelectPaddingInlineEnd",
+        "attributes": {
+          "category": "utrecht",
+          "type": "select",
+          "item": "padding-inline-end"
+        },
+        "path": [
+          "utrecht",
+          "select",
+          "padding-inline-end"
+        ]
+      },
+      "padding-inline-start": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "12px",
+        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "{utrecht.textbox.padding-inline-start.value}"
+        },
+        "name": "utrechtSelectPaddingInlineStart",
+        "attributes": {
+          "category": "utrecht",
+          "type": "select",
+          "item": "padding-inline-start"
+        },
+        "path": [
+          "utrecht",
+          "select",
+          "padding-inline-start"
+        ]
+      },
+      "disabled": {
+        "border-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        }
+      },
+      "invalid": {
+        "border-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "hsl(0 100% 40%)",
+          "filePath": "./src/component/utrecht/select/modifier.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<color>",
+              "inherits": true
+            },
+            "value": "{utrecht.feedback.invalid.border-color.value}"
+          },
+          "name": "utrechtSelectInvalidBorderColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "select",
+            "item": "invalid",
+            "subitem": "border-color"
+          },
+          "path": [
+            "utrecht",
+            "select",
+            "invalid",
+            "border-color"
+          ]
+        },
+        "border-width": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          }
+        }
+      },
+      "read-only": {
+        "border-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        }
+      },
+      "border-block-end-width": {
+        "value": "3px",
+        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.textbox.border-bottom-width.value}"
+        },
+        "name": "utrechtSelectBorderBlockEndWidth",
+        "attributes": {
+          "category": "utrecht",
+          "type": "select",
+          "item": "border-block-end-width"
+        },
+        "path": [
+          "utrecht",
+          "select",
+          "border-block-end-width"
+        ]
+      }
+    },
     "separator": {
       "color": {
         "css": {
@@ -10242,6 +10658,25 @@ module.exports = {
             "inherits": true
           }
         }
+      },
+      "background-color": {
+        "value": "hsl(0 0% 100%)",
+        "filePath": "./src/component/utrecht/textbox/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.form-input.background-color.value}"
+        },
+        "name": "utrechtTextboxBackgroundColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "textbox",
+          "item": "background-color"
+        },
+        "path": [
+          "utrecht",
+          "textbox",
+          "background-color"
+        ]
       }
     },
     "unordered-list": {
@@ -11444,6 +11879,25 @@ module.exports = {
       }
     },
     "form-input": {
+      "background-color": {
+        "value": "hsl(0 0% 100%)",
+        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.color.white.value}"
+        },
+        "name": "utrechtFormInputBackgroundColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-input",
+          "item": "background-color"
+        },
+        "path": [
+          "utrecht",
+          "form-input",
+          "background-color"
+        ]
+      },
       "block-size": {
         "value": "42px",
         "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",

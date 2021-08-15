@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 14 Aug 2021 16:46:50 GMT
+ * Generated on Sun, 15 Aug 2021 11:20:11 GMT
  */
 
 .utrecht-theme {
@@ -249,6 +249,7 @@
   --utrecht-form-input-font-family: var(--utrecht-typography-sans-serif-font-family);
   --utrecht-form-input-border-color: var(--utrecht-color-grey-30);
   --utrecht-form-input-color: var(--utrecht-color-black);
+  --utrecht-form-input-background-color: var(--utrecht-color-white);
   --utrecht-badge-counter-color: var(--utrecht-color-white);
   --utrecht-badge-counter-background-color: var(--utrecht-color-red-40);
   --utrecht-unordered-list-marker-color: var(--utrecht-color-red-40);
@@ -268,6 +269,13 @@
   --utrecht-table-row-border-block-end-width: var(--utrecht-border-width-sm);
   --utrecht-table-row-border-block-end-color: var(--utrecht-color-grey-90);
   --utrecht-separator-color: var(--utrecht-color-grey-90);
+  --utrecht-select-border-block-end-width: var(--utrecht-textbox-border-bottom-width);
+  --utrecht-select-padding-inline-start: var(--utrecht-textbox-padding-inline-start);
+  --utrecht-select-padding-inline-end: var(--utrecht-textbox-padding-inline-end);
+  --utrecht-select-padding-block-start: var(--utrecht-textbox-padding-block-start);
+  --utrecht-select-padding-block-end: var(--utrecht-textbox-padding-block-end);
+  --utrecht-select-max-inline-size: var(--utrecht-textbox-max-width);
+  --utrecht-select-border-radius: var(--utrecht-textbox-border-radius);
   --utrecht-paragraph-lead-font-size: var(--utrecht-typography-scale-lg-font-size);
   --utrecht-paragraph-margin-block-start: var(--utrecht-space-row-md);
   --utrecht-paragraph-font-weight: var(--utrecht-typography-weight-scale-normal-font-weight);
@@ -385,11 +393,14 @@
   --utrecht-badge-padding-block: var(--utrecht-space-block-xs); /* Default block padding for badge components */
   --utrecht-badge-color: var(--utrecht-color-white); /* Default text color for badge components */
   --utrecht-badge-background-color: var(--utrecht-color-grey-30); /* Default background color for badge components */
+  --utrecht-textbox-background-color: var(--utrecht-form-input-background-color);
   --utrecht-textbox-font-family: var(--utrecht-document-font-family);
   --utrecht-textbox-color: var(--utrecht-form-input-color);
   --utrecht-textbox-border-color: var(--utrecht-form-input-border-color);
   --utrecht-textarea-font-size: var(--utrecht-textbox-font-size);
   --utrecht-textarea-border-width: var(--utrecht-textbox-border-width);
+  --utrecht-select-font-size: var(--utrecht-textbox-font-size);
+  --utrecht-select-border-width: var(--utrecht-textbox-border-width);
   --utrecht-mapcontrolbutton-focus-border-color: var(--utrecht-focus-border-color);
   --utrecht-mapcontrolbutton-focus-outline-color: var(--utrecht-focus-outline-color);
   --utrecht-mapcontrolbutton-focus-border-style: var(--utrecht-focus-border-style);
@@ -413,6 +424,10 @@
   --utrecht-textarea-font-family: var(--utrecht-textbox-font-family);
   --utrecht-textarea-color: var(--utrecht-textbox-color);
   --utrecht-textarea-border-color: var(--utrecht-textbox-border-color);
+  --utrecht-select-font-family: var(--utrecht-textbox-font-family);
+  --utrecht-select-color: var(--utrecht-textbox-color);
+  --utrecht-select-border-color: var(--utrecht-textbox-border-color);
+  --utrecht-select-background-color: var(--utrecht-textbox-background-color);
   --utrecht-feedback-active-border-color: var(--utrecht-feedback-safe-border-color);
   --utrecht-feedback-active-background-color: var(--utrecht-feedback-safe-background-color);
   --utrecht-feedback-inactive-border-color: var(--utrecht-feedback-danger-border-color);
@@ -431,6 +446,7 @@
   --utrecht-searchbar-invalid-border-color: var(--utrecht-feedback-invalid-border-color);
   --utrecht-textbox-invalid-border-color: var(--utrecht-feedback-invalid-border-color);
   --utrecht-textarea-invalid-border-color: var(--utrecht-feedback-invalid-border-color);
+  --utrecht-select-invalid-border-color: var(--utrecht-feedback-invalid-border-color);
   --utrecht-feedback-active-fill-background-color: var(--utrecht-feedback-active-background-color);
   --utrecht-feedback-inactive-fill-background-color: var(--utrecht-feedback-inactive-background-color);
   --utrecht-feedback-success-fill-background-color: var(--utrecht-feedback-success-background-color);

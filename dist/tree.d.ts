@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 14 Aug 2021 16:46:50 GMT
+ * Generated on Sun, 15 Aug 2021 11:20:11 GMT
  */
 
 export default tokens;
@@ -680,6 +680,46 @@ declare const tokens: {
         }
       }
     },
+    "select": {
+      "background-color": DesignToken,
+      "border-bottom-width": {
+        "css": {}
+      },
+      "border-color": DesignToken,
+      "border-radius": DesignToken,
+      "border-width": DesignToken,
+      "color": DesignToken,
+      "font-family": DesignToken,
+      "font-size": DesignToken,
+      "max-inline-size": DesignToken,
+      "padding-block-end": DesignToken,
+      "padding-block-start": DesignToken,
+      "padding-inline-end": DesignToken,
+      "padding-inline-start": DesignToken,
+      "disabled": {
+        "border-color": {
+          "css": {}
+        },
+        "color": {
+          "css": {}
+        }
+      },
+      "invalid": {
+        "border-color": DesignToken,
+        "border-width": {
+          "css": {}
+        }
+      },
+      "read-only": {
+        "border-color": {
+          "css": {}
+        },
+        "color": {
+          "css": {}
+        }
+      },
+      "border-block-end-width": DesignToken
+    },
     "separator": {
       "color": DesignToken,
       "width": DesignToken,
@@ -902,7 +942,8 @@ declare const tokens: {
         "color": {
           "css": {}
         }
-      }
+      },
+      "background-color": DesignToken
     },
     "unordered-list": {
       "margin-block-start": DesignToken,
@@ -1008,6 +1049,7 @@ declare const tokens: {
       "padding-inline": DesignToken
     },
     "form-input": {
+      "background-color": DesignToken,
       "block-size": DesignToken,
       "color": DesignToken,
       "border-color": DesignToken,

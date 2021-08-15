@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Sat, 14 Aug 2021 16:46:50 GMT
+// Generated on Sun, 15 Aug 2021 11:20:11 GMT
 
 $utrecht-searchbar-hover-transform: 1;
 $utrecht-searchbar-hover-background-color: hsl(359, 65%, 58%);
@@ -247,6 +247,7 @@ $utrecht-form-input-placeholder-color: $utrecht-color-grey-40;
 $utrecht-form-input-font-family: $utrecht-typography-sans-serif-font-family;
 $utrecht-form-input-border-color: $utrecht-color-grey-30;
 $utrecht-form-input-color: $utrecht-color-black;
+$utrecht-form-input-background-color: $utrecht-color-white;
 $utrecht-badge-counter-color: $utrecht-color-white;
 $utrecht-badge-counter-background-color: $utrecht-color-red-40;
 $utrecht-unordered-list-marker-color: $utrecht-color-red-40;
@@ -266,6 +267,13 @@ $utrecht-table-caption-font-weight: $utrecht-typography-weight-scale-bold-font-w
 $utrecht-table-row-border-block-end-width: $utrecht-border-width-sm;
 $utrecht-table-row-border-block-end-color: $utrecht-color-grey-90;
 $utrecht-separator-color: $utrecht-color-grey-90;
+$utrecht-select-border-block-end-width: $utrecht-textbox-border-bottom-width;
+$utrecht-select-padding-inline-start: $utrecht-textbox-padding-inline-start;
+$utrecht-select-padding-inline-end: $utrecht-textbox-padding-inline-end;
+$utrecht-select-padding-block-start: $utrecht-textbox-padding-block-start;
+$utrecht-select-padding-block-end: $utrecht-textbox-padding-block-end;
+$utrecht-select-max-inline-size: $utrecht-textbox-max-width;
+$utrecht-select-border-radius: $utrecht-textbox-border-radius;
 $utrecht-paragraph-lead-font-size: $utrecht-typography-scale-lg-font-size;
 $utrecht-paragraph-margin-block-start: $utrecht-space-row-md;
 $utrecht-paragraph-font-weight: $utrecht-typography-weight-scale-normal-font-weight;
@@ -383,11 +391,14 @@ $utrecht-badge-padding-inline: $utrecht-space-inline-sm; // Default inline paddi
 $utrecht-badge-padding-block: $utrecht-space-block-xs; // Default block padding for badge components
 $utrecht-badge-color: $utrecht-color-white; // Default text color for badge components
 $utrecht-badge-background-color: $utrecht-color-grey-30; // Default background color for badge components
+$utrecht-textbox-background-color: $utrecht-form-input-background-color;
 $utrecht-textbox-font-family: $utrecht-document-font-family;
 $utrecht-textbox-color: $utrecht-form-input-color;
 $utrecht-textbox-border-color: $utrecht-form-input-border-color;
 $utrecht-textarea-font-size: $utrecht-textbox-font-size;
 $utrecht-textarea-border-width: $utrecht-textbox-border-width;
+$utrecht-select-font-size: $utrecht-textbox-font-size;
+$utrecht-select-border-width: $utrecht-textbox-border-width;
 $utrecht-mapcontrolbutton-focus-border-color: $utrecht-focus-border-color;
 $utrecht-mapcontrolbutton-focus-outline-color: $utrecht-focus-outline-color;
 $utrecht-mapcontrolbutton-focus-border-style: $utrecht-focus-border-style;
@@ -411,6 +422,10 @@ $utrecht-feedback-danger-background-color: $utrecht-feedback-danger-color;
 $utrecht-textarea-font-family: $utrecht-textbox-font-family;
 $utrecht-textarea-color: $utrecht-textbox-color;
 $utrecht-textarea-border-color: $utrecht-textbox-border-color;
+$utrecht-select-font-family: $utrecht-textbox-font-family;
+$utrecht-select-color: $utrecht-textbox-color;
+$utrecht-select-border-color: $utrecht-textbox-border-color;
+$utrecht-select-background-color: $utrecht-textbox-background-color;
 $utrecht-feedback-active-border-color: $utrecht-feedback-safe-border-color;
 $utrecht-feedback-active-background-color: $utrecht-feedback-safe-background-color;
 $utrecht-feedback-inactive-border-color: $utrecht-feedback-danger-border-color;
@@ -429,6 +444,7 @@ $utrecht-feedback-danger-fill-background-color: $utrecht-feedback-danger-backgro
 $utrecht-searchbar-invalid-border-color: $utrecht-feedback-invalid-border-color;
 $utrecht-textbox-invalid-border-color: $utrecht-feedback-invalid-border-color;
 $utrecht-textarea-invalid-border-color: $utrecht-feedback-invalid-border-color;
+$utrecht-select-invalid-border-color: $utrecht-feedback-invalid-border-color;
 $utrecht-feedback-active-fill-background-color: $utrecht-feedback-active-background-color;
 $utrecht-feedback-inactive-fill-background-color: $utrecht-feedback-inactive-background-color;
 $utrecht-feedback-success-fill-background-color: $utrecht-feedback-success-background-color;

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 14 Aug 2021 16:46:50 GMT
+ * Generated on Sun, 15 Aug 2021 11:20:11 GMT
  */
 
 export const UtrechtArticleMaxInlineSize : string;
@@ -249,6 +249,20 @@ export const UtrechtParagraphFontWeight : string;
 export const UtrechtParagraphLineHeight : string;
 export const UtrechtParagraphMarginBlockStart : string;
 export const UtrechtParagraphLeadFontSize : string;
+export const UtrechtSelectBackgroundColor : string;
+export const UtrechtSelectBorderColor : string;
+export const UtrechtSelectBorderRadius : string;
+export const UtrechtSelectBorderWidth : string;
+export const UtrechtSelectColor : string;
+export const UtrechtSelectFontFamily : string;
+export const UtrechtSelectFontSize : string;
+export const UtrechtSelectMaxInlineSize : string;
+export const UtrechtSelectPaddingBlockEnd : string;
+export const UtrechtSelectPaddingBlockStart : string;
+export const UtrechtSelectPaddingInlineEnd : string;
+export const UtrechtSelectPaddingInlineStart : string;
+export const UtrechtSelectInvalidBorderColor : string;
+export const UtrechtSelectBorderBlockEndWidth : string;
 export const UtrechtSeparatorColor : string;
 export const UtrechtSeparatorWidth : string;
 export const UtrechtSpaceBlock3xs : string; // Extra Small 3
@@ -343,6 +357,7 @@ export const UtrechtTextboxPaddingBlockStart : string;
 export const UtrechtTextboxPaddingInlineEnd : string;
 export const UtrechtTextboxPaddingInlineStart : string;
 export const UtrechtTextboxInvalidBorderColor : string;
+export const UtrechtTextboxBackgroundColor : string;
 export const UtrechtUnorderedListMarginBlockStart : string;
 export const UtrechtUnorderedListMarginBlockEnd : string;
 export const UtrechtUnorderedListItemMarginBlockStart : string;
@@ -393,6 +408,7 @@ export const UtrechtBadgeCounterBorderRadius : string;
 export const UtrechtBadgeCounterColor : string;
 export const UtrechtBadgeCounterPaddingBlock : string;
 export const UtrechtBadgeCounterPaddingInline : string;
+export const UtrechtFormInputBackgroundColor : string;
 export const UtrechtFormInputBlockSize : string;
 export const UtrechtFormInputColor : string;
 export const UtrechtFormInputBorderColor : string;

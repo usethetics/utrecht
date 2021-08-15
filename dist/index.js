@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 14 Aug 2021 16:46:50 GMT
+ * Generated on Sun, 15 Aug 2021 11:20:10 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -249,6 +249,20 @@ export const utrechtParagraphFontWeight = "normal";
 export const utrechtParagraphLineHeight = "1.4";
 export const utrechtParagraphMarginBlockStart = "16px";
 export const utrechtParagraphLeadFontSize = "1.25rem";
+export const utrechtSelectBackgroundColor = "hsl(0 0% 100%)";
+export const utrechtSelectBorderColor = "hsl(0 0% 30%)";
+export const utrechtSelectBorderRadius = "0";
+export const utrechtSelectBorderWidth = "1px";
+export const utrechtSelectColor = "hsl(0 0% 0%)";
+export const utrechtSelectFontFamily = "\"Lucida Grande\", \"Lucida Sans Unicode\", \"Lucida Sans\", Verdana, sans-serif";
+export const utrechtSelectFontSize = "1rem";
+export const utrechtSelectMaxInlineSize = "28em";
+export const utrechtSelectPaddingBlockEnd = "8px";
+export const utrechtSelectPaddingBlockStart = "8px";
+export const utrechtSelectPaddingInlineEnd = "12px";
+export const utrechtSelectPaddingInlineStart = "12px";
+export const utrechtSelectInvalidBorderColor = "hsl(0 100% 40%)";
+export const utrechtSelectBorderBlockEndWidth = "3px";
 export const utrechtSeparatorColor = "hsl(0 0% 90%)";
 export const utrechtSeparatorWidth = "8px";
 export const utrechtSpaceBlock3xs = "2px"; // Extra Small 3
@@ -343,6 +357,7 @@ export const utrechtTextboxPaddingBlockStart = "8px";
 export const utrechtTextboxPaddingInlineEnd = "12px";
 export const utrechtTextboxPaddingInlineStart = "12px";
 export const utrechtTextboxInvalidBorderColor = "hsl(0 100% 40%)";
+export const utrechtTextboxBackgroundColor = "hsl(0 0% 100%)";
 export const utrechtUnorderedListMarginBlockStart = "0";
 export const utrechtUnorderedListMarginBlockEnd = "1rem";
 export const utrechtUnorderedListItemMarginBlockStart = "0.5rem";
@@ -393,6 +408,7 @@ export const utrechtBadgeCounterBorderRadius = "3ex";
 export const utrechtBadgeCounterColor = "hsl(0 0% 100%)";
 export const utrechtBadgeCounterPaddingBlock = "1ex";
 export const utrechtBadgeCounterPaddingInline = "1ex";
+export const utrechtFormInputBackgroundColor = "hsl(0 0% 100%)";
 export const utrechtFormInputBlockSize = "42px";
 export const utrechtFormInputColor = "hsl(0 0% 0%)";
 export const utrechtFormInputBorderColor = "hsl(0 0% 30%)";
