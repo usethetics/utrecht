@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 20 Aug 2021 17:26:12 GMT
+ * Generated on Fri, 20 Aug 2021 18:27:40 GMT
  */
 
 export const UtrechtArticleMaxInlineSize : string;
@@ -160,6 +160,9 @@ export const UtrechtHeading6MarginBlockStart : string;
 export const UtrechtHeading6LetterSpacing : string;
 export const UtrechtHeading6TextTransform : string;
 export const UtrechtHeadingFontWeight : string;
+export const UtrechtLinkListItemMarginBlockStart : string;
+export const UtrechtLinkListItemFontWeight : string;
+export const UtrechtLinkListMarkerInlineSize : string;
 export const UtrechtLinkColor : string;
 export const UtrechtLinkTextDecoration : string;
 export const UtrechtLinkActiveColor : string;

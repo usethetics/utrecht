@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 20 Aug 2021 17:26:11 GMT
+ * Generated on Fri, 20 Aug 2021 18:27:40 GMT
  */
 
 module.exports = {
@@ -4713,6 +4713,95 @@ module.exports = {
         "css": {
           "syntax": "<length-percentage>",
           "inherits": true
+        }
+      }
+    },
+    "link-list": {
+      "margin-block-start": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        }
+      },
+      "margin-block-end": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        }
+      },
+      "item": {
+        "margin-block-start": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "8px",
+          "filePath": "./src/component/utrecht/link-list/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<length>",
+              "inherits": true
+            },
+            "value": "{utrecht.space.block.xs.value}"
+          },
+          "name": "utrechtLinkListItemMarginBlockStart",
+          "attributes": {
+            "category": "utrecht",
+            "type": "link-list",
+            "item": "item",
+            "subitem": "margin-block-start"
+          },
+          "path": [
+            "utrecht",
+            "link-list",
+            "item",
+            "margin-block-start"
+          ]
+        },
+        "font-weight": {
+          "value": "bold",
+          "filePath": "./src/component/utrecht/link-list/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.typography.weight-scale.bold.font-weight.value}"
+          },
+          "name": "utrechtLinkListItemFontWeight",
+          "attributes": {
+            "category": "utrecht",
+            "type": "link-list",
+            "item": "item",
+            "subitem": "font-weight"
+          },
+          "path": [
+            "utrecht",
+            "link-list",
+            "item",
+            "font-weight"
+          ]
+        }
+      },
+      "marker": {
+        "inline-size": {
+          "value": "16px",
+          "filePath": "./src/component/utrecht/link-list/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "16px"
+          },
+          "name": "utrechtLinkListMarkerInlineSize",
+          "attributes": {
+            "category": "utrecht",
+            "type": "link-list",
+            "item": "marker",
+            "subitem": "inline-size"
+          },
+          "path": [
+            "utrecht",
+            "link-list",
+            "marker",
+            "inline-size"
+          ]
         }
       }
     },

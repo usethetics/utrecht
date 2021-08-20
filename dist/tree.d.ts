@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 20 Aug 2021 17:26:12 GMT
+ * Generated on Fri, 20 Aug 2021 18:27:40 GMT
  */
 
 export default tokens;
@@ -462,6 +462,21 @@ declare const tokens: {
       },
       "size": {
         "css": {}
+      }
+    },
+    "link-list": {
+      "margin-block-start": {
+        "css": {}
+      },
+      "margin-block-end": {
+        "css": {}
+      },
+      "item": {
+        "margin-block-start": DesignToken,
+        "font-weight": DesignToken
+      },
+      "marker": {
+        "inline-size": DesignToken
       }
     },
     "link": {

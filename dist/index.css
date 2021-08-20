@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 20 Aug 2021 17:26:11 GMT
+ * Generated on Fri, 20 Aug 2021 18:27:40 GMT
  */
 
 :root {
@@ -168,6 +168,7 @@
   --utrecht-link-hover-text-decoration: underline;
   --utrecht-link-focus-text-decoration: none;
   --utrecht-link-text-decoration: underline;
+  --utrecht-link-list-marker-inline-size: 16px;
   --utrecht-heading-6-text-transform: uppercase;
   --utrecht-heading-6-letter-spacing: 0.72px;
   --utrecht-heading-6-margin-block-start: 1rem;
@@ -318,6 +319,8 @@
   --utrecht-mapcontrolbutton-border-width: var(--utrecht-border-width-sm);
   --utrecht-link-focus-color: var(--utrecht-color-blue-40);
   --utrecht-link-color: var(--utrecht-color-blue-30);
+  --utrecht-link-list-item-font-weight: var(--utrecht-typography-weight-scale-bold-font-weight);
+  --utrecht-link-list-item-margin-block-start: var(--utrecht-space-block-xs);
   --utrecht-heading-font-weight: var(--utrecht-typography-weight-scale-bold-font-weight);
   --utrecht-heading-6-font-weight: var(--utrecht-typography-weight-scale-normal-font-weight);
   --utrecht-heading-5-font-weight: var(--utrecht-typography-weight-scale-normal-font-weight);

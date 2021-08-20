@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 20 Aug 2021 17:26:11 GMT
+ * Generated on Fri, 20 Aug 2021 18:27:40 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -160,6 +160,9 @@ export const utrechtHeading6MarginBlockStart = "1rem";
 export const utrechtHeading6LetterSpacing = "0.72px";
 export const utrechtHeading6TextTransform = "uppercase";
 export const utrechtHeadingFontWeight = "bold";
+export const utrechtLinkListItemMarginBlockStart = "8px";
+export const utrechtLinkListItemFontWeight = "bold";
+export const utrechtLinkListMarkerInlineSize = "16px";
 export const utrechtLinkColor = "hsl(211 60% 30%)";
 export const utrechtLinkTextDecoration = "underline";
 export const utrechtLinkActiveColor = "hsl(211 60% 30%)";

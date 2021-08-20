@@ -136,6 +136,7 @@
 @property --utrecht-link-focus-text-decoration { syntax: 'none | underline'; inherits: true; }
 @property --utrecht-link-hover-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-link-hover-text-decoration { syntax: 'none | underline'; inherits: true; }
+@property --utrecht-link-list-item-margin-block-start { syntax: '<length>'; inherits: true; }
 @property --utrecht-link-text-decoration { syntax: 'none | underline'; inherits: true; }
 @property --utrecht-link-visited-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-logo-max-height { syntax: '<length>'; inherits: true; }
