@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 20 Aug 2021 18:27:40 GMT
+ * Generated on Sat, 21 Aug 2021 12:13:43 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -43,6 +43,9 @@ export const utrechtButtonPaddingInlineStart = "16px";
 export const utrechtButtonPaddingInlineEnd = "16px";
 export const utrechtButtonDisabledColor = "hsl(0 0% 100%)";
 export const utrechtButtonDisabledBackgroundColor = "hsl(0 0% 90%)";
+export const utrechtButtonFocusBorderColor = "hsl(211 60% 40%)";
+export const utrechtButtonFocusBorderWidth = "2px";
+export const utrechtButtonFocusTransformScale = "1.02";
 export const utrechtButtonPrimaryActionBackgroundColor = "hsl(211 60% 35%)";
 export const utrechtButtonPrimaryActionColor = "hsl(0 0% 100%)";
 export const utrechtButtonPrimaryActionHoverBackgroundColor = "hsl(211 60% 40%)";
@@ -59,9 +62,6 @@ export const utrechtButtonSecondaryActionBackgroundColor = "hsl(0 0% 100%)";
 export const utrechtButtonSecondaryActionColor = "hsl(211 60% 35%)";
 export const utrechtButtonSecondaryActionBorderColor = "hsl(211 60% 35%)";
 export const utrechtButtonSecondaryActionBorderWidth = "2px";
-export const utrechtButtonFocusBorderColor = "hsl(211 60% 40%)";
-export const utrechtButtonFocusBorderWidth = "2px";
-export const utrechtButtonFocusTransformScale = "1.02";
 export const utrechtDocumentBackgroundColor = "hsl(0 0% 100%)";
 export const utrechtDocumentColor = "hsl(0 0% 0%)";
 export const utrechtDocumentFontFamily = "\"Lucida Grande\", \"Lucida Sans Unicode\", \"Lucida Sans\", Verdana, sans-serif";
@@ -202,8 +202,10 @@ export const utrechtMapcontrolbuttonHoverBackgroundColor = "hsl(0 0% 90%)";
 export const utrechtMapcontrolbuttonHoverColor = "hsl(0 0% 100%)";
 export const utrechtOrderedListMarginBlockStart = "0";
 export const utrechtOrderedListMarginBlockEnd = "1em";
+export const utrechtOrderedListPaddingInlineStart = "28.8px";
 export const utrechtOrderedListItemMarginBlockStart = "0.25em";
 export const utrechtOrderedListItemMarginBlockEnd = "0.25em";
+export const utrechtOrderedListItemPaddingInlineStart = "0";
 export const utrechtPageFooterColor = "hsl(0 0% 100%)";
 export const utrechtPageFooterBackgroundColor = "hsl(0 100% 40%)";
 export const utrechtPageFooterBackgroundImage = "linear-gradient(45deg, hsl(0 100% 40%), hsl(0 100% 40%) 50%, hsl(5 54% 59%) 50%);";

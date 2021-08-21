@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 20 Aug 2021 18:27:40 GMT
+ * Generated on Sat, 21 Aug 2021 12:13:43 GMT
  */
 
 export const UtrechtArticleMaxInlineSize : string;
@@ -43,6 +43,9 @@ export const UtrechtButtonPaddingInlineStart : string;
 export const UtrechtButtonPaddingInlineEnd : string;
 export const UtrechtButtonDisabledColor : string;
 export const UtrechtButtonDisabledBackgroundColor : string;
+export const UtrechtButtonFocusBorderColor : string;
+export const UtrechtButtonFocusBorderWidth : string;
+export const UtrechtButtonFocusTransformScale : string;
 export const UtrechtButtonPrimaryActionBackgroundColor : string;
 export const UtrechtButtonPrimaryActionColor : string;
 export const UtrechtButtonPrimaryActionHoverBackgroundColor : string;
@@ -59,9 +62,6 @@ export const UtrechtButtonSecondaryActionBackgroundColor : string;
 export const UtrechtButtonSecondaryActionColor : string;
 export const UtrechtButtonSecondaryActionBorderColor : string;
 export const UtrechtButtonSecondaryActionBorderWidth : string;
-export const UtrechtButtonFocusBorderColor : string;
-export const UtrechtButtonFocusBorderWidth : string;
-export const UtrechtButtonFocusTransformScale : string;
 export const UtrechtDocumentBackgroundColor : string;
 export const UtrechtDocumentColor : string;
 export const UtrechtDocumentFontFamily : string;
@@ -202,8 +202,10 @@ export const UtrechtMapcontrolbuttonHoverBackgroundColor : string;
 export const UtrechtMapcontrolbuttonHoverColor : string;
 export const UtrechtOrderedListMarginBlockStart : string;
 export const UtrechtOrderedListMarginBlockEnd : string;
+export const UtrechtOrderedListPaddingInlineStart : string;
 export const UtrechtOrderedListItemMarginBlockStart : string;
 export const UtrechtOrderedListItemMarginBlockEnd : string;
+export const UtrechtOrderedListItemPaddingInlineStart : string;
 export const UtrechtPageFooterColor : string;
 export const UtrechtPageFooterBackgroundColor : string;
 export const UtrechtPageFooterBackgroundImage : string;

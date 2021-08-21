@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 20 Aug 2021 18:27:40 GMT
+ * Generated on Sat, 21 Aug 2021 12:13:43 GMT
  */
 
 export default tokens;
@@ -38,6 +38,9 @@ declare const tokens: {
       "background-color": DesignToken,
       "border-radius": DesignToken,
       "color": DesignToken,
+      "font-size": {
+        "css": {}
+      },
       "font-weight": {
         "css": {}
       },
@@ -129,6 +132,17 @@ declare const tokens: {
         },
         "background-color": DesignToken
       },
+      "focus": {
+        "background-color": {
+          "css": {}
+        },
+        "color": {
+          "css": {}
+        },
+        "border-color": DesignToken,
+        "border-width": DesignToken,
+        "transform-scale": DesignToken
+      },
       "primary-action": {
         "background-color": DesignToken,
         "color": DesignToken,
@@ -157,11 +171,6 @@ declare const tokens: {
         "color": DesignToken,
         "border-color": DesignToken,
         "border-width": DesignToken
-      },
-      "focus": {
-        "border-color": DesignToken,
-        "border-width": DesignToken,
-        "transform-scale": DesignToken
       }
     },
     "document": {
@@ -340,6 +349,9 @@ declare const tokens: {
       }
     },
     "label": {
+      "color": {
+        "css": {}
+      },
       "font-weight": {
         "css": {}
       },
@@ -349,9 +361,25 @@ declare const tokens: {
     },
     "form-label": {
       "checkbox": {
+        "color": {
+          "css": {}
+        },
         "font-weight": DesignToken
       },
+      "checked": {
+        "font-weight": {
+          "css": {}
+        }
+      },
+      "disabled": {
+        "color": {
+          "css": {}
+        }
+      },
       "radio": {
+        "color": {
+          "css": {}
+        },
         "font-weight": DesignToken
       },
       "font-size": DesignToken,
@@ -575,9 +603,11 @@ declare const tokens: {
     "ordered-list": {
       "margin-block-start": DesignToken,
       "margin-block-end": DesignToken,
+      "padding-inline-start": DesignToken,
       "item": {
         "margin-block-start": DesignToken,
-        "margin-block-end": DesignToken
+        "margin-block-end": DesignToken,
+        "padding-inline-start": DesignToken
       }
     },
     "page-footer": {
@@ -738,7 +768,10 @@ declare const tokens: {
     "separator": {
       "color": DesignToken,
       "width": DesignToken,
-      "margin-block": {
+      "margin-block-end": {
+        "css": {}
+      },
+      "margin-block-start": {
         "css": {}
       }
     },
@@ -963,9 +996,15 @@ declare const tokens: {
     "unordered-list": {
       "margin-block-start": DesignToken,
       "margin-block-end": DesignToken,
+      "padding-inline-start": {
+        "css": {}
+      },
       "item": {
         "margin-block-start": DesignToken,
-        "margin-block-end": DesignToken
+        "margin-block-end": DesignToken,
+        "padding-inline-start": {
+          "css": {}
+        }
       },
       "marker": {
         "color": DesignToken

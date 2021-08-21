@@ -153,8 +153,10 @@
 @property --utrecht-mapcontrolbutton-padding-inline-start { syntax: '<length>'; inherits: true; }
 @property --utrecht-ordered-list-item-margin-block-end { syntax: '<length>'; inherits: true; }
 @property --utrecht-ordered-list-item-margin-block-start { syntax: '<length>'; inherits: true; }
+@property --utrecht-ordered-list-item-padding-inline-start { syntax: '<length>'; inherits: true; }
 @property --utrecht-ordered-list-margin-block-end { syntax: '<length>'; inherits: true; }
 @property --utrecht-ordered-list-margin-block-start { syntax: '<length>'; inherits: true; }
+@property --utrecht-ordered-list-padding-inline-start { syntax: '<length>'; inherits: true; }
 @property --utrecht-page-footer-background-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-page-footer-background-image { syntax: '<url> | *'; inherits: true; }
 @property --utrecht-page-footer-color { syntax: '<color>'; inherits: true; }

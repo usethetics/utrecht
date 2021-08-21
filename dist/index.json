@@ -6220,6 +6220,35 @@
       "syntax": "<length>",
       "inherits": true
     },
+    "value": "0",
+    "filePath": "./src/component/utrecht/ordered-list/element.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "0"
+    },
+    "name": "utrechtOrderedListItemPaddingInlineStart",
+    "attributes": {
+      "category": "utrecht",
+      "type": "ordered-list",
+      "item": "item",
+      "subitem": "padding-inline-start"
+    },
+    "path": [
+      "utrecht",
+      "ordered-list",
+      "item",
+      "padding-inline-start"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
     "value": "1em",
     "filePath": "./src/component/utrecht/ordered-list/block.style-dictionary.json",
     "isSource": true,
@@ -6267,6 +6296,33 @@
       "utrecht",
       "ordered-list",
       "margin-block-start"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "28.8px",
+    "filePath": "./src/component/utrecht/ordered-list/block.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "28.8px"
+    },
+    "name": "utrechtOrderedListPaddingInlineStart",
+    "attributes": {
+      "category": "utrecht",
+      "type": "ordered-list",
+      "item": "padding-inline-start"
+    },
+    "path": [
+      "utrecht",
+      "ordered-list",
+      "padding-inline-start"
     ]
   },
   {

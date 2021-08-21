@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 20 Aug 2021 18:27:40 GMT
+ * Generated on Sat, 21 Aug 2021 12:13:43 GMT
  */
 
 module.exports = {
@@ -233,6 +233,12 @@ module.exports = {
           "badge",
           "color"
         ]
+      },
+      "font-size": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        }
       },
       "font-weight": {
         "css": {
@@ -1224,6 +1230,83 @@ module.exports = {
           ]
         }
       },
+      "focus": {
+        "background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "border-color": {
+          "value": "hsl(211 60% 40%)",
+          "filePath": "./src/component/utrecht/button/state.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.color.blue.40.value}"
+          },
+          "name": "utrechtButtonFocusBorderColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "button",
+            "item": "focus",
+            "subitem": "border-color"
+          },
+          "path": [
+            "utrecht",
+            "button",
+            "focus",
+            "border-color"
+          ]
+        },
+        "border-width": {
+          "value": "2px",
+          "filePath": "./src/component/utrecht/button/state.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.border-width.md.value}"
+          },
+          "name": "utrechtButtonFocusBorderWidth",
+          "attributes": {
+            "category": "utrecht",
+            "type": "button",
+            "item": "focus",
+            "subitem": "border-width"
+          },
+          "path": [
+            "utrecht",
+            "button",
+            "focus",
+            "border-width"
+          ]
+        },
+        "transform-scale": {
+          "value": "1.02",
+          "filePath": "./src/component/utrecht/button/state.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "1.02"
+          },
+          "name": "utrechtButtonFocusTransformScale",
+          "attributes": {
+            "category": "utrecht",
+            "type": "button",
+            "item": "focus",
+            "subitem": "transform-scale"
+          },
+          "path": [
+            "utrecht",
+            "button",
+            "focus",
+            "transform-scale"
+          ]
+        }
+      },
       "primary-action": {
         "background-color": {
           "css": {
@@ -1601,71 +1684,6 @@ module.exports = {
             "button",
             "secondary-action",
             "border-width"
-          ]
-        }
-      },
-      "focus": {
-        "border-color": {
-          "value": "hsl(211 60% 40%)",
-          "filePath": "./src/component/utrecht/button/state.style-dictionary.json",
-          "isSource": true,
-          "original": {
-            "value": "{utrecht.color.blue.40.value}"
-          },
-          "name": "utrechtButtonFocusBorderColor",
-          "attributes": {
-            "category": "utrecht",
-            "type": "button",
-            "item": "focus",
-            "subitem": "border-color"
-          },
-          "path": [
-            "utrecht",
-            "button",
-            "focus",
-            "border-color"
-          ]
-        },
-        "border-width": {
-          "value": "2px",
-          "filePath": "./src/component/utrecht/button/state.style-dictionary.json",
-          "isSource": true,
-          "original": {
-            "value": "{utrecht.border-width.md.value}"
-          },
-          "name": "utrechtButtonFocusBorderWidth",
-          "attributes": {
-            "category": "utrecht",
-            "type": "button",
-            "item": "focus",
-            "subitem": "border-width"
-          },
-          "path": [
-            "utrecht",
-            "button",
-            "focus",
-            "border-width"
-          ]
-        },
-        "transform-scale": {
-          "value": "1.02",
-          "filePath": "./src/component/utrecht/button/state.style-dictionary.json",
-          "isSource": true,
-          "original": {
-            "value": "1.02"
-          },
-          "name": "utrechtButtonFocusTransformScale",
-          "attributes": {
-            "category": "utrecht",
-            "type": "button",
-            "item": "focus",
-            "subitem": "transform-scale"
-          },
-          "path": [
-            "utrecht",
-            "button",
-            "focus",
-            "transform-scale"
           ]
         }
       }
@@ -3614,6 +3632,12 @@ module.exports = {
       }
     },
     "label": {
+      "color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        }
+      },
       "font-weight": {
         "css": {
           "syntax": "<number>",
@@ -3629,6 +3653,12 @@ module.exports = {
     },
     "form-label": {
       "checkbox": {
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
         "font-weight": {
           "css": {
             "syntax": "<number>",
@@ -3659,7 +3689,29 @@ module.exports = {
           ]
         }
       },
+      "checked": {
+        "font-weight": {
+          "css": {
+            "syntax": "<number>",
+            "inherits": true
+          }
+        }
+      },
+      "disabled": {
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        }
+      },
       "radio": {
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
         "font-weight": {
           "css": {
             "syntax": "<number>",
@@ -5840,6 +5892,33 @@ module.exports = {
           "margin-block-end"
         ]
       },
+      "padding-inline-start": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "28.8px",
+        "filePath": "./src/component/utrecht/ordered-list/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "28.8px"
+        },
+        "name": "utrechtOrderedListPaddingInlineStart",
+        "attributes": {
+          "category": "utrecht",
+          "type": "ordered-list",
+          "item": "padding-inline-start"
+        },
+        "path": [
+          "utrecht",
+          "ordered-list",
+          "padding-inline-start"
+        ]
+      },
       "item": {
         "margin-block-start": {
           "css": {
@@ -5897,6 +5976,35 @@ module.exports = {
             "ordered-list",
             "item",
             "margin-block-end"
+          ]
+        },
+        "padding-inline-start": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "0",
+          "filePath": "./src/component/utrecht/ordered-list/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<length>",
+              "inherits": true
+            },
+            "value": "0"
+          },
+          "name": "utrechtOrderedListItemPaddingInlineStart",
+          "attributes": {
+            "category": "utrecht",
+            "type": "ordered-list",
+            "item": "item",
+            "subitem": "padding-inline-start"
+          },
+          "path": [
+            "utrecht",
+            "ordered-list",
+            "item",
+            "padding-inline-start"
           ]
         }
       }
@@ -7810,7 +7918,13 @@ module.exports = {
           "width"
         ]
       },
-      "margin-block": {
+      "margin-block-end": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        }
+      },
+      "margin-block-start": {
         "css": {
           "syntax": "<length>",
           "inherits": true
@@ -10823,6 +10937,12 @@ module.exports = {
           "margin-block-end"
         ]
       },
+      "padding-inline-start": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        }
+      },
       "item": {
         "margin-block-start": {
           "css": {
@@ -10881,6 +11001,12 @@ module.exports = {
             "item",
             "margin-block-end"
           ]
+        },
+        "padding-inline-start": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          }
         }
       },
       "marker": {

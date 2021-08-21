@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 20 Aug 2021 18:27:40 GMT
+ * Generated on Sat, 21 Aug 2021 12:13:43 GMT
  */
 
 :root {
@@ -155,8 +155,10 @@
   --utrecht-page-footer-padding-block-end: 1.8em;
   --utrecht-page-footer-padding-inline-start: 1em;
   --utrecht-page-footer-padding-inline-end: 1em;
+  --utrecht-ordered-list-item-padding-inline-start: 0;
   --utrecht-ordered-list-item-margin-block-end: 0.25em;
   --utrecht-ordered-list-item-margin-block-start: 0.25em;
+  --utrecht-ordered-list-padding-inline-start: 28.8px;
   --utrecht-ordered-list-margin-block-end: 1em;
   --utrecht-ordered-list-margin-block-start: 0;
   --utrecht-mapcontrolbutton-focus-text-decoration: none;
@@ -199,8 +201,8 @@
   --utrecht-heading-1-font-size: 1.5rem;
   --utrecht-form-label-font-size: 1em;
   --utrecht-document-line-height: 1.4;
-  --utrecht-button-focus-transform-scale: 1.02;
   --utrecht-button-border-radius: 0;
+  --utrecht-button-focus-transform-scale: 1.02;
   --utrecht-button-margin-inline-end: 0;
   --utrecht-button-margin-inline-start: 0;
   --utrecht-button-border-width: 0;
@@ -356,8 +358,6 @@
   --utrecht-document-font-family: var(--utrecht-typography-sans-serif-font-family);
   --utrecht-document-color: var(--utrecht-color-black);
   --utrecht-document-background-color: var(--utrecht-color-white);
-  --utrecht-button-focus-border-width: var(--utrecht-border-width-md);
-  --utrecht-button-focus-border-color: var(--utrecht-color-blue-40);
   --utrecht-button-secondary-action-border-width: var(--utrecht-border-width-md);
   --utrecht-button-secondary-action-border-color: var(--utrecht-color-blue-35);
   --utrecht-button-secondary-action-color: var(--utrecht-color-blue-35);
@@ -373,6 +373,8 @@
   --utrecht-button-primary-action-hover-background-color: var(--utrecht-color-blue-40);
   --utrecht-button-primary-action-color: var(--utrecht-color-white);
   --utrecht-button-primary-action-background-color: var(--utrecht-color-blue-35);
+  --utrecht-button-focus-border-width: var(--utrecht-border-width-md);
+  --utrecht-button-focus-border-color: var(--utrecht-color-blue-40);
   --utrecht-button-disabled-background-color: var(--utrecht-color-grey-90);
   --utrecht-button-disabled-color: var(--utrecht-color-white);
   --utrecht-button-padding-inline-end: var(--utrecht-space-inline-md);
