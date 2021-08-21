@@ -3626,6 +3626,482 @@
         }
       }
     },
+    "form-input": {
+      "background-color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        },
+        "value": "hsl(0 0% 100%)",
+        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "{utrecht.color.white.value}"
+        },
+        "name": "utrechtFormInputBackgroundColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-input",
+          "item": "background-color"
+        },
+        "path": [
+          "utrecht",
+          "form-input",
+          "background-color"
+        ]
+      },
+      "border-color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        },
+        "value": "hsl(0 0% 30%)",
+        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "{utrecht.color.grey.30.value}"
+        },
+        "name": "utrechtFormInputBorderColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-input",
+          "item": "border-color"
+        },
+        "path": [
+          "utrecht",
+          "form-input",
+          "border-color"
+        ]
+      },
+      "border-radius": {
+        "css": {
+          "syntax": "<length-percentage>",
+          "inherits": true
+        },
+        "value": "0",
+        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length-percentage>",
+            "inherits": true
+          },
+          "value": "0"
+        },
+        "name": "utrechtFormInputBorderRadius",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-input",
+          "item": "border-radius"
+        },
+        "path": [
+          "utrecht",
+          "form-input",
+          "border-radius"
+        ]
+      },
+      "border-width": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "1px",
+        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "{utrecht.border-width.sm.value}"
+        },
+        "name": "utrechtFormInputBorderWidth",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-input",
+          "item": "border-width"
+        },
+        "path": [
+          "utrecht",
+          "form-input",
+          "border-width"
+        ]
+      },
+      "color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        },
+        "value": "hsl(0 0% 0%)",
+        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "{utrecht.color.black.value}"
+        },
+        "name": "utrechtFormInputColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-input",
+          "item": "color"
+        },
+        "path": [
+          "utrecht",
+          "form-input",
+          "color"
+        ]
+      },
+      "font-family": {
+        "css": {
+          "syntax": "*",
+          "inherits": true
+        },
+        "value": "\"Lucida Grande\", \"Lucida Sans Unicode\", \"Lucida Sans\", Verdana, sans-serif",
+        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "*",
+            "inherits": true
+          },
+          "value": "{utrecht.document.font-family.value}"
+        },
+        "name": "utrechtFormInputFontFamily",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-input",
+          "item": "font-family"
+        },
+        "path": [
+          "utrecht",
+          "form-input",
+          "font-family"
+        ]
+      },
+      "font-size": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "1rem",
+        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "{utrecht.typography.scale.md.font-size.value}"
+        },
+        "name": "utrechtFormInputFontSize",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-input",
+          "item": "font-size"
+        },
+        "path": [
+          "utrecht",
+          "form-input",
+          "font-size"
+        ]
+      },
+      "max-inline-size": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "28em",
+        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "28em"
+        },
+        "name": "utrechtFormInputMaxInlineSize",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-input",
+          "item": "max-inline-size"
+        },
+        "path": [
+          "utrecht",
+          "form-input",
+          "max-inline-size"
+        ]
+      },
+      "padding-block-end": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "8px",
+        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "8px"
+        },
+        "name": "utrechtFormInputPaddingBlockEnd",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-input",
+          "item": "padding-block-end"
+        },
+        "path": [
+          "utrecht",
+          "form-input",
+          "padding-block-end"
+        ]
+      },
+      "padding-block-start": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "8px",
+        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "8px"
+        },
+        "name": "utrechtFormInputPaddingBlockStart",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-input",
+          "item": "padding-block-start"
+        },
+        "path": [
+          "utrecht",
+          "form-input",
+          "padding-block-start"
+        ]
+      },
+      "padding-inline-end": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "12px",
+        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "12px"
+        },
+        "name": "utrechtFormInputPaddingInlineEnd",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-input",
+          "item": "padding-inline-end"
+        },
+        "path": [
+          "utrecht",
+          "form-input",
+          "padding-inline-end"
+        ]
+      },
+      "padding-inline-start": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "12px",
+        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "12px"
+        },
+        "name": "utrechtFormInputPaddingInlineStart",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-input",
+          "item": "padding-inline-start"
+        },
+        "path": [
+          "utrecht",
+          "form-input",
+          "padding-inline-start"
+        ]
+      },
+      "placeholder": {
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "hsl(0 0% 40%)",
+          "filePath": "./src/component/utrecht/form-input/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<color>",
+              "inherits": true
+            },
+            "value": "{utrecht.color.grey.40.value}"
+          },
+          "name": "utrechtFormInputPlaceholderColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "form-input",
+            "item": "placeholder",
+            "subitem": "color"
+          },
+          "path": [
+            "utrecht",
+            "form-input",
+            "placeholder",
+            "color"
+          ]
+        }
+      },
+      "disabled": {
+        "background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "border-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        }
+      },
+      "invalid": {
+        "background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "border-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "hsl(0 100% 40%)",
+          "filePath": "./src/component/utrecht/form-input/modifier.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<color>",
+              "inherits": true
+            },
+            "value": "{utrecht.feedback.invalid.border-color.value}"
+          },
+          "name": "utrechtFormInputInvalidBorderColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "form-input",
+            "item": "invalid",
+            "subitem": "border-color"
+          },
+          "path": [
+            "utrecht",
+            "form-input",
+            "invalid",
+            "border-color"
+          ]
+        },
+        "border-width": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          }
+        }
+      },
+      "read-only": {
+        "border-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        }
+      },
+      "block-size": {
+        "value": "42px",
+        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "42px"
+        },
+        "name": "utrechtFormInputBlockSize",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-input",
+          "item": "block-size"
+        },
+        "path": [
+          "utrecht",
+          "form-input",
+          "block-size"
+        ]
+      },
+      "focus": {
+        "border-color": {
+          "value": "hsl(0 0% 80%)",
+          "filePath": "./src/component/utrecht/form-input/modifier.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.color.grey.80.value}"
+          },
+          "name": "utrechtFormInputFocusBorderColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "form-input",
+            "item": "focus",
+            "subitem": "border-color"
+          },
+          "path": [
+            "utrecht",
+            "form-input",
+            "focus",
+            "border-color"
+          ]
+        }
+      }
+    },
     "label": {
       "color": {
         "css": {
@@ -7447,28 +7923,7 @@
         "css": {
           "syntax": "<color>",
           "inherits": true
-        },
-        "value": "hsl(0 0% 100%)",
-        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<color>",
-            "inherits": true
-          },
-          "value": "{utrecht.textbox.background-color.value}"
-        },
-        "name": "utrechtSelectBackgroundColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "select",
-          "item": "background-color"
-        },
-        "path": [
-          "utrecht",
-          "select",
-          "background-color"
-        ]
+        }
       },
       "border-bottom-width": {
         "css": {
@@ -7480,300 +7935,75 @@
         "css": {
           "syntax": "<color>",
           "inherits": true
-        },
-        "value": "hsl(0 0% 30%)",
-        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<color>",
-            "inherits": true
-          },
-          "value": "{utrecht.textbox.border-color.value}"
-        },
-        "name": "utrechtSelectBorderColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "select",
-          "item": "border-color"
-        },
-        "path": [
-          "utrecht",
-          "select",
-          "border-color"
-        ]
+        }
       },
       "border-radius": {
         "css": {
           "syntax": "<length-percentage>",
           "inherits": true
-        },
-        "value": "0",
-        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length-percentage>",
-            "inherits": true
-          },
-          "value": "{utrecht.textbox.border-radius.value}"
-        },
-        "name": "utrechtSelectBorderRadius",
-        "attributes": {
-          "category": "utrecht",
-          "type": "select",
-          "item": "border-radius"
-        },
-        "path": [
-          "utrecht",
-          "select",
-          "border-radius"
-        ]
+        }
       },
       "border-width": {
         "css": {
           "syntax": "<length>",
           "inherits": true
-        },
-        "value": "1px",
-        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length>",
-            "inherits": true
-          },
-          "value": "{utrecht.textbox.border-width.value}"
-        },
-        "name": "utrechtSelectBorderWidth",
-        "attributes": {
-          "category": "utrecht",
-          "type": "select",
-          "item": "border-width"
-        },
-        "path": [
-          "utrecht",
-          "select",
-          "border-width"
-        ]
+        }
       },
       "color": {
         "css": {
           "syntax": "<color>",
           "inherits": true
-        },
-        "value": "hsl(0 0% 0%)",
-        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<color>",
-            "inherits": true
-          },
-          "value": "{utrecht.textbox.color.value}"
-        },
-        "name": "utrechtSelectColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "select",
-          "item": "color"
-        },
-        "path": [
-          "utrecht",
-          "select",
-          "color"
-        ]
+        }
       },
       "font-family": {
         "css": {
           "syntax": "*",
           "inherits": true
-        },
-        "value": "\"Lucida Grande\", \"Lucida Sans Unicode\", \"Lucida Sans\", Verdana, sans-serif",
-        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "*",
-            "inherits": true
-          },
-          "value": "{utrecht.textbox.font-family.value}"
-        },
-        "name": "utrechtSelectFontFamily",
-        "attributes": {
-          "category": "utrecht",
-          "type": "select",
-          "item": "font-family"
-        },
-        "path": [
-          "utrecht",
-          "select",
-          "font-family"
-        ]
+        }
       },
       "font-size": {
         "css": {
           "syntax": "<length>",
           "inherits": true
-        },
-        "value": "1rem",
-        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length>",
-            "inherits": true
-          },
-          "value": "{utrecht.textbox.font-size.value}"
-        },
-        "name": "utrechtSelectFontSize",
-        "attributes": {
-          "category": "utrecht",
-          "type": "select",
-          "item": "font-size"
-        },
-        "path": [
-          "utrecht",
-          "select",
-          "font-size"
-        ]
+        }
       },
       "max-inline-size": {
         "css": {
           "syntax": "<length>",
           "inherits": true
-        },
-        "value": "28em",
-        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length>",
-            "inherits": true
-          },
-          "value": "{utrecht.textbox.max-width.value}"
-        },
-        "name": "utrechtSelectMaxInlineSize",
-        "attributes": {
-          "category": "utrecht",
-          "type": "select",
-          "item": "max-inline-size"
-        },
-        "path": [
-          "utrecht",
-          "select",
-          "max-inline-size"
-        ]
+        }
       },
       "padding-block-end": {
         "css": {
           "syntax": "<length>",
           "inherits": true
-        },
-        "value": "8px",
-        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length>",
-            "inherits": true
-          },
-          "value": "{utrecht.textbox.padding-block-end.value}"
-        },
-        "name": "utrechtSelectPaddingBlockEnd",
-        "attributes": {
-          "category": "utrecht",
-          "type": "select",
-          "item": "padding-block-end"
-        },
-        "path": [
-          "utrecht",
-          "select",
-          "padding-block-end"
-        ]
+        }
       },
       "padding-block-start": {
         "css": {
           "syntax": "<length>",
           "inherits": true
-        },
-        "value": "8px",
-        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length>",
-            "inherits": true
-          },
-          "value": "{utrecht.textbox.padding-block-start.value}"
-        },
-        "name": "utrechtSelectPaddingBlockStart",
-        "attributes": {
-          "category": "utrecht",
-          "type": "select",
-          "item": "padding-block-start"
-        },
-        "path": [
-          "utrecht",
-          "select",
-          "padding-block-start"
-        ]
+        }
       },
       "padding-inline-end": {
         "css": {
           "syntax": "<length>",
           "inherits": true
-        },
-        "value": "12px",
-        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length>",
-            "inherits": true
-          },
-          "value": "{utrecht.textbox.padding-inline-end.value}"
-        },
-        "name": "utrechtSelectPaddingInlineEnd",
-        "attributes": {
-          "category": "utrecht",
-          "type": "select",
-          "item": "padding-inline-end"
-        },
-        "path": [
-          "utrecht",
-          "select",
-          "padding-inline-end"
-        ]
+        }
       },
       "padding-inline-start": {
         "css": {
           "syntax": "<length>",
           "inherits": true
-        },
-        "value": "12px",
-        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length>",
-            "inherits": true
-          },
-          "value": "{utrecht.textbox.padding-inline-start.value}"
-        },
-        "name": "utrechtSelectPaddingInlineStart",
-        "attributes": {
-          "category": "utrecht",
-          "type": "select",
-          "item": "padding-inline-start"
-        },
-        "path": [
-          "utrecht",
-          "select",
-          "padding-inline-start"
-        ]
+        }
       },
       "disabled": {
+        "background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
         "border-color": {
           "css": {
             "syntax": "<color>",
@@ -7788,52 +8018,21 @@
         }
       },
       "invalid": {
+        "background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
         "border-color": {
           "css": {
             "syntax": "<color>",
             "inherits": true
-          },
-          "value": "hsl(0 100% 40%)",
-          "filePath": "./src/component/utrecht/select/modifier.style-dictionary.json",
-          "isSource": true,
-          "original": {
-            "css": {
-              "syntax": "<color>",
-              "inherits": true
-            },
-            "value": "{utrecht.feedback.invalid.border-color.value}"
-          },
-          "name": "utrechtSelectInvalidBorderColor",
-          "attributes": {
-            "category": "utrecht",
-            "type": "select",
-            "item": "invalid",
-            "subitem": "border-color"
-          },
-          "path": [
-            "utrecht",
-            "select",
-            "invalid",
-            "border-color"
-          ]
+          }
         },
         "border-width": {
           "css": {
             "syntax": "<length>",
-            "inherits": true
-          }
-        }
-      },
-      "read-only": {
-        "border-color": {
-          "css": {
-            "syntax": "<color>",
-            "inherits": true
-          }
-        },
-        "color": {
-          "css": {
-            "syntax": "<color>",
             "inherits": true
           }
         }
@@ -7843,7 +8042,7 @@
         "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
         "isSource": true,
         "original": {
-          "value": "{utrecht.textbox.border-bottom-width.value}"
+          "value": "3px"
         },
         "name": "utrechtSelectBorderBlockEndWidth",
         "attributes": {
@@ -7856,6 +8055,10 @@
           "select",
           "border-block-end-width"
         ]
+      },
+      "read-only": {
+        "border-color": {},
+        "color": {}
       }
     },
     "separator": {
@@ -10077,6 +10280,12 @@
       }
     },
     "textarea": {
+      "background-color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        }
+      },
       "border-bottom-width": {
         "css": {
           "syntax": "<length>",
@@ -10090,7 +10299,7 @@
             "syntax": "<length>",
             "inherits": true
           },
-          "value": "{utrecht.textbox.border-bottom-width.value}"
+          "value": "3px"
         },
         "name": "utrechtTextareaBorderBottomWidth",
         "attributes": {
@@ -10108,300 +10317,83 @@
         "css": {
           "syntax": "<color>",
           "inherits": true
-        },
-        "value": "hsl(0 0% 30%)",
-        "filePath": "./src/component/utrecht/textarea/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<color>",
-            "inherits": true
-          },
-          "value": "{utrecht.textbox.border-color.value}"
-        },
-        "name": "utrechtTextareaBorderColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "textarea",
-          "item": "border-color"
-        },
-        "path": [
-          "utrecht",
-          "textarea",
-          "border-color"
-        ]
+        }
       },
       "border-radius": {
         "css": {
           "syntax": "<length-percentage>",
           "inherits": true
-        },
-        "value": "0",
-        "filePath": "./src/component/utrecht/textarea/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length-percentage>",
-            "inherits": true
-          },
-          "value": "{utrecht.textbox.border-radius.value}"
-        },
-        "name": "utrechtTextareaBorderRadius",
-        "attributes": {
-          "category": "utrecht",
-          "type": "textarea",
-          "item": "border-radius"
-        },
-        "path": [
-          "utrecht",
-          "textarea",
-          "border-radius"
-        ]
+        }
       },
       "border-width": {
         "css": {
           "syntax": "<length>",
           "inherits": true
-        },
-        "value": "1px",
-        "filePath": "./src/component/utrecht/textarea/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length>",
-            "inherits": true
-          },
-          "value": "{utrecht.textbox.border-width.value}"
-        },
-        "name": "utrechtTextareaBorderWidth",
-        "attributes": {
-          "category": "utrecht",
-          "type": "textarea",
-          "item": "border-width"
-        },
-        "path": [
-          "utrecht",
-          "textarea",
-          "border-width"
-        ]
+        }
       },
       "color": {
         "css": {
           "syntax": "<color>",
           "inherits": true
-        },
-        "value": "hsl(0 0% 0%)",
-        "filePath": "./src/component/utrecht/textarea/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<color>",
-            "inherits": true
-          },
-          "value": "{utrecht.textbox.color.value}"
-        },
-        "name": "utrechtTextareaColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "textarea",
-          "item": "color"
-        },
-        "path": [
-          "utrecht",
-          "textarea",
-          "color"
-        ]
+        }
       },
       "font-family": {
         "css": {
           "syntax": "*",
           "inherits": true
-        },
-        "value": "\"Lucida Grande\", \"Lucida Sans Unicode\", \"Lucida Sans\", Verdana, sans-serif",
-        "filePath": "./src/component/utrecht/textarea/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "*",
-            "inherits": true
-          },
-          "value": "{utrecht.textbox.font-family.value}"
-        },
-        "name": "utrechtTextareaFontFamily",
-        "attributes": {
-          "category": "utrecht",
-          "type": "textarea",
-          "item": "font-family"
-        },
-        "path": [
-          "utrecht",
-          "textarea",
-          "font-family"
-        ]
+        }
       },
       "font-size": {
         "css": {
           "syntax": "<length>",
           "inherits": true
-        },
-        "value": "1rem",
-        "filePath": "./src/component/utrecht/textarea/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length>",
-            "inherits": true
-          },
-          "value": "{utrecht.textbox.font-size.value}"
-        },
-        "name": "utrechtTextareaFontSize",
-        "attributes": {
-          "category": "utrecht",
-          "type": "textarea",
-          "item": "font-size"
-        },
-        "path": [
-          "utrecht",
-          "textarea",
-          "font-size"
-        ]
+        }
       },
-      "max-width": {
+      "max-inline-size": {
         "css": {
           "syntax": "<length>",
           "inherits": true
-        },
-        "value": "28em",
-        "filePath": "./src/component/utrecht/textarea/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length>",
-            "inherits": true
-          },
-          "value": "{utrecht.textbox.max-width.value}"
-        },
-        "name": "utrechtTextareaMaxWidth",
-        "attributes": {
-          "category": "utrecht",
-          "type": "textarea",
-          "item": "max-width"
-        },
-        "path": [
-          "utrecht",
-          "textarea",
-          "max-width"
-        ]
+        }
       },
       "padding-block-end": {
         "css": {
           "syntax": "<length>",
           "inherits": true
-        },
-        "value": "8px",
-        "filePath": "./src/component/utrecht/textarea/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length>",
-            "inherits": true
-          },
-          "value": "{utrecht.textbox.padding-block-end.value}"
-        },
-        "name": "utrechtTextareaPaddingBlockEnd",
-        "attributes": {
-          "category": "utrecht",
-          "type": "textarea",
-          "item": "padding-block-end"
-        },
-        "path": [
-          "utrecht",
-          "textarea",
-          "padding-block-end"
-        ]
+        }
       },
       "padding-block-start": {
         "css": {
           "syntax": "<length>",
           "inherits": true
-        },
-        "value": "8px",
-        "filePath": "./src/component/utrecht/textarea/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length>",
-            "inherits": true
-          },
-          "value": "{utrecht.textbox.padding-block-start.value}"
-        },
-        "name": "utrechtTextareaPaddingBlockStart",
-        "attributes": {
-          "category": "utrecht",
-          "type": "textarea",
-          "item": "padding-block-start"
-        },
-        "path": [
-          "utrecht",
-          "textarea",
-          "padding-block-start"
-        ]
+        }
       },
       "padding-inline-end": {
         "css": {
           "syntax": "<length>",
           "inherits": true
-        },
-        "value": "12px",
-        "filePath": "./src/component/utrecht/textarea/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length>",
-            "inherits": true
-          },
-          "value": "{utrecht.textbox.padding-inline-end.value}"
-        },
-        "name": "utrechtTextareaPaddingInlineEnd",
-        "attributes": {
-          "category": "utrecht",
-          "type": "textarea",
-          "item": "padding-inline-end"
-        },
-        "path": [
-          "utrecht",
-          "textarea",
-          "padding-inline-end"
-        ]
+        }
       },
       "padding-inline-start": {
         "css": {
           "syntax": "<length>",
           "inherits": true
-        },
-        "value": "12px",
-        "filePath": "./src/component/utrecht/textarea/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
+        }
+      },
+      "placeholder": {
+        "color": {
           "css": {
-            "syntax": "<length>",
+            "syntax": "<color>",
             "inherits": true
-          },
-          "value": "{utrecht.textbox.padding-inline-start.value}"
-        },
-        "name": "utrechtTextareaPaddingInlineStart",
-        "attributes": {
-          "category": "utrecht",
-          "type": "textarea",
-          "item": "padding-inline-start"
-        },
-        "path": [
-          "utrecht",
-          "textarea",
-          "padding-inline-start"
-        ]
+          }
+        }
       },
       "disabled": {
+        "background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
         "border-color": {
           "css": {
             "syntax": "<color>",
@@ -10416,34 +10408,17 @@
         }
       },
       "invalid": {
+        "background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
         "border-color": {
           "css": {
             "syntax": "<color>",
             "inherits": true
-          },
-          "value": "hsl(0 100% 40%)",
-          "filePath": "./src/component/utrecht/textarea/modifier.style-dictionary.json",
-          "isSource": true,
-          "original": {
-            "css": {
-              "syntax": "<color>",
-              "inherits": true
-            },
-            "value": "{utrecht.feedback.invalid.border-color.value}"
-          },
-          "name": "utrechtTextareaInvalidBorderColor",
-          "attributes": {
-            "category": "utrecht",
-            "type": "textarea",
-            "item": "invalid",
-            "subitem": "border-color"
-          },
-          "path": [
-            "utrecht",
-            "textarea",
-            "invalid",
-            "border-color"
-          ]
+          }
         },
         "border-width": {
           "css": {
@@ -10468,6 +10443,12 @@
       }
     },
     "textbox": {
+      "background-color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        }
+      },
       "border-bottom-width": {
         "css": {
           "syntax": "<length>",
@@ -10499,300 +10480,75 @@
         "css": {
           "syntax": "<color>",
           "inherits": true
-        },
-        "value": "hsl(0 0% 30%)",
-        "filePath": "./src/component/utrecht/textbox/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<color>",
-            "inherits": true
-          },
-          "value": "{utrecht.form-input.border-color.value}"
-        },
-        "name": "utrechtTextboxBorderColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "textbox",
-          "item": "border-color"
-        },
-        "path": [
-          "utrecht",
-          "textbox",
-          "border-color"
-        ]
+        }
       },
       "border-radius": {
         "css": {
           "syntax": "<length-percentage>",
           "inherits": true
-        },
-        "value": "0",
-        "filePath": "./src/component/utrecht/textbox/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length-percentage>",
-            "inherits": true
-          },
-          "value": "0"
-        },
-        "name": "utrechtTextboxBorderRadius",
-        "attributes": {
-          "category": "utrecht",
-          "type": "textbox",
-          "item": "border-radius"
-        },
-        "path": [
-          "utrecht",
-          "textbox",
-          "border-radius"
-        ]
+        }
       },
       "border-width": {
         "css": {
           "syntax": "<length>",
           "inherits": true
-        },
-        "value": "1px",
-        "filePath": "./src/component/utrecht/textbox/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length>",
-            "inherits": true
-          },
-          "value": "{utrecht.border-width.sm.value}"
-        },
-        "name": "utrechtTextboxBorderWidth",
-        "attributes": {
-          "category": "utrecht",
-          "type": "textbox",
-          "item": "border-width"
-        },
-        "path": [
-          "utrecht",
-          "textbox",
-          "border-width"
-        ]
+        }
       },
       "color": {
         "css": {
           "syntax": "<color>",
           "inherits": true
-        },
-        "value": "hsl(0 0% 0%)",
-        "filePath": "./src/component/utrecht/textbox/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<color>",
-            "inherits": true
-          },
-          "value": "{utrecht.form-input.color.value}"
-        },
-        "name": "utrechtTextboxColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "textbox",
-          "item": "color"
-        },
-        "path": [
-          "utrecht",
-          "textbox",
-          "color"
-        ]
+        }
       },
       "font-family": {
         "css": {
           "syntax": "*",
           "inherits": true
-        },
-        "value": "\"Lucida Grande\", \"Lucida Sans Unicode\", \"Lucida Sans\", Verdana, sans-serif",
-        "filePath": "./src/component/utrecht/textbox/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "*",
-            "inherits": true
-          },
-          "value": "{utrecht.document.font-family.value}"
-        },
-        "name": "utrechtTextboxFontFamily",
-        "attributes": {
-          "category": "utrecht",
-          "type": "textbox",
-          "item": "font-family"
-        },
-        "path": [
-          "utrecht",
-          "textbox",
-          "font-family"
-        ]
+        }
       },
       "font-size": {
         "css": {
           "syntax": "<length>",
           "inherits": true
-        },
-        "value": "1rem",
-        "filePath": "./src/component/utrecht/textbox/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length>",
-            "inherits": true
-          },
-          "value": "{utrecht.typography.scale.md.font-size.value}"
-        },
-        "name": "utrechtTextboxFontSize",
-        "attributes": {
-          "category": "utrecht",
-          "type": "textbox",
-          "item": "font-size"
-        },
-        "path": [
-          "utrecht",
-          "textbox",
-          "font-size"
-        ]
+        }
       },
-      "max-width": {
+      "max-inline-size": {
         "css": {
           "syntax": "<length>",
           "inherits": true
-        },
-        "value": "28em",
-        "filePath": "./src/component/utrecht/textbox/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length>",
-            "inherits": true
-          },
-          "value": "28em"
-        },
-        "name": "utrechtTextboxMaxWidth",
-        "attributes": {
-          "category": "utrecht",
-          "type": "textbox",
-          "item": "max-width"
-        },
-        "path": [
-          "utrecht",
-          "textbox",
-          "max-width"
-        ]
+        }
       },
       "padding-block-end": {
         "css": {
           "syntax": "<length>",
           "inherits": true
-        },
-        "value": "8px",
-        "filePath": "./src/component/utrecht/textbox/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length>",
-            "inherits": true
-          },
-          "value": "8px"
-        },
-        "name": "utrechtTextboxPaddingBlockEnd",
-        "attributes": {
-          "category": "utrecht",
-          "type": "textbox",
-          "item": "padding-block-end"
-        },
-        "path": [
-          "utrecht",
-          "textbox",
-          "padding-block-end"
-        ]
+        }
       },
       "padding-block-start": {
         "css": {
           "syntax": "<length>",
           "inherits": true
-        },
-        "value": "8px",
-        "filePath": "./src/component/utrecht/textbox/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length>",
-            "inherits": true
-          },
-          "value": "8px"
-        },
-        "name": "utrechtTextboxPaddingBlockStart",
-        "attributes": {
-          "category": "utrecht",
-          "type": "textbox",
-          "item": "padding-block-start"
-        },
-        "path": [
-          "utrecht",
-          "textbox",
-          "padding-block-start"
-        ]
+        }
       },
       "padding-inline-end": {
         "css": {
           "syntax": "<length>",
           "inherits": true
-        },
-        "value": "12px",
-        "filePath": "./src/component/utrecht/textbox/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length>",
-            "inherits": true
-          },
-          "value": "12px"
-        },
-        "name": "utrechtTextboxPaddingInlineEnd",
-        "attributes": {
-          "category": "utrecht",
-          "type": "textbox",
-          "item": "padding-inline-end"
-        },
-        "path": [
-          "utrecht",
-          "textbox",
-          "padding-inline-end"
-        ]
+        }
       },
       "padding-inline-start": {
         "css": {
           "syntax": "<length>",
           "inherits": true
-        },
-        "value": "12px",
-        "filePath": "./src/component/utrecht/textbox/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length>",
-            "inherits": true
-          },
-          "value": "12px"
-        },
-        "name": "utrechtTextboxPaddingInlineStart",
-        "attributes": {
-          "category": "utrecht",
-          "type": "textbox",
-          "item": "padding-inline-start"
-        },
-        "path": [
-          "utrecht",
-          "textbox",
-          "padding-inline-start"
-        ]
+        }
       },
       "disabled": {
+        "background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
         "border-color": {
           "css": {
             "syntax": "<color>",
@@ -10807,34 +10563,17 @@
         }
       },
       "invalid": {
+        "background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
         "border-color": {
           "css": {
             "syntax": "<color>",
             "inherits": true
-          },
-          "value": "hsl(0 100% 40%)",
-          "filePath": "./src/component/utrecht/textbox/modifier.style-dictionary.json",
-          "isSource": true,
-          "original": {
-            "css": {
-              "syntax": "<color>",
-              "inherits": true
-            },
-            "value": "{utrecht.feedback.invalid.border-color.value}"
-          },
-          "name": "utrechtTextboxInvalidBorderColor",
-          "attributes": {
-            "category": "utrecht",
-            "type": "textbox",
-            "item": "invalid",
-            "subitem": "border-color"
-          },
-          "path": [
-            "utrecht",
-            "textbox",
-            "invalid",
-            "border-color"
-          ]
+          }
         },
         "border-width": {
           "css": {
@@ -10856,25 +10595,6 @@
             "inherits": true
           }
         }
-      },
-      "background-color": {
-        "value": "hsl(0 0% 100%)",
-        "filePath": "./src/component/utrecht/textbox/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "value": "{utrecht.form-input.background-color.value}"
-        },
-        "name": "utrechtTextboxBackgroundColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "textbox",
-          "item": "background-color"
-        },
-        "path": [
-          "utrecht",
-          "textbox",
-          "background-color"
-        ]
       }
     },
     "unordered-list": {
@@ -12086,149 +11806,6 @@
           "badge-counter",
           "padding-inline"
         ]
-      }
-    },
-    "form-input": {
-      "background-color": {
-        "value": "hsl(0 0% 100%)",
-        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "value": "{utrecht.color.white.value}"
-        },
-        "name": "utrechtFormInputBackgroundColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "form-input",
-          "item": "background-color"
-        },
-        "path": [
-          "utrecht",
-          "form-input",
-          "background-color"
-        ]
-      },
-      "block-size": {
-        "value": "42px",
-        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "value": "42px"
-        },
-        "name": "utrechtFormInputBlockSize",
-        "attributes": {
-          "category": "utrecht",
-          "type": "form-input",
-          "item": "block-size"
-        },
-        "path": [
-          "utrecht",
-          "form-input",
-          "block-size"
-        ]
-      },
-      "color": {
-        "value": "hsl(0 0% 0%)",
-        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "value": "{utrecht.color.black.value}"
-        },
-        "name": "utrechtFormInputColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "form-input",
-          "item": "color"
-        },
-        "path": [
-          "utrecht",
-          "form-input",
-          "color"
-        ]
-      },
-      "border-color": {
-        "value": "hsl(0 0% 30%)",
-        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "value": "{utrecht.color.grey.30.value}"
-        },
-        "name": "utrechtFormInputBorderColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "form-input",
-          "item": "border-color"
-        },
-        "path": [
-          "utrecht",
-          "form-input",
-          "border-color"
-        ]
-      },
-      "font-family": {
-        "value": "\"Lucida Grande\", \"Lucida Sans Unicode\", \"Lucida Sans\", Verdana, sans-serif",
-        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
-        "isSource": true,
-        "original": {
-          "value": "{utrecht.typography.sans-serif.font-family.value}"
-        },
-        "name": "utrechtFormInputFontFamily",
-        "attributes": {
-          "category": "utrecht",
-          "type": "form-input",
-          "item": "font-family"
-        },
-        "path": [
-          "utrecht",
-          "form-input",
-          "font-family"
-        ]
-      },
-      "placeholder": {
-        "color": {
-          "value": "hsl(0 0% 40%)",
-          "filePath": "./src/component/utrecht/form-input/element.style-dictionary.json",
-          "isSource": true,
-          "original": {
-            "value": "{utrecht.color.grey.40.value}"
-          },
-          "name": "utrechtFormInputPlaceholderColor",
-          "attributes": {
-            "category": "utrecht",
-            "type": "form-input",
-            "item": "placeholder",
-            "subitem": "color"
-          },
-          "path": [
-            "utrecht",
-            "form-input",
-            "placeholder",
-            "color"
-          ]
-        }
-      },
-      "focus": {
-        "border-color": {
-          "value": "hsl(0 0% 80%)",
-          "filePath": "./src/component/utrecht/form-input/modifier.style-dictionary.json",
-          "isSource": true,
-          "original": {
-            "value": "{utrecht.color.grey.80.value}"
-          },
-          "name": "utrechtFormInputFocusBorderColor",
-          "attributes": {
-            "category": "utrecht",
-            "type": "form-input",
-            "item": "focus",
-            "subitem": "border-color"
-          },
-          "path": [
-            "utrecht",
-            "form-input",
-            "focus",
-            "border-color"
-          ]
-        }
       }
     },
     "menulijst": {

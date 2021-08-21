@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 21 Aug 2021 12:13:43 GMT
+ * Generated on Sat, 21 Aug 2021 14:02:01 GMT
  */
 
 export default tokens;
@@ -346,6 +346,55 @@ declare const tokens: {
         "margin-block-start": {
           "css": {}
         }
+      }
+    },
+    "form-input": {
+      "background-color": DesignToken,
+      "border-color": DesignToken,
+      "border-radius": DesignToken,
+      "border-width": DesignToken,
+      "color": DesignToken,
+      "font-family": DesignToken,
+      "font-size": DesignToken,
+      "max-inline-size": DesignToken,
+      "padding-block-end": DesignToken,
+      "padding-block-start": DesignToken,
+      "padding-inline-end": DesignToken,
+      "padding-inline-start": DesignToken,
+      "placeholder": {
+        "color": DesignToken
+      },
+      "disabled": {
+        "background-color": {
+          "css": {}
+        },
+        "border-color": {
+          "css": {}
+        },
+        "color": {
+          "css": {}
+        }
+      },
+      "invalid": {
+        "background-color": {
+          "css": {}
+        },
+        "border-color": DesignToken,
+        "border-width": {
+          "css": {}
+        }
+      },
+      "read-only": {
+        "border-color": {
+          "css": {}
+        },
+        "color": {
+          "css": {}
+        }
+      },
+      "block-size": DesignToken,
+      "focus": {
+        "border-color": DesignToken
       }
     },
     "label": {
@@ -726,22 +775,49 @@ declare const tokens: {
       }
     },
     "select": {
-      "background-color": DesignToken,
+      "background-color": {
+        "css": {}
+      },
       "border-bottom-width": {
         "css": {}
       },
-      "border-color": DesignToken,
-      "border-radius": DesignToken,
-      "border-width": DesignToken,
-      "color": DesignToken,
-      "font-family": DesignToken,
-      "font-size": DesignToken,
-      "max-inline-size": DesignToken,
-      "padding-block-end": DesignToken,
-      "padding-block-start": DesignToken,
-      "padding-inline-end": DesignToken,
-      "padding-inline-start": DesignToken,
+      "border-color": {
+        "css": {}
+      },
+      "border-radius": {
+        "css": {}
+      },
+      "border-width": {
+        "css": {}
+      },
+      "color": {
+        "css": {}
+      },
+      "font-family": {
+        "css": {}
+      },
+      "font-size": {
+        "css": {}
+      },
+      "max-inline-size": {
+        "css": {}
+      },
+      "padding-block-end": {
+        "css": {}
+      },
+      "padding-block-start": {
+        "css": {}
+      },
+      "padding-inline-end": {
+        "css": {}
+      },
+      "padding-inline-start": {
+        "css": {}
+      },
       "disabled": {
+        "background-color": {
+          "css": {}
+        },
         "border-color": {
           "css": {}
         },
@@ -750,20 +826,21 @@ declare const tokens: {
         }
       },
       "invalid": {
-        "border-color": DesignToken,
+        "background-color": {
+          "css": {}
+        },
+        "border-color": {
+          "css": {}
+        },
         "border-width": {
           "css": {}
         }
       },
+      "border-block-end-width": DesignToken,
       "read-only": {
-        "border-color": {
-          "css": {}
-        },
-        "color": {
-          "css": {}
-        }
-      },
-      "border-block-end-width": DesignToken
+        "border-color": {},
+        "color": {}
+      }
     },
     "separator": {
       "color": DesignToken,
@@ -921,19 +998,52 @@ declare const tokens: {
       }
     },
     "textarea": {
+      "background-color": {
+        "css": {}
+      },
       "border-bottom-width": DesignToken,
-      "border-color": DesignToken,
-      "border-radius": DesignToken,
-      "border-width": DesignToken,
-      "color": DesignToken,
-      "font-family": DesignToken,
-      "font-size": DesignToken,
-      "max-width": DesignToken,
-      "padding-block-end": DesignToken,
-      "padding-block-start": DesignToken,
-      "padding-inline-end": DesignToken,
-      "padding-inline-start": DesignToken,
+      "border-color": {
+        "css": {}
+      },
+      "border-radius": {
+        "css": {}
+      },
+      "border-width": {
+        "css": {}
+      },
+      "color": {
+        "css": {}
+      },
+      "font-family": {
+        "css": {}
+      },
+      "font-size": {
+        "css": {}
+      },
+      "max-inline-size": {
+        "css": {}
+      },
+      "padding-block-end": {
+        "css": {}
+      },
+      "padding-block-start": {
+        "css": {}
+      },
+      "padding-inline-end": {
+        "css": {}
+      },
+      "padding-inline-start": {
+        "css": {}
+      },
+      "placeholder": {
+        "color": {
+          "css": {}
+        }
+      },
       "disabled": {
+        "background-color": {
+          "css": {}
+        },
         "border-color": {
           "css": {}
         },
@@ -942,7 +1052,12 @@ declare const tokens: {
         }
       },
       "invalid": {
-        "border-color": DesignToken,
+        "background-color": {
+          "css": {}
+        },
+        "border-color": {
+          "css": {}
+        },
         "border-width": {
           "css": {}
         }
@@ -957,19 +1072,47 @@ declare const tokens: {
       }
     },
     "textbox": {
+      "background-color": {
+        "css": {}
+      },
       "border-bottom-width": DesignToken,
-      "border-color": DesignToken,
-      "border-radius": DesignToken,
-      "border-width": DesignToken,
-      "color": DesignToken,
-      "font-family": DesignToken,
-      "font-size": DesignToken,
-      "max-width": DesignToken,
-      "padding-block-end": DesignToken,
-      "padding-block-start": DesignToken,
-      "padding-inline-end": DesignToken,
-      "padding-inline-start": DesignToken,
+      "border-color": {
+        "css": {}
+      },
+      "border-radius": {
+        "css": {}
+      },
+      "border-width": {
+        "css": {}
+      },
+      "color": {
+        "css": {}
+      },
+      "font-family": {
+        "css": {}
+      },
+      "font-size": {
+        "css": {}
+      },
+      "max-inline-size": {
+        "css": {}
+      },
+      "padding-block-end": {
+        "css": {}
+      },
+      "padding-block-start": {
+        "css": {}
+      },
+      "padding-inline-end": {
+        "css": {}
+      },
+      "padding-inline-start": {
+        "css": {}
+      },
       "disabled": {
+        "background-color": {
+          "css": {}
+        },
         "border-color": {
           "css": {}
         },
@@ -978,7 +1121,12 @@ declare const tokens: {
         }
       },
       "invalid": {
-        "border-color": DesignToken,
+        "background-color": {
+          "css": {}
+        },
+        "border-color": {
+          "css": {}
+        },
         "border-width": {
           "css": {}
         }
@@ -990,8 +1138,7 @@ declare const tokens: {
         "color": {
           "css": {}
         }
-      },
-      "background-color": DesignToken
+      }
     },
     "unordered-list": {
       "margin-block-start": DesignToken,
@@ -1101,19 +1248,6 @@ declare const tokens: {
       "font-weight": {},
       "padding-block": DesignToken,
       "padding-inline": DesignToken
-    },
-    "form-input": {
-      "background-color": DesignToken,
-      "block-size": DesignToken,
-      "color": DesignToken,
-      "border-color": DesignToken,
-      "font-family": DesignToken,
-      "placeholder": {
-        "color": DesignToken
-      },
-      "focus": {
-        "border-color": DesignToken
-      }
     },
     "menulijst": {
       "item": {
