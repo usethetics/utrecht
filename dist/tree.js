@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 21 Aug 2021 14:02:00 GMT
+ * Generated on Sat, 21 Aug 2021 14:39:07 GMT
  */
 
 module.exports = {
@@ -9790,6 +9790,30 @@ module.exports = {
       }
     },
     "table": {
+      "border-color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        }
+      },
+      "border-width": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        }
+      },
+      "font-family": {
+        "css": {
+          "syntax": "*",
+          "inherits": true
+        }
+      },
+      "font-size": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        }
+      },
       "margin-block-end": {
         "css": {
           "syntax": "<length>",
@@ -10140,6 +10164,12 @@ module.exports = {
         }
       },
       "heading": {
+        "font-size": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          }
+        },
         "font-weight": {
           "css": {
             "syntax": "<number>",

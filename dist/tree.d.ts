@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 21 Aug 2021 14:02:01 GMT
+ * Generated on Sat, 21 Aug 2021 14:39:08 GMT
  */
 
 export default tokens;
@@ -918,6 +918,18 @@ declare const tokens: {
       }
     },
     "table": {
+      "border-color": {
+        "css": {}
+      },
+      "border-width": {
+        "css": {}
+      },
+      "font-family": {
+        "css": {}
+      },
+      "font-size": {
+        "css": {}
+      },
       "margin-block-end": {
         "css": {}
       },
@@ -977,6 +989,9 @@ declare const tokens: {
         "border-block-end-width": DesignToken
       },
       "heading": {
+        "font-size": {
+          "css": {}
+        },
         "font-weight": {
           "css": {}
         },
