@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 24 Aug 2021 16:23:18 GMT
+ * Generated on Thu, 02 Sep 2021 15:52:18 GMT
  */
 
 module.exports = {
@@ -7921,6 +7921,111 @@ module.exports = {
             "inherits": true
           }
         }
+      }
+    },
+    "pre-heading": {
+      "color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        }
+      },
+      "font-family": {
+        "css": {
+          "syntax": "*",
+          "inherits": true
+        }
+      },
+      "font-size": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "1rem",
+        "filePath": "./src/component/utrecht/pre-heading/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "{utrecht.typography.scale.md.font-size.value}"
+        },
+        "name": "utrechtPreHeadingFontSize",
+        "attributes": {
+          "category": "utrecht",
+          "type": "pre-heading",
+          "item": "font-size"
+        },
+        "path": [
+          "utrecht",
+          "pre-heading",
+          "font-size"
+        ]
+      },
+      "font-weight": {
+        "css": {
+          "syntax": "<number>",
+          "inherits": true
+        }
+      },
+      "line-height": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        }
+      },
+      "margin-block-end": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        }
+      },
+      "margin-block-start": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "32px",
+        "filePath": "./src/component/utrecht/pre-heading/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "{utrecht.space.row.2xl.value}"
+        },
+        "name": "utrechtPreHeadingMarginBlockStart",
+        "attributes": {
+          "category": "utrecht",
+          "type": "pre-heading",
+          "item": "margin-block-start"
+        },
+        "path": [
+          "utrecht",
+          "pre-heading",
+          "margin-block-start"
+        ]
+      },
+      "text-transform": {
+        "value": "uppercase",
+        "filePath": "./src/component/utrecht/pre-heading/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "uppercase"
+        },
+        "name": "utrechtPreHeadingTextTransform",
+        "attributes": {
+          "category": "utrecht",
+          "type": "pre-heading",
+          "item": "text-transform"
+        },
+        "path": [
+          "utrecht",
+          "pre-heading",
+          "text-transform"
+        ]
       }
     },
     "select": {

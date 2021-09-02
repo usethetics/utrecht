@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 24 Aug 2021 16:23:19 GMT
+ * Generated on Thu, 02 Sep 2021 15:52:18 GMT
  */
 
 export default tokens;
@@ -773,6 +773,26 @@ declare const tokens: {
           "css": {}
         }
       }
+    },
+    "pre-heading": {
+      "color": {
+        "css": {}
+      },
+      "font-family": {
+        "css": {}
+      },
+      "font-size": DesignToken,
+      "font-weight": {
+        "css": {}
+      },
+      "line-height": {
+        "css": {}
+      },
+      "margin-block-end": {
+        "css": {}
+      },
+      "margin-block-start": DesignToken,
+      "text-transform": DesignToken
     },
     "select": {
       "background-color": {

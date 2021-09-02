@@ -211,6 +211,8 @@
 @property --utrecht-paragraph-lead-font-size { syntax: '<length>'; inherits: true; }
 @property --utrecht-paragraph-line-height { syntax: '<length>'; inherits: true; }
 @property --utrecht-paragraph-margin-block-start { syntax: '<length>'; inherits: true; }
+@property --utrecht-pre-heading-font-size { syntax: '<length>'; inherits: true; }
+@property --utrecht-pre-heading-margin-block-start { syntax: '<length>'; inherits: true; }
 @property --utrecht-separator-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-separator-width { syntax: '<length>'; inherits: true; }
 @property --utrecht-space-block-2xl { syntax: '<length>'; inherits: true; }

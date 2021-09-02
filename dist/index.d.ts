@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 24 Aug 2021 16:23:19 GMT
+ * Generated on Thu, 02 Sep 2021 15:52:18 GMT
  */
 
 export const UtrechtArticleMaxInlineSize : string;
@@ -270,6 +270,9 @@ export const UtrechtParagraphFontWeight : string;
 export const UtrechtParagraphLineHeight : string;
 export const UtrechtParagraphMarginBlockStart : string;
 export const UtrechtParagraphLeadFontSize : string;
+export const UtrechtPreHeadingFontSize : string;
+export const UtrechtPreHeadingMarginBlockStart : string;
+export const UtrechtPreHeadingTextTransform : string;
 export const UtrechtSelectBorderBlockEndWidth : string;
 export const UtrechtSeparatorColor : string;
 export const UtrechtSeparatorWidth : string;

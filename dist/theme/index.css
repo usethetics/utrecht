@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 24 Aug 2021 16:23:18 GMT
+ * Generated on Thu, 02 Sep 2021 15:52:18 GMT
  */
 
 .utrecht-theme {
@@ -124,6 +124,7 @@
   --utrecht-space-block-3xs: 2px; /* Extra Small 3 */
   --utrecht-separator-width: 8px;
   --utrecht-select-border-block-end-width: 3px;
+  --utrecht-pre-heading-text-transform: uppercase;
   --utrecht-paragraph-line-height: 1.4;
   --utrecht-pagination-relative-link-distanced-margin-inline-start: 0.5em;
   --utrecht-pagination-relative-link-distanced-margin-inline-end: 0.5em;
@@ -259,6 +260,8 @@
   --utrecht-table-row-border-block-end-width: var(--utrecht-border-width-sm);
   --utrecht-table-row-border-block-end-color: var(--utrecht-color-grey-90);
   --utrecht-separator-color: var(--utrecht-color-grey-90);
+  --utrecht-pre-heading-margin-block-start: var(--utrecht-space-row-2xl);
+  --utrecht-pre-heading-font-size: var(--utrecht-typography-scale-md-font-size);
   --utrecht-paragraph-lead-font-size: var(--utrecht-typography-scale-lg-font-size);
   --utrecht-paragraph-margin-block-start: var(--utrecht-space-row-md);
   --utrecht-paragraph-font-weight: var(--utrecht-typography-weight-scale-normal-font-weight);

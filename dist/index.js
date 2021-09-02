@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 24 Aug 2021 16:23:18 GMT
+ * Generated on Thu, 02 Sep 2021 15:52:18 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -270,6 +270,9 @@ export const utrechtParagraphFontWeight = "normal";
 export const utrechtParagraphLineHeight = "1.4";
 export const utrechtParagraphMarginBlockStart = "16px";
 export const utrechtParagraphLeadFontSize = "1.25rem";
+export const utrechtPreHeadingFontSize = "1rem";
+export const utrechtPreHeadingMarginBlockStart = "32px";
+export const utrechtPreHeadingTextTransform = "uppercase";
 export const utrechtSelectBorderBlockEndWidth = "3px";
 export const utrechtSeparatorColor = "hsl(0 0% 90%)";
 export const utrechtSeparatorWidth = "8px";

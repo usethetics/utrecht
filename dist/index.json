@@ -7943,6 +7943,79 @@
     ]
   },
   {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "1rem",
+    "filePath": "./src/component/utrecht/pre-heading/block.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "{utrecht.typography.scale.md.font-size.value}"
+    },
+    "name": "utrechtPreHeadingFontSize",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pre-heading",
+      "item": "font-size"
+    },
+    "path": [
+      "utrecht",
+      "pre-heading",
+      "font-size"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "32px",
+    "filePath": "./src/component/utrecht/pre-heading/block.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "{utrecht.space.row.2xl.value}"
+    },
+    "name": "utrechtPreHeadingMarginBlockStart",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pre-heading",
+      "item": "margin-block-start"
+    },
+    "path": [
+      "utrecht",
+      "pre-heading",
+      "margin-block-start"
+    ]
+  },
+  {
+    "value": "uppercase",
+    "filePath": "./src/component/utrecht/pre-heading/block.style-dictionary.json",
+    "isSource": true,
+    "original": {
+      "value": "uppercase"
+    },
+    "name": "utrechtPreHeadingTextTransform",
+    "attributes": {
+      "category": "utrecht",
+      "type": "pre-heading",
+      "item": "text-transform"
+    },
+    "path": [
+      "utrecht",
+      "pre-heading",
+      "text-transform"
+    ]
+  },
+  {
     "value": "hsl(0 100% 40%)",
     "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
     "isSource": true,
