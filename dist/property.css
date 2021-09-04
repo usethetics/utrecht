@@ -99,6 +99,14 @@
 @property --utrecht-focus-outline-width { syntax: '<length>'; inherits: true; }
 @property --utrecht-form-field-margin-block-end { syntax: '<length>'; inherits: true; }
 @property --utrecht-form-field-margin-block-start { syntax: '<length>'; inherits: true; }
+@property --utrecht-form-fieldset-legend-font-size { syntax: '<length>'; inherits: true; }
+@property --utrecht-form-fieldset-legend-font-weight { syntax: '<number>'; inherits: true; }
+@property --utrecht-form-fieldset-legend-line-height { syntax: '<length>'; inherits: true; }
+@property --utrecht-form-fieldset-legend-margin-block-end { syntax: '<length>'; inherits: true; }
+@property --utrecht-form-fieldset-legend-margin-block-start { syntax: '<length>'; inherits: true; }
+@property --utrecht-form-fieldset-legend-text-transform { syntax: 'inherit | none | uppercase'; inherits: true; }
+@property --utrecht-form-fieldset-margin-block-end { syntax: '<length>'; inherits: true; }
+@property --utrecht-form-fieldset-margin-block-start { syntax: '<length>'; inherits: true; }
 @property --utrecht-form-input-background-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-form-input-border-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-form-input-border-radius { syntax: '<length-percentage>'; inherits: true; }

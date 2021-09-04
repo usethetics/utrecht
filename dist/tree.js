@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 04 Sep 2021 13:52:22 GMT
+ * Generated on Sat, 04 Sep 2021 17:07:18 GMT
  */
 
 module.exports = {
@@ -3578,13 +3578,55 @@ module.exports = {
         "css": {
           "syntax": "<length>",
           "inherits": true
-        }
+        },
+        "value": "4px",
+        "filePath": "./src/component/utrecht/form-fieldset/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "{utrecht.space.block.2xs.value}"
+        },
+        "name": "utrechtFormFieldsetMarginBlockEnd",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-fieldset",
+          "item": "margin-block-end"
+        },
+        "path": [
+          "utrecht",
+          "form-fieldset",
+          "margin-block-end"
+        ]
       },
       "margin-block-start": {
         "css": {
           "syntax": "<length>",
           "inherits": true
-        }
+        },
+        "value": "4px",
+        "filePath": "./src/component/utrecht/form-fieldset/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "{utrecht.space.block.2xs.value}"
+        },
+        "name": "utrechtFormFieldsetMarginBlockStart",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-fieldset",
+          "item": "margin-block-start"
+        },
+        "path": [
+          "utrecht",
+          "form-fieldset",
+          "margin-block-start"
+        ]
       },
       "legend": {
         "color": {
@@ -3603,31 +3645,175 @@ module.exports = {
           "css": {
             "syntax": "<length>",
             "inherits": true
-          }
+          },
+          "value": "1rem",
+          "filePath": "./src/component/utrecht/form-fieldset/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<length>",
+              "inherits": true
+            },
+            "value": "1rem"
+          },
+          "name": "utrechtFormFieldsetLegendFontSize",
+          "attributes": {
+            "category": "utrecht",
+            "type": "form-fieldset",
+            "item": "legend",
+            "subitem": "font-size"
+          },
+          "path": [
+            "utrecht",
+            "form-fieldset",
+            "legend",
+            "font-size"
+          ]
         },
         "font-weight": {
           "css": {
             "syntax": "<number>",
             "inherits": true
-          }
+          },
+          "value": "bold",
+          "filePath": "./src/component/utrecht/form-fieldset/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<number>",
+              "inherits": true
+            },
+            "value": "{utrecht.typography.weight-scale.bold.font-weight.value}"
+          },
+          "name": "utrechtFormFieldsetLegendFontWeight",
+          "attributes": {
+            "category": "utrecht",
+            "type": "form-fieldset",
+            "item": "legend",
+            "subitem": "font-weight"
+          },
+          "path": [
+            "utrecht",
+            "form-fieldset",
+            "legend",
+            "font-weight"
+          ]
         },
         "line-height": {
           "css": {
             "syntax": "<length>",
             "inherits": true
-          }
+          },
+          "value": "1.4",
+          "filePath": "./src/component/utrecht/form-fieldset/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<length>",
+              "inherits": true
+            },
+            "value": "1.4"
+          },
+          "name": "utrechtFormFieldsetLegendLineHeight",
+          "attributes": {
+            "category": "utrecht",
+            "type": "form-fieldset",
+            "item": "legend",
+            "subitem": "line-height"
+          },
+          "path": [
+            "utrecht",
+            "form-fieldset",
+            "legend",
+            "line-height"
+          ]
         },
         "margin-block-end": {
           "css": {
             "syntax": "<length>",
             "inherits": true
-          }
+          },
+          "value": "12px",
+          "filePath": "./src/component/utrecht/form-fieldset/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<length>",
+              "inherits": true
+            },
+            "value": "{utrecht.space.block.sm.value}"
+          },
+          "name": "utrechtFormFieldsetLegendMarginBlockEnd",
+          "attributes": {
+            "category": "utrecht",
+            "type": "form-fieldset",
+            "item": "legend",
+            "subitem": "margin-block-end"
+          },
+          "path": [
+            "utrecht",
+            "form-fieldset",
+            "legend",
+            "margin-block-end"
+          ]
         },
         "margin-block-start": {
           "css": {
             "syntax": "<length>",
             "inherits": true
-          }
+          },
+          "value": "24px",
+          "filePath": "./src/component/utrecht/form-fieldset/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<length>",
+              "inherits": true
+            },
+            "value": "{utrecht.space.block.lg.value}"
+          },
+          "name": "utrechtFormFieldsetLegendMarginBlockStart",
+          "attributes": {
+            "category": "utrecht",
+            "type": "form-fieldset",
+            "item": "legend",
+            "subitem": "margin-block-start"
+          },
+          "path": [
+            "utrecht",
+            "form-fieldset",
+            "legend",
+            "margin-block-start"
+          ]
+        },
+        "text-transform": {
+          "css": {
+            "syntax": "inherit | none | uppercase",
+            "inherits": true
+          },
+          "value": "uppercase",
+          "filePath": "./src/component/utrecht/form-fieldset/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "inherit | none | uppercase",
+              "inherits": true
+            },
+            "value": "uppercase"
+          },
+          "name": "utrechtFormFieldsetLegendTextTransform",
+          "attributes": {
+            "category": "utrecht",
+            "type": "form-fieldset",
+            "item": "legend",
+            "subitem": "text-transform"
+          },
+          "path": [
+            "utrecht",
+            "form-fieldset",
+            "legend",
+            "text-transform"
+          ]
         }
       }
     },

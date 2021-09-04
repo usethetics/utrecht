@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 04 Sep 2021 13:52:22 GMT
+ * Generated on Sat, 04 Sep 2021 17:07:18 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -123,6 +123,14 @@ export const utrechtFocusOutlineStyle = "dotted";
 export const utrechtFocusOutlineWidth = "2px";
 export const utrechtFormFieldMarginBlockStart = "4px";
 export const utrechtFormFieldMarginBlockEnd = "4px";
+export const utrechtFormFieldsetMarginBlockEnd = "4px";
+export const utrechtFormFieldsetMarginBlockStart = "4px";
+export const utrechtFormFieldsetLegendFontSize = "1rem";
+export const utrechtFormFieldsetLegendFontWeight = "bold";
+export const utrechtFormFieldsetLegendLineHeight = "1.4";
+export const utrechtFormFieldsetLegendMarginBlockEnd = "12px";
+export const utrechtFormFieldsetLegendMarginBlockStart = "24px";
+export const utrechtFormFieldsetLegendTextTransform = "uppercase";
 export const utrechtFormInputBackgroundColor = "hsl(0 0% 100%)";
 export const utrechtFormInputBorderColor = "hsl(0 0% 30%)";
 export const utrechtFormInputBorderRadius = "0";

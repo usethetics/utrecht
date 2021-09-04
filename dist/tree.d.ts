@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 04 Sep 2021 13:52:23 GMT
+ * Generated on Sat, 04 Sep 2021 17:07:19 GMT
  */
 
 export default tokens;
@@ -318,12 +318,8 @@ declare const tokens: {
       "margin-block-end": DesignToken
     },
     "form-fieldset": {
-      "margin-block-end": {
-        "css": {}
-      },
-      "margin-block-start": {
-        "css": {}
-      },
+      "margin-block-end": DesignToken,
+      "margin-block-start": DesignToken,
       "legend": {
         "color": {
           "css": {}
@@ -331,21 +327,12 @@ declare const tokens: {
         "font-family": {
           "css": {}
         },
-        "font-size": {
-          "css": {}
-        },
-        "font-weight": {
-          "css": {}
-        },
-        "line-height": {
-          "css": {}
-        },
-        "margin-block-end": {
-          "css": {}
-        },
-        "margin-block-start": {
-          "css": {}
-        }
+        "font-size": DesignToken,
+        "font-weight": DesignToken,
+        "line-height": DesignToken,
+        "margin-block-end": DesignToken,
+        "margin-block-start": DesignToken,
+        "text-transform": DesignToken
       }
     },
     "form-input": {

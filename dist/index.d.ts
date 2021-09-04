@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 04 Sep 2021 13:52:23 GMT
+ * Generated on Sat, 04 Sep 2021 17:07:19 GMT
  */
 
 export const UtrechtArticleMaxInlineSize : string;
@@ -123,6 +123,14 @@ export const UtrechtFocusOutlineStyle : string;
 export const UtrechtFocusOutlineWidth : string;
 export const UtrechtFormFieldMarginBlockStart : string;
 export const UtrechtFormFieldMarginBlockEnd : string;
+export const UtrechtFormFieldsetMarginBlockEnd : string;
+export const UtrechtFormFieldsetMarginBlockStart : string;
+export const UtrechtFormFieldsetLegendFontSize : string;
+export const UtrechtFormFieldsetLegendFontWeight : string;
+export const UtrechtFormFieldsetLegendLineHeight : string;
+export const UtrechtFormFieldsetLegendMarginBlockEnd : string;
+export const UtrechtFormFieldsetLegendMarginBlockStart : string;
+export const UtrechtFormFieldsetLegendTextTransform : string;
 export const UtrechtFormInputBackgroundColor : string;
 export const UtrechtFormInputBorderColor : string;
 export const UtrechtFormInputBorderRadius : string;
