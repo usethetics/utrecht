@@ -1,0 +1,21 @@
+{
+  "utrecht": {
+    "form-data-list": {
+      "label": {
+        "font-weight": {
+          "value": "{utrecht.typography.weight-scale.bold.font-weight.value}"
+        },
+        "padding-inline-end": { "value": "{utrecht.space.inline.sm.value}" },
+        "padding-inline-start": { "value": "{utrecht.space.inline.sm.value}" },
+        "padding-block-end": { "value": "{utrecht.space.block.xs.value}" },
+        "padding-block-start": { "value": "{utrecht.space.block.xs.value}" }
+      },
+      "data": {
+        "padding-inline-end": { "value": "{utrecht.space.inline.sm.value}" },
+        "padding-inline-start": { "value": "{utrecht.space.inline.sm.value}" },
+        "padding-block-end": { "value": "{utrecht.space.block.xs.value}" },
+        "padding-block-start": { "value": "{utrecht.space.block.xs.value}" }
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+<!--
+@license EUPL-1.2
+Copyright (c) 2021 Robbert Broersma
+-->
+
+import { Meta, Story, Canvas, ArgsTable } from "@storybook/addon-docs";
+import "./bem.scss";
+import "../radio-button/bem.css";
+import "../form-label/bem.css";
+
+export const FormDataList = ({ items = [] }) =>
+  `<dl class="utrecht-form-data-list">${items
+    .map(
+      ({ label, value }) => `
+  <!-- <div class="utrecht-form-data-list__item"> -->
+    <dt class="utrecht-form-data-list__label">${label}</dt>
+    <dd class="utrecht-form-data-list__data">${value}</dd>
+  <!-- </div> -->
+  `
+    )
+    .join("")}
+</dl>`;
+
+<Meta
+  title="CSS Component/Form Data List"
+  argTypes={{
+    items: {
+      description: "Items in the list",
+      type: {
+        name: "array",
+        required: true,
+      },
+    },
+  }}
+  parameters={{
+    docs: {
+      transformSource: (_src, { args }) => FormDataList(args),
+    },
+    status: {
+      type: "WORK IN PROGRESS",
+    },
+  }}
+/>
+
+# Form data list
+
+<Canvas>
+  <Story
+    name="Form Data List"
+    args={{
+      items: [
+        {
+          label: "Naam",
+          value: "Sam van der Meer",
+        },
+        {
+          label: "Huisnummer",
+          value: "42",
+        },
+        {
+          label: "Option 3",
+          value: "3",
+        },
+      ],
+    }}
+  >
+    {FormDataList.bind({})}
+  </Story>
+</Canvas>
+
+<ArgsTable story="Form Data List" />
