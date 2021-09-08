@@ -1,0 +1,42 @@
+/**
+ * @license EUPL-1.2
+ * Copyright (c) 2021 Gemeente Den Haag
+ * Copyright (c) 2021 Robbert Broersma
+ */
+
+.utrecht-alert {
+  padding-block-end: var(--utrecht-paragraph-padding-block-end, 0);
+  padding-block-start: var(--utrecht-paragraph-padding-block-start, 0);
+  padding-inline-end: var(--utrecht-paragraph-padding-inline-end, 0);
+  padding-inline-start: var(--utrecht-paragraph-padding-inline-start, 0);
+}
+
+.utrecht-alert--distanced {
+  margin-block-end: var(--utrecht-paragraph-margin-block-end, 0);
+  margin-block-start: var(--utrecht-paragraph-margin-block-start, 0);
+}
+
+.utrecht-alert--danger {
+  background-color: var(--utrecht-feedback-danger-fill-background-color, hsl(0 100% 50%));
+  color: var(--utrecht-feedback-danger-fill-color, white);
+}
+
+.utrecht-alert--warning {
+  background-color: var(--utrecht-feedback-warning-fill-background-color, hsl(39 100% 50%));
+  color: var(--utrecht-feedback-warning-fill-color, white);
+}
+
+.utrecht-alert--safe {
+  background-color: var(--utrecht-feedback-safe-fill-background-color, hsl(120 100% 25%));
+  color: var(--utrecht-feedback-safe-fill-color, white);
+}
+
+.utrecht-alert--neutral {
+  background-color: var(--utrecht-feedback-neutral-fill-background-color, black);
+  color: var(--utrecht-feedback-neutral-fill-color, white);
+}
+
+.utrecht-alert__content {
+  margin-inline-start: var(--utrecht-alert-content-margin-inline-start);
+  margin-inline-end: var(--utrecht-alert-content-margin-inline-end);
+}
