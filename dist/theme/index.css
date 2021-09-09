@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 08 Sep 2021 13:04:35 GMT
+ * Generated on Thu, 09 Sep 2021 11:35:12 GMT
  */
 
 .utrecht-theme {
@@ -195,6 +195,24 @@
   --utrecht-heading-1-margin-block-end: 0.67rem;
   --utrecht-heading-1-line-height: 1.4;
   --utrecht-heading-1-font-size: 1.5rem;
+  --utrecht-form-toggle-width: 48px;
+  --utrecht-form-toggle-padding-inline-start: 0;
+  --utrecht-form-toggle-padding-inline-end: 0;
+  --utrecht-form-toggle-padding-block-start: 0;
+  --utrecht-form-toggle-padding-block-end: 0;
+  --utrecht-form-toggle-height: 24px;
+  --utrecht-form-toggle-border-style: solid;
+  --utrecht-form-toggle-focus-border-width: 2px;
+  --utrecht-form-toggle-focus-border-style: dotted;
+  --utrecht-form-toggle-thumb-min-inline-size: 18px;
+  --utrecht-form-toggle-thumb-margin-inline-end: .25em;
+  --utrecht-form-toggle-thumb-margin-inline-start: .25em;
+  --utrecht-form-toggle-thumb-disabled-box-shadow: 0;
+  --utrecht-form-toggle-track-border-radius: 10em;
+  --utrecht-form-toggle-border-width: 2px;
+  --utrecht-form-toggle-border-radius: 0;
+  --utrecht-form-toggle-border-color: transparent;
+  --utrecht-form-toggle-accent-color: hsla(0, 0%, 48%, 1);
   --utrecht-form-label-font-size: 1em;
   --utrecht-form-input-block-size: 42px;
   --utrecht-form-input-padding-inline-start: 12px;
@@ -314,6 +332,13 @@
   --utrecht-heading-5-font-weight: var(--utrecht-typography-weight-scale-normal-font-weight);
   --utrecht-heading-4-font-weight: var(--utrecht-typography-weight-scale-normal-font-weight);
   --utrecht-heading-3-font-weight: var(--utrecht-typography-weight-scale-normal-font-weight);
+  --utrecht-form-toggle-focus-border-color: var(--utrecht-color-black);
+  --utrecht-form-toggle-checked-accent-color: var(--utrecht-color-blue-30);
+  --utrecht-form-toggle-thumb-background-color: var(--utrecht-color-white);
+  --utrecht-form-toggle-thumb-disabled-background-color: var(--utrecht-color-white);
+  --utrecht-form-toggle-track-disabled-background-color: var(--utrecht-color-grey-90);
+  --utrecht-form-toggle-color: var(--utrecht-color-black);
+  --utrecht-form-toggle-background-color: var(--utrecht-color-white);
   --utrecht-form-label-font-weight: var(--utrecht-typography-weight-scale-bold-font-weight);
   --utrecht-form-label-radio-font-weight: var(--utrecht-typography-weight-scale-normal-font-weight);
   --utrecht-form-label-checkbox-font-weight: var(--utrecht-typography-weight-scale-normal-font-weight);

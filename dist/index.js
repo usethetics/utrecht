@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 08 Sep 2021 13:04:35 GMT
+ * Generated on Thu, 09 Sep 2021 11:35:12 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -151,6 +151,31 @@ export const utrechtFormLabelCheckboxFontWeight = "normal";
 export const utrechtFormLabelRadioFontWeight = "normal";
 export const utrechtFormLabelFontSize = "1em";
 export const utrechtFormLabelFontWeight = "bold";
+export const utrechtFormToggleAccentColor = "hsla(0, 0%, 48%, 1)";
+export const utrechtFormToggleBackgroundColor = "hsl(0 0% 100%)";
+export const utrechtFormToggleBorderColor = "transparent";
+export const utrechtFormToggleBorderRadius = "0";
+export const utrechtFormToggleBorderWidth = "2px";
+export const utrechtFormToggleColor = "hsl(0 0% 0%)";
+export const utrechtFormToggleTrackDisabledBackgroundColor = "hsl(0 0% 90%)";
+export const utrechtFormToggleTrackBorderRadius = "10em";
+export const utrechtFormToggleThumbDisabledBoxShadow = 0;
+export const utrechtFormToggleThumbDisabledBackgroundColor = "hsl(0 0% 100%)";
+export const utrechtFormToggleThumbBackgroundColor = "hsl(0 0% 100%)";
+export const utrechtFormToggleThumbMarginInlineStart = ".25em";
+export const utrechtFormToggleThumbMarginInlineEnd = ".25em";
+export const utrechtFormToggleThumbMinInlineSize = "18px";
+export const utrechtFormToggleCheckedAccentColor = "hsl(211 60% 30%)";
+export const utrechtFormToggleFocusBorderColor = "hsl(0 0% 0%)";
+export const utrechtFormToggleFocusBorderStyle = "dotted";
+export const utrechtFormToggleFocusBorderWidth = "2px";
+export const utrechtFormToggleBorderStyle = "solid";
+export const utrechtFormToggleHeight = "24px";
+export const utrechtFormTogglePaddingBlockEnd = "0";
+export const utrechtFormTogglePaddingBlockStart = "0";
+export const utrechtFormTogglePaddingInlineEnd = "0";
+export const utrechtFormTogglePaddingInlineStart = "0";
+export const utrechtFormToggleWidth = "48px";
 export const utrechtHeading1FontSize = "1.5rem";
 export const utrechtHeading1LineHeight = "1.4";
 export const utrechtHeading1MarginBlockEnd = "0.67rem";

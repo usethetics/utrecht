@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 08 Sep 2021 13:04:35 GMT
+ * Generated on Thu, 09 Sep 2021 11:35:12 GMT
  */
 
 export const UtrechtArticleMaxInlineSize : string;
@@ -151,6 +151,31 @@ export const UtrechtFormLabelCheckboxFontWeight : string;
 export const UtrechtFormLabelRadioFontWeight : string;
 export const UtrechtFormLabelFontSize : string;
 export const UtrechtFormLabelFontWeight : string;
+export const UtrechtFormToggleAccentColor : string;
+export const UtrechtFormToggleBackgroundColor : string;
+export const UtrechtFormToggleBorderColor : string;
+export const UtrechtFormToggleBorderRadius : string;
+export const UtrechtFormToggleBorderWidth : string;
+export const UtrechtFormToggleColor : string;
+export const UtrechtFormToggleTrackDisabledBackgroundColor : string;
+export const UtrechtFormToggleTrackBorderRadius : string;
+export const UtrechtFormToggleThumbDisabledBoxShadow : number;
+export const UtrechtFormToggleThumbDisabledBackgroundColor : string;
+export const UtrechtFormToggleThumbBackgroundColor : string;
+export const UtrechtFormToggleThumbMarginInlineStart : string;
+export const UtrechtFormToggleThumbMarginInlineEnd : string;
+export const UtrechtFormToggleThumbMinInlineSize : string;
+export const UtrechtFormToggleCheckedAccentColor : string;
+export const UtrechtFormToggleFocusBorderColor : string;
+export const UtrechtFormToggleFocusBorderStyle : string;
+export const UtrechtFormToggleFocusBorderWidth : string;
+export const UtrechtFormToggleBorderStyle : string;
+export const UtrechtFormToggleHeight : string;
+export const UtrechtFormTogglePaddingBlockEnd : string;
+export const UtrechtFormTogglePaddingBlockStart : string;
+export const UtrechtFormTogglePaddingInlineEnd : string;
+export const UtrechtFormTogglePaddingInlineStart : string;
+export const UtrechtFormToggleWidth : string;
 export const UtrechtHeading1FontSize : string;
 export const UtrechtHeading1LineHeight : string;
 export const UtrechtHeading1MarginBlockEnd : string;

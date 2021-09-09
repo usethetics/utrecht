@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 08 Sep 2021 13:04:35 GMT
+ * Generated on Thu, 09 Sep 2021 11:35:12 GMT
  */
 
 export default tokens;
@@ -420,6 +420,45 @@ declare const tokens: {
       },
       "font-size": DesignToken,
       "font-weight": DesignToken
+    },
+    "form-toggle": {
+      "accent-color": DesignToken,
+      "background-color": DesignToken,
+      "border-color": DesignToken,
+      "border-radius": DesignToken,
+      "border-width": DesignToken,
+      "color": DesignToken,
+      "track": {
+        "disabled": {
+          "background-color": DesignToken
+        },
+        "border-radius": DesignToken
+      },
+      "thumb": {
+        "disabled": {
+          "box-shadow": DesignToken,
+          "background-color": DesignToken
+        },
+        "background-color": DesignToken,
+        "margin-inline-start": DesignToken,
+        "margin-inline-end": DesignToken,
+        "min-inline-size": DesignToken
+      },
+      "checked": {
+        "accent-color": DesignToken
+      },
+      "focus": {
+        "border-color": DesignToken,
+        "border-style": DesignToken,
+        "border-width": DesignToken
+      },
+      "border-style": DesignToken,
+      "height": DesignToken,
+      "padding-block-end": DesignToken,
+      "padding-block-start": DesignToken,
+      "padding-inline-end": DesignToken,
+      "padding-inline-start": DesignToken,
+      "width": DesignToken
     },
     "heading-1": {
       "color": {

@@ -4438,6 +4438,669 @@
         ]
       }
     },
+    "form-toggle": {
+      "accent-color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        },
+        "value": "hsla(0, 0%, 48%, 1)",
+        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "hsla(0, 0%, 48%, 1)"
+        },
+        "name": "utrechtFormToggleAccentColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-toggle",
+          "item": "accent-color"
+        },
+        "path": [
+          "utrecht",
+          "form-toggle",
+          "accent-color"
+        ]
+      },
+      "background-color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        },
+        "value": "hsl(0 0% 100%)",
+        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "{utrecht.color.white.value}"
+        },
+        "name": "utrechtFormToggleBackgroundColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-toggle",
+          "item": "background-color"
+        },
+        "path": [
+          "utrecht",
+          "form-toggle",
+          "background-color"
+        ]
+      },
+      "border-color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        },
+        "value": "transparent",
+        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "transparent"
+        },
+        "name": "utrechtFormToggleBorderColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-toggle",
+          "item": "border-color"
+        },
+        "path": [
+          "utrecht",
+          "form-toggle",
+          "border-color"
+        ]
+      },
+      "border-radius": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "0",
+        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "0"
+        },
+        "name": "utrechtFormToggleBorderRadius",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-toggle",
+          "item": "border-radius"
+        },
+        "path": [
+          "utrecht",
+          "form-toggle",
+          "border-radius"
+        ]
+      },
+      "border-width": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "2px",
+        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "2px"
+        },
+        "name": "utrechtFormToggleBorderWidth",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-toggle",
+          "item": "border-width"
+        },
+        "path": [
+          "utrecht",
+          "form-toggle",
+          "border-width"
+        ]
+      },
+      "color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        },
+        "value": "hsl(0 0% 0%)",
+        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "{utrecht.color.black.value}"
+        },
+        "name": "utrechtFormToggleColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-toggle",
+          "item": "color"
+        },
+        "path": [
+          "utrecht",
+          "form-toggle",
+          "color"
+        ]
+      },
+      "track": {
+        "disabled": {
+          "background-color": {
+            "css": {
+              "syntax": "<color>",
+              "inherits": true
+            },
+            "value": "hsl(0 0% 90%)",
+            "filePath": "./src/component/utrecht/form-toggle/element-modifier.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "css": {
+                "syntax": "<color>",
+                "inherits": true
+              },
+              "value": "{utrecht.color.grey.90.value}"
+            },
+            "name": "utrechtFormToggleTrackDisabledBackgroundColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "form-toggle",
+              "item": "track",
+              "subitem": "disabled",
+              "state": "background-color"
+            },
+            "path": [
+              "utrecht",
+              "form-toggle",
+              "track",
+              "disabled",
+              "background-color"
+            ]
+          }
+        },
+        "border-radius": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "10em",
+          "filePath": "./src/component/utrecht/form-toggle/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<length>",
+              "inherits": true
+            },
+            "value": "10em"
+          },
+          "name": "utrechtFormToggleTrackBorderRadius",
+          "attributes": {
+            "category": "utrecht",
+            "type": "form-toggle",
+            "item": "track",
+            "subitem": "border-radius"
+          },
+          "path": [
+            "utrecht",
+            "form-toggle",
+            "track",
+            "border-radius"
+          ]
+        }
+      },
+      "thumb": {
+        "disabled": {
+          "box-shadow": {
+            "css": {
+              "syntax": "*",
+              "inherits": true
+            },
+            "value": 0,
+            "filePath": "./src/component/utrecht/form-toggle/element-modifier.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "css": {
+                "syntax": "*",
+                "inherits": true
+              },
+              "value": 0
+            },
+            "name": "utrechtFormToggleThumbDisabledBoxShadow",
+            "attributes": {
+              "category": "utrecht",
+              "type": "form-toggle",
+              "item": "thumb",
+              "subitem": "disabled",
+              "state": "box-shadow"
+            },
+            "path": [
+              "utrecht",
+              "form-toggle",
+              "thumb",
+              "disabled",
+              "box-shadow"
+            ]
+          },
+          "background-color": {
+            "css": {
+              "syntax": "<color>",
+              "inherits": true
+            },
+            "value": "hsl(0 0% 100%)",
+            "filePath": "./src/component/utrecht/form-toggle/element-modifier.style-dictionary.json",
+            "isSource": true,
+            "original": {
+              "css": {
+                "syntax": "<color>",
+                "inherits": true
+              },
+              "value": "{utrecht.color.white.value}"
+            },
+            "name": "utrechtFormToggleThumbDisabledBackgroundColor",
+            "attributes": {
+              "category": "utrecht",
+              "type": "form-toggle",
+              "item": "thumb",
+              "subitem": "disabled",
+              "state": "background-color"
+            },
+            "path": [
+              "utrecht",
+              "form-toggle",
+              "thumb",
+              "disabled",
+              "background-color"
+            ]
+          }
+        },
+        "background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "hsl(0 0% 100%)",
+          "filePath": "./src/component/utrecht/form-toggle/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<color>",
+              "inherits": true
+            },
+            "value": "{utrecht.color.white.value}"
+          },
+          "name": "utrechtFormToggleThumbBackgroundColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "form-toggle",
+            "item": "thumb",
+            "subitem": "background-color"
+          },
+          "path": [
+            "utrecht",
+            "form-toggle",
+            "thumb",
+            "background-color"
+          ]
+        },
+        "margin-inline-start": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": ".25em",
+          "filePath": "./src/component/utrecht/form-toggle/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<length>",
+              "inherits": true
+            },
+            "value": ".25em"
+          },
+          "name": "utrechtFormToggleThumbMarginInlineStart",
+          "attributes": {
+            "category": "utrecht",
+            "type": "form-toggle",
+            "item": "thumb",
+            "subitem": "margin-inline-start"
+          },
+          "path": [
+            "utrecht",
+            "form-toggle",
+            "thumb",
+            "margin-inline-start"
+          ]
+        },
+        "margin-inline-end": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": ".25em",
+          "filePath": "./src/component/utrecht/form-toggle/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<length>",
+              "inherits": true
+            },
+            "value": ".25em"
+          },
+          "name": "utrechtFormToggleThumbMarginInlineEnd",
+          "attributes": {
+            "category": "utrecht",
+            "type": "form-toggle",
+            "item": "thumb",
+            "subitem": "margin-inline-end"
+          },
+          "path": [
+            "utrecht",
+            "form-toggle",
+            "thumb",
+            "margin-inline-end"
+          ]
+        },
+        "min-inline-size": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "18px",
+          "filePath": "./src/component/utrecht/form-toggle/element.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<length>",
+              "inherits": true
+            },
+            "value": "18px"
+          },
+          "name": "utrechtFormToggleThumbMinInlineSize",
+          "attributes": {
+            "category": "utrecht",
+            "type": "form-toggle",
+            "item": "thumb",
+            "subitem": "min-inline-size"
+          },
+          "path": [
+            "utrecht",
+            "form-toggle",
+            "thumb",
+            "min-inline-size"
+          ]
+        }
+      },
+      "checked": {
+        "accent-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "hsl(211 60% 30%)",
+          "filePath": "./src/component/utrecht/form-toggle/modifier.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<color>",
+              "inherits": true
+            },
+            "value": "{utrecht.color.blue.30.value}"
+          },
+          "name": "utrechtFormToggleCheckedAccentColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "form-toggle",
+            "item": "checked",
+            "subitem": "accent-color"
+          },
+          "path": [
+            "utrecht",
+            "form-toggle",
+            "checked",
+            "accent-color"
+          ]
+        }
+      },
+      "focus": {
+        "border-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "hsl(0 0% 0%)",
+          "filePath": "./src/component/utrecht/form-toggle/modifier.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<color>",
+              "inherits": true
+            },
+            "value": "{utrecht.color.black.value}"
+          },
+          "name": "utrechtFormToggleFocusBorderColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "form-toggle",
+            "item": "focus",
+            "subitem": "border-color"
+          },
+          "path": [
+            "utrecht",
+            "form-toggle",
+            "focus",
+            "border-color"
+          ]
+        },
+        "border-style": {
+          "css": {
+            "syntax": "*",
+            "inherits": true
+          },
+          "value": "dotted",
+          "filePath": "./src/component/utrecht/form-toggle/modifier.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "*",
+              "inherits": true
+            },
+            "value": "dotted"
+          },
+          "name": "utrechtFormToggleFocusBorderStyle",
+          "attributes": {
+            "category": "utrecht",
+            "type": "form-toggle",
+            "item": "focus",
+            "subitem": "border-style"
+          },
+          "path": [
+            "utrecht",
+            "form-toggle",
+            "focus",
+            "border-style"
+          ]
+        },
+        "border-width": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "2px",
+          "filePath": "./src/component/utrecht/form-toggle/modifier.style-dictionary.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<length>",
+              "inherits": true
+            },
+            "value": "2px"
+          },
+          "name": "utrechtFormToggleFocusBorderWidth",
+          "attributes": {
+            "category": "utrecht",
+            "type": "form-toggle",
+            "item": "focus",
+            "subitem": "border-width"
+          },
+          "path": [
+            "utrecht",
+            "form-toggle",
+            "focus",
+            "border-width"
+          ]
+        }
+      },
+      "border-style": {
+        "value": "solid",
+        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "solid"
+        },
+        "name": "utrechtFormToggleBorderStyle",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-toggle",
+          "item": "border-style"
+        },
+        "path": [
+          "utrecht",
+          "form-toggle",
+          "border-style"
+        ]
+      },
+      "height": {
+        "value": "24px",
+        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "24px"
+        },
+        "name": "utrechtFormToggleHeight",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-toggle",
+          "item": "height"
+        },
+        "path": [
+          "utrecht",
+          "form-toggle",
+          "height"
+        ]
+      },
+      "padding-block-end": {
+        "value": "0",
+        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "0"
+        },
+        "name": "utrechtFormTogglePaddingBlockEnd",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-toggle",
+          "item": "padding-block-end"
+        },
+        "path": [
+          "utrecht",
+          "form-toggle",
+          "padding-block-end"
+        ]
+      },
+      "padding-block-start": {
+        "value": "0",
+        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "0"
+        },
+        "name": "utrechtFormTogglePaddingBlockStart",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-toggle",
+          "item": "padding-block-start"
+        },
+        "path": [
+          "utrecht",
+          "form-toggle",
+          "padding-block-start"
+        ]
+      },
+      "padding-inline-end": {
+        "value": "0",
+        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "0"
+        },
+        "name": "utrechtFormTogglePaddingInlineEnd",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-toggle",
+          "item": "padding-inline-end"
+        },
+        "path": [
+          "utrecht",
+          "form-toggle",
+          "padding-inline-end"
+        ]
+      },
+      "padding-inline-start": {
+        "value": "0",
+        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "0"
+        },
+        "name": "utrechtFormTogglePaddingInlineStart",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-toggle",
+          "item": "padding-inline-start"
+        },
+        "path": [
+          "utrecht",
+          "form-toggle",
+          "padding-inline-start"
+        ]
+      },
+      "width": {
+        "value": "48px",
+        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "isSource": true,
+        "original": {
+          "value": "48px"
+        },
+        "name": "utrechtFormToggleWidth",
+        "attributes": {
+          "category": "utrecht",
+          "type": "form-toggle",
+          "item": "width"
+        },
+        "path": [
+          "utrecht",
+          "form-toggle",
+          "width"
+        ]
+      }
+    },
     "heading-1": {
       "color": {
         "css": {
