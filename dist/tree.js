@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 10 Sep 2021 15:26:09 GMT
+ * Generated on Fri, 10 Sep 2021 15:37:31 GMT
  */
 
 module.exports = {
@@ -12,7 +12,7 @@ module.exports = {
           "inherits": true
         },
         "value": "780px",
-        "filePath": "./src/component/utrecht/article/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/article/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -41,7 +41,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0.15ch",
-        "filePath": "./src/component/utrecht/badge-data/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/badge-data/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -68,7 +68,7 @@ module.exports = {
           "inherits": true
         },
         "value": "uppercase",
-        "filePath": "./src/component/utrecht/badge-data/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/badge-data/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -97,7 +97,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0.15ch",
-        "filePath": "./src/component/utrecht/badge-status/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/badge-status/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -124,7 +124,7 @@ module.exports = {
           "inherits": true
         },
         "value": "uppercase",
-        "filePath": "./src/component/utrecht/badge-status/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/badge-status/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -154,7 +154,7 @@ module.exports = {
           "inherits": true
         },
         "value": "hsl(0 0% 30%)",
-        "filePath": "./src/component/utrecht/badge/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/badge/block.tokens.json",
         "isSource": true,
         "original": {
           "comment": "Default background color for badge components",
@@ -183,7 +183,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0",
-        "filePath": "./src/component/utrecht/badge/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/badge/block.tokens.json",
         "isSource": true,
         "original": {
           "comment": "Default corner radius for badge components",
@@ -212,7 +212,7 @@ module.exports = {
           "inherits": true
         },
         "value": "hsl(0 0% 100%)",
-        "filePath": "./src/component/utrecht/badge/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/badge/block.tokens.json",
         "isSource": true,
         "original": {
           "comment": "Default text color for badge components",
@@ -253,7 +253,7 @@ module.exports = {
           "inherits": true
         },
         "value": "8px",
-        "filePath": "./src/component/utrecht/badge/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/badge/block.tokens.json",
         "isSource": true,
         "original": {
           "comment": "Default block padding for badge components",
@@ -282,7 +282,7 @@ module.exports = {
           "inherits": true
         },
         "value": "12px",
-        "filePath": "./src/component/utrecht/badge/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/badge/block.tokens.json",
         "isSource": true,
         "original": {
           "comment": "Default inline padding color for badge components",
@@ -318,7 +318,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.6em",
-        "filePath": "./src/component/utrecht/blockquote/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/blockquote/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -345,7 +345,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.6em",
-        "filePath": "./src/component/utrecht/blockquote/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/blockquote/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -372,7 +372,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.6em",
-        "filePath": "./src/component/utrecht/blockquote/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/blockquote/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -399,7 +399,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.6em",
-        "filePath": "./src/component/utrecht/blockquote/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/blockquote/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -445,7 +445,7 @@ module.exports = {
             "inherits": true
           },
           "value": "0.75rem",
-          "filePath": "./src/component/utrecht/blockquote/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/blockquote/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -476,7 +476,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 100% 40%)",
-          "filePath": "./src/component/utrecht/blockquote/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/blockquote/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -505,7 +505,7 @@ module.exports = {
             "inherits": true
           },
           "value": "1.125rem",
-          "filePath": "./src/component/utrecht/blockquote/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/blockquote/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -537,7 +537,7 @@ module.exports = {
           "inherits": true
         },
         "value": "34px",
-        "filePath": "./src/component/utrecht/breadcrumb/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/breadcrumb/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -570,7 +570,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0.9rem",
-        "filePath": "./src/component/utrecht/breadcrumb/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/breadcrumb/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -605,7 +605,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(48 100% 60%)",
-            "filePath": "./src/component/utrecht/breadcrumb/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/breadcrumb/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -636,7 +636,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(0 0% 0%)",
-            "filePath": "./src/component/utrecht/breadcrumb/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/breadcrumb/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -668,7 +668,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 0% 90%)",
-          "filePath": "./src/component/utrecht/breadcrumb/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/breadcrumb/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -697,7 +697,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 0% 0%)",
-          "filePath": "./src/component/utrecht/breadcrumb/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/breadcrumb/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -734,7 +734,7 @@ module.exports = {
             "inherits": true
           },
           "value": "1px",
-          "filePath": "./src/component/utrecht/breadcrumb/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/breadcrumb/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -765,7 +765,7 @@ module.exports = {
             "inherits": true
           },
           "value": "8px",
-          "filePath": "./src/component/utrecht/breadcrumb/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/breadcrumb/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -794,7 +794,7 @@ module.exports = {
             "inherits": true
           },
           "value": "8px",
-          "filePath": "./src/component/utrecht/breadcrumb/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/breadcrumb/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -823,7 +823,7 @@ module.exports = {
             "inherits": true
           },
           "value": "16px",
-          "filePath": "./src/component/utrecht/breadcrumb/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/breadcrumb/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -852,7 +852,7 @@ module.exports = {
             "inherits": true
           },
           "value": "16px",
-          "filePath": "./src/component/utrecht/breadcrumb/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/breadcrumb/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -884,7 +884,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0",
-        "filePath": "./src/component/utrecht/button/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/button/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -917,7 +917,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1rem",
-        "filePath": "./src/component/utrecht/button/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/button/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -956,7 +956,7 @@ module.exports = {
           "inherits": true
         },
         "value": "8px",
-        "filePath": "./src/component/utrecht/button/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/button/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -983,7 +983,7 @@ module.exports = {
           "inherits": true
         },
         "value": "8px",
-        "filePath": "./src/component/utrecht/button/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/button/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -1010,7 +1010,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0",
-        "filePath": "./src/component/utrecht/button/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/button/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -1037,7 +1037,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0",
-        "filePath": "./src/component/utrecht/button/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/button/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -1064,7 +1064,7 @@ module.exports = {
           "inherits": true
         },
         "value": "12px",
-        "filePath": "./src/component/utrecht/button/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/button/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -1091,7 +1091,7 @@ module.exports = {
           "inherits": true
         },
         "value": "12px",
-        "filePath": "./src/component/utrecht/button/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/button/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -1118,7 +1118,7 @@ module.exports = {
           "inherits": true
         },
         "value": "16px",
-        "filePath": "./src/component/utrecht/button/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/button/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -1145,7 +1145,7 @@ module.exports = {
           "inherits": true
         },
         "value": "16px",
-        "filePath": "./src/component/utrecht/button/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/button/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -1179,7 +1179,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 0% 100%)",
-          "filePath": "./src/component/utrecht/button/state.style-dictionary.json",
+          "filePath": "./src/component/utrecht/button/state.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -1210,7 +1210,7 @@ module.exports = {
         },
         "background-color": {
           "value": "hsl(0 0% 90%)",
-          "filePath": "./src/component/utrecht/button/state.style-dictionary.json",
+          "filePath": "./src/component/utrecht/button/state.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.color.grey.90.value}"
@@ -1245,7 +1245,7 @@ module.exports = {
         },
         "border-color": {
           "value": "hsl(211 60% 40%)",
-          "filePath": "./src/component/utrecht/button/state.style-dictionary.json",
+          "filePath": "./src/component/utrecht/button/state.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.color.blue.40.value}"
@@ -1266,7 +1266,7 @@ module.exports = {
         },
         "border-width": {
           "value": "2px",
-          "filePath": "./src/component/utrecht/button/state.style-dictionary.json",
+          "filePath": "./src/component/utrecht/button/state.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.border-width.md.value}"
@@ -1287,7 +1287,7 @@ module.exports = {
         },
         "transform-scale": {
           "value": "1.02",
-          "filePath": "./src/component/utrecht/button/state.style-dictionary.json",
+          "filePath": "./src/component/utrecht/button/state.tokens.json",
           "isSource": true,
           "original": {
             "value": "1.02"
@@ -1314,7 +1314,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(211 60% 35%)",
-          "filePath": "./src/component/utrecht/button/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/button/modifier.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -1343,7 +1343,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 0% 100%)",
-          "filePath": "./src/component/utrecht/button/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/button/modifier.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -1375,7 +1375,7 @@ module.exports = {
         "hover": {
           "background-color": {
             "value": "hsl(211 60% 40%)",
-            "filePath": "./src/component/utrecht/button/modifier-state.style-dictionary.json",
+            "filePath": "./src/component/utrecht/button/modifier-state.tokens.json",
             "isSource": true,
             "original": {
               "value": "{utrecht.color.blue.40.value}"
@@ -1398,7 +1398,7 @@ module.exports = {
           },
           "color": {
             "value": "hsl(0 0% 100%)",
-            "filePath": "./src/component/utrecht/button/modifier-state.style-dictionary.json",
+            "filePath": "./src/component/utrecht/button/modifier-state.tokens.json",
             "isSource": true,
             "original": {
               "value": "{utrecht.color.white.value}"
@@ -1423,7 +1423,7 @@ module.exports = {
       },
       "border-radius": {
         "value": "0",
-        "filePath": "./src/component/utrecht/button/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/button/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "0"
@@ -1442,7 +1442,7 @@ module.exports = {
       },
       "font-family": {
         "value": "\"Lucida Grande\", \"Lucida Sans Unicode\", \"Lucida Sans\", Verdana, sans-serif",
-        "filePath": "./src/component/utrecht/button/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/button/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "{utrecht.typography.sans-serif.font-family.value}"
@@ -1463,7 +1463,7 @@ module.exports = {
         "hover": {
           "background-color": {
             "value": "hsl(0 0% 100%)",
-            "filePath": "./src/component/utrecht/button/modifier-state.style-dictionary.json",
+            "filePath": "./src/component/utrecht/button/modifier-state.tokens.json",
             "isSource": true,
             "original": {
               "value": "{utrecht.color.white.value}"
@@ -1486,7 +1486,7 @@ module.exports = {
           },
           "color": {
             "value": "hsl(211 60% 35%)",
-            "filePath": "./src/component/utrecht/button/modifier-state.style-dictionary.json",
+            "filePath": "./src/component/utrecht/button/modifier-state.tokens.json",
             "isSource": true,
             "original": {
               "value": "{utrecht.color.blue.35.value}"
@@ -1509,7 +1509,7 @@ module.exports = {
           },
           "border-color": {
             "value": "hsl(211 60% 40%)",
-            "filePath": "./src/component/utrecht/button/modifier-state.style-dictionary.json",
+            "filePath": "./src/component/utrecht/button/modifier-state.tokens.json",
             "isSource": true,
             "original": {
               "value": "{utrecht.color.blue.40.value}"
@@ -1534,7 +1534,7 @@ module.exports = {
         "disabled": {
           "background-color": {
             "value": "hsl(0 0% 100%)",
-            "filePath": "./src/component/utrecht/button/modifier-state.style-dictionary.json",
+            "filePath": "./src/component/utrecht/button/modifier-state.tokens.json",
             "isSource": true,
             "original": {
               "value": "{utrecht.color.white.value}"
@@ -1557,7 +1557,7 @@ module.exports = {
           },
           "color": {
             "value": "hsl(0 0% 80%)",
-            "filePath": "./src/component/utrecht/button/modifier-state.style-dictionary.json",
+            "filePath": "./src/component/utrecht/button/modifier-state.tokens.json",
             "isSource": true,
             "original": {
               "value": "{utrecht.color.grey.80.value}"
@@ -1580,7 +1580,7 @@ module.exports = {
           },
           "border-color": {
             "value": "hsl(0 0% 80%)",
-            "filePath": "./src/component/utrecht/button/modifier-state.style-dictionary.json",
+            "filePath": "./src/component/utrecht/button/modifier-state.tokens.json",
             "isSource": true,
             "original": {
               "value": "{utrecht.color.grey.80.value}"
@@ -1604,7 +1604,7 @@ module.exports = {
         },
         "background-color": {
           "value": "hsl(0 0% 100%)",
-          "filePath": "./src/component/utrecht/button/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/button/modifier.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.color.white.value}"
@@ -1625,7 +1625,7 @@ module.exports = {
         },
         "color": {
           "value": "hsl(211 60% 35%)",
-          "filePath": "./src/component/utrecht/button/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/button/modifier.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.color.blue.35.value}"
@@ -1646,7 +1646,7 @@ module.exports = {
         },
         "border-color": {
           "value": "hsl(211 60% 35%)",
-          "filePath": "./src/component/utrecht/button/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/button/modifier.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.color.blue.35.value}"
@@ -1667,7 +1667,7 @@ module.exports = {
         },
         "border-width": {
           "value": "2px",
-          "filePath": "./src/component/utrecht/button/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/button/modifier.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.border-width.md.value}"
@@ -1695,7 +1695,7 @@ module.exports = {
           "inherits": true
         },
         "value": "hsl(0 0% 100%)",
-        "filePath": "./src/component/utrecht/document/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/document/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -1722,7 +1722,7 @@ module.exports = {
           "inherits": true
         },
         "value": "hsl(0 0% 0%)",
-        "filePath": "./src/component/utrecht/document/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/document/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -1749,7 +1749,7 @@ module.exports = {
           "inherits": true
         },
         "value": "\"Lucida Grande\", \"Lucida Sans Unicode\", \"Lucida Sans\", Verdana, sans-serif",
-        "filePath": "./src/component/utrecht/document/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/document/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -1776,7 +1776,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1rem",
-        "filePath": "./src/component/utrecht/document/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/document/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -1803,7 +1803,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.4",
-        "filePath": "./src/component/utrecht/document/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/document/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -1841,7 +1841,7 @@ module.exports = {
             "inherits": true
           },
           "value": "bold",
-          "filePath": "./src/component/utrecht/emphasis/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/emphasis/modifier.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -1874,7 +1874,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 100% 40%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -1903,7 +1903,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 100% 40%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -1932,7 +1932,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 100% 40%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -1962,7 +1962,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(0 100% 40%)",
-            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "filePath": "./src/common/utrecht/feedback-variant.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -1993,7 +1993,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(0 0% 100%)",
-            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "filePath": "./src/common/utrecht/feedback-variant.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -2027,7 +2027,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(48 100% 50%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -2056,7 +2056,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(48 100% 50%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -2085,7 +2085,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(48 100% 50%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -2115,7 +2115,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(48 100% 50%)",
-            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "filePath": "./src/common/utrecht/feedback-variant.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -2146,7 +2146,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(0 0% 0%)",
-            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "filePath": "./src/common/utrecht/feedback-variant.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -2180,7 +2180,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(90 30% 50%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -2209,7 +2209,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(90 30% 50%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -2238,7 +2238,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(90 30% 50%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -2268,7 +2268,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(90 30% 50%)",
-            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "filePath": "./src/common/utrecht/feedback-variant.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -2299,7 +2299,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(0 0% 100%)",
-            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "filePath": "./src/common/utrecht/feedback-variant.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -2333,7 +2333,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 100% 40%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -2362,7 +2362,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 100% 40%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -2391,7 +2391,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 100% 40%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -2421,7 +2421,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(0 100% 40%)",
-            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "filePath": "./src/common/utrecht/feedback-variant.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -2452,7 +2452,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(0 0% 100%)",
-            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "filePath": "./src/common/utrecht/feedback-variant.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -2486,7 +2486,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(90 30% 50%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -2515,7 +2515,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(90 30% 50%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -2544,7 +2544,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(90 30% 50%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -2574,7 +2574,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(90 30% 50%)",
-            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "filePath": "./src/common/utrecht/feedback-variant.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -2605,7 +2605,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(0 0% 100%)",
-            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "filePath": "./src/common/utrecht/feedback-variant.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -2639,7 +2639,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 100% 40%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -2668,7 +2668,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 100% 40%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -2697,7 +2697,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 100% 40%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -2727,7 +2727,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(0 100% 40%)",
-            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "filePath": "./src/common/utrecht/feedback-variant.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -2758,7 +2758,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(0 0% 100%)",
-            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "filePath": "./src/common/utrecht/feedback-variant.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -2792,7 +2792,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(90 30% 50%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -2821,7 +2821,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(90 30% 50%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -2850,7 +2850,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(90 30% 50%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -2880,7 +2880,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(90 30% 50%)",
-            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "filePath": "./src/common/utrecht/feedback-variant.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -2911,7 +2911,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(0 0% 100%)",
-            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "filePath": "./src/common/utrecht/feedback-variant.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -2945,7 +2945,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 100% 40%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -2974,7 +2974,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 100% 40%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -3003,7 +3003,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 100% 40%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -3033,7 +3033,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(0 100% 40%)",
-            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "filePath": "./src/common/utrecht/feedback-variant.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -3064,7 +3064,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(0 0% 100%)",
-            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "filePath": "./src/common/utrecht/feedback-variant.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -3098,7 +3098,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(90 30% 50%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -3127,7 +3127,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(90 30% 50%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -3156,7 +3156,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(90 30% 50%)",
-          "filePath": "./src/common/utrecht/feedback.style-dictionary.json",
+          "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -3186,7 +3186,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(90 30% 50%)",
-            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "filePath": "./src/common/utrecht/feedback-variant.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -3217,7 +3217,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(0 0% 100%)",
-            "filePath": "./src/common/utrecht/feedback-variant.style-dictionary.json",
+            "filePath": "./src/common/utrecht/feedback-variant.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -3258,7 +3258,7 @@ module.exports = {
           "inherits": true
         },
         "value": "hsl(0 0% 0%)",
-        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
+        "filePath": "./src/common/utrecht/focus.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3285,7 +3285,7 @@ module.exports = {
           "inherits": true
         },
         "value": "dotted",
-        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
+        "filePath": "./src/common/utrecht/focus.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3312,7 +3312,7 @@ module.exports = {
           "inherits": true
         },
         "value": "hsl(0 0% 100%)",
-        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
+        "filePath": "./src/common/utrecht/focus.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3339,7 +3339,7 @@ module.exports = {
           "inherits": true
         },
         "value": "2px",
-        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
+        "filePath": "./src/common/utrecht/focus.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3366,7 +3366,7 @@ module.exports = {
           "inherits": true
         },
         "value": "hsl(0 0% 0%)",
-        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
+        "filePath": "./src/common/utrecht/focus.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3393,7 +3393,7 @@ module.exports = {
           "inherits": true
         },
         "value": "hsl(0 0% 0%)",
-        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
+        "filePath": "./src/common/utrecht/focus.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3426,7 +3426,7 @@ module.exports = {
           "inherits": true
         },
         "value": "dotted",
-        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
+        "filePath": "./src/common/utrecht/focus.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3453,7 +3453,7 @@ module.exports = {
           "inherits": true
         },
         "value": "2px",
-        "filePath": "./src/common/utrecht/focus.style-dictionary.json",
+        "filePath": "./src/common/utrecht/focus.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3524,7 +3524,7 @@ module.exports = {
           "inherits": true
         },
         "value": "4px",
-        "filePath": "./src/component/utrecht/form-field/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-field/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3551,7 +3551,7 @@ module.exports = {
           "inherits": true
         },
         "value": "4px",
-        "filePath": "./src/component/utrecht/form-field/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-field/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3580,7 +3580,7 @@ module.exports = {
           "inherits": true
         },
         "value": "4px",
-        "filePath": "./src/component/utrecht/form-fieldset/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-fieldset/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3607,7 +3607,7 @@ module.exports = {
           "inherits": true
         },
         "value": "4px",
-        "filePath": "./src/component/utrecht/form-fieldset/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-fieldset/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3647,7 +3647,7 @@ module.exports = {
             "inherits": true
           },
           "value": "1rem",
-          "filePath": "./src/component/utrecht/form-fieldset/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/form-fieldset/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -3676,7 +3676,7 @@ module.exports = {
             "inherits": true
           },
           "value": "bold",
-          "filePath": "./src/component/utrecht/form-fieldset/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/form-fieldset/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -3705,7 +3705,7 @@ module.exports = {
             "inherits": true
           },
           "value": "1.4",
-          "filePath": "./src/component/utrecht/form-fieldset/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/form-fieldset/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -3734,7 +3734,7 @@ module.exports = {
             "inherits": true
           },
           "value": "12px",
-          "filePath": "./src/component/utrecht/form-fieldset/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/form-fieldset/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -3763,7 +3763,7 @@ module.exports = {
             "inherits": true
           },
           "value": "24px",
-          "filePath": "./src/component/utrecht/form-fieldset/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/form-fieldset/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -3792,7 +3792,7 @@ module.exports = {
             "inherits": true
           },
           "value": "uppercase",
-          "filePath": "./src/component/utrecht/form-fieldset/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/form-fieldset/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -3824,7 +3824,7 @@ module.exports = {
           "inherits": true
         },
         "value": "hsl(0 0% 100%)",
-        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-input/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3851,7 +3851,7 @@ module.exports = {
           "inherits": true
         },
         "value": "hsl(0 0% 30%)",
-        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-input/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3878,7 +3878,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0",
-        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-input/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3905,7 +3905,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1px",
-        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-input/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3932,7 +3932,7 @@ module.exports = {
           "inherits": true
         },
         "value": "hsl(0 0% 0%)",
-        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-input/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3959,7 +3959,7 @@ module.exports = {
           "inherits": true
         },
         "value": "\"Lucida Grande\", \"Lucida Sans Unicode\", \"Lucida Sans\", Verdana, sans-serif",
-        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-input/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -3986,7 +3986,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1rem",
-        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-input/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4013,7 +4013,7 @@ module.exports = {
           "inherits": true
         },
         "value": "28em",
-        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-input/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4040,7 +4040,7 @@ module.exports = {
           "inherits": true
         },
         "value": "8px",
-        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-input/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4067,7 +4067,7 @@ module.exports = {
           "inherits": true
         },
         "value": "8px",
-        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-input/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4094,7 +4094,7 @@ module.exports = {
           "inherits": true
         },
         "value": "12px",
-        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-input/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4121,7 +4121,7 @@ module.exports = {
           "inherits": true
         },
         "value": "12px",
-        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-input/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4149,7 +4149,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 0% 40%)",
-          "filePath": "./src/component/utrecht/form-input/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/form-input/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -4206,7 +4206,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 100% 40%)",
-          "filePath": "./src/component/utrecht/form-input/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/form-input/modifier.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -4252,7 +4252,7 @@ module.exports = {
       },
       "block-size": {
         "value": "42px",
-        "filePath": "./src/component/utrecht/form-input/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-input/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "42px"
@@ -4272,7 +4272,7 @@ module.exports = {
       "focus": {
         "border-color": {
           "value": "hsl(0 0% 80%)",
-          "filePath": "./src/component/utrecht/form-input/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/form-input/modifier.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.color.grey.80.value}"
@@ -4327,7 +4327,7 @@ module.exports = {
             "inherits": true
           },
           "value": "normal",
-          "filePath": "./src/component/utrecht/form-label/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/form-label/modifier.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -4380,7 +4380,7 @@ module.exports = {
             "inherits": true
           },
           "value": "normal",
-          "filePath": "./src/component/utrecht/form-label/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/form-label/modifier.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -4406,7 +4406,7 @@ module.exports = {
       },
       "font-size": {
         "value": "1em",
-        "filePath": "./src/component/utrecht/form-label/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-label/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "1em"
@@ -4425,7 +4425,7 @@ module.exports = {
       },
       "font-weight": {
         "value": "bold",
-        "filePath": "./src/component/utrecht/form-label/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-label/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "{utrecht.typography.weight-scale.bold.font-weight.value}"
@@ -4450,7 +4450,7 @@ module.exports = {
           "inherits": true
         },
         "value": "hsla(0, 0%, 48%, 1)",
-        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-toggle/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4477,7 +4477,7 @@ module.exports = {
           "inherits": true
         },
         "value": "hsl(0 0% 100%)",
-        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-toggle/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4504,7 +4504,7 @@ module.exports = {
           "inherits": true
         },
         "value": "transparent",
-        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-toggle/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4531,7 +4531,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0",
-        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-toggle/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4558,7 +4558,7 @@ module.exports = {
           "inherits": true
         },
         "value": "2px",
-        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-toggle/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4585,7 +4585,7 @@ module.exports = {
           "inherits": true
         },
         "value": "hsl(0 0% 0%)",
-        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-toggle/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -4614,7 +4614,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(0 0% 90%)",
-            "filePath": "./src/component/utrecht/form-toggle/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/form-toggle/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -4646,7 +4646,7 @@ module.exports = {
             "inherits": true
           },
           "value": "10em",
-          "filePath": "./src/component/utrecht/form-toggle/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/form-toggle/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -4678,7 +4678,7 @@ module.exports = {
               "inherits": true
             },
             "value": 0,
-            "filePath": "./src/component/utrecht/form-toggle/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/form-toggle/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -4709,7 +4709,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(0 0% 100%)",
-            "filePath": "./src/component/utrecht/form-toggle/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/form-toggle/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -4741,7 +4741,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 0% 100%)",
-          "filePath": "./src/component/utrecht/form-toggle/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/form-toggle/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -4770,7 +4770,7 @@ module.exports = {
             "inherits": true
           },
           "value": ".25em",
-          "filePath": "./src/component/utrecht/form-toggle/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/form-toggle/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -4799,7 +4799,7 @@ module.exports = {
             "inherits": true
           },
           "value": ".25em",
-          "filePath": "./src/component/utrecht/form-toggle/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/form-toggle/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -4828,7 +4828,7 @@ module.exports = {
             "inherits": true
           },
           "value": "18px",
-          "filePath": "./src/component/utrecht/form-toggle/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/form-toggle/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -4859,7 +4859,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(211 60% 30%)",
-          "filePath": "./src/component/utrecht/form-toggle/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/form-toggle/modifier.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -4890,7 +4890,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 0% 0%)",
-          "filePath": "./src/component/utrecht/form-toggle/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/form-toggle/modifier.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -4919,7 +4919,7 @@ module.exports = {
             "inherits": true
           },
           "value": "dotted",
-          "filePath": "./src/component/utrecht/form-toggle/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/form-toggle/modifier.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -4948,7 +4948,7 @@ module.exports = {
             "inherits": true
           },
           "value": "2px",
-          "filePath": "./src/component/utrecht/form-toggle/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/form-toggle/modifier.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -4974,7 +4974,7 @@ module.exports = {
       },
       "border-style": {
         "value": "solid",
-        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-toggle/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "solid"
@@ -4993,7 +4993,7 @@ module.exports = {
       },
       "height": {
         "value": "24px",
-        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-toggle/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "24px"
@@ -5012,7 +5012,7 @@ module.exports = {
       },
       "padding-block-end": {
         "value": "0",
-        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-toggle/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "0"
@@ -5031,7 +5031,7 @@ module.exports = {
       },
       "padding-block-start": {
         "value": "0",
-        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-toggle/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "0"
@@ -5050,7 +5050,7 @@ module.exports = {
       },
       "padding-inline-end": {
         "value": "0",
-        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-toggle/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "0"
@@ -5069,7 +5069,7 @@ module.exports = {
       },
       "padding-inline-start": {
         "value": "0",
-        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-toggle/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "0"
@@ -5088,7 +5088,7 @@ module.exports = {
       },
       "width": {
         "value": "48px",
-        "filePath": "./src/component/utrecht/form-toggle/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/form-toggle/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "48px"
@@ -5125,7 +5125,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.5rem",
-        "filePath": "./src/component/utrecht/heading-1/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-1/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5158,7 +5158,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.4",
-        "filePath": "./src/component/utrecht/heading-1/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-1/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5185,7 +5185,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0.67rem",
-        "filePath": "./src/component/utrecht/heading-1/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-1/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5212,7 +5212,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0.67rem",
-        "filePath": "./src/component/utrecht/heading-1/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-1/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5254,7 +5254,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.25rem",
-        "filePath": "./src/component/utrecht/heading-2/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-2/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5287,7 +5287,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.2",
-        "filePath": "./src/component/utrecht/heading-2/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-2/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5314,7 +5314,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0.3rem",
-        "filePath": "./src/component/utrecht/heading-2/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-2/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5341,7 +5341,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.5rem",
-        "filePath": "./src/component/utrecht/heading-2/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-2/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5383,7 +5383,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.25rem",
-        "filePath": "./src/component/utrecht/heading-3/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-3/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5410,7 +5410,7 @@ module.exports = {
           "inherits": true
         },
         "value": "normal",
-        "filePath": "./src/component/utrecht/heading-3/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-3/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5437,7 +5437,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.2",
-        "filePath": "./src/component/utrecht/heading-3/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-3/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5464,7 +5464,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0.2rem",
-        "filePath": "./src/component/utrecht/heading-3/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-3/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5491,7 +5491,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1rem",
-        "filePath": "./src/component/utrecht/heading-3/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-3/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5533,7 +5533,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.125rem",
-        "filePath": "./src/component/utrecht/heading-4/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-4/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5560,7 +5560,7 @@ module.exports = {
           "inherits": true
         },
         "value": "normal",
-        "filePath": "./src/component/utrecht/heading-4/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-4/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5587,7 +5587,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.25",
-        "filePath": "./src/component/utrecht/heading-4/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-4/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5614,7 +5614,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0.3rem",
-        "filePath": "./src/component/utrecht/heading-4/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-4/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5641,7 +5641,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.2rem",
-        "filePath": "./src/component/utrecht/heading-4/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-4/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5683,7 +5683,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0.9rem",
-        "filePath": "./src/component/utrecht/heading-5/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-5/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5710,7 +5710,7 @@ module.exports = {
           "inherits": true
         },
         "value": "normal",
-        "filePath": "./src/component/utrecht/heading-5/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-5/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5737,7 +5737,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.333",
-        "filePath": "./src/component/utrecht/heading-5/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-5/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5764,7 +5764,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0.2rem",
-        "filePath": "./src/component/utrecht/heading-5/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-5/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5791,7 +5791,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1rem",
-        "filePath": "./src/component/utrecht/heading-5/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-5/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5814,7 +5814,7 @@ module.exports = {
       },
       "letter-spacing": {
         "value": "0.72px",
-        "filePath": "./src/component/utrecht/heading-5/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-5/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "0.72px"
@@ -5833,7 +5833,7 @@ module.exports = {
       },
       "text-transform": {
         "value": "uppercase",
-        "filePath": "./src/component/utrecht/heading-5/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-5/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "uppercase"
@@ -5870,7 +5870,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0.9rem",
-        "filePath": "./src/component/utrecht/heading-6/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-6/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5897,7 +5897,7 @@ module.exports = {
           "inherits": true
         },
         "value": "normal",
-        "filePath": "./src/component/utrecht/heading-6/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-6/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5924,7 +5924,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.333",
-        "filePath": "./src/component/utrecht/heading-6/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-6/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5951,7 +5951,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0.2rem",
-        "filePath": "./src/component/utrecht/heading-6/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-6/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -5978,7 +5978,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1rem",
-        "filePath": "./src/component/utrecht/heading-6/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-6/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -6001,7 +6001,7 @@ module.exports = {
       },
       "letter-spacing": {
         "value": "0.72px",
-        "filePath": "./src/component/utrecht/heading-6/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-6/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "0.72px"
@@ -6020,7 +6020,7 @@ module.exports = {
       },
       "text-transform": {
         "value": "uppercase",
-        "filePath": "./src/component/utrecht/heading-6/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading-6/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "uppercase"
@@ -6057,7 +6057,7 @@ module.exports = {
           "inherits": true
         },
         "value": "bold",
-        "filePath": "./src/component/utrecht/heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/heading/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -6113,7 +6113,7 @@ module.exports = {
             "inherits": true
           },
           "value": "8px",
-          "filePath": "./src/component/utrecht/link-list/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/link-list/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -6138,7 +6138,7 @@ module.exports = {
         },
         "font-weight": {
           "value": "bold",
-          "filePath": "./src/component/utrecht/link-list/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/link-list/element.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.typography.weight-scale.bold.font-weight.value}"
@@ -6161,7 +6161,7 @@ module.exports = {
       "marker": {
         "inline-size": {
           "value": "16px",
-          "filePath": "./src/component/utrecht/link-list/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/link-list/element.tokens.json",
           "isSource": true,
           "original": {
             "value": "16px"
@@ -6189,7 +6189,7 @@ module.exports = {
           "inherits": true
         },
         "value": "hsl(211 60% 30%)",
-        "filePath": "./src/component/utrecht/link/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/link/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -6216,7 +6216,7 @@ module.exports = {
           "inherits": true
         },
         "value": "underline",
-        "filePath": "./src/component/utrecht/link/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/link/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -6244,7 +6244,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(211 60% 30%)",
-          "filePath": "./src/component/utrecht/link/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/link/modifier.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -6275,7 +6275,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(211 60% 40%)",
-          "filePath": "./src/component/utrecht/link/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/link/modifier.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -6304,7 +6304,7 @@ module.exports = {
             "inherits": true
           },
           "value": "none",
-          "filePath": "./src/component/utrecht/link/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/link/modifier.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -6335,7 +6335,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(211 60% 40%)",
-          "filePath": "./src/component/utrecht/link/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/link/modifier.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -6364,7 +6364,7 @@ module.exports = {
             "inherits": true
           },
           "value": "underline",
-          "filePath": "./src/component/utrecht/link/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/link/modifier.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -6395,7 +6395,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(211 60% 30%)",
-          "filePath": "./src/component/utrecht/link/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/link/modifier.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -6427,7 +6427,7 @@ module.exports = {
           "inherits": true
         },
         "value": "58.97px",
-        "filePath": "./src/component/utrecht/logo/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/logo/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -6454,7 +6454,7 @@ module.exports = {
           "inherits": true
         },
         "value": "110.57px",
-        "filePath": "./src/component/utrecht/logo/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/logo/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -6507,7 +6507,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1px",
-        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -6546,7 +6546,7 @@ module.exports = {
           "inherits": true
         },
         "value": "8px",
-        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -6573,7 +6573,7 @@ module.exports = {
           "inherits": true
         },
         "value": "8px",
-        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -6600,7 +6600,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0",
-        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -6627,7 +6627,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0",
-        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -6654,7 +6654,7 @@ module.exports = {
           "inherits": true
         },
         "value": "4px",
-        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -6681,7 +6681,7 @@ module.exports = {
           "inherits": true
         },
         "value": "4px",
-        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -6708,7 +6708,7 @@ module.exports = {
           "inherits": true
         },
         "value": "4px",
-        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -6735,7 +6735,7 @@ module.exports = {
           "inherits": true
         },
         "value": "4px",
-        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -6763,7 +6763,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 0% 80%)",
-          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -6794,7 +6794,7 @@ module.exports = {
         },
         "background-color": {
           "value": "hsl(0 0% 90%)",
-          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.color.grey.90.value}"
@@ -6815,7 +6815,7 @@ module.exports = {
         },
         "border-color": {
           "value": "hsl(0 0% 80%)",
-          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.color.grey.80.value}"
@@ -6857,7 +6857,7 @@ module.exports = {
       },
       "background-color": {
         "value": "hsl(0 0% 100%)",
-        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "{utrecht.color.white.value}"
@@ -6876,7 +6876,7 @@ module.exports = {
       },
       "color": {
         "value": "hsl(0 0% 40%)",
-        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "{utrecht.color.grey.40.value}"
@@ -6895,7 +6895,7 @@ module.exports = {
       },
       "width": {
         "value": "32px",
-        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "{utrecht.space.block.2xl.value}"
@@ -6914,7 +6914,7 @@ module.exports = {
       },
       "height": {
         "value": "32px",
-        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "{utrecht.space.block.2xl.value}"
@@ -6933,7 +6933,7 @@ module.exports = {
       },
       "border-color": {
         "value": "hsl(0 0% 40%)",
-        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "{utrecht.color.grey.40.value}"
@@ -6952,7 +6952,7 @@ module.exports = {
       },
       "border-radius": {
         "value": "0",
-        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "0"
@@ -6971,7 +6971,7 @@ module.exports = {
       },
       "border-style": {
         "value": "solid",
-        "filePath": "./src/component/utrecht/mapcontrolbutton/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "{utrecht.border-style.solid.value}"
@@ -6991,7 +6991,7 @@ module.exports = {
       "focus": {
         "color": {
           "value": "hsl(0 0% 0%)",
-          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.focus.color.value}"
@@ -7012,7 +7012,7 @@ module.exports = {
         },
         "box-shadow-color": {
           "value": "hsl(0 0% 100%)",
-          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.focus.box-shadow-color.value}"
@@ -7033,7 +7033,7 @@ module.exports = {
         },
         "border-style": {
           "value": "dotted",
-          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.focus.border-style.value}"
@@ -7054,7 +7054,7 @@ module.exports = {
         },
         "text-decoration": {
           "value": "none",
-          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.tokens.json",
           "isSource": true,
           "original": {
             "value": "none"
@@ -7076,7 +7076,7 @@ module.exports = {
         "background-color": {},
         "outline-color": {
           "value": "hsl(0 0% 0%)",
-          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.focus.outline-color.value}"
@@ -7097,7 +7097,7 @@ module.exports = {
         },
         "border-color": {
           "value": "hsl(0 0% 0%)",
-          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.focus.border-color.value}"
@@ -7120,7 +7120,7 @@ module.exports = {
       "hover": {
         "background-color": {
           "value": "hsl(0 0% 90%)",
-          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.color.grey.90.value}"
@@ -7141,7 +7141,7 @@ module.exports = {
         },
         "color": {
           "value": "hsl(0 0% 100%)",
-          "filePath": "./src/component/utrecht/mapcontrolbutton/state.style-dictionary.json",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/state.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.color.white.value}"
@@ -7169,7 +7169,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0",
-        "filePath": "./src/component/utrecht/ordered-list/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/ordered-list/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -7196,7 +7196,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1em",
-        "filePath": "./src/component/utrecht/ordered-list/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/ordered-list/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -7223,7 +7223,7 @@ module.exports = {
           "inherits": true
         },
         "value": "28.8px",
-        "filePath": "./src/component/utrecht/ordered-list/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/ordered-list/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -7251,7 +7251,7 @@ module.exports = {
             "inherits": true
           },
           "value": "0.25em",
-          "filePath": "./src/component/utrecht/ordered-list/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/ordered-list/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -7280,7 +7280,7 @@ module.exports = {
             "inherits": true
           },
           "value": "0.25em",
-          "filePath": "./src/component/utrecht/ordered-list/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/ordered-list/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -7309,7 +7309,7 @@ module.exports = {
             "inherits": true
           },
           "value": "0",
-          "filePath": "./src/component/utrecht/ordered-list/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/ordered-list/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -7341,7 +7341,7 @@ module.exports = {
           "inherits": true
         },
         "value": "hsl(0 0% 100%)",
-        "filePath": "./src/component/utrecht/page-footer/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/page-footer/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -7368,7 +7368,7 @@ module.exports = {
           "inherits": true
         },
         "value": "hsl(0 100% 40%)",
-        "filePath": "./src/component/utrecht/page-footer/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/page-footer/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -7395,7 +7395,7 @@ module.exports = {
           "inherits": true
         },
         "value": "linear-gradient(45deg, hsl(0 100% 40%), hsl(0 100% 40%) 50%, hsl(5 54% 59%) 50%);",
-        "filePath": "./src/component/utrecht/page-footer/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/page-footer/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -7422,7 +7422,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1em",
-        "filePath": "./src/component/utrecht/page-footer/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/page-footer/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -7449,7 +7449,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1em",
-        "filePath": "./src/component/utrecht/page-footer/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/page-footer/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -7476,7 +7476,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.8em",
-        "filePath": "./src/component/utrecht/page-footer/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/page-footer/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -7503,7 +7503,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.8em",
-        "filePath": "./src/component/utrecht/page-footer/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/page-footer/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -7532,7 +7532,7 @@ module.exports = {
           "inherits": true
         },
         "value": "14px",
-        "filePath": "./src/component/utrecht/pagination/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/pagination/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -7565,7 +7565,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0",
-        "filePath": "./src/component/utrecht/pagination/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/pagination/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -7592,7 +7592,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1em",
-        "filePath": "./src/component/utrecht/pagination/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/pagination/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -7621,7 +7621,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(211 60% 35%)",
-            "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/pagination/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -7652,7 +7652,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(211 60% 35%)",
-            "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/pagination/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -7683,7 +7683,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(0 0% 100%)",
-            "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/pagination/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -7716,7 +7716,7 @@ module.exports = {
               "inherits": true
             },
             "value": "0.5em",
-            "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/pagination/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -7749,7 +7749,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(211 60% 35%)",
-            "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/pagination/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -7780,7 +7780,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(211 60% 35%)",
-            "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/pagination/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -7811,7 +7811,7 @@ module.exports = {
               "inherits": true
             },
             "value": "hsl(0 0% 100%)",
-            "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/pagination/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "css": {
@@ -7843,7 +7843,7 @@ module.exports = {
             "inherits": true
           },
           "value": "transparent",
-          "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/pagination/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -7878,7 +7878,7 @@ module.exports = {
             "inherits": true
           },
           "value": "2px",
-          "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/pagination/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -7907,7 +7907,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(211 60% 35%)",
-          "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/pagination/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -7936,7 +7936,7 @@ module.exports = {
             "inherits": true
           },
           "value": "bold",
-          "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/pagination/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -7965,7 +7965,7 @@ module.exports = {
             "inherits": true
           },
           "value": "0.5em",
-          "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/pagination/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -7994,7 +7994,7 @@ module.exports = {
             "inherits": true
           },
           "value": "0.5em",
-          "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/pagination/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -8023,7 +8023,7 @@ module.exports = {
             "inherits": true
           },
           "value": "0.5em",
-          "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/pagination/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -8052,7 +8052,7 @@ module.exports = {
             "inherits": true
           },
           "value": "0.5em",
-          "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/pagination/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -8081,7 +8081,7 @@ module.exports = {
             "inherits": true
           },
           "value": "none",
-          "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/pagination/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -8106,7 +8106,7 @@ module.exports = {
         },
         "border-color": {
           "value": "transparent",
-          "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/pagination/element.tokens.json",
           "isSource": true,
           "original": {
             "value": "transparent"
@@ -8133,7 +8133,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 0% 100%)",
-          "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/pagination/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -8168,7 +8168,7 @@ module.exports = {
             "inherits": true
           },
           "value": "2px",
-          "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/pagination/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -8197,7 +8197,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(211 60% 35%)",
-          "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/pagination/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -8226,7 +8226,7 @@ module.exports = {
             "inherits": true
           },
           "value": "bold",
-          "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/pagination/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -8255,7 +8255,7 @@ module.exports = {
             "inherits": true
           },
           "value": "0.5em",
-          "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/pagination/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -8284,7 +8284,7 @@ module.exports = {
             "inherits": true
           },
           "value": "0.5em",
-          "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/pagination/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -8313,7 +8313,7 @@ module.exports = {
             "inherits": true
           },
           "value": "0.5em",
-          "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/pagination/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -8342,7 +8342,7 @@ module.exports = {
             "inherits": true
           },
           "value": "0.5em",
-          "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/pagination/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -8371,7 +8371,7 @@ module.exports = {
             "inherits": true
           },
           "value": "none",
-          "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/pagination/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -8400,7 +8400,7 @@ module.exports = {
             "inherits": true
           },
           "value": "uppercase",
-          "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/pagination/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -8426,7 +8426,7 @@ module.exports = {
         "distanced": {
           "margin-inline-end": {
             "value": "0.5em",
-            "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/pagination/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "value": "0.5em"
@@ -8449,7 +8449,7 @@ module.exports = {
           },
           "margin-inline-start": {
             "value": "0.5em",
-            "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/pagination/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "value": "0.5em"
@@ -8474,7 +8474,7 @@ module.exports = {
         "hover": {
           "background-color": {
             "value": "hsl(211 60% 35%)",
-            "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/pagination/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "value": "{utrecht.color.blue.35.value}"
@@ -8497,7 +8497,7 @@ module.exports = {
           },
           "border-color": {
             "value": "hsl(211 60% 35%)",
-            "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/pagination/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "value": "{utrecht.color.blue.35.value}"
@@ -8520,7 +8520,7 @@ module.exports = {
           },
           "color": {
             "value": "hsl(0 0% 100%)",
-            "filePath": "./src/component/utrecht/pagination/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/pagination/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "value": "{utrecht.color.white.value}"
@@ -8544,7 +8544,7 @@ module.exports = {
         },
         "border-color": {
           "value": "hsl(211 60% 35%)",
-          "filePath": "./src/component/utrecht/pagination/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/pagination/element.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.color.blue.35.value}"
@@ -8620,7 +8620,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1rem",
-        "filePath": "./src/component/utrecht/paragraph/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/paragraph/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -8647,7 +8647,7 @@ module.exports = {
           "inherits": true
         },
         "value": "normal",
-        "filePath": "./src/component/utrecht/paragraph/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/paragraph/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -8674,7 +8674,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1.4",
-        "filePath": "./src/component/utrecht/paragraph/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/paragraph/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -8701,7 +8701,7 @@ module.exports = {
           "inherits": true
         },
         "value": "16px",
-        "filePath": "./src/component/utrecht/paragraph/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/paragraph/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -8735,7 +8735,7 @@ module.exports = {
             "inherits": true
           },
           "value": "1.25rem",
-          "filePath": "./src/component/utrecht/paragraph/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/paragraph/modifier.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -8791,7 +8791,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1rem",
-        "filePath": "./src/component/utrecht/pre-heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/pre-heading/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -8836,7 +8836,7 @@ module.exports = {
           "inherits": true
         },
         "value": "32px",
-        "filePath": "./src/component/utrecht/pre-heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/pre-heading/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -8859,7 +8859,7 @@ module.exports = {
       },
       "text-transform": {
         "value": "uppercase",
-        "filePath": "./src/component/utrecht/pre-heading/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/pre-heading/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "uppercase"
@@ -8998,7 +8998,7 @@ module.exports = {
       },
       "border-block-end-width": {
         "value": "3px",
-        "filePath": "./src/component/utrecht/select/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/select/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "3px"
@@ -9027,7 +9027,7 @@ module.exports = {
           "inherits": true
         },
         "value": "hsl(0 0% 90%)",
-        "filePath": "./src/component/utrecht/separator/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/separator/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -9054,7 +9054,7 @@ module.exports = {
           "inherits": true
         },
         "value": "8px",
-        "filePath": "./src/component/utrecht/separator/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/separator/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -9097,7 +9097,7 @@ module.exports = {
             "inherits": true
           },
           "value": "2px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Small 3",
@@ -9128,7 +9128,7 @@ module.exports = {
             "inherits": true
           },
           "value": "4px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Small 2",
@@ -9159,7 +9159,7 @@ module.exports = {
             "inherits": true
           },
           "value": "8px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Small",
@@ -9190,7 +9190,7 @@ module.exports = {
             "inherits": true
           },
           "value": "12px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Small",
@@ -9221,7 +9221,7 @@ module.exports = {
             "inherits": true
           },
           "value": "16px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Medium",
@@ -9252,7 +9252,7 @@ module.exports = {
             "inherits": true
           },
           "value": "24px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Large",
@@ -9283,7 +9283,7 @@ module.exports = {
             "inherits": true
           },
           "value": "28px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Large",
@@ -9314,7 +9314,7 @@ module.exports = {
             "inherits": true
           },
           "value": "32px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Large 2",
@@ -9345,7 +9345,7 @@ module.exports = {
             "inherits": true
           },
           "value": "48px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Large 3",
@@ -9376,7 +9376,7 @@ module.exports = {
             "inherits": true
           },
           "value": "64px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Large 4",
@@ -9407,7 +9407,7 @@ module.exports = {
             "inherits": true
           },
           "value": "80px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Large 5",
@@ -9440,7 +9440,7 @@ module.exports = {
             "inherits": true
           },
           "value": "2px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Small 3",
@@ -9471,7 +9471,7 @@ module.exports = {
             "inherits": true
           },
           "value": "4px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Small 2",
@@ -9502,7 +9502,7 @@ module.exports = {
             "inherits": true
           },
           "value": "8px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Small",
@@ -9533,7 +9533,7 @@ module.exports = {
             "inherits": true
           },
           "value": "12px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Small",
@@ -9564,7 +9564,7 @@ module.exports = {
             "inherits": true
           },
           "value": "16px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Medium",
@@ -9595,7 +9595,7 @@ module.exports = {
             "inherits": true
           },
           "value": "24px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Large",
@@ -9626,7 +9626,7 @@ module.exports = {
             "inherits": true
           },
           "value": "28px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Large",
@@ -9657,7 +9657,7 @@ module.exports = {
             "inherits": true
           },
           "value": "32px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Large 2",
@@ -9688,7 +9688,7 @@ module.exports = {
             "inherits": true
           },
           "value": "48px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Large 3",
@@ -9721,7 +9721,7 @@ module.exports = {
             "inherits": true
           },
           "value": "0.125ch",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Small 3",
@@ -9752,7 +9752,7 @@ module.exports = {
             "inherits": true
           },
           "value": "0.25ch",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Small 2",
@@ -9783,7 +9783,7 @@ module.exports = {
             "inherits": true
           },
           "value": "0.5ch",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Small",
@@ -9814,7 +9814,7 @@ module.exports = {
             "inherits": true
           },
           "value": "0.75ch",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Small",
@@ -9845,7 +9845,7 @@ module.exports = {
             "inherits": true
           },
           "value": "1ch",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Medium",
@@ -9876,7 +9876,7 @@ module.exports = {
             "inherits": true
           },
           "value": "1.5ch",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Large",
@@ -9907,7 +9907,7 @@ module.exports = {
             "inherits": true
           },
           "value": "1.75ch",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Large",
@@ -9938,7 +9938,7 @@ module.exports = {
             "inherits": true
           },
           "value": "2ch",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Large 2",
@@ -9969,7 +9969,7 @@ module.exports = {
             "inherits": true
           },
           "value": "3ch",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Large 3",
@@ -10002,7 +10002,7 @@ module.exports = {
             "inherits": true
           },
           "value": "1px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Small 4",
@@ -10033,7 +10033,7 @@ module.exports = {
             "inherits": true
           },
           "value": "2px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Small 3",
@@ -10064,7 +10064,7 @@ module.exports = {
             "inherits": true
           },
           "value": "4px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Small 2",
@@ -10095,7 +10095,7 @@ module.exports = {
             "inherits": true
           },
           "value": "8px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Small",
@@ -10126,7 +10126,7 @@ module.exports = {
             "inherits": true
           },
           "value": "12px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Small",
@@ -10157,7 +10157,7 @@ module.exports = {
             "inherits": true
           },
           "value": "16px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Medium",
@@ -10188,7 +10188,7 @@ module.exports = {
             "inherits": true
           },
           "value": "24px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Large",
@@ -10219,7 +10219,7 @@ module.exports = {
             "inherits": true
           },
           "value": "28px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Large",
@@ -10250,7 +10250,7 @@ module.exports = {
             "inherits": true
           },
           "value": "32px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Large 2",
@@ -10281,7 +10281,7 @@ module.exports = {
             "inherits": true
           },
           "value": "48px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Large 3",
@@ -10312,7 +10312,7 @@ module.exports = {
             "inherits": true
           },
           "value": "64px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Large 4",
@@ -10343,7 +10343,7 @@ module.exports = {
             "inherits": true
           },
           "value": "80px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Large 5",
@@ -10376,7 +10376,7 @@ module.exports = {
             "inherits": true
           },
           "value": "1px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Small 4",
@@ -10407,7 +10407,7 @@ module.exports = {
             "inherits": true
           },
           "value": "2px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Small 3",
@@ -10438,7 +10438,7 @@ module.exports = {
             "inherits": true
           },
           "value": "4px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Small 2",
@@ -10469,7 +10469,7 @@ module.exports = {
             "inherits": true
           },
           "value": "8px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Small",
@@ -10500,7 +10500,7 @@ module.exports = {
             "inherits": true
           },
           "value": "12px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Small",
@@ -10531,7 +10531,7 @@ module.exports = {
             "inherits": true
           },
           "value": "16px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Medium",
@@ -10562,7 +10562,7 @@ module.exports = {
             "inherits": true
           },
           "value": "24px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Large",
@@ -10593,7 +10593,7 @@ module.exports = {
             "inherits": true
           },
           "value": "28px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Large",
@@ -10624,7 +10624,7 @@ module.exports = {
             "inherits": true
           },
           "value": "32px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Large 2",
@@ -10655,7 +10655,7 @@ module.exports = {
             "inherits": true
           },
           "value": "48px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Large 3",
@@ -10686,7 +10686,7 @@ module.exports = {
             "inherits": true
           },
           "value": "64px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Large 4",
@@ -10717,7 +10717,7 @@ module.exports = {
             "inherits": true
           },
           "value": "80px",
-          "filePath": "./src/common/utrecht/space.style-dictionary.json",
+          "filePath": "./src/common/utrecht/space.tokens.json",
           "isSource": true,
           "original": {
             "comment": "Extra Large 5",
@@ -10815,7 +10815,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 0% 90%)",
-          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/table/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -10844,7 +10844,7 @@ module.exports = {
             "inherits": true
           },
           "value": "1px",
-          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/table/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -10887,7 +10887,7 @@ module.exports = {
             "inherits": true
           },
           "value": "bold",
-          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/table/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -10922,7 +10922,7 @@ module.exports = {
             "inherits": true
           },
           "value": "1.125em",
-          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/table/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -10963,7 +10963,7 @@ module.exports = {
             "inherits": true
           },
           "value": "start",
-          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/table/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -10992,7 +10992,7 @@ module.exports = {
             "inherits": true
           },
           "value": "1em",
-          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/table/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -11023,7 +11023,7 @@ module.exports = {
             "inherits": true
           },
           "value": "bold",
-          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/table/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -11064,7 +11064,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 100% 40%)",
-          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/table/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -11093,7 +11093,7 @@ module.exports = {
             "inherits": true
           },
           "value": "2px",
-          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/table/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -11156,7 +11156,7 @@ module.exports = {
             "inherits": true
           },
           "value": "0.5em",
-          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/table/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -11185,7 +11185,7 @@ module.exports = {
             "inherits": true
           },
           "value": "0.5em",
-          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/table/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -11214,7 +11214,7 @@ module.exports = {
             "inherits": true
           },
           "value": "0",
-          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/table/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -11243,7 +11243,7 @@ module.exports = {
             "inherits": true
           },
           "value": "0.4em",
-          "filePath": "./src/component/utrecht/table/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/table/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -11281,7 +11281,7 @@ module.exports = {
           "inherits": true
         },
         "value": "3px",
-        "filePath": "./src/component/utrecht/textarea/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/textarea/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -11444,7 +11444,7 @@ module.exports = {
           "inherits": true
         },
         "value": "3px",
-        "filePath": "./src/component/utrecht/textbox/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/textbox/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -11593,7 +11593,7 @@ module.exports = {
           "inherits": true
         },
         "value": "0",
-        "filePath": "./src/component/utrecht/unordered-list/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/unordered-list/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -11620,7 +11620,7 @@ module.exports = {
           "inherits": true
         },
         "value": "1rem",
-        "filePath": "./src/component/utrecht/unordered-list/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/unordered-list/block.tokens.json",
         "isSource": true,
         "original": {
           "css": {
@@ -11654,7 +11654,7 @@ module.exports = {
             "inherits": true
           },
           "value": "0.5rem",
-          "filePath": "./src/component/utrecht/unordered-list/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/unordered-list/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -11683,7 +11683,7 @@ module.exports = {
             "inherits": true
           },
           "value": "0.5rem",
-          "filePath": "./src/component/utrecht/unordered-list/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/unordered-list/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -11720,7 +11720,7 @@ module.exports = {
             "inherits": true
           },
           "value": "hsl(0 100% 40%)",
-          "filePath": "./src/component/utrecht/unordered-list/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/unordered-list/element.tokens.json",
           "isSource": true,
           "original": {
             "css": {
@@ -11750,7 +11750,7 @@ module.exports = {
         "20": {
           "value": "hsl(0 100% 20%)",
           "comment": "donker rood",
-          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(0 100% 20%)",
@@ -11773,7 +11773,7 @@ module.exports = {
         "30": {
           "value": "hsl(0 100% 30%)",
           "comment": "hover rood",
-          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(0 100% 30%)",
@@ -11796,7 +11796,7 @@ module.exports = {
         "40": {
           "value": "hsl(0 100% 40%)",
           "comment": "basis rood #cc0000",
-          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(0 100% 40%)",
@@ -11821,7 +11821,7 @@ module.exports = {
         "20": {
           "value": "hsl(211 60% 20%)",
           "comment": "basis donkerblauw (OS focus)",
-          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(211 60% 20%)",
@@ -11844,7 +11844,7 @@ module.exports = {
         "30": {
           "value": "hsl(211 60% 30%)",
           "comment": "basis link en knoppen CTA donkerblauw",
-          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(211 60% 30%)",
@@ -11867,7 +11867,7 @@ module.exports = {
         "35": {
           "value": "hsl(211 60% 35%)",
           "comment": "basis link en knoppen CTA donkerblauw",
-          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(211 60% 35%)",
@@ -11890,7 +11890,7 @@ module.exports = {
         "40": {
           "value": "hsl(211 60% 40%)",
           "comment": "blauw variant bij hover/focus #3669a5",
-          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(211 60% 40%)",
@@ -11913,7 +11913,7 @@ module.exports = {
         "50": {
           "value": "hsl(211 60% 50%)",
           "comment": "experimenteel / beperkt gebruiken",
-          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(211 60% 50%)",
@@ -11936,7 +11936,7 @@ module.exports = {
         "80": {
           "value": "hsl(211 60% 80%)",
           "comment": "licht blauw voor achtergrond",
-          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(211 60% 80%)",
@@ -11959,7 +11959,7 @@ module.exports = {
         "90": {
           "value": "hsl(211 60% 90%)",
           "comment": "ijsblauw variant achtergrond, spotlight en uitgelicht",
-          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(211 60% 90%)",
@@ -11984,7 +11984,7 @@ module.exports = {
         "15": {
           "value": "hsl(0 0% 15%)",
           "comment": "experimenteel / beperkt gebruiken",
-          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(0 0% 15%)",
@@ -12007,7 +12007,7 @@ module.exports = {
         "30": {
           "value": "hsl(0 0% 30%)",
           "comment": "border grijs #888",
-          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(0 0% 30%)",
@@ -12030,7 +12030,7 @@ module.exports = {
         "40": {
           "value": "hsl(0 0% 40%)",
           "comment": "basis grijs #727272",
-          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(0 0% 40%)",
@@ -12053,7 +12053,7 @@ module.exports = {
         "80": {
           "value": "hsl(0 0% 80%)",
           "comment": "grijs variant voor achtergrond content #e5e5e5",
-          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(0 0% 80%)",
@@ -12076,7 +12076,7 @@ module.exports = {
         "90": {
           "value": "hsl(0 0% 90%)",
           "comment": "grijs variant voor achtergrond templates #f2f2f2",
-          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(0 0% 90%)",
@@ -12101,7 +12101,7 @@ module.exports = {
         "40": {
           "value": "hsl(48 100% 40%)",
           "comment": "donker geel",
-          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(48 100% 40%)",
@@ -12124,7 +12124,7 @@ module.exports = {
         "50": {
           "value": "hsl(48 100% 50%)",
           "comment": "basis geel #ffcc00",
-          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(48 100% 50%)",
@@ -12147,7 +12147,7 @@ module.exports = {
         "60": {
           "value": "hsl(48 100% 60%)",
           "comment": "selecteer geel",
-          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(48 100% 60%)",
@@ -12170,7 +12170,7 @@ module.exports = {
         "80": {
           "value": "hsl(48 100% 80%)",
           "comment": "spotlight en uitgelicht",
-          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(48 100% 80%)",
@@ -12195,7 +12195,7 @@ module.exports = {
         "40": {
           "value": "hsl(90 30% 40%)",
           "comment": "donker groen",
-          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(90 30% 40%)",
@@ -12218,7 +12218,7 @@ module.exports = {
         "50": {
           "value": "hsl(90 30% 50%)",
           "comment": "Standaard groen #80a659 ",
-          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(90 30% 50%)",
@@ -12241,7 +12241,7 @@ module.exports = {
         "80": {
           "value": "hsl(90 30% 80%)",
           "comment": "Licht groen",
-          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(90 30% 80%)",
@@ -12264,7 +12264,7 @@ module.exports = {
         "90": {
           "value": "hsl(90 30% 90%)",
           "comment": "Achtergrond licht groen",
-          "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(90 30% 90%)",
@@ -12287,7 +12287,7 @@ module.exports = {
       },
       "white": {
         "value": "hsl(0 0% 100%)",
-        "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+        "filePath": "./src/brand/utrecht/color.tokens.json",
         "isSource": true,
         "original": {
           "value": "hsl(0 0% 100%)"
@@ -12306,7 +12306,7 @@ module.exports = {
       },
       "black": {
         "value": "hsl(0 0% 0%)",
-        "filePath": "./src/brand/utrecht/color.style-dictionary.json",
+        "filePath": "./src/brand/utrecht/color.tokens.json",
         "isSource": true,
         "original": {
           "value": "hsl(0 0% 0%)"
@@ -12328,7 +12328,7 @@ module.exports = {
       "sans-serif": {
         "font-family": {
           "value": "\"Lucida Grande\", \"Lucida Sans Unicode\", \"Lucida Sans\", Verdana, sans-serif",
-          "filePath": "./src/brand/utrecht/typography.style-dictionary.json",
+          "filePath": "./src/brand/utrecht/typography.tokens.json",
           "isSource": true,
           "original": {
             "value": "\"Lucida Grande\", \"Lucida Sans Unicode\", \"Lucida Sans\", Verdana, sans-serif"
@@ -12353,7 +12353,7 @@ module.exports = {
           "font-size": {
             "value": "0.5rem",
             "comment": "8px",
-            "filePath": "./src/brand/utrecht/typography.style-dictionary.json",
+            "filePath": "./src/brand/utrecht/typography.tokens.json",
             "isSource": true,
             "original": {
               "value": "0.5rem",
@@ -12380,7 +12380,7 @@ module.exports = {
           "font-size": {
             "value": "0.7rem",
             "comment": "11,2px",
-            "filePath": "./src/brand/utrecht/typography.style-dictionary.json",
+            "filePath": "./src/brand/utrecht/typography.tokens.json",
             "isSource": true,
             "original": {
               "value": "0.7rem",
@@ -12407,7 +12407,7 @@ module.exports = {
           "font-size": {
             "value": "0.9rem",
             "comment": "14,4px",
-            "filePath": "./src/brand/utrecht/typography.style-dictionary.json",
+            "filePath": "./src/brand/utrecht/typography.tokens.json",
             "isSource": true,
             "original": {
               "value": "0.9rem",
@@ -12434,7 +12434,7 @@ module.exports = {
           "font-size": {
             "value": "1rem",
             "comment": "16px",
-            "filePath": "./src/brand/utrecht/typography.style-dictionary.json",
+            "filePath": "./src/brand/utrecht/typography.tokens.json",
             "isSource": true,
             "original": {
               "value": "1rem",
@@ -12461,7 +12461,7 @@ module.exports = {
           "font-size": {
             "value": "1.25rem",
             "comment": "20px",
-            "filePath": "./src/brand/utrecht/typography.style-dictionary.json",
+            "filePath": "./src/brand/utrecht/typography.tokens.json",
             "isSource": true,
             "original": {
               "value": "1.25rem",
@@ -12488,7 +12488,7 @@ module.exports = {
           "font-size": {
             "value": "1.4rem",
             "comment": "22,4px",
-            "filePath": "./src/brand/utrecht/typography.style-dictionary.json",
+            "filePath": "./src/brand/utrecht/typography.tokens.json",
             "isSource": true,
             "original": {
               "value": "1.4rem",
@@ -12515,7 +12515,7 @@ module.exports = {
           "font-size": {
             "value": "1.5rem",
             "comment": "24px",
-            "filePath": "./src/brand/utrecht/typography.style-dictionary.json",
+            "filePath": "./src/brand/utrecht/typography.tokens.json",
             "isSource": true,
             "original": {
               "value": "1.5rem",
@@ -12542,7 +12542,7 @@ module.exports = {
           "font-size": {
             "value": "2rem",
             "comment": "36px",
-            "filePath": "./src/brand/utrecht/typography.style-dictionary.json",
+            "filePath": "./src/brand/utrecht/typography.tokens.json",
             "isSource": true,
             "original": {
               "value": "2rem",
@@ -12570,7 +12570,7 @@ module.exports = {
         "bold": {
           "font-weight": {
             "value": "bold",
-            "filePath": "./src/brand/utrecht/typography.style-dictionary.json",
+            "filePath": "./src/brand/utrecht/typography.tokens.json",
             "isSource": true,
             "original": {
               "value": "bold"
@@ -12595,7 +12595,7 @@ module.exports = {
         "normal": {
           "font-weight": {
             "value": "normal",
-            "filePath": "./src/brand/utrecht/typography.style-dictionary.json",
+            "filePath": "./src/brand/utrecht/typography.tokens.json",
             "isSource": true,
             "original": {
               "value": "normal"
@@ -12622,7 +12622,7 @@ module.exports = {
     "border-width": {
       "sm": {
         "value": "1px",
-        "filePath": "./src/common/utrecht/border.style-dictionary.json",
+        "filePath": "./src/common/utrecht/border.tokens.json",
         "isSource": true,
         "original": {
           "value": "1px"
@@ -12641,7 +12641,7 @@ module.exports = {
       },
       "md": {
         "value": "2px",
-        "filePath": "./src/common/utrecht/border.style-dictionary.json",
+        "filePath": "./src/common/utrecht/border.tokens.json",
         "isSource": true,
         "original": {
           "value": "2px"
@@ -12662,7 +12662,7 @@ module.exports = {
     "border-style": {
       "solid": {
         "value": "solid",
-        "filePath": "./src/common/utrecht/border.style-dictionary.json",
+        "filePath": "./src/common/utrecht/border.tokens.json",
         "isSource": true,
         "original": {
           "value": "solid"
@@ -12681,7 +12681,7 @@ module.exports = {
       },
       "dotted": {
         "value": "dotted",
-        "filePath": "./src/common/utrecht/border.style-dictionary.json",
+        "filePath": "./src/common/utrecht/border.tokens.json",
         "isSource": true,
         "original": {
           "value": "dotted"
@@ -12702,7 +12702,7 @@ module.exports = {
     "badge-counter": {
       "background-color": {
         "value": "hsl(0 100% 40%)",
-        "filePath": "./src/component/utrecht/badge-counter/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/badge-counter/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "{utrecht.color.red.40.value}"
@@ -12721,7 +12721,7 @@ module.exports = {
       },
       "border-radius": {
         "value": "3ex",
-        "filePath": "./src/component/utrecht/badge-counter/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/badge-counter/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "3ex"
@@ -12740,7 +12740,7 @@ module.exports = {
       },
       "color": {
         "value": "hsl(0 0% 100%)",
-        "filePath": "./src/component/utrecht/badge-counter/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/badge-counter/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "{utrecht.color.white.value}"
@@ -12760,7 +12760,7 @@ module.exports = {
       "font-weight": {},
       "padding-block": {
         "value": "1ex",
-        "filePath": "./src/component/utrecht/badge-counter/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/badge-counter/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "1ex"
@@ -12779,7 +12779,7 @@ module.exports = {
       },
       "padding-inline": {
         "value": "1ex",
-        "filePath": "./src/component/utrecht/badge-counter/block.style-dictionary.json",
+        "filePath": "./src/component/utrecht/badge-counter/block.tokens.json",
         "isSource": true,
         "original": {
           "value": "1ex"
@@ -12802,7 +12802,7 @@ module.exports = {
         "hover": {
           "color": {
             "value": "hsl(211 60% 40%)",
-            "filePath": "./src/component/utrecht/menulijst/element-state.style-dictionary.json",
+            "filePath": "./src/component/utrecht/menulijst/element-state.tokens.json",
             "isSource": true,
             "original": {
               "value": "{utrecht.color.blue.40.value}"
@@ -12826,7 +12826,7 @@ module.exports = {
         },
         "color": {
           "value": "hsl(211 60% 35%)",
-          "filePath": "./src/component/utrecht/menulijst/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/menulijst/element.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.color.blue.35.value}"
@@ -12853,7 +12853,7 @@ module.exports = {
         "hover": {
           "color": {
             "value": "hsl(211 60% 40%)",
-            "filePath": "./src/component/utrecht/navigatie/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/navigatie/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "value": "{utrecht.color.blue.40.value}"
@@ -12877,7 +12877,7 @@ module.exports = {
         },
         "color": {
           "value": "hsl(211 60% 40%)",
-          "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/navigatie/element.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.color.blue.40.value}"
@@ -12901,7 +12901,7 @@ module.exports = {
         "hover": {
           "color": {
             "value": "hsl(211 60% 40%)",
-            "filePath": "./src/component/utrecht/navigatie/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/navigatie/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "value": "{utrecht.color.blue.40.value}"
@@ -12925,7 +12925,7 @@ module.exports = {
         },
         "margin-block-start": {
           "value": "8px",
-          "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/navigatie/element.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.space.block.xs.value}"
@@ -12946,7 +12946,7 @@ module.exports = {
         },
         "margin-block-end": {
           "value": "8px",
-          "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/navigatie/element.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.space.block.xs.value}"
@@ -12967,7 +12967,7 @@ module.exports = {
         },
         "margin-inline-start": {
           "value": "2px",
-          "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/navigatie/element.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.space.inline.3xs.value}"
@@ -12988,7 +12988,7 @@ module.exports = {
         },
         "margin-inline-end": {
           "value": "2px",
-          "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/navigatie/element.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.space.inline.3xs.value}"
@@ -13012,7 +13012,7 @@ module.exports = {
         "hover": {
           "color": {
             "value": "hsl(211 60% 50%)",
-            "filePath": "./src/component/utrecht/navigatie/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/navigatie/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "value": "{utrecht.color.blue.50.value}"
@@ -13036,7 +13036,7 @@ module.exports = {
         },
         "color": {
           "value": "hsl(0 0% 80%)",
-          "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/navigatie/element.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.color.grey.80.value}"
@@ -13062,7 +13062,7 @@ module.exports = {
         "focus": {
           "color": {
             "value": "hsl(0 0% 0%)",
-            "filePath": "./src/component/utrecht/navigatie/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/navigatie/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "value": "{utrecht.color.black.value}"
@@ -13085,7 +13085,7 @@ module.exports = {
           },
           "box-shadow-color": {
             "value": "hsl(48 100% 80%)",
-            "filePath": "./src/component/utrecht/navigatie/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/navigatie/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "value": "{utrecht.color.yellow.80.value}"
@@ -13108,7 +13108,7 @@ module.exports = {
           },
           "border-type": {
             "value": "dotted",
-            "filePath": "./src/component/utrecht/navigatie/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/navigatie/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "value": "dotted"
@@ -13131,7 +13131,7 @@ module.exports = {
           },
           "text-decoration": {
             "value": "none",
-            "filePath": "./src/component/utrecht/navigatie/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/navigatie/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "value": "none"
@@ -13154,7 +13154,7 @@ module.exports = {
           },
           "background-color": {
             "value": "hsl(48 100% 80%)",
-            "filePath": "./src/component/utrecht/navigatie/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/navigatie/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "value": "{utrecht.color.yellow.80.value}"
@@ -13177,7 +13177,7 @@ module.exports = {
           },
           "outline-color": {
             "value": "hsl(0 0% 0%)",
-            "filePath": "./src/component/utrecht/navigatie/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/navigatie/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "value": "{utrecht.color.black.value}"
@@ -13202,7 +13202,7 @@ module.exports = {
         "hover": {
           "background-color": {
             "value": "hsl(0 0% 0%)",
-            "filePath": "./src/component/utrecht/navigatie/element-modifier.style-dictionary.json",
+            "filePath": "./src/component/utrecht/navigatie/element-modifier.tokens.json",
             "isSource": true,
             "original": {
               "value": "{utrecht.color.black.value}"
@@ -13226,7 +13226,7 @@ module.exports = {
         },
         "color": {
           "value": "hsl(0 0% 100%)",
-          "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/navigatie/element.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.color.white.value}"
@@ -13247,7 +13247,7 @@ module.exports = {
         },
         "background-color": {
           "value": "hsl(211 60% 40%)",
-          "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/navigatie/element.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.color.blue.40.value}"
@@ -13270,7 +13270,7 @@ module.exports = {
       "list": {
         "background-color": {
           "value": "hsl(0 0% 15%)",
-          "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/navigatie/element.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.color.grey.15.value}"
@@ -13291,7 +13291,7 @@ module.exports = {
         },
         "border-color": {
           "value": "hsl(0 0% 40%)",
-          "filePath": "./src/component/utrecht/navigatie/element.style-dictionary.json",
+          "filePath": "./src/component/utrecht/navigatie/element.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.color.grey.40.value}"
@@ -13316,7 +13316,7 @@ module.exports = {
       "textbox": {
         "background-position-x": {
           "value": ".5em",
-          "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+          "filePath": "./src/component/utrecht/search-bar/block.tokens.json",
           "isSource": true,
           "original": {
             "value": ".5em"
@@ -13337,7 +13337,7 @@ module.exports = {
         },
         "background-position-y": {
           "value": "50%",
-          "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+          "filePath": "./src/component/utrecht/search-bar/block.tokens.json",
           "isSource": true,
           "original": {
             "value": "50%"
@@ -13358,7 +13358,7 @@ module.exports = {
         },
         "background-size": {
           "value": "1em",
-          "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+          "filePath": "./src/component/utrecht/search-bar/block.tokens.json",
           "isSource": true,
           "original": {
             "value": "1em"
@@ -13379,7 +13379,7 @@ module.exports = {
         },
         "border-color": {
           "value": "hsl(0 100% 40%)",
-          "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+          "filePath": "./src/component/utrecht/search-bar/block.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.color.red.40.value}"
@@ -13400,7 +13400,7 @@ module.exports = {
         },
         "padding-inline-start": {
           "value": "32px",
-          "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+          "filePath": "./src/component/utrecht/search-bar/block.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.space.inline.2xl.value}"
@@ -13423,7 +13423,7 @@ module.exports = {
       "button": {
         "background-color": {
           "value": "hsl(0 100% 40%)",
-          "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+          "filePath": "./src/component/utrecht/search-bar/block.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.color.red.40.value}"
@@ -13444,7 +13444,7 @@ module.exports = {
         },
         "border-color": {
           "value": "hsl(0 100% 40%)",
-          "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+          "filePath": "./src/component/utrecht/search-bar/block.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.color.red.40.value}"
@@ -13465,7 +13465,7 @@ module.exports = {
         },
         "color": {
           "value": "hsl(0 0% 100%)",
-          "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+          "filePath": "./src/component/utrecht/search-bar/block.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.color.white.value}"
@@ -13486,7 +13486,7 @@ module.exports = {
         },
         "font-size": {
           "value": "0.9rem",
-          "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+          "filePath": "./src/component/utrecht/search-bar/block.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.typography.scale.sm.font-size.value}"
@@ -13507,7 +13507,7 @@ module.exports = {
         },
         "font-weight": {
           "value": "bold",
-          "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+          "filePath": "./src/component/utrecht/search-bar/block.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.typography.weight-scale.bold.font-weight.value}"
@@ -13528,7 +13528,7 @@ module.exports = {
         },
         "letter-spacing": {
           "value": ".05em",
-          "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+          "filePath": "./src/component/utrecht/search-bar/block.tokens.json",
           "isSource": true,
           "original": {
             "value": ".05em"
@@ -13549,7 +13549,7 @@ module.exports = {
         },
         "text-transform": {
           "value": "uppercase",
-          "filePath": "./src/component/utrecht/search-bar/block.style-dictionary.json",
+          "filePath": "./src/component/utrecht/search-bar/block.tokens.json",
           "isSource": true,
           "original": {
             "value": "uppercase"
@@ -13578,7 +13578,7 @@ module.exports = {
       "invalid": {
         "border-color": {
           "value": "hsl(0 100% 40%)",
-          "filePath": "./src/component/utrecht/search-bar/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/search-bar/modifier.tokens.json",
           "isSource": true,
           "original": {
             "value": "{utrecht.feedback.invalid.border-color.value}"
@@ -13606,7 +13606,7 @@ module.exports = {
       "hover": {
         "background-color": {
           "value": "hsl(359, 65%, 58%)",
-          "filePath": "./src/component/utrecht/search-bar/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/search-bar/modifier.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(359, 65%, 58%)"
@@ -13627,7 +13627,7 @@ module.exports = {
         },
         "transform": {
           "value": "1",
-          "filePath": "./src/component/utrecht/search-bar/modifier.style-dictionary.json",
+          "filePath": "./src/component/utrecht/search-bar/modifier.tokens.json",
           "isSource": true,
           "original": {
             "value": "1"
