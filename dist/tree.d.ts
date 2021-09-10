@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 10 Sep 2021 15:37:31 GMT
+ * Generated on Fri, 10 Sep 2021 17:50:41 GMT
  */
 
 export default tokens;
@@ -627,6 +627,8 @@ declare const tokens: {
       "font-size": {
         "css": {}
       },
+      "min-block-size": DesignToken,
+      "min-inline-size": DesignToken,
       "margin-block-start": DesignToken,
       "margin-block-end": DesignToken,
       "margin-inline-start": DesignToken,
@@ -655,12 +657,14 @@ declare const tokens: {
         }
       },
       "background-color": DesignToken,
-      "color": DesignToken,
-      "width": DesignToken,
-      "height": DesignToken,
       "border-color": DesignToken,
       "border-radius": DesignToken,
       "border-style": DesignToken,
+      "color": DesignToken,
+      "label": {
+        "margin-inline-start": DesignToken,
+        "margin-inline-end": DesignToken
+      },
       "focus": {
         "color": DesignToken,
         "box-shadow-color": DesignToken,

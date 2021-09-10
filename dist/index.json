@@ -6699,11 +6699,11 @@
     ]
   },
   {
-    "value": "0",
+    "value": "2px",
     "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
     "isSource": true,
     "original": {
-      "value": "0"
+      "value": "2px"
     },
     "name": "utrechtMapcontrolbuttonBorderRadius",
     "attributes": {
@@ -6980,25 +6980,6 @@
     ]
   },
   {
-    "value": "32px",
-    "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
-    "isSource": true,
-    "original": {
-      "value": "{utrecht.space.block.2xl.value}"
-    },
-    "name": "utrechtMapcontrolbuttonHeight",
-    "attributes": {
-      "category": "utrecht",
-      "type": "mapcontrolbutton",
-      "item": "height"
-    },
-    "path": [
-      "utrecht",
-      "mapcontrolbutton",
-      "height"
-    ]
-  },
-  {
     "value": "hsl(0 0% 90%)",
     "filePath": "./src/component/utrecht/mapcontrolbutton/state.tokens.json",
     "isSource": true,
@@ -7038,6 +7019,48 @@
       "mapcontrolbutton",
       "hover",
       "color"
+    ]
+  },
+  {
+    "value": "8px",
+    "filePath": "./src/component/utrecht/mapcontrolbutton/element.tokens.json",
+    "isSource": true,
+    "original": {
+      "value": "{utrecht.space.inline.xs.value}"
+    },
+    "name": "utrechtMapcontrolbuttonLabelMarginInlineEnd",
+    "attributes": {
+      "category": "utrecht",
+      "type": "mapcontrolbutton",
+      "item": "label",
+      "subitem": "margin-inline-end"
+    },
+    "path": [
+      "utrecht",
+      "mapcontrolbutton",
+      "label",
+      "margin-inline-end"
+    ]
+  },
+  {
+    "value": "8px",
+    "filePath": "./src/component/utrecht/mapcontrolbutton/element.tokens.json",
+    "isSource": true,
+    "original": {
+      "value": "{utrecht.space.inline.xs.value}"
+    },
+    "name": "utrechtMapcontrolbuttonLabelMarginInlineStart",
+    "attributes": {
+      "category": "utrecht",
+      "type": "mapcontrolbutton",
+      "item": "label",
+      "subitem": "margin-inline-start"
+    },
+    "path": [
+      "utrecht",
+      "mapcontrolbutton",
+      "label",
+      "margin-inline-start"
     ]
   },
   {
@@ -7153,6 +7176,60 @@
       "syntax": "<length>",
       "inherits": true
     },
+    "value": "32px",
+    "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "{utrecht.space.block.2xl.value}"
+    },
+    "name": "utrechtMapcontrolbuttonMinBlockSize",
+    "attributes": {
+      "category": "utrecht",
+      "type": "mapcontrolbutton",
+      "item": "min-block-size"
+    },
+    "path": [
+      "utrecht",
+      "mapcontrolbutton",
+      "min-block-size"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "32px",
+    "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "{utrecht.space.block.2xl.value}"
+    },
+    "name": "utrechtMapcontrolbuttonMinInlineSize",
+    "attributes": {
+      "category": "utrecht",
+      "type": "mapcontrolbutton",
+      "item": "min-inline-size"
+    },
+    "path": [
+      "utrecht",
+      "mapcontrolbutton",
+      "min-inline-size"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
     "value": "4px",
     "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
     "isSource": true,
@@ -7254,25 +7331,6 @@
       "utrecht",
       "mapcontrolbutton",
       "padding-inline-start"
-    ]
-  },
-  {
-    "value": "32px",
-    "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
-    "isSource": true,
-    "original": {
-      "value": "{utrecht.space.block.2xl.value}"
-    },
-    "name": "utrechtMapcontrolbuttonWidth",
-    "attributes": {
-      "category": "utrecht",
-      "type": "mapcontrolbutton",
-      "item": "width"
-    },
-    "path": [
-      "utrecht",
-      "mapcontrolbutton",
-      "width"
     ]
   },
   {

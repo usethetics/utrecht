@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 10 Sep 2021 15:37:31 GMT
+ * Generated on Fri, 10 Sep 2021 17:50:41 GMT
  */
 
 export const UtrechtArticleMaxInlineSize : string;
@@ -223,6 +223,8 @@ export const UtrechtLinkVisitedColor : string;
 export const UtrechtLogoMaxHeight : string;
 export const UtrechtLogoMaxWidth : string;
 export const UtrechtMapcontrolbuttonBorderWidth : string;
+export const UtrechtMapcontrolbuttonMinBlockSize : string;
+export const UtrechtMapcontrolbuttonMinInlineSize : string;
 export const UtrechtMapcontrolbuttonMarginBlockStart : string;
 export const UtrechtMapcontrolbuttonMarginBlockEnd : string;
 export const UtrechtMapcontrolbuttonMarginInlineStart : string;
@@ -235,12 +237,12 @@ export const UtrechtMapcontrolbuttonDisabledColor : string;
 export const UtrechtMapcontrolbuttonDisabledBackgroundColor : string;
 export const UtrechtMapcontrolbuttonDisabledBorderColor : string;
 export const UtrechtMapcontrolbuttonBackgroundColor : string;
-export const UtrechtMapcontrolbuttonColor : string;
-export const UtrechtMapcontrolbuttonWidth : string;
-export const UtrechtMapcontrolbuttonHeight : string;
 export const UtrechtMapcontrolbuttonBorderColor : string;
 export const UtrechtMapcontrolbuttonBorderRadius : string;
 export const UtrechtMapcontrolbuttonBorderStyle : string;
+export const UtrechtMapcontrolbuttonColor : string;
+export const UtrechtMapcontrolbuttonLabelMarginInlineStart : string;
+export const UtrechtMapcontrolbuttonLabelMarginInlineEnd : string;
 export const UtrechtMapcontrolbuttonFocusColor : string;
 export const UtrechtMapcontrolbuttonFocusBoxShadowColor : string;
 export const UtrechtMapcontrolbuttonFocusBorderStyle : string;

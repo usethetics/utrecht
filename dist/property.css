@@ -184,6 +184,8 @@
 @property --utrecht-mapcontrolbutton-margin-block-start { syntax: '<length>'; inherits: true; }
 @property --utrecht-mapcontrolbutton-margin-inline-end { syntax: '<length>'; inherits: true; }
 @property --utrecht-mapcontrolbutton-margin-inline-start { syntax: '<length>'; inherits: true; }
+@property --utrecht-mapcontrolbutton-min-block-size { syntax: '<length>'; inherits: true; }
+@property --utrecht-mapcontrolbutton-min-inline-size { syntax: '<length>'; inherits: true; }
 @property --utrecht-mapcontrolbutton-padding-block-end { syntax: '<length>'; inherits: true; }
 @property --utrecht-mapcontrolbutton-padding-block-start { syntax: '<length>'; inherits: true; }
 @property --utrecht-mapcontrolbutton-padding-inline-end { syntax: '<length>'; inherits: true; }

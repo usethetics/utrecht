@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 10 Sep 2021 15:37:31 GMT
+ * Generated on Fri, 10 Sep 2021 17:50:41 GMT
  */
 
 module.exports = {
@@ -6540,6 +6540,60 @@ module.exports = {
           "inherits": true
         }
       },
+      "min-block-size": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "32px",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "{utrecht.space.block.2xl.value}"
+        },
+        "name": "utrechtMapcontrolbuttonMinBlockSize",
+        "attributes": {
+          "category": "utrecht",
+          "type": "mapcontrolbutton",
+          "item": "min-block-size"
+        },
+        "path": [
+          "utrecht",
+          "mapcontrolbutton",
+          "min-block-size"
+        ]
+      },
+      "min-inline-size": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "32px",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "{utrecht.space.block.2xl.value}"
+        },
+        "name": "utrechtMapcontrolbuttonMinInlineSize",
+        "attributes": {
+          "category": "utrecht",
+          "type": "mapcontrolbutton",
+          "item": "min-inline-size"
+        },
+        "path": [
+          "utrecht",
+          "mapcontrolbutton",
+          "min-inline-size"
+        ]
+      },
       "margin-block-start": {
         "css": {
           "syntax": "<length>",
@@ -6874,63 +6928,6 @@ module.exports = {
           "background-color"
         ]
       },
-      "color": {
-        "value": "hsl(0 0% 40%)",
-        "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "{utrecht.color.grey.40.value}"
-        },
-        "name": "utrechtMapcontrolbuttonColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "mapcontrolbutton",
-          "item": "color"
-        },
-        "path": [
-          "utrecht",
-          "mapcontrolbutton",
-          "color"
-        ]
-      },
-      "width": {
-        "value": "32px",
-        "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "{utrecht.space.block.2xl.value}"
-        },
-        "name": "utrechtMapcontrolbuttonWidth",
-        "attributes": {
-          "category": "utrecht",
-          "type": "mapcontrolbutton",
-          "item": "width"
-        },
-        "path": [
-          "utrecht",
-          "mapcontrolbutton",
-          "width"
-        ]
-      },
-      "height": {
-        "value": "32px",
-        "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "{utrecht.space.block.2xl.value}"
-        },
-        "name": "utrechtMapcontrolbuttonHeight",
-        "attributes": {
-          "category": "utrecht",
-          "type": "mapcontrolbutton",
-          "item": "height"
-        },
-        "path": [
-          "utrecht",
-          "mapcontrolbutton",
-          "height"
-        ]
-      },
       "border-color": {
         "value": "hsl(0 0% 40%)",
         "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
@@ -6951,11 +6948,11 @@ module.exports = {
         ]
       },
       "border-radius": {
-        "value": "0",
+        "value": "2px",
         "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
         "isSource": true,
         "original": {
-          "value": "0"
+          "value": "2px"
         },
         "name": "utrechtMapcontrolbuttonBorderRadius",
         "attributes": {
@@ -6987,6 +6984,69 @@ module.exports = {
           "mapcontrolbutton",
           "border-style"
         ]
+      },
+      "color": {
+        "value": "hsl(0 0% 40%)",
+        "filePath": "./src/component/utrecht/mapcontrolbutton/block.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{utrecht.color.grey.40.value}"
+        },
+        "name": "utrechtMapcontrolbuttonColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "mapcontrolbutton",
+          "item": "color"
+        },
+        "path": [
+          "utrecht",
+          "mapcontrolbutton",
+          "color"
+        ]
+      },
+      "label": {
+        "margin-inline-start": {
+          "value": "8px",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/element.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.space.inline.xs.value}"
+          },
+          "name": "utrechtMapcontrolbuttonLabelMarginInlineStart",
+          "attributes": {
+            "category": "utrecht",
+            "type": "mapcontrolbutton",
+            "item": "label",
+            "subitem": "margin-inline-start"
+          },
+          "path": [
+            "utrecht",
+            "mapcontrolbutton",
+            "label",
+            "margin-inline-start"
+          ]
+        },
+        "margin-inline-end": {
+          "value": "8px",
+          "filePath": "./src/component/utrecht/mapcontrolbutton/element.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "{utrecht.space.inline.xs.value}"
+          },
+          "name": "utrechtMapcontrolbuttonLabelMarginInlineEnd",
+          "attributes": {
+            "category": "utrecht",
+            "type": "mapcontrolbutton",
+            "item": "label",
+            "subitem": "margin-inline-end"
+          },
+          "path": [
+            "utrecht",
+            "mapcontrolbutton",
+            "label",
+            "margin-inline-end"
+          ]
+        }
       },
       "focus": {
         "color": {

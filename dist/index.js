@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 10 Sep 2021 15:37:31 GMT
+ * Generated on Fri, 10 Sep 2021 17:50:41 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -223,6 +223,8 @@ export const utrechtLinkVisitedColor = "hsl(211 60% 30%)";
 export const utrechtLogoMaxHeight = "58.97px";
 export const utrechtLogoMaxWidth = "110.57px";
 export const utrechtMapcontrolbuttonBorderWidth = "1px";
+export const utrechtMapcontrolbuttonMinBlockSize = "32px";
+export const utrechtMapcontrolbuttonMinInlineSize = "32px";
 export const utrechtMapcontrolbuttonMarginBlockStart = "8px";
 export const utrechtMapcontrolbuttonMarginBlockEnd = "8px";
 export const utrechtMapcontrolbuttonMarginInlineStart = "0";
@@ -235,12 +237,12 @@ export const utrechtMapcontrolbuttonDisabledColor = "hsl(0 0% 80%)";
 export const utrechtMapcontrolbuttonDisabledBackgroundColor = "hsl(0 0% 90%)";
 export const utrechtMapcontrolbuttonDisabledBorderColor = "hsl(0 0% 80%)";
 export const utrechtMapcontrolbuttonBackgroundColor = "hsl(0 0% 100%)";
-export const utrechtMapcontrolbuttonColor = "hsl(0 0% 40%)";
-export const utrechtMapcontrolbuttonWidth = "32px";
-export const utrechtMapcontrolbuttonHeight = "32px";
 export const utrechtMapcontrolbuttonBorderColor = "hsl(0 0% 40%)";
-export const utrechtMapcontrolbuttonBorderRadius = "0";
+export const utrechtMapcontrolbuttonBorderRadius = "2px";
 export const utrechtMapcontrolbuttonBorderStyle = "solid";
+export const utrechtMapcontrolbuttonColor = "hsl(0 0% 40%)";
+export const utrechtMapcontrolbuttonLabelMarginInlineStart = "8px";
+export const utrechtMapcontrolbuttonLabelMarginInlineEnd = "8px";
 export const utrechtMapcontrolbuttonFocusColor = "hsl(0 0% 0%)";
 export const utrechtMapcontrolbuttonFocusBoxShadowColor = "hsl(0 0% 100%)";
 export const utrechtMapcontrolbuttonFocusBorderStyle = "dotted";
