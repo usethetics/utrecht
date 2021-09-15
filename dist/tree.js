@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 14 Sep 2021 15:37:44 GMT
+ * Generated on Wed, 15 Sep 2021 14:55:54 GMT
  */
 
 module.exports = {
@@ -905,6 +905,12 @@ module.exports = {
           "border-width"
         ]
       },
+      "block-size": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        }
+      },
       "focus-transform-scale": {
         "css": {
           "syntax": "<number>",
@@ -941,6 +947,12 @@ module.exports = {
       "font-weight": {
         "css": {
           "syntax": "<number>",
+          "inherits": true
+        }
+      },
+      "inline-size": {
+        "css": {
+          "syntax": "<length>",
           "inherits": true
         }
       },
@@ -1685,6 +1697,14 @@ module.exports = {
             "secondary-action",
             "border-width"
           ]
+        }
+      }
+    },
+    "digid-button": {
+      "block-size": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
         }
       }
     },

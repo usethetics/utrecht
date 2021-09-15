@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 14 Sep 2021 15:37:44 GMT
+ * Generated on Wed, 15 Sep 2021 14:55:54 GMT
  */
 
 export default tokens;
@@ -104,11 +104,17 @@ declare const tokens: {
     },
     "button": {
       "border-width": DesignToken,
+      "block-size": {
+        "css": {}
+      },
       "focus-transform-scale": {
         "css": {}
       },
       "font-size": DesignToken,
       "font-weight": {
+        "css": {}
+      },
+      "inline-size": {
         "css": {}
       },
       "letter-spacing": {
@@ -171,6 +177,11 @@ declare const tokens: {
         "color": DesignToken,
         "border-color": DesignToken,
         "border-width": DesignToken
+      }
+    },
+    "digid-button": {
+      "block-size": {
+        "css": {}
       }
     },
     "document": {

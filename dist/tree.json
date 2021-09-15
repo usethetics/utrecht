@@ -900,6 +900,12 @@
           "border-width"
         ]
       },
+      "block-size": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        }
+      },
       "focus-transform-scale": {
         "css": {
           "syntax": "<number>",
@@ -936,6 +942,12 @@
       "font-weight": {
         "css": {
           "syntax": "<number>",
+          "inherits": true
+        }
+      },
+      "inline-size": {
+        "css": {
+          "syntax": "<length>",
           "inherits": true
         }
       },
@@ -1680,6 +1692,14 @@
             "secondary-action",
             "border-width"
           ]
+        }
+      }
+    },
+    "digid-button": {
+      "block-size": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
         }
       }
     },
