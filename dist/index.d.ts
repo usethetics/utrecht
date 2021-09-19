@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 15 Sep 2021 22:03:41 GMT
+ * Generated on Sun, 19 Sep 2021 07:36:47 GMT
  */
 
 export const UtrechtArticleMaxInlineSize : string;
@@ -62,6 +62,9 @@ export const UtrechtButtonSecondaryActionBackgroundColor : string;
 export const UtrechtButtonSecondaryActionColor : string;
 export const UtrechtButtonSecondaryActionBorderColor : string;
 export const UtrechtButtonSecondaryActionBorderWidth : string;
+export const UtrechtActionBusyCursor : string;
+export const UtrechtActionDisabledCursor : string;
+export const UtrechtActionSubmitCursor : string;
 export const UtrechtDocumentBackgroundColor : string;
 export const UtrechtDocumentColor : string;
 export const UtrechtDocumentFontFamily : string;

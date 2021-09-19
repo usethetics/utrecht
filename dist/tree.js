@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 15 Sep 2021 22:03:41 GMT
+ * Generated on Sun, 19 Sep 2021 07:36:47 GMT
  */
 
 module.exports = {
@@ -1696,6 +1696,101 @@ module.exports = {
             "button",
             "secondary-action",
             "border-width"
+          ]
+        }
+      }
+    },
+    "action": {
+      "busy": {
+        "cursor": {
+          "css": {
+            "syntax": "*",
+            "inherits": true
+          },
+          "value": "wait",
+          "filePath": "./src/common/utrecht/action.tokens.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "*",
+              "inherits": true
+            },
+            "value": "wait"
+          },
+          "name": "utrechtActionBusyCursor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "action",
+            "item": "busy",
+            "subitem": "cursor"
+          },
+          "path": [
+            "utrecht",
+            "action",
+            "busy",
+            "cursor"
+          ]
+        }
+      },
+      "disabled": {
+        "cursor": {
+          "css": {
+            "syntax": "*",
+            "inherits": true
+          },
+          "value": "not-allowed",
+          "filePath": "./src/common/utrecht/action.tokens.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "*",
+              "inherits": true
+            },
+            "value": "not-allowed"
+          },
+          "name": "utrechtActionDisabledCursor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "action",
+            "item": "disabled",
+            "subitem": "cursor"
+          },
+          "path": [
+            "utrecht",
+            "action",
+            "disabled",
+            "cursor"
+          ]
+        }
+      },
+      "submit": {
+        "cursor": {
+          "css": {
+            "syntax": "*",
+            "inherits": true
+          },
+          "value": "pointer",
+          "filePath": "./src/common/utrecht/action.tokens.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "*",
+              "inherits": true
+            },
+            "value": "pointer"
+          },
+          "name": "utrechtActionSubmitCursor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "action",
+            "item": "submit",
+            "subitem": "cursor"
+          },
+          "path": [
+            "utrecht",
+            "action",
+            "submit",
+            "cursor"
           ]
         }
       }

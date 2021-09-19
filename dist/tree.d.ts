@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 15 Sep 2021 22:03:41 GMT
+ * Generated on Sun, 19 Sep 2021 07:36:47 GMT
  */
 
 export default tokens;
@@ -177,6 +177,17 @@ declare const tokens: {
         "color": DesignToken,
         "border-color": DesignToken,
         "border-width": DesignToken
+      }
+    },
+    "action": {
+      "busy": {
+        "cursor": DesignToken
+      },
+      "disabled": {
+        "cursor": DesignToken
+      },
+      "submit": {
+        "cursor": DesignToken
       }
     },
     "digid-button": {

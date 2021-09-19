@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 15 Sep 2021 22:03:41 GMT
+ * Generated on Sun, 19 Sep 2021 07:36:47 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -62,6 +62,9 @@ export const utrechtButtonSecondaryActionBackgroundColor = "hsl(0 0% 100%)";
 export const utrechtButtonSecondaryActionColor = "hsl(211 60% 35%)";
 export const utrechtButtonSecondaryActionBorderColor = "hsl(211 60% 35%)";
 export const utrechtButtonSecondaryActionBorderWidth = "2px";
+export const utrechtActionBusyCursor = "wait";
+export const utrechtActionDisabledCursor = "not-allowed";
+export const utrechtActionSubmitCursor = "pointer";
 export const utrechtDocumentBackgroundColor = "hsl(0 0% 100%)";
 export const utrechtDocumentColor = "hsl(0 0% 0%)";
 export const utrechtDocumentFontFamily = "\"Lucida Grande\", \"Lucida Sans Unicode\", \"Lucida Sans\", Verdana, sans-serif";

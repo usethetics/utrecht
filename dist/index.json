@@ -1,6 +1,93 @@
 [
   {
     "css": {
+      "syntax": "*",
+      "inherits": true
+    },
+    "value": "wait",
+    "filePath": "./src/common/utrecht/action.tokens.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "*",
+        "inherits": true
+      },
+      "value": "wait"
+    },
+    "name": "utrechtActionBusyCursor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "action",
+      "item": "busy",
+      "subitem": "cursor"
+    },
+    "path": [
+      "utrecht",
+      "action",
+      "busy",
+      "cursor"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "*",
+      "inherits": true
+    },
+    "value": "not-allowed",
+    "filePath": "./src/common/utrecht/action.tokens.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "*",
+        "inherits": true
+      },
+      "value": "not-allowed"
+    },
+    "name": "utrechtActionDisabledCursor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "action",
+      "item": "disabled",
+      "subitem": "cursor"
+    },
+    "path": [
+      "utrecht",
+      "action",
+      "disabled",
+      "cursor"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "*",
+      "inherits": true
+    },
+    "value": "pointer",
+    "filePath": "./src/common/utrecht/action.tokens.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "*",
+        "inherits": true
+      },
+      "value": "pointer"
+    },
+    "name": "utrechtActionSubmitCursor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "action",
+      "item": "submit",
+      "subitem": "cursor"
+    },
+    "path": [
+      "utrecht",
+      "action",
+      "submit",
+      "cursor"
+    ]
+  },
+  {
+    "css": {
       "syntax": "<length>",
       "inherits": true
     },
