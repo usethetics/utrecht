@@ -1052,6 +1052,33 @@
     ]
   },
   {
+    "css": {
+      "syntax": "<color>",
+      "inherits": true
+    },
+    "value": "hsl(211 60% 35%)",
+    "filePath": "./src/component/utrecht/button/block.tokens.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<color>",
+        "inherits": true
+      },
+      "value": "{utrecht.color.blue.35.value}"
+    },
+    "name": "utrechtButtonBackgroundColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "button",
+      "item": "background-color"
+    },
+    "path": [
+      "utrecht",
+      "button",
+      "background-color"
+    ]
+  },
+  {
     "value": "0",
     "filePath": "./src/component/utrecht/button/block.tokens.json",
     "isSource": true,
@@ -1095,6 +1122,33 @@
       "utrecht",
       "button",
       "border-width"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<color>",
+      "inherits": true
+    },
+    "value": "hsl(0 0% 100%)",
+    "filePath": "./src/component/utrecht/button/block.tokens.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<color>",
+        "inherits": true
+      },
+      "value": "{utrecht.color.white.value}"
+    },
+    "name": "utrechtButtonColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "button",
+      "item": "color"
+    },
+    "path": [
+      "utrecht",
+      "button",
+      "color"
     ]
   },
   {

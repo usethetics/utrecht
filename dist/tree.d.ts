@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 19 Sep 2021 08:19:14 GMT
+ * Generated on Sun, 19 Sep 2021 15:43:31 GMT
  */
 
 export default tokens;
@@ -103,10 +103,12 @@ declare const tokens: {
       }
     },
     "button": {
+      "background-color": DesignToken,
       "border-width": DesignToken,
       "block-size": {
         "css": {}
       },
+      "color": DesignToken,
       "focus-transform-scale": {
         "css": {}
       },
@@ -130,6 +132,14 @@ declare const tokens: {
       "padding-inline-end": DesignToken,
       "text-transform": {
         "css": {}
+      },
+      "active": {
+        "background-color": {
+          "css": {}
+        },
+        "color": {
+          "css": {}
+        }
       },
       "disabled": {
         "color": DesignToken,

@@ -26,7 +26,9 @@
 @property --utrecht-breadcrumb-link-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-breadcrumb-link-focus-background-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-breadcrumb-link-focus-color { syntax: '<color>'; inherits: true; }
+@property --utrecht-button-background-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-button-border-width { syntax: '<length>'; inherits: true; }
+@property --utrecht-button-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-button-disabled-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-button-font-size { syntax: '<length>'; inherits: true; }
 @property --utrecht-button-margin-block-end { syntax: '<length>'; inherits: true; }

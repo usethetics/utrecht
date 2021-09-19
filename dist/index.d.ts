@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 19 Sep 2021 08:19:14 GMT
+ * Generated on Sun, 19 Sep 2021 15:43:31 GMT
  */
 
 export const UtrechtArticleMaxInlineSize : string;
@@ -31,7 +31,9 @@ export const UtrechtBreadcrumbItemPaddingBlockStart : string;
 export const UtrechtBreadcrumbItemPaddingBlockEnd : string;
 export const UtrechtBreadcrumbItemPaddingInlineEnd : string;
 export const UtrechtBreadcrumbItemPaddingInlineStart : string;
+export const UtrechtButtonBackgroundColor : string;
 export const UtrechtButtonBorderWidth : string;
+export const UtrechtButtonColor : string;
 export const UtrechtButtonFontSize : string;
 export const UtrechtButtonMarginBlockStart : string;
 export const UtrechtButtonMarginBlockEnd : string;

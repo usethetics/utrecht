@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 19 Sep 2021 08:19:13 GMT
+ * Generated on Sun, 19 Sep 2021 15:43:30 GMT
  */
 
 module.exports = {
@@ -878,6 +878,33 @@ module.exports = {
       }
     },
     "button": {
+      "background-color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        },
+        "value": "hsl(211 60% 35%)",
+        "filePath": "./src/component/utrecht/button/block.tokens.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "{utrecht.color.blue.35.value}"
+        },
+        "name": "utrechtButtonBackgroundColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "button",
+          "item": "background-color"
+        },
+        "path": [
+          "utrecht",
+          "button",
+          "background-color"
+        ]
+      },
       "border-width": {
         "css": {
           "syntax": "<length>",
@@ -910,6 +937,33 @@ module.exports = {
           "syntax": "<length>",
           "inherits": true
         }
+      },
+      "color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        },
+        "value": "hsl(0 0% 100%)",
+        "filePath": "./src/component/utrecht/button/block.tokens.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "{utrecht.color.white.value}"
+        },
+        "name": "utrechtButtonColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "button",
+          "item": "color"
+        },
+        "path": [
+          "utrecht",
+          "button",
+          "color"
+        ]
       },
       "focus-transform-scale": {
         "css": {
@@ -1182,6 +1236,20 @@ module.exports = {
         "css": {
           "syntax": "inherit | uppercase",
           "inherits": true
+        }
+      },
+      "active": {
+        "background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
         }
       },
       "disabled": {

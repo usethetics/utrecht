@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 19 Sep 2021 08:19:13 GMT
+ * Generated on Sun, 19 Sep 2021 15:43:30 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -31,7 +31,9 @@ export const utrechtBreadcrumbItemPaddingBlockStart = "8px";
 export const utrechtBreadcrumbItemPaddingBlockEnd = "8px";
 export const utrechtBreadcrumbItemPaddingInlineEnd = "16px";
 export const utrechtBreadcrumbItemPaddingInlineStart = "16px";
+export const utrechtButtonBackgroundColor = "hsl(211 60% 35%)";
 export const utrechtButtonBorderWidth = "0";
+export const utrechtButtonColor = "hsl(0 0% 100%)";
 export const utrechtButtonFontSize = "1rem";
 export const utrechtButtonMarginBlockStart = "8px";
 export const utrechtButtonMarginBlockEnd = "8px";
