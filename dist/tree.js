@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 25 Sep 2021 18:15:26 GMT
+ * Generated on Sat, 25 Sep 2021 19:03:02 GMT
  */
 
 module.exports = {
@@ -1868,6 +1868,555 @@ module.exports = {
           ]
         }
       }
+    },
+    "custom-checkbox": {
+      "background-color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        },
+        "value": "hsl(0 0% 100%)",
+        "filePath": "./src/component/utrecht/custom-checkbox/block.tokens.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "{utrecht.form-input.background-color.value}"
+        },
+        "name": "utrechtCustomCheckboxBackgroundColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "custom-checkbox",
+          "item": "background-color"
+        },
+        "path": [
+          "utrecht",
+          "custom-checkbox",
+          "background-color"
+        ]
+      },
+      "border-color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        },
+        "value": "hsl(0 0% 30%)",
+        "filePath": "./src/component/utrecht/custom-checkbox/block.tokens.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "{utrecht.form-input.border-color.value}"
+        },
+        "name": "utrechtCustomCheckboxBorderColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "custom-checkbox",
+          "item": "border-color"
+        },
+        "path": [
+          "utrecht",
+          "custom-checkbox",
+          "border-color"
+        ]
+      },
+      "border-radius": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "2px",
+        "filePath": "./src/component/utrecht/custom-checkbox/block.tokens.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "2px"
+        },
+        "name": "utrechtCustomCheckboxBorderRadius",
+        "attributes": {
+          "category": "utrecht",
+          "type": "custom-checkbox",
+          "item": "border-radius"
+        },
+        "path": [
+          "utrecht",
+          "custom-checkbox",
+          "border-radius"
+        ]
+      },
+      "border-width": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "2px",
+        "filePath": "./src/component/utrecht/custom-checkbox/block.tokens.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "2px"
+        },
+        "name": "utrechtCustomCheckboxBorderWidth",
+        "attributes": {
+          "category": "utrecht",
+          "type": "custom-checkbox",
+          "item": "border-width"
+        },
+        "path": [
+          "utrecht",
+          "custom-checkbox",
+          "border-width"
+        ]
+      },
+      "color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        },
+        "value": "hsl(0 0% 0%)",
+        "filePath": "./src/component/utrecht/custom-checkbox/block.tokens.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "{utrecht.form-input.color.value}"
+        },
+        "name": "utrechtCustomCheckboxColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "custom-checkbox",
+          "item": "color"
+        },
+        "path": [
+          "utrecht",
+          "custom-checkbox",
+          "color"
+        ]
+      },
+      "size": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "24px",
+        "filePath": "./src/component/utrecht/custom-checkbox/block.tokens.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "24px"
+        },
+        "name": "utrechtCustomCheckboxSize",
+        "attributes": {
+          "category": "utrecht",
+          "type": "custom-checkbox",
+          "item": "size"
+        },
+        "path": [
+          "utrecht",
+          "custom-checkbox",
+          "size"
+        ]
+      },
+      "icon": {
+        "size": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "16px",
+          "filePath": "./src/component/utrecht/custom-checkbox/element.tokens.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<length>",
+              "inherits": true
+            },
+            "value": "16px"
+          },
+          "name": "utrechtCustomCheckboxIconSize",
+          "attributes": {
+            "category": "utrecht",
+            "type": "custom-checkbox",
+            "item": "icon",
+            "subitem": "size"
+          },
+          "path": [
+            "utrecht",
+            "custom-checkbox",
+            "icon",
+            "size"
+          ]
+        }
+      },
+      "active": {
+        "border-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "border-width": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          }
+        },
+        "background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        }
+      },
+      "focus": {
+        "border-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "border-width": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "3px",
+          "filePath": "./src/component/utrecht/custom-checkbox/modifier.tokens.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<length>",
+              "inherits": true
+            },
+            "value": "3px"
+          },
+          "name": "utrechtCustomCheckboxFocusBorderWidth",
+          "attributes": {
+            "category": "utrecht",
+            "type": "custom-checkbox",
+            "item": "focus",
+            "subitem": "border-width"
+          },
+          "path": [
+            "utrecht",
+            "custom-checkbox",
+            "focus",
+            "border-width"
+          ]
+        },
+        "background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        }
+      },
+      "disabled": {
+        "border-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "hsl(0 0% 30%)",
+          "filePath": "./src/component/utrecht/custom-checkbox/modifier.tokens.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<color>",
+              "inherits": true
+            },
+            "value": "{utrecht.color.grey.30.value}"
+          },
+          "name": "utrechtCustomCheckboxDisabledBorderColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "custom-checkbox",
+            "item": "disabled",
+            "subitem": "border-color"
+          },
+          "path": [
+            "utrecht",
+            "custom-checkbox",
+            "disabled",
+            "border-color"
+          ]
+        },
+        "border-width": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "hsl(0 0% 40%)",
+          "filePath": "./src/component/utrecht/custom-checkbox/modifier.tokens.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<length>",
+              "inherits": true
+            },
+            "value": "{utrecht.color.grey.40.value}"
+          },
+          "name": "utrechtCustomCheckboxDisabledBorderWidth",
+          "attributes": {
+            "category": "utrecht",
+            "type": "custom-checkbox",
+            "item": "disabled",
+            "subitem": "border-width"
+          },
+          "path": [
+            "utrecht",
+            "custom-checkbox",
+            "disabled",
+            "border-width"
+          ]
+        },
+        "background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "hsl(0 0% 100%)",
+          "filePath": "./src/component/utrecht/custom-checkbox/modifier.tokens.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<color>",
+              "inherits": true
+            },
+            "value": "{utrecht.color.white.value}"
+          },
+          "name": "utrechtCustomCheckboxDisabledBackgroundColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "custom-checkbox",
+            "item": "disabled",
+            "subitem": "background-color"
+          },
+          "path": [
+            "utrecht",
+            "custom-checkbox",
+            "disabled",
+            "background-color"
+          ]
+        },
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        }
+      },
+      "checked": {
+        "border-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "border-width": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          }
+        },
+        "background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "hsl(211 60% 40%)",
+          "filePath": "./src/component/utrecht/custom-checkbox/modifier.tokens.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<color>",
+              "inherits": true
+            },
+            "value": "{utrecht.color.blue.40.value}"
+          },
+          "name": "utrechtCustomCheckboxCheckedBackgroundColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "custom-checkbox",
+            "item": "checked",
+            "subitem": "background-color"
+          },
+          "path": [
+            "utrecht",
+            "custom-checkbox",
+            "checked",
+            "background-color"
+          ]
+        },
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "hsl(0 0% 100%)",
+          "filePath": "./src/component/utrecht/custom-checkbox/modifier.tokens.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<color>",
+              "inherits": true
+            },
+            "value": "{utrecht.color.white.value}"
+          },
+          "name": "utrechtCustomCheckboxCheckedColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "custom-checkbox",
+            "item": "checked",
+            "subitem": "color"
+          },
+          "path": [
+            "utrecht",
+            "custom-checkbox",
+            "checked",
+            "color"
+          ]
+        },
+        "active": {
+          "border-color": {},
+          "background-color": {}
+        }
+      },
+      "indeterminate": {
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        }
+      },
+      "invalid": {
+        "border-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "hsl(0 100% 40%)",
+          "filePath": "./src/component/utrecht/custom-checkbox/modifier.tokens.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<color>",
+              "inherits": true
+            },
+            "value": "{utrecht.form-input.invalid.border-color.value}"
+          },
+          "name": "utrechtCustomCheckboxInvalidBorderColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "custom-checkbox",
+            "item": "invalid",
+            "subitem": "border-color"
+          },
+          "path": [
+            "utrecht",
+            "custom-checkbox",
+            "invalid",
+            "border-color"
+          ]
+        },
+        "border-width": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          }
+        },
+        "background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "hsl(0 100% 40%)",
+          "filePath": "./src/component/utrecht/custom-checkbox/modifier.tokens.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<color>",
+              "inherits": true
+            },
+            "value": "{utrecht.color.red.40.value}"
+          },
+          "name": "utrechtCustomCheckboxInvalidBackgroundColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "custom-checkbox",
+            "item": "invalid",
+            "subitem": "background-color"
+          },
+          "path": [
+            "utrecht",
+            "custom-checkbox",
+            "invalid",
+            "background-color"
+          ]
+        },
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "hsl(0 0% 100%)",
+          "filePath": "./src/component/utrecht/custom-checkbox/modifier.tokens.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<color>",
+              "inherits": true
+            },
+            "value": "{utrecht.color.white.value}"
+          },
+          "name": "utrechtCustomCheckboxInvalidColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "custom-checkbox",
+            "item": "invalid",
+            "subitem": "color"
+          },
+          "path": [
+            "utrecht",
+            "custom-checkbox",
+            "invalid",
+            "color"
+          ]
+        },
+        "active": {
+          "border-color": {},
+          "background-color": {}
+        }
+      },
+      "padding": {}
     },
     "digid-button": {
       "block-size": {

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 25 Sep 2021 18:15:27 GMT
+ * Generated on Sat, 25 Sep 2021 19:03:02 GMT
  */
 
 export default tokens;
@@ -202,6 +202,83 @@ declare const tokens: {
       "submit": {
         "cursor": DesignToken
       }
+    },
+    "custom-checkbox": {
+      "background-color": DesignToken,
+      "border-color": DesignToken,
+      "border-radius": DesignToken,
+      "border-width": DesignToken,
+      "color": DesignToken,
+      "size": DesignToken,
+      "icon": {
+        "size": DesignToken
+      },
+      "active": {
+        "border-color": {
+          "css": {}
+        },
+        "border-width": {
+          "css": {}
+        },
+        "background-color": {
+          "css": {}
+        },
+        "color": {
+          "css": {}
+        }
+      },
+      "focus": {
+        "border-color": {
+          "css": {}
+        },
+        "border-width": DesignToken,
+        "background-color": {
+          "css": {}
+        },
+        "color": {
+          "css": {}
+        }
+      },
+      "disabled": {
+        "border-color": DesignToken,
+        "border-width": DesignToken,
+        "background-color": DesignToken,
+        "color": {
+          "css": {}
+        }
+      },
+      "checked": {
+        "border-color": {
+          "css": {}
+        },
+        "border-width": {
+          "css": {}
+        },
+        "background-color": DesignToken,
+        "color": DesignToken,
+        "active": {
+          "border-color": {},
+          "background-color": {}
+        }
+      },
+      "indeterminate": {
+        "color": {
+          "css": {}
+        }
+      },
+      "invalid": {
+        "border-color": DesignToken,
+        "border-width": {
+          "css": {}
+        },
+        "background-color": DesignToken,
+        "color": DesignToken,
+        "active": {
+          "border-color": {},
+          "background-color": {}
+        }
+      },
+      "padding": {}
     },
     "digid-button": {
       "block-size": {

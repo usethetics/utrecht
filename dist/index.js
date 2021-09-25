@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 25 Sep 2021 18:15:26 GMT
+ * Generated on Sat, 25 Sep 2021 19:03:02 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -67,6 +67,22 @@ export const utrechtButtonSecondaryActionBorderWidth = "2px";
 export const utrechtActionBusyCursor = "wait";
 export const utrechtActionDisabledCursor = "not-allowed";
 export const utrechtActionSubmitCursor = "pointer";
+export const utrechtCustomCheckboxBackgroundColor = "hsl(0 0% 100%)";
+export const utrechtCustomCheckboxBorderColor = "hsl(0 0% 30%)";
+export const utrechtCustomCheckboxBorderRadius = "2px";
+export const utrechtCustomCheckboxBorderWidth = "2px";
+export const utrechtCustomCheckboxColor = "hsl(0 0% 0%)";
+export const utrechtCustomCheckboxSize = "24px";
+export const utrechtCustomCheckboxIconSize = "16px";
+export const utrechtCustomCheckboxFocusBorderWidth = "3px";
+export const utrechtCustomCheckboxDisabledBorderColor = "hsl(0 0% 30%)";
+export const utrechtCustomCheckboxDisabledBorderWidth = "hsl(0 0% 40%)";
+export const utrechtCustomCheckboxDisabledBackgroundColor = "hsl(0 0% 100%)";
+export const utrechtCustomCheckboxCheckedBackgroundColor = "hsl(211 60% 40%)";
+export const utrechtCustomCheckboxCheckedColor = "hsl(0 0% 100%)";
+export const utrechtCustomCheckboxInvalidBorderColor = "hsl(0 100% 40%)";
+export const utrechtCustomCheckboxInvalidBackgroundColor = "hsl(0 100% 40%)";
+export const utrechtCustomCheckboxInvalidColor = "hsl(0 0% 100%)";
 export const utrechtDocumentBackgroundColor = "hsl(0 0% 100%)";
 export const utrechtDocumentColor = "hsl(0 0% 0%)";
 export const utrechtDocumentFontFamily = "\"Lucida Grande\", \"Lucida Sans Unicode\", \"Lucida Sans\", Verdana, sans-serif";

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 25 Sep 2021 18:15:27 GMT
+ * Generated on Sat, 25 Sep 2021 19:03:02 GMT
  */
 
 :root {
@@ -226,6 +226,11 @@
   --utrecht-form-fieldset-legend-line-height: 1.4;
   --utrecht-form-fieldset-legend-font-size: 1rem;
   --utrecht-document-line-height: 1.4;
+  --utrecht-custom-checkbox-focus-border-width: 3px;
+  --utrecht-custom-checkbox-icon-size: 16px;
+  --utrecht-custom-checkbox-size: 24px;
+  --utrecht-custom-checkbox-border-width: 2px;
+  --utrecht-custom-checkbox-border-radius: 2px;
   --utrecht-action-submit-cursor: pointer;
   --utrecht-action-disabled-cursor: not-allowed;
   --utrecht-action-busy-cursor: wait;
@@ -387,6 +392,13 @@
   --utrecht-document-font-family: var(--utrecht-typography-sans-serif-font-family);
   --utrecht-document-color: var(--utrecht-color-black);
   --utrecht-document-background-color: var(--utrecht-color-white);
+  --utrecht-custom-checkbox-invalid-color: var(--utrecht-color-white);
+  --utrecht-custom-checkbox-invalid-background-color: var(--utrecht-color-red-40);
+  --utrecht-custom-checkbox-checked-color: var(--utrecht-color-white);
+  --utrecht-custom-checkbox-checked-background-color: var(--utrecht-color-blue-40);
+  --utrecht-custom-checkbox-disabled-background-color: var(--utrecht-color-white);
+  --utrecht-custom-checkbox-disabled-border-width: var(--utrecht-color-grey-40);
+  --utrecht-custom-checkbox-disabled-border-color: var(--utrecht-color-grey-30);
   --utrecht-button-secondary-action-border-width: var(--utrecht-border-width-md);
   --utrecht-button-secondary-action-border-color: var(--utrecht-color-blue-35);
   --utrecht-button-secondary-action-color: var(--utrecht-color-blue-35);
@@ -450,6 +462,9 @@
   --utrecht-feedback-warning-background-color: var(--utrecht-feedback-warning-color);
   --utrecht-feedback-danger-border-color: var(--utrecht-feedback-danger-color);
   --utrecht-feedback-danger-background-color: var(--utrecht-feedback-danger-color);
+  --utrecht-custom-checkbox-color: var(--utrecht-form-input-color);
+  --utrecht-custom-checkbox-border-color: var(--utrecht-form-input-border-color);
+  --utrecht-custom-checkbox-background-color: var(--utrecht-form-input-background-color);
   --utrecht-feedback-active-border-color: var(--utrecht-feedback-safe-border-color);
   --utrecht-feedback-active-background-color: var(--utrecht-feedback-safe-background-color);
   --utrecht-feedback-inactive-border-color: var(--utrecht-feedback-danger-border-color);
@@ -473,4 +488,5 @@
   --utrecht-feedback-error-fill-background-color: var(--utrecht-feedback-error-background-color);
   --utrecht-feedback-valid-fill-background-color: var(--utrecht-feedback-valid-background-color);
   --utrecht-feedback-invalid-fill-background-color: var(--utrecht-feedback-invalid-background-color);
+  --utrecht-custom-checkbox-invalid-border-color: var(--utrecht-form-input-invalid-border-color);
 }

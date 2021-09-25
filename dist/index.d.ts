@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 25 Sep 2021 18:15:27 GMT
+ * Generated on Sat, 25 Sep 2021 19:03:02 GMT
  */
 
 export const UtrechtArticleMaxInlineSize : string;
@@ -67,6 +67,22 @@ export const UtrechtButtonSecondaryActionBorderWidth : string;
 export const UtrechtActionBusyCursor : string;
 export const UtrechtActionDisabledCursor : string;
 export const UtrechtActionSubmitCursor : string;
+export const UtrechtCustomCheckboxBackgroundColor : string;
+export const UtrechtCustomCheckboxBorderColor : string;
+export const UtrechtCustomCheckboxBorderRadius : string;
+export const UtrechtCustomCheckboxBorderWidth : string;
+export const UtrechtCustomCheckboxColor : string;
+export const UtrechtCustomCheckboxSize : string;
+export const UtrechtCustomCheckboxIconSize : string;
+export const UtrechtCustomCheckboxFocusBorderWidth : string;
+export const UtrechtCustomCheckboxDisabledBorderColor : string;
+export const UtrechtCustomCheckboxDisabledBorderWidth : string;
+export const UtrechtCustomCheckboxDisabledBackgroundColor : string;
+export const UtrechtCustomCheckboxCheckedBackgroundColor : string;
+export const UtrechtCustomCheckboxCheckedColor : string;
+export const UtrechtCustomCheckboxInvalidBorderColor : string;
+export const UtrechtCustomCheckboxInvalidBackgroundColor : string;
+export const UtrechtCustomCheckboxInvalidColor : string;
 export const UtrechtDocumentBackgroundColor : string;
 export const UtrechtDocumentColor : string;
 export const UtrechtDocumentFontFamily : string;
