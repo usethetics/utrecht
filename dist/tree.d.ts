@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 24 Sep 2021 11:13:45 GMT
+ * Generated on Sat, 25 Sep 2021 18:15:27 GMT
  */
 
 export default tokens;
@@ -126,6 +126,9 @@ declare const tokens: {
       "margin-block-end": DesignToken,
       "margin-inline-start": DesignToken,
       "margin-inline-end": DesignToken,
+      "min-inline-size": {
+        "css": {}
+      },
       "padding-block-start": DesignToken,
       "padding-block-end": DesignToken,
       "padding-inline-start": DesignToken,
@@ -394,6 +397,15 @@ declare const tokens: {
           "css": {}
         }
       },
+      "focus": {
+        "background-color": {
+          "css": {}
+        },
+        "border-color": DesignToken,
+        "border-width": {
+          "css": {}
+        }
+      },
       "invalid": {
         "background-color": {
           "css": {}
@@ -411,10 +423,7 @@ declare const tokens: {
           "css": {}
         }
       },
-      "block-size": DesignToken,
-      "focus": {
-        "border-color": DesignToken
-      }
+      "block-size": DesignToken
     },
     "label": {
       "color": {
@@ -827,6 +836,9 @@ declare const tokens: {
         "css": {}
       },
       "lead": {
+        "color": {
+          "css": {}
+        },
         "font-size": DesignToken,
         "font-weight": {
           "css": {}
@@ -907,6 +919,17 @@ declare const tokens: {
           "css": {}
         }
       },
+      "focus": {
+        "background-color": {
+          "css": {}
+        },
+        "border-color": {
+          "css": {}
+        },
+        "color": {
+          "css": {}
+        }
+      },
       "invalid": {
         "background-color": {
           "css": {}
@@ -926,7 +949,7 @@ declare const tokens: {
     },
     "separator": {
       "color": DesignToken,
-      "width": DesignToken,
+      "block-size": DesignToken,
       "margin-block-end": {
         "css": {}
       },
@@ -1120,6 +1143,9 @@ declare const tokens: {
       "max-inline-size": {
         "css": {}
       },
+      "min-block-size": {
+        "css": {}
+      },
       "padding-block-end": {
         "css": {}
       },
@@ -1145,6 +1171,17 @@ declare const tokens: {
           "css": {}
         },
         "color": {
+          "css": {}
+        }
+      },
+      "focus": {
+        "background-color": {
+          "css": {}
+        },
+        "border-color": {
+          "css": {}
+        },
+        "border-width": {
           "css": {}
         }
       },
@@ -1217,6 +1254,17 @@ declare const tokens: {
           "css": {}
         }
       },
+      "focus": {
+        "background-color": {
+          "css": {}
+        },
+        "border-color": {
+          "css": {}
+        },
+        "border-width": {
+          "css": {}
+        }
+      },
       "invalid": {
         "background-color": {
           "css": {}
@@ -1274,7 +1322,8 @@ declare const tokens: {
         "30": DesignToken,
         "40": DesignToken,
         "80": DesignToken,
-        "90": DesignToken
+        "90": DesignToken,
+        "95": DesignToken
       },
       "yellow": {
         "40": DesignToken,

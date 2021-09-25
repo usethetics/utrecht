@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 24 Sep 2021 11:13:45 GMT
+ * Generated on Sat, 25 Sep 2021 18:15:27 GMT
  */
 
 :root {
@@ -41,7 +41,8 @@
   --utrecht-color-yellow-60: hsl(48 100% 60%); /* selecteer geel */
   --utrecht-color-yellow-50: hsl(48 100% 50%); /* basis geel #ffcc00 */
   --utrecht-color-yellow-40: hsl(48 100% 40%); /* donker geel */
-  --utrecht-color-grey-90: hsl(0 0% 90%); /* grijs variant voor achtergrond templates #f2f2f2 */
+  --utrecht-color-grey-95: hsl(0 0% 95%); /* grijs variant voor achtergrond accordion #f2f2f2 */
+  --utrecht-color-grey-90: hsl(0 0% 90%); /* grijs variant voor achtergrond templates #e6e6e6 */
   --utrecht-color-grey-80: hsl(0 0% 80%); /* grijs variant voor achtergrond content #e5e5e5 */
   --utrecht-color-grey-40: hsl(0 0% 40%); /* basis grijs #727272 */
   --utrecht-color-grey-30: hsl(0 0% 30%); /* border grijs #888 */
@@ -51,7 +52,7 @@
   --utrecht-color-blue-50: hsl(211 60% 50%); /* experimenteel / beperkt gebruiken */
   --utrecht-color-blue-40: hsl(211 60% 40%); /* blauw variant bij hover/focus #3669a5 */
   --utrecht-color-blue-35: hsl(211 60% 35%); /* basis link en knoppen CTA donkerblauw */
-  --utrecht-color-blue-30: hsl(211 60% 30%); /* basis link en knoppen CTA donkerblauw */
+  --utrecht-color-blue-30: hsl(211 60% 30%); /* Deze kleur gebruiken we niet */
   --utrecht-color-blue-20: hsl(211 60% 20%); /* basis donkerblauw (OS focus) */
   --utrecht-color-red-40: hsl(0 100% 40%); /* basis rood #cc0000 */
   --utrecht-color-red-30: hsl(0 100% 30%); /* hover rood */
@@ -122,7 +123,7 @@
   --utrecht-space-block-xs: 8px; /* Extra Small */
   --utrecht-space-block-2xs: 4px; /* Extra Small 2 */
   --utrecht-space-block-3xs: 2px; /* Extra Small 3 */
-  --utrecht-separator-width: 8px;
+  --utrecht-separator-block-size: 8px;
   --utrecht-select-border-block-end-width: 3px;
   --utrecht-pre-heading-text-transform: uppercase;
   --utrecht-paragraph-line-height: 1.4;

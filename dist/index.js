@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 24 Sep 2021 11:13:45 GMT
+ * Generated on Sat, 25 Sep 2021 18:15:26 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -149,9 +149,9 @@ export const utrechtFormInputPaddingBlockStart = "8px";
 export const utrechtFormInputPaddingInlineEnd = "12px";
 export const utrechtFormInputPaddingInlineStart = "12px";
 export const utrechtFormInputPlaceholderColor = "hsl(0 0% 40%)";
+export const utrechtFormInputFocusBorderColor = "hsl(0 0% 80%)";
 export const utrechtFormInputInvalidBorderColor = "hsl(0 100% 40%)";
 export const utrechtFormInputBlockSize = "42px";
-export const utrechtFormInputFocusBorderColor = "hsl(0 0% 80%)";
 export const utrechtFormLabelCheckboxFontWeight = "normal";
 export const utrechtFormLabelRadioFontWeight = "normal";
 export const utrechtFormLabelFontSize = "1em";
@@ -315,7 +315,7 @@ export const utrechtPreHeadingMarginBlockStart = "32px";
 export const utrechtPreHeadingTextTransform = "uppercase";
 export const utrechtSelectBorderBlockEndWidth = "3px";
 export const utrechtSeparatorColor = "hsl(0 0% 90%)";
-export const utrechtSeparatorWidth = "8px";
+export const utrechtSeparatorBlockSize = "8px";
 export const utrechtSpaceBlock3xs = "2px"; // Extra Small 3
 export const utrechtSpaceBlock2xs = "4px"; // Extra Small 2
 export const utrechtSpaceBlockXs = "8px"; // Extra Small
@@ -393,7 +393,7 @@ export const utrechtColorRed20 = "hsl(0 100% 20%)"; // donker rood
 export const utrechtColorRed30 = "hsl(0 100% 30%)"; // hover rood
 export const utrechtColorRed40 = "hsl(0 100% 40%)"; // basis rood #cc0000
 export const utrechtColorBlue20 = "hsl(211 60% 20%)"; // basis donkerblauw (OS focus)
-export const utrechtColorBlue30 = "hsl(211 60% 30%)"; // basis link en knoppen CTA donkerblauw
+export const utrechtColorBlue30 = "hsl(211 60% 30%)"; // Deze kleur gebruiken we niet
 export const utrechtColorBlue35 = "hsl(211 60% 35%)"; // basis link en knoppen CTA donkerblauw
 export const utrechtColorBlue40 = "hsl(211 60% 40%)"; // blauw variant bij hover/focus #3669a5
 export const utrechtColorBlue50 = "hsl(211 60% 50%)"; // experimenteel / beperkt gebruiken
@@ -403,7 +403,8 @@ export const utrechtColorGrey15 = "hsl(0 0% 15%)"; // experimenteel / beperkt ge
 export const utrechtColorGrey30 = "hsl(0 0% 30%)"; // border grijs #888
 export const utrechtColorGrey40 = "hsl(0 0% 40%)"; // basis grijs #727272
 export const utrechtColorGrey80 = "hsl(0 0% 80%)"; // grijs variant voor achtergrond content #e5e5e5
-export const utrechtColorGrey90 = "hsl(0 0% 90%)"; // grijs variant voor achtergrond templates #f2f2f2
+export const utrechtColorGrey90 = "hsl(0 0% 90%)"; // grijs variant voor achtergrond templates #e6e6e6
+export const utrechtColorGrey95 = "hsl(0 0% 95%)"; // grijs variant voor achtergrond accordion #f2f2f2
 export const utrechtColorYellow40 = "hsl(48 100% 40%)"; // donker geel
 export const utrechtColorYellow50 = "hsl(48 100% 50%)"; // basis geel #ffcc00
 export const utrechtColorYellow60 = "hsl(48 100% 60%)"; // selecteer geel

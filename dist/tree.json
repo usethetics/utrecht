@@ -1119,6 +1119,12 @@
           "margin-inline-end"
         ]
       },
+      "min-inline-size": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        }
+      },
       "padding-block-start": {
         "css": {
           "syntax": "<length>",
@@ -4371,6 +4377,49 @@
           }
         }
       },
+      "focus": {
+        "background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "border-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "hsl(0 0% 80%)",
+          "filePath": "./src/component/utrecht/form-input/modifier.tokens.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<color>",
+              "inherits": true
+            },
+            "value": "{utrecht.color.grey.80.value}"
+          },
+          "name": "utrechtFormInputFocusBorderColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "form-input",
+            "item": "focus",
+            "subitem": "border-color"
+          },
+          "path": [
+            "utrecht",
+            "form-input",
+            "focus",
+            "border-color"
+          ]
+        },
+        "border-width": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          }
+        }
+      },
       "invalid": {
         "background-color": {
           "css": {
@@ -4446,29 +4495,6 @@
           "form-input",
           "block-size"
         ]
-      },
-      "focus": {
-        "border-color": {
-          "value": "hsl(0 0% 80%)",
-          "filePath": "./src/component/utrecht/form-input/modifier.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "{utrecht.color.grey.80.value}"
-          },
-          "name": "utrechtFormInputFocusBorderColor",
-          "attributes": {
-            "category": "utrecht",
-            "type": "form-input",
-            "item": "focus",
-            "subitem": "border-color"
-          },
-          "path": [
-            "utrecht",
-            "form-input",
-            "focus",
-            "border-color"
-          ]
-        }
       }
     },
     "label": {
@@ -8967,6 +8993,12 @@
         }
       },
       "lead": {
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
         "font-size": {
           "css": {
             "syntax": "<length>",
@@ -9214,6 +9246,26 @@
           }
         }
       },
+      "focus": {
+        "background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "border-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        }
+      },
       "invalid": {
         "background-color": {
           "css": {
@@ -9286,7 +9338,7 @@
           "color"
         ]
       },
-      "width": {
+      "block-size": {
         "css": {
           "syntax": "<length>",
           "inherits": true
@@ -9301,16 +9353,16 @@
           },
           "value": "8px"
         },
-        "name": "utrechtSeparatorWidth",
+        "name": "utrechtSeparatorBlockSize",
         "attributes": {
           "category": "utrecht",
           "type": "separator",
-          "item": "width"
+          "item": "block-size"
         },
         "path": [
           "utrecht",
           "separator",
-          "width"
+          "block-size"
         ]
       },
       "margin-block-end": {
@@ -11582,6 +11634,12 @@
           "inherits": true
         }
       },
+      "min-block-size": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        }
+      },
       "padding-block-end": {
         "css": {
           "syntax": "<length>",
@@ -11630,6 +11688,26 @@
         "color": {
           "css": {
             "syntax": "<color>",
+            "inherits": true
+          }
+        }
+      },
+      "focus": {
+        "background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "border-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "border-width": {
+          "css": {
+            "syntax": "<length>",
             "inherits": true
           }
         }
@@ -11785,6 +11863,26 @@
         "color": {
           "css": {
             "syntax": "<color>",
+            "inherits": true
+          }
+        }
+      },
+      "focus": {
+        "background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "border-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
+        },
+        "border-width": {
+          "css": {
+            "syntax": "<length>",
             "inherits": true
           }
         }
@@ -12081,12 +12179,12 @@
         },
         "30": {
           "value": "hsl(211 60% 30%)",
-          "comment": "basis link en knoppen CTA donkerblauw",
+          "comment": "Deze kleur gebruiken we niet",
           "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(211 60% 30%)",
-            "comment": "basis link en knoppen CTA donkerblauw"
+            "comment": "Deze kleur gebruiken we niet"
           },
           "name": "utrechtColorBlue30",
           "attributes": {
@@ -12313,12 +12411,12 @@
         },
         "90": {
           "value": "hsl(0 0% 90%)",
-          "comment": "grijs variant voor achtergrond templates #f2f2f2",
+          "comment": "grijs variant voor achtergrond templates #e6e6e6",
           "filePath": "./src/brand/utrecht/color.tokens.json",
           "isSource": true,
           "original": {
             "value": "hsl(0 0% 90%)",
-            "comment": "grijs variant voor achtergrond templates #f2f2f2"
+            "comment": "grijs variant voor achtergrond templates #e6e6e6"
           },
           "name": "utrechtColorGrey90",
           "attributes": {
@@ -12332,6 +12430,29 @@
             "color",
             "grey",
             "90"
+          ]
+        },
+        "95": {
+          "value": "hsl(0 0% 95%)",
+          "comment": "grijs variant voor achtergrond accordion #f2f2f2",
+          "filePath": "./src/brand/utrecht/color.tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "hsl(0 0% 95%)",
+            "comment": "grijs variant voor achtergrond accordion #f2f2f2"
+          },
+          "name": "utrechtColorGrey95",
+          "attributes": {
+            "category": "utrecht",
+            "type": "color",
+            "item": "grey",
+            "subitem": "95"
+          },
+          "path": [
+            "utrecht",
+            "color",
+            "grey",
+            "95"
           ]
         }
       },

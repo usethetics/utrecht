@@ -114,6 +114,7 @@
 @property --utrecht-form-input-border-radius { syntax: '<length-percentage>'; inherits: true; }
 @property --utrecht-form-input-border-width { syntax: '<length>'; inherits: true; }
 @property --utrecht-form-input-color { syntax: '<color>'; inherits: true; }
+@property --utrecht-form-input-focus-border-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-form-input-font-size { syntax: '<length>'; inherits: true; }
 @property --utrecht-form-input-invalid-border-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-form-input-max-inline-size { syntax: '<length>'; inherits: true; }
@@ -241,8 +242,8 @@
 @property --utrecht-paragraph-margin-block-start { syntax: '<length>'; inherits: true; }
 @property --utrecht-pre-heading-font-size { syntax: '<length>'; inherits: true; }
 @property --utrecht-pre-heading-margin-block-start { syntax: '<length>'; inherits: true; }
+@property --utrecht-separator-block-size { syntax: '<length>'; inherits: true; }
 @property --utrecht-separator-color { syntax: '<color>'; inherits: true; }
-@property --utrecht-separator-width { syntax: '<length>'; inherits: true; }
 @property --utrecht-space-block-2xl { syntax: '<length>'; inherits: true; }
 @property --utrecht-space-block-2xs { syntax: '<length>'; inherits: true; }
 @property --utrecht-space-block-3xl { syntax: '<length>'; inherits: true; }

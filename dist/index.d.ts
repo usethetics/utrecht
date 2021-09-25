@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 24 Sep 2021 11:13:45 GMT
+ * Generated on Sat, 25 Sep 2021 18:15:27 GMT
  */
 
 export const UtrechtArticleMaxInlineSize : string;
@@ -149,9 +149,9 @@ export const UtrechtFormInputPaddingBlockStart : string;
 export const UtrechtFormInputPaddingInlineEnd : string;
 export const UtrechtFormInputPaddingInlineStart : string;
 export const UtrechtFormInputPlaceholderColor : string;
+export const UtrechtFormInputFocusBorderColor : string;
 export const UtrechtFormInputInvalidBorderColor : string;
 export const UtrechtFormInputBlockSize : string;
-export const UtrechtFormInputFocusBorderColor : string;
 export const UtrechtFormLabelCheckboxFontWeight : string;
 export const UtrechtFormLabelRadioFontWeight : string;
 export const UtrechtFormLabelFontSize : string;
@@ -315,7 +315,7 @@ export const UtrechtPreHeadingMarginBlockStart : string;
 export const UtrechtPreHeadingTextTransform : string;
 export const UtrechtSelectBorderBlockEndWidth : string;
 export const UtrechtSeparatorColor : string;
-export const UtrechtSeparatorWidth : string;
+export const UtrechtSeparatorBlockSize : string;
 export const UtrechtSpaceBlock3xs : string; // Extra Small 3
 export const UtrechtSpaceBlock2xs : string; // Extra Small 2
 export const UtrechtSpaceBlockXs : string; // Extra Small
@@ -393,7 +393,7 @@ export const UtrechtColorRed20 : string; // donker rood
 export const UtrechtColorRed30 : string; // hover rood
 export const UtrechtColorRed40 : string; // basis rood #cc0000
 export const UtrechtColorBlue20 : string; // basis donkerblauw (OS focus)
-export const UtrechtColorBlue30 : string; // basis link en knoppen CTA donkerblauw
+export const UtrechtColorBlue30 : string; // Deze kleur gebruiken we niet
 export const UtrechtColorBlue35 : string; // basis link en knoppen CTA donkerblauw
 export const UtrechtColorBlue40 : string; // blauw variant bij hover/focus #3669a5
 export const UtrechtColorBlue50 : string; // experimenteel / beperkt gebruiken
@@ -403,7 +403,8 @@ export const UtrechtColorGrey15 : string; // experimenteel / beperkt gebruiken
 export const UtrechtColorGrey30 : string; // border grijs #888
 export const UtrechtColorGrey40 : string; // basis grijs #727272
 export const UtrechtColorGrey80 : string; // grijs variant voor achtergrond content #e5e5e5
-export const UtrechtColorGrey90 : string; // grijs variant voor achtergrond templates #f2f2f2
+export const UtrechtColorGrey90 : string; // grijs variant voor achtergrond templates #e6e6e6
+export const UtrechtColorGrey95 : string; // grijs variant voor achtergrond accordion #f2f2f2
 export const UtrechtColorYellow40 : string; // donker geel
 export const UtrechtColorYellow50 : string; // basis geel #ffcc00
 export const UtrechtColorYellow60 : string; // selecteer geel
