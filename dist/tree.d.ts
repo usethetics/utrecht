@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 26 Sep 2021 15:03:34 GMT
+ * Generated on Sun, 26 Sep 2021 15:03:41 GMT
  */
 
 export default tokens;
@@ -405,7 +405,16 @@ declare const tokens: {
       "outline-width": DesignToken
     },
     "form-field-description": {
+      "color": {
+        "css": {}
+      },
       "font-family": {
+        "css": {}
+      },
+      "font-size": {
+        "css": {}
+      },
+      "font-style": {
         "css": {}
       },
       "margin-block-start": {

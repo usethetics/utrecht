@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 26 Sep 2021 15:03:33 GMT
+ * Generated on Sun, 26 Sep 2021 15:03:41 GMT
  */
 
 module.exports = {
@@ -4220,9 +4220,27 @@ module.exports = {
       }
     },
     "form-field-description": {
+      "color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        }
+      },
       "font-family": {
         "css": {
           "syntax": "*",
+          "inherits": true
+        }
+      },
+      "font-size": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        }
+      },
+      "font-style": {
+        "css": {
+          "syntax": "italic",
           "inherits": true
         }
       },
