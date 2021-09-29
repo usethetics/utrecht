@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 26 Sep 2021 15:03:41 GMT
+ * Generated on Wed, 29 Sep 2021 12:38:25 GMT
  */
 
 export const UtrechtArticleMaxInlineSize : string;
@@ -436,10 +436,11 @@ export const UtrechtTypographyScale2xsFontSize : string; // 8px
 export const UtrechtTypographyScaleXsFontSize : string; // 11,2px
 export const UtrechtTypographyScaleSmFontSize : string; // 14,4px
 export const UtrechtTypographyScaleMdFontSize : string; // 16px
-export const UtrechtTypographyScaleLgFontSize : string; // 20px
-export const UtrechtTypographyScaleXlFontSize : string; // 22,4px
-export const UtrechtTypographyScale2xlFontSize : string; // 24px
-export const UtrechtTypographyScale3xlFontSize : string; // 36px
+export const UtrechtTypographyScaleLgFontSize : string; // 18px
+export const UtrechtTypographyScaleXlFontSize : string; // 20px
+export const UtrechtTypographyScale2xlFontSize : string; // 22px
+export const UtrechtTypographyScale3xlFontSize : string; // 24px
+export const UtrechtTypographyScale4xlFontSize : string; // 36px
 export const UtrechtTypographyWeightScaleBoldFontWeight : string;
 export const UtrechtTypographyWeightScaleNormalFontWeight : string;
 export const UtrechtBorderWidthSm : string;

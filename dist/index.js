@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 26 Sep 2021 15:03:41 GMT
+ * Generated on Wed, 29 Sep 2021 12:38:24 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -325,7 +325,7 @@ export const utrechtParagraphFontSize = "1rem";
 export const utrechtParagraphFontWeight = "normal";
 export const utrechtParagraphLineHeight = "1.4";
 export const utrechtParagraphMarginBlockStart = "16px";
-export const utrechtParagraphLeadFontSize = "1.25rem";
+export const utrechtParagraphLeadFontSize = "1.125rem";
 export const utrechtPreHeadingFontSize = "1rem";
 export const utrechtPreHeadingMarginBlockStart = "32px";
 export const utrechtPreHeadingTextTransform = "uppercase";
@@ -436,10 +436,11 @@ export const utrechtTypographyScale2xsFontSize = "0.5rem"; // 8px
 export const utrechtTypographyScaleXsFontSize = "0.7rem"; // 11,2px
 export const utrechtTypographyScaleSmFontSize = "0.9rem"; // 14,4px
 export const utrechtTypographyScaleMdFontSize = "1rem"; // 16px
-export const utrechtTypographyScaleLgFontSize = "1.25rem"; // 20px
-export const utrechtTypographyScaleXlFontSize = "1.4rem"; // 22,4px
-export const utrechtTypographyScale2xlFontSize = "1.5rem"; // 24px
-export const utrechtTypographyScale3xlFontSize = "2rem"; // 36px
+export const utrechtTypographyScaleLgFontSize = "1.125rem"; // 18px
+export const utrechtTypographyScaleXlFontSize = "1.25rem"; // 20px
+export const utrechtTypographyScale2xlFontSize = "1.375rem"; // 22px
+export const utrechtTypographyScale3xlFontSize = "1.5rem"; // 24px
+export const utrechtTypographyScale4xlFontSize = "2rem"; // 36px
 export const utrechtTypographyWeightScaleBoldFontWeight = "bold";
 export const utrechtTypographyWeightScaleNormalFontWeight = "normal";
 export const utrechtBorderWidthSm = "1px";

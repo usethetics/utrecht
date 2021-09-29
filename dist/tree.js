@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 26 Sep 2021 15:03:41 GMT
+ * Generated on Wed, 29 Sep 2021 12:38:24 GMT
  */
 
 module.exports = {
@@ -9582,7 +9582,7 @@ module.exports = {
             "syntax": "<length>",
             "inherits": true
           },
-          "value": "1.25rem",
+          "value": "1.125rem",
           "filePath": "./src/component/utrecht/paragraph/modifier.tokens.json",
           "isSource": true,
           "original": {
@@ -13396,13 +13396,13 @@ module.exports = {
         },
         "lg": {
           "font-size": {
-            "value": "1.25rem",
-            "comment": "20px",
+            "value": "1.125rem",
+            "comment": "18px",
             "filePath": "./src/brand/utrecht/typography.tokens.json",
             "isSource": true,
             "original": {
-              "value": "1.25rem",
-              "comment": "20px"
+              "value": "1.125rem",
+              "comment": "18px"
             },
             "name": "utrechtTypographyScaleLgFontSize",
             "attributes": {
@@ -13423,13 +13423,13 @@ module.exports = {
         },
         "xl": {
           "font-size": {
-            "value": "1.4rem",
-            "comment": "22,4px",
+            "value": "1.25rem",
+            "comment": "20px",
             "filePath": "./src/brand/utrecht/typography.tokens.json",
             "isSource": true,
             "original": {
-              "value": "1.4rem",
-              "comment": "22,4px"
+              "value": "1.25rem",
+              "comment": "20px"
             },
             "name": "utrechtTypographyScaleXlFontSize",
             "attributes": {
@@ -13450,13 +13450,13 @@ module.exports = {
         },
         "2xl": {
           "font-size": {
-            "value": "1.5rem",
-            "comment": "24px",
+            "value": "1.375rem",
+            "comment": "22px",
             "filePath": "./src/brand/utrecht/typography.tokens.json",
             "isSource": true,
             "original": {
-              "value": "1.5rem",
-              "comment": "24px"
+              "value": "1.375rem",
+              "comment": "22px"
             },
             "name": "utrechtTypographyScale2xlFontSize",
             "attributes": {
@@ -13477,13 +13477,13 @@ module.exports = {
         },
         "3xl": {
           "font-size": {
-            "value": "2rem",
-            "comment": "36px",
+            "value": "1.5rem",
+            "comment": "24px",
             "filePath": "./src/brand/utrecht/typography.tokens.json",
             "isSource": true,
             "original": {
-              "value": "2rem",
-              "comment": "36px"
+              "value": "1.5rem",
+              "comment": "24px"
             },
             "name": "utrechtTypographyScale3xlFontSize",
             "attributes": {
@@ -13498,6 +13498,33 @@ module.exports = {
               "typography",
               "scale",
               "3xl",
+              "font-size"
+            ]
+          }
+        },
+        "4xl": {
+          "font-size": {
+            "value": "2rem",
+            "comment": "36px",
+            "filePath": "./src/brand/utrecht/typography.tokens.json",
+            "isSource": true,
+            "original": {
+              "value": "2rem",
+              "comment": "36px"
+            },
+            "name": "utrechtTypographyScale4xlFontSize",
+            "attributes": {
+              "category": "utrecht",
+              "type": "typography",
+              "item": "scale",
+              "subitem": "4xl",
+              "state": "font-size"
+            },
+            "path": [
+              "utrecht",
+              "typography",
+              "scale",
+              "4xl",
               "font-size"
             ]
           }

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 26 Sep 2021 15:03:41 GMT
+ * Generated on Wed, 29 Sep 2021 12:38:25 GMT
  */
 
 export default tokens;
@@ -1456,6 +1456,9 @@ declare const tokens: {
           "font-size": DesignToken
         },
         "3xl": {
+          "font-size": DesignToken
+        },
+        "4xl": {
           "font-size": DesignToken
         }
       },
