@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 29 Sep 2021 21:45:18 GMT
+ * Generated on Mon, 04 Oct 2021 16:07:36 GMT
  */
 
 module.exports = {
@@ -2541,6 +2541,12 @@ module.exports = {
           "font-size"
         ]
       },
+      "font-weight": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        }
+      },
       "line-height": {
         "css": {
           "syntax": "<length>",
@@ -4333,6 +4339,12 @@ module.exports = {
           "form-field",
           "margin-block-end"
         ]
+      },
+      "max-inline-size": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        }
       }
     },
     "form-fieldset": {

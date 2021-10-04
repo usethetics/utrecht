@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 29 Sep 2021 21:45:19 GMT
+ * Generated on Mon, 04 Oct 2021 16:07:37 GMT
  */
 
 export default tokens;
@@ -293,6 +293,9 @@ declare const tokens: {
       "color": DesignToken,
       "font-family": DesignToken,
       "font-size": DesignToken,
+      "font-weight": {
+        "css": {}
+      },
       "line-height": DesignToken
     },
     "emphasis": {
@@ -439,7 +442,10 @@ declare const tokens: {
     },
     "form-field": {
       "margin-block-start": DesignToken,
-      "margin-block-end": DesignToken
+      "margin-block-end": DesignToken,
+      "max-inline-size": {
+        "css": {}
+      }
     },
     "form-fieldset": {
       "margin-block-end": DesignToken,
