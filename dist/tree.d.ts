@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 05 Oct 2021 10:35:33 GMT
+ * Generated on Thu, 07 Oct 2021 11:46:55 GMT
  */
 
 export default tokens;
@@ -244,16 +244,14 @@ declare const tokens: {
       },
       "disabled": {
         "border-color": DesignToken,
-        "border-width": DesignToken,
-        "background-color": DesignToken,
-        "color": {
-          "css": {}
-        }
-      },
-      "checked": {
-        "border-color": {
+        "border-width": {
           "css": {}
         },
+        "background-color": DesignToken,
+        "color": DesignToken
+      },
+      "checked": {
+        "border-color": DesignToken,
         "border-width": {
           "css": {}
         },
@@ -1432,6 +1430,7 @@ declare const tokens: {
         "80": DesignToken,
         "90": DesignToken
       },
+      "invalid": DesignToken,
       "white": DesignToken,
       "black": DesignToken
     },

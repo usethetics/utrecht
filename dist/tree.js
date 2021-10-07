@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 05 Oct 2021 10:35:33 GMT
+ * Generated on Thu, 07 Oct 2021 11:46:54 GMT
  */
 
 module.exports = {
@@ -1935,7 +1935,7 @@ module.exports = {
           "syntax": "<length>",
           "inherits": true
         },
-        "value": "2px",
+        "value": "0",
         "filePath": "./src/component/utrecht/custom-checkbox/block.tokens.json",
         "isSource": true,
         "original": {
@@ -1943,7 +1943,7 @@ module.exports = {
             "syntax": "<length>",
             "inherits": true
           },
-          "value": "2px"
+          "value": "0"
         },
         "name": "utrechtCustomCheckboxBorderRadius",
         "attributes": {
@@ -1962,7 +1962,7 @@ module.exports = {
           "syntax": "<length>",
           "inherits": true
         },
-        "value": "2px",
+        "value": "1px",
         "filePath": "./src/component/utrecht/custom-checkbox/block.tokens.json",
         "isSource": true,
         "original": {
@@ -1970,7 +1970,7 @@ module.exports = {
             "syntax": "<length>",
             "inherits": true
           },
-          "value": "2px"
+          "value": "1px"
         },
         "name": "utrechtCustomCheckboxBorderWidth",
         "attributes": {
@@ -2150,7 +2150,7 @@ module.exports = {
             "syntax": "<color>",
             "inherits": true
           },
-          "value": "hsl(0 0% 30%)",
+          "value": "hsl(0 0% 80%)",
           "filePath": "./src/component/utrecht/custom-checkbox/modifier.tokens.json",
           "isSource": true,
           "original": {
@@ -2158,7 +2158,7 @@ module.exports = {
               "syntax": "<color>",
               "inherits": true
             },
-            "value": "{utrecht.color.grey.30.value}"
+            "value": "{utrecht.color.grey.80.value}"
           },
           "name": "utrechtCustomCheckboxDisabledBorderColor",
           "attributes": {
@@ -2178,30 +2178,7 @@ module.exports = {
           "css": {
             "syntax": "<length>",
             "inherits": true
-          },
-          "value": "hsl(0 0% 40%)",
-          "filePath": "./src/component/utrecht/custom-checkbox/modifier.tokens.json",
-          "isSource": true,
-          "original": {
-            "css": {
-              "syntax": "<length>",
-              "inherits": true
-            },
-            "value": "{utrecht.color.grey.40.value}"
-          },
-          "name": "utrechtCustomCheckboxDisabledBorderWidth",
-          "attributes": {
-            "category": "utrecht",
-            "type": "custom-checkbox",
-            "item": "disabled",
-            "subitem": "border-width"
-          },
-          "path": [
-            "utrecht",
-            "custom-checkbox",
-            "disabled",
-            "border-width"
-          ]
+          }
         },
         "background-color": {
           "css": {
@@ -2236,7 +2213,30 @@ module.exports = {
           "css": {
             "syntax": "<color>",
             "inherits": true
-          }
+          },
+          "value": "hsl(0 0% 80%)",
+          "filePath": "./src/component/utrecht/custom-checkbox/modifier.tokens.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<color>",
+              "inherits": true
+            },
+            "value": "{utrecht.color.grey.80.value}"
+          },
+          "name": "utrechtCustomCheckboxDisabledColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "custom-checkbox",
+            "item": "disabled",
+            "subitem": "color"
+          },
+          "path": [
+            "utrecht",
+            "custom-checkbox",
+            "disabled",
+            "color"
+          ]
         }
       },
       "checked": {
@@ -2244,7 +2244,30 @@ module.exports = {
           "css": {
             "syntax": "<color>",
             "inherits": true
-          }
+          },
+          "value": "hsl(211 60% 40%)",
+          "filePath": "./src/component/utrecht/custom-checkbox/modifier.tokens.json",
+          "isSource": true,
+          "original": {
+            "css": {
+              "syntax": "<color>",
+              "inherits": true
+            },
+            "value": "{utrecht.color.blue.40.value}"
+          },
+          "name": "utrechtCustomCheckboxCheckedBorderColor",
+          "attributes": {
+            "category": "utrecht",
+            "type": "custom-checkbox",
+            "item": "checked",
+            "subitem": "border-color"
+          },
+          "path": [
+            "utrecht",
+            "custom-checkbox",
+            "checked",
+            "border-color"
+          ]
         },
         "border-width": {
           "css": {
@@ -2329,7 +2352,7 @@ module.exports = {
             "syntax": "<color>",
             "inherits": true
           },
-          "value": "hsl(0 100% 40%)",
+          "value": "#990000",
           "filePath": "./src/component/utrecht/custom-checkbox/modifier.tokens.json",
           "isSource": true,
           "original": {
@@ -2364,7 +2387,7 @@ module.exports = {
             "syntax": "<color>",
             "inherits": true
           },
-          "value": "hsl(0 100% 40%)",
+          "value": "#990000",
           "filePath": "./src/component/utrecht/custom-checkbox/modifier.tokens.json",
           "isSource": true,
           "original": {
@@ -2372,7 +2395,7 @@ module.exports = {
               "syntax": "<color>",
               "inherits": true
             },
-            "value": "{utrecht.color.red.40.value}"
+            "value": "{utrecht.feedback.invalid.background-color.value}"
           },
           "name": "utrechtCustomCheckboxInvalidBackgroundColor",
           "attributes": {
@@ -3082,7 +3105,7 @@ module.exports = {
             "syntax": "<color>",
             "inherits": true
           },
-          "value": "hsl(0 100% 40%)",
+          "value": "#990000",
           "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
@@ -3090,7 +3113,7 @@ module.exports = {
               "syntax": "<color>",
               "inherits": true
             },
-            "value": "{utrecht.feedback.danger.background-color.value}"
+            "value": "{utrecht.color.invalid.value}"
           },
           "name": "utrechtFeedbackInvalidBackgroundColor",
           "attributes": {
@@ -3111,7 +3134,7 @@ module.exports = {
             "syntax": "<color>",
             "inherits": true
           },
-          "value": "hsl(0 100% 40%)",
+          "value": "#990000",
           "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
@@ -3119,7 +3142,7 @@ module.exports = {
               "syntax": "<color>",
               "inherits": true
             },
-            "value": "{utrecht.feedback.danger.border-color.value}"
+            "value": "{utrecht.color.invalid.value}"
           },
           "name": "utrechtFeedbackInvalidBorderColor",
           "attributes": {
@@ -3140,7 +3163,7 @@ module.exports = {
             "syntax": "<color>",
             "inherits": true
           },
-          "value": "hsl(0 100% 40%)",
+          "value": "#990000",
           "filePath": "./src/common/utrecht/feedback.tokens.json",
           "isSource": true,
           "original": {
@@ -3148,7 +3171,7 @@ module.exports = {
               "syntax": "<color>",
               "inherits": true
             },
-            "value": "{utrecht.feedback.danger.color.value}"
+            "value": "{utrecht.color.invalid.value}"
           },
           "name": "utrechtFeedbackInvalidColor",
           "attributes": {
@@ -3170,7 +3193,7 @@ module.exports = {
               "syntax": "<color>",
               "inherits": true
             },
-            "value": "hsl(0 100% 40%)",
+            "value": "#990000",
             "filePath": "./src/common/utrecht/feedback-variant.tokens.json",
             "isSource": true,
             "original": {
@@ -5022,7 +5045,7 @@ module.exports = {
             "syntax": "<color>",
             "inherits": true
           },
-          "value": "hsl(0 100% 40%)",
+          "value": "#990000",
           "filePath": "./src/component/utrecht/form-input/modifier.tokens.json",
           "isSource": true,
           "original": {
@@ -13234,6 +13257,25 @@ module.exports = {
           ]
         }
       },
+      "invalid": {
+        "value": "#990000",
+        "filePath": "./src/brand/utrecht/color.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#990000"
+        },
+        "name": "utrechtColorInvalid",
+        "attributes": {
+          "category": "utrecht",
+          "type": "color",
+          "item": "invalid"
+        },
+        "path": [
+          "utrecht",
+          "color",
+          "invalid"
+        ]
+      },
       "white": {
         "value": "hsl(0 0% 100%)",
         "filePath": "./src/brand/utrecht/color.tokens.json",
@@ -14553,7 +14595,7 @@ module.exports = {
       },
       "invalid": {
         "border-color": {
-          "value": "hsl(0 100% 40%)",
+          "value": "#990000",
           "filePath": "./src/component/utrecht/search-bar/modifier.tokens.json",
           "isSource": true,
           "original": {

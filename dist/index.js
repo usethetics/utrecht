@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 05 Oct 2021 10:35:33 GMT
+ * Generated on Thu, 07 Oct 2021 11:46:54 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -69,19 +69,20 @@ export const utrechtActionDisabledCursor = "not-allowed";
 export const utrechtActionSubmitCursor = "pointer";
 export const utrechtCustomCheckboxBackgroundColor = "hsl(0 0% 100%)";
 export const utrechtCustomCheckboxBorderColor = "hsl(0 0% 30%)";
-export const utrechtCustomCheckboxBorderRadius = "2px";
-export const utrechtCustomCheckboxBorderWidth = "2px";
+export const utrechtCustomCheckboxBorderRadius = "0";
+export const utrechtCustomCheckboxBorderWidth = "1px";
 export const utrechtCustomCheckboxColor = "hsl(0 0% 0%)";
 export const utrechtCustomCheckboxSize = "24px";
 export const utrechtCustomCheckboxIconSize = "16px";
 export const utrechtCustomCheckboxFocusBorderWidth = "3px";
-export const utrechtCustomCheckboxDisabledBorderColor = "hsl(0 0% 30%)";
-export const utrechtCustomCheckboxDisabledBorderWidth = "hsl(0 0% 40%)";
+export const utrechtCustomCheckboxDisabledBorderColor = "hsl(0 0% 80%)";
 export const utrechtCustomCheckboxDisabledBackgroundColor = "hsl(0 0% 100%)";
+export const utrechtCustomCheckboxDisabledColor = "hsl(0 0% 80%)";
+export const utrechtCustomCheckboxCheckedBorderColor = "hsl(211 60% 40%)";
 export const utrechtCustomCheckboxCheckedBackgroundColor = "hsl(211 60% 40%)";
 export const utrechtCustomCheckboxCheckedColor = "hsl(0 0% 100%)";
-export const utrechtCustomCheckboxInvalidBorderColor = "hsl(0 100% 40%)";
-export const utrechtCustomCheckboxInvalidBackgroundColor = "hsl(0 100% 40%)";
+export const utrechtCustomCheckboxInvalidBorderColor = "#990000";
+export const utrechtCustomCheckboxInvalidBackgroundColor = "#990000";
 export const utrechtCustomCheckboxInvalidColor = "hsl(0 0% 100%)";
 export const utrechtDocumentBackgroundColor = "hsl(0 0% 100%)";
 export const utrechtDocumentColor = "hsl(0 0% 0%)";
@@ -104,10 +105,10 @@ export const utrechtFeedbackSafeBorderColor = "hsl(90 30% 50%)";
 export const utrechtFeedbackSafeColor = "hsl(90 30% 50%)";
 export const utrechtFeedbackSafeFillBackgroundColor = "hsl(90 30% 50%)";
 export const utrechtFeedbackSafeFillColor = "hsl(0 0% 100%)";
-export const utrechtFeedbackInvalidBackgroundColor = "hsl(0 100% 40%)";
-export const utrechtFeedbackInvalidBorderColor = "hsl(0 100% 40%)";
-export const utrechtFeedbackInvalidColor = "hsl(0 100% 40%)";
-export const utrechtFeedbackInvalidFillBackgroundColor = "hsl(0 100% 40%)";
+export const utrechtFeedbackInvalidBackgroundColor = "#990000";
+export const utrechtFeedbackInvalidBorderColor = "#990000";
+export const utrechtFeedbackInvalidColor = "#990000";
+export const utrechtFeedbackInvalidFillBackgroundColor = "#990000";
 export const utrechtFeedbackInvalidFillColor = "hsl(0 0% 100%)";
 export const utrechtFeedbackValidBackgroundColor = "hsl(90 30% 50%)";
 export const utrechtFeedbackValidBorderColor = "hsl(90 30% 50%)";
@@ -166,7 +167,7 @@ export const utrechtFormInputPaddingInlineEnd = "12px";
 export const utrechtFormInputPaddingInlineStart = "12px";
 export const utrechtFormInputPlaceholderColor = "hsl(0 0% 40%)";
 export const utrechtFormInputFocusBorderColor = "hsl(0 0% 80%)";
-export const utrechtFormInputInvalidBorderColor = "hsl(0 100% 40%)";
+export const utrechtFormInputInvalidBorderColor = "#990000";
 export const utrechtFormInputBlockSize = "42px";
 export const utrechtFormLabelCheckboxFontWeight = "normal";
 export const utrechtFormLabelRadioFontWeight = "normal";
@@ -429,6 +430,7 @@ export const utrechtColorGreen40 = "hsl(90 30% 40%)"; // donker groen
 export const utrechtColorGreen50 = "hsl(90 30% 50%)"; // Standaard groen #80a659 
 export const utrechtColorGreen80 = "hsl(90 30% 80%)"; // Licht groen
 export const utrechtColorGreen90 = "hsl(90 30% 90%)"; // Achtergrond licht groen
+export const utrechtColorInvalid = "#990000";
 export const utrechtColorWhite = "hsl(0 0% 100%)";
 export const utrechtColorBlack = "hsl(0 0% 0%)";
 export const utrechtTypographySansSerifFontFamily = "\"Lucida Grande\", \"Lucida Sans Unicode\", \"Lucida Sans\", Verdana, sans-serif";
@@ -486,6 +488,6 @@ export const utrechtSearchBarButtonFontSize = "0.9rem";
 export const utrechtSearchBarButtonFontWeight = "bold";
 export const utrechtSearchBarButtonLetterSpacing = ".05em";
 export const utrechtSearchBarButtonTextTransform = "uppercase";
-export const utrechtSearchbarInvalidBorderColor = "hsl(0 100% 40%)";
+export const utrechtSearchbarInvalidBorderColor = "#990000";
 export const utrechtSearchbarHoverBackgroundColor = "hsl(359, 65%, 58%)";
 export const utrechtSearchbarHoverTransform = "1";

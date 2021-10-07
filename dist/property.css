@@ -46,11 +46,12 @@
 @property --utrecht-custom-checkbox-border-radius { syntax: '<length>'; inherits: true; }
 @property --utrecht-custom-checkbox-border-width { syntax: '<length>'; inherits: true; }
 @property --utrecht-custom-checkbox-checked-background-color { syntax: '<color>'; inherits: true; }
+@property --utrecht-custom-checkbox-checked-border-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-custom-checkbox-checked-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-custom-checkbox-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-custom-checkbox-disabled-background-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-custom-checkbox-disabled-border-color { syntax: '<color>'; inherits: true; }
-@property --utrecht-custom-checkbox-disabled-border-width { syntax: '<length>'; inherits: true; }
+@property --utrecht-custom-checkbox-disabled-color { syntax: '<color>'; inherits: true; }
 @property --utrecht-custom-checkbox-focus-border-width { syntax: '<length>'; inherits: true; }
 @property --utrecht-custom-checkbox-icon-size { syntax: '<length>'; inherits: true; }
 @property --utrecht-custom-checkbox-invalid-background-color { syntax: '<color>'; inherits: true; }

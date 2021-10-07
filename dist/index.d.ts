@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 05 Oct 2021 10:35:33 GMT
+ * Generated on Thu, 07 Oct 2021 11:46:55 GMT
  */
 
 export const UtrechtArticleMaxInlineSize : string;
@@ -76,8 +76,9 @@ export const UtrechtCustomCheckboxSize : string;
 export const UtrechtCustomCheckboxIconSize : string;
 export const UtrechtCustomCheckboxFocusBorderWidth : string;
 export const UtrechtCustomCheckboxDisabledBorderColor : string;
-export const UtrechtCustomCheckboxDisabledBorderWidth : string;
 export const UtrechtCustomCheckboxDisabledBackgroundColor : string;
+export const UtrechtCustomCheckboxDisabledColor : string;
+export const UtrechtCustomCheckboxCheckedBorderColor : string;
 export const UtrechtCustomCheckboxCheckedBackgroundColor : string;
 export const UtrechtCustomCheckboxCheckedColor : string;
 export const UtrechtCustomCheckboxInvalidBorderColor : string;
@@ -429,6 +430,7 @@ export const UtrechtColorGreen40 : string; // donker groen
 export const UtrechtColorGreen50 : string; // Standaard groen #80a659 
 export const UtrechtColorGreen80 : string; // Licht groen
 export const UtrechtColorGreen90 : string; // Achtergrond licht groen
+export const UtrechtColorInvalid : string;
 export const UtrechtColorWhite : string;
 export const UtrechtColorBlack : string;
 export const UtrechtTypographySansSerifFontFamily : string;
