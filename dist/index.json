@@ -2125,6 +2125,29 @@
     ]
   },
   {
+    "value": "hsl(0 0% 11%)",
+    "comment": "experimenteel / beperkt gebruiken",
+    "filePath": "./src/brand/utrecht/color.tokens.json",
+    "isSource": true,
+    "original": {
+      "value": "hsl(0 0% 11%)",
+      "comment": "experimenteel / beperkt gebruiken"
+    },
+    "name": "utrechtColorGrey10",
+    "attributes": {
+      "category": "utrecht",
+      "type": "color",
+      "item": "grey",
+      "subitem": "10"
+    },
+    "path": [
+      "utrecht",
+      "color",
+      "grey",
+      "10"
+    ]
+  },
+  {
     "value": "hsl(0 0% 15%)",
     "comment": "experimenteel / beperkt gebruiken",
     "filePath": "./src/brand/utrecht/color.tokens.json",
@@ -8222,6 +8245,114 @@
       "syntax": "<color>",
       "inherits": true
     },
+    "value": "hsl(0 0% 100%)",
+    "filePath": "./src/component/utrecht/page/block.tokens.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<color>",
+        "inherits": true
+      },
+      "value": "{utrecht.color.white.value}"
+    },
+    "name": "utrechtPageBackgroundColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "page",
+      "item": "background-color"
+    },
+    "path": [
+      "utrecht",
+      "page",
+      "background-color"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<color>",
+      "inherits": true
+    },
+    "value": "hsl(0 0% 11%)",
+    "filePath": "./src/component/utrecht/page/block.tokens.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<color>",
+        "inherits": true
+      },
+      "value": "{utrecht.color.grey.10.value}"
+    },
+    "name": "utrechtPageColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "page",
+      "item": "color"
+    },
+    "path": [
+      "utrecht",
+      "page",
+      "color"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "2em",
+    "filePath": "./src/component/utrecht/page-content/block.tokens.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "2em"
+    },
+    "name": "utrechtPageContentPaddingBlockEnd",
+    "attributes": {
+      "category": "utrecht",
+      "type": "page-content",
+      "item": "padding-block-end"
+    },
+    "path": [
+      "utrecht",
+      "page-content",
+      "padding-block-end"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "2em",
+    "filePath": "./src/component/utrecht/page-content/block.tokens.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "2em"
+    },
+    "name": "utrechtPageContentPaddingBlockStart",
+    "attributes": {
+      "category": "utrecht",
+      "type": "page-content",
+      "item": "padding-block-start"
+    },
+    "path": [
+      "utrecht",
+      "page-content",
+      "padding-block-start"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<color>",
+      "inherits": true
+    },
     "value": "hsl(0 100% 40%)",
     "filePath": "./src/component/utrecht/page-footer/block.tokens.json",
     "isSource": true,
@@ -8403,6 +8534,247 @@
     "path": [
       "utrecht",
       "page-footer",
+      "padding-inline-start"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "1em",
+    "filePath": "./src/component/utrecht/page-header/block.tokens.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "1em"
+    },
+    "name": "utrechtPageHeaderPaddingBlockEnd",
+    "attributes": {
+      "category": "utrecht",
+      "type": "page-header",
+      "item": "padding-block-end"
+    },
+    "path": [
+      "utrecht",
+      "page-header",
+      "padding-block-end"
+    ]
+  },
+  {
+    "value": "1.8em",
+    "filePath": "./src/component/utrecht/page-header/block.tokens.json",
+    "isSource": true,
+    "original": {
+      "value": "1.8em"
+    },
+    "name": "utrechtPageHeaderPaddingBlockStart",
+    "attributes": {
+      "category": "utrecht",
+      "type": "page-header",
+      "item": "padding-block-start"
+    },
+    "path": [
+      "utrecht",
+      "page-header",
+      "padding-block-start"
+    ]
+  },
+  {
+    "value": "2.4em",
+    "filePath": "./src/component/utrecht/page-header/block.tokens.json",
+    "isSource": true,
+    "original": {
+      "value": "2.4em"
+    },
+    "name": "utrechtPageHeaderPaddingInlineEnd",
+    "attributes": {
+      "category": "utrecht",
+      "type": "page-header",
+      "item": "padding-inline-end"
+    },
+    "path": [
+      "utrecht",
+      "page-header",
+      "padding-inline-end"
+    ]
+  },
+  {
+    "value": "2em",
+    "filePath": "./src/component/utrecht/page-header/block.tokens.json",
+    "isSource": true,
+    "original": {
+      "value": "2em"
+    },
+    "name": "utrechtPageHeaderPaddingInlineStart",
+    "attributes": {
+      "category": "utrecht",
+      "type": "page-header",
+      "item": "padding-inline-start"
+    },
+    "path": [
+      "utrecht",
+      "page-header",
+      "padding-inline-start"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "2em",
+    "filePath": "./src/component/utrecht/page/block.tokens.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "2em"
+    },
+    "name": "utrechtPageMarginInlineEnd",
+    "attributes": {
+      "category": "utrecht",
+      "type": "page",
+      "item": "margin-inline-end"
+    },
+    "path": [
+      "utrecht",
+      "page",
+      "margin-inline-end"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "2em",
+    "filePath": "./src/component/utrecht/page/block.tokens.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "2em"
+    },
+    "name": "utrechtPageMarginInlineStart",
+    "attributes": {
+      "category": "utrecht",
+      "type": "page",
+      "item": "margin-inline-start"
+    },
+    "path": [
+      "utrecht",
+      "page",
+      "margin-inline-start"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "1184px",
+    "filePath": "./src/component/utrecht/page/block.tokens.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "1184px"
+    },
+    "name": "utrechtPageMaxInlineSize",
+    "attributes": {
+      "category": "utrecht",
+      "type": "page",
+      "item": "max-inline-size"
+    },
+    "path": [
+      "utrecht",
+      "page",
+      "max-inline-size"
+    ]
+  },
+  {
+    "value": "1em",
+    "filePath": "./src/component/utrecht/page/block.tokens.json",
+    "isSource": true,
+    "original": {
+      "value": "1em"
+    },
+    "name": "utrechtPagePaddingBlockEnd",
+    "attributes": {
+      "category": "utrecht",
+      "type": "page",
+      "item": "padding-block-end"
+    },
+    "path": [
+      "utrecht",
+      "page",
+      "padding-block-end"
+    ]
+  },
+  {
+    "value": "1.8em",
+    "filePath": "./src/component/utrecht/page/block.tokens.json",
+    "isSource": true,
+    "original": {
+      "value": "1.8em"
+    },
+    "name": "utrechtPagePaddingBlockStart",
+    "attributes": {
+      "category": "utrecht",
+      "type": "page",
+      "item": "padding-block-start"
+    },
+    "path": [
+      "utrecht",
+      "page",
+      "padding-block-start"
+    ]
+  },
+  {
+    "value": "2.4em",
+    "filePath": "./src/component/utrecht/page/block.tokens.json",
+    "isSource": true,
+    "original": {
+      "value": "2.4em"
+    },
+    "name": "utrechtPagePaddingInlineEnd",
+    "attributes": {
+      "category": "utrecht",
+      "type": "page",
+      "item": "padding-inline-end"
+    },
+    "path": [
+      "utrecht",
+      "page",
+      "padding-inline-end"
+    ]
+  },
+  {
+    "value": "2em",
+    "filePath": "./src/component/utrecht/page/block.tokens.json",
+    "isSource": true,
+    "original": {
+      "value": "2em"
+    },
+    "name": "utrechtPagePaddingInlineStart",
+    "attributes": {
+      "category": "utrecht",
+      "type": "page",
+      "item": "padding-inline-start"
+    },
+    "path": [
+      "utrecht",
+      "page",
       "padding-inline-start"
     ]
   },
@@ -11846,6 +12218,60 @@
       "space",
       "text",
       "xs"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<color>",
+      "inherits": true
+    },
+    "value": "hsl(0 0% 95%)",
+    "filePath": "./src/component/utrecht/surface/block.tokens.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<color>",
+        "inherits": true
+      },
+      "value": "{utrecht.color.grey.95.value}"
+    },
+    "name": "utrechtSurfaceBackgroundColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "surface",
+      "item": "background-color"
+    },
+    "path": [
+      "utrecht",
+      "surface",
+      "background-color"
+    ]
+  },
+  {
+    "css": {
+      "syntax": "<color>",
+      "inherits": true
+    },
+    "value": "hsl(0 0% 11%)",
+    "filePath": "./src/component/utrecht/surface/block.tokens.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<color>",
+        "inherits": true
+      },
+      "value": "{utrecht.color.grey.10.value}"
+    },
+    "name": "utrechtSurfaceColor",
+    "attributes": {
+      "category": "utrecht",
+      "type": "surface",
+      "item": "color"
+    },
+    "path": [
+      "utrecht",
+      "surface",
+      "color"
     ]
   },
   {

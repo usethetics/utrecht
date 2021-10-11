@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 11 Oct 2021 08:43:08 GMT
+ * Generated on Mon, 11 Oct 2021 11:57:40 GMT
  */
 
 export const UtrechtArticleMaxInlineSize : string;
@@ -279,6 +279,8 @@ export const UtrechtOrderedListPaddingInlineStart : string;
 export const UtrechtOrderedListItemMarginBlockStart : string;
 export const UtrechtOrderedListItemMarginBlockEnd : string;
 export const UtrechtOrderedListItemPaddingInlineStart : string;
+export const UtrechtPageContentPaddingBlockStart : string;
+export const UtrechtPageContentPaddingBlockEnd : string;
 export const UtrechtPageFooterColor : string;
 export const UtrechtPageFooterBackgroundColor : string;
 export const UtrechtPageFooterBackgroundImage : string;
@@ -286,6 +288,19 @@ export const UtrechtPageFooterPaddingInlineEnd : string;
 export const UtrechtPageFooterPaddingInlineStart : string;
 export const UtrechtPageFooterPaddingBlockEnd : string;
 export const UtrechtPageFooterPaddingBlockStart : string;
+export const UtrechtPageHeaderPaddingBlockEnd : string;
+export const UtrechtPageHeaderPaddingInlineEnd : string;
+export const UtrechtPageHeaderPaddingInlineStart : string;
+export const UtrechtPageHeaderPaddingBlockStart : string;
+export const UtrechtPageBackgroundColor : string;
+export const UtrechtPageColor : string;
+export const UtrechtPageMarginInlineStart : string;
+export const UtrechtPageMarginInlineEnd : string;
+export const UtrechtPageMaxInlineSize : string;
+export const UtrechtPagePaddingBlockStart : string;
+export const UtrechtPagePaddingInlineEnd : string;
+export const UtrechtPagePaddingBlockEnd : string;
+export const UtrechtPagePaddingInlineStart : string;
 export const UtrechtPaginationFontSize : string;
 export const UtrechtPaginationMarginBlockStart : string;
 export const UtrechtPaginationMarginBlockEnd : string;
@@ -386,6 +401,8 @@ export const UtrechtSpaceColumn2xl : string; // Extra Large 2
 export const UtrechtSpaceColumn3xl : string; // Extra Large 3
 export const UtrechtSpaceColumn4xl : string; // Extra Large 4
 export const UtrechtSpaceColumn5xl : string; // Extra Large 5
+export const UtrechtSurfaceBackgroundColor : string;
+export const UtrechtSurfaceColor : string;
 export const UtrechtTableRowBorderBlockEndColor : string;
 export const UtrechtTableRowBorderBlockEndWidth : string;
 export const UtrechtTableCaptionFontWeight : string;
@@ -416,6 +433,7 @@ export const UtrechtColorBlue40 : string; // blauw variant bij hover/focus #3669
 export const UtrechtColorBlue50 : string; // experimenteel / beperkt gebruiken
 export const UtrechtColorBlue80 : string; // licht blauw voor achtergrond
 export const UtrechtColorBlue90 : string; // ijsblauw variant achtergrond, spotlight en uitgelicht
+export const UtrechtColorGrey10 : string; // experimenteel / beperkt gebruiken
 export const UtrechtColorGrey15 : string; // experimenteel / beperkt gebruiken
 export const UtrechtColorGrey30 : string; // border grijs #888
 export const UtrechtColorGrey40 : string; // basis grijs #727272

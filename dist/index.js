@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 11 Oct 2021 08:43:08 GMT
+ * Generated on Mon, 11 Oct 2021 11:57:40 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -279,6 +279,8 @@ export const utrechtOrderedListPaddingInlineStart = "28.8px";
 export const utrechtOrderedListItemMarginBlockStart = "0.25em";
 export const utrechtOrderedListItemMarginBlockEnd = "0.25em";
 export const utrechtOrderedListItemPaddingInlineStart = "0";
+export const utrechtPageContentPaddingBlockStart = "2em";
+export const utrechtPageContentPaddingBlockEnd = "2em";
 export const utrechtPageFooterColor = "hsl(0 0% 100%)";
 export const utrechtPageFooterBackgroundColor = "hsl(0 100% 40%)";
 export const utrechtPageFooterBackgroundImage = "linear-gradient(45deg, hsl(0 100% 40%), hsl(0 100% 40%) 50%, hsl(5 54% 59%) 50%);";
@@ -286,6 +288,19 @@ export const utrechtPageFooterPaddingInlineEnd = "1em";
 export const utrechtPageFooterPaddingInlineStart = "1em";
 export const utrechtPageFooterPaddingBlockEnd = "1.8em";
 export const utrechtPageFooterPaddingBlockStart = "1.8em";
+export const utrechtPageHeaderPaddingBlockEnd = "1em";
+export const utrechtPageHeaderPaddingInlineEnd = "2.4em";
+export const utrechtPageHeaderPaddingInlineStart = "2em";
+export const utrechtPageHeaderPaddingBlockStart = "1.8em";
+export const utrechtPageBackgroundColor = "hsl(0 0% 100%)";
+export const utrechtPageColor = "hsl(0 0% 11%)";
+export const utrechtPageMarginInlineStart = "2em";
+export const utrechtPageMarginInlineEnd = "2em";
+export const utrechtPageMaxInlineSize = "1184px";
+export const utrechtPagePaddingBlockStart = "1.8em";
+export const utrechtPagePaddingInlineEnd = "2.4em";
+export const utrechtPagePaddingBlockEnd = "1em";
+export const utrechtPagePaddingInlineStart = "2em";
 export const utrechtPaginationFontSize = "14px";
 export const utrechtPaginationMarginBlockStart = "0";
 export const utrechtPaginationMarginBlockEnd = "1em";
@@ -386,6 +401,8 @@ export const utrechtSpaceColumn2xl = "32px"; // Extra Large 2
 export const utrechtSpaceColumn3xl = "48px"; // Extra Large 3
 export const utrechtSpaceColumn4xl = "64px"; // Extra Large 4
 export const utrechtSpaceColumn5xl = "80px"; // Extra Large 5
+export const utrechtSurfaceBackgroundColor = "hsl(0 0% 95%)";
+export const utrechtSurfaceColor = "hsl(0 0% 11%)";
 export const utrechtTableRowBorderBlockEndColor = "hsl(0 0% 90%)";
 export const utrechtTableRowBorderBlockEndWidth = "1px";
 export const utrechtTableCaptionFontWeight = "bold";
@@ -416,6 +433,7 @@ export const utrechtColorBlue40 = "hsl(211 60% 40%)"; // blauw variant bij hover
 export const utrechtColorBlue50 = "hsl(211 60% 50%)"; // experimenteel / beperkt gebruiken
 export const utrechtColorBlue80 = "hsl(211 60% 80%)"; // licht blauw voor achtergrond
 export const utrechtColorBlue90 = "hsl(211 60% 90%)"; // ijsblauw variant achtergrond, spotlight en uitgelicht
+export const utrechtColorGrey10 = "hsl(0 0% 11%)"; // experimenteel / beperkt gebruiken
 export const utrechtColorGrey15 = "hsl(0 0% 15%)"; // experimenteel / beperkt gebruiken
 export const utrechtColorGrey30 = "hsl(0 0% 30%)"; // border grijs #888
 export const utrechtColorGrey40 = "hsl(0 0% 40%)"; // basis grijs #727272

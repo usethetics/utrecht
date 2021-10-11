@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 11 Oct 2021 08:43:08 GMT
+ * Generated on Mon, 11 Oct 2021 11:57:40 GMT
  */
 
 export default tokens;
@@ -823,6 +823,10 @@ declare const tokens: {
         "padding-inline-start": DesignToken
       }
     },
+    "page-content": {
+      "padding-block-start": DesignToken,
+      "padding-block-end": DesignToken
+    },
     "page-footer": {
       "color": DesignToken,
       "background-color": DesignToken,
@@ -831,6 +835,32 @@ declare const tokens: {
       "padding-inline-start": DesignToken,
       "padding-block-end": DesignToken,
       "padding-block-start": DesignToken
+    },
+    "page-header": {
+      "background-color": {
+        "css": {}
+      },
+      "color": {
+        "css": {}
+      },
+      "padding-start": {
+        "css": {}
+      },
+      "padding-block-end": DesignToken,
+      "padding-inline-end": DesignToken,
+      "padding-inline-start": DesignToken,
+      "padding-block-start": DesignToken
+    },
+    "page": {
+      "background-color": DesignToken,
+      "color": DesignToken,
+      "margin-inline-start": DesignToken,
+      "margin-inline-end": DesignToken,
+      "max-inline-size": DesignToken,
+      "padding-block-start": DesignToken,
+      "padding-inline-end": DesignToken,
+      "padding-block-end": DesignToken,
+      "padding-inline-start": DesignToken
     },
     "pagination": {
       "font-size": DesignToken,
@@ -1114,6 +1144,10 @@ declare const tokens: {
         "4xl": DesignToken,
         "5xl": DesignToken
       }
+    },
+    "surface": {
+      "background-color": DesignToken,
+      "color": DesignToken
     },
     "table": {
       "border-color": {
@@ -1411,6 +1445,7 @@ declare const tokens: {
         "90": DesignToken
       },
       "grey": {
+        "10": DesignToken,
         "15": DesignToken,
         "30": DesignToken,
         "40": DesignToken,
