@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 11 Oct 2021 11:57:40 GMT
+ * Generated on Thu, 14 Oct 2021 15:58:31 GMT
  */
 
 export default tokens;
@@ -108,9 +108,6 @@ declare const tokens: {
     "button": {
       "background-color": DesignToken,
       "border-width": DesignToken,
-      "block-size": {
-        "css": {}
-      },
       "color": DesignToken,
       "focus-transform-scale": {
         "css": {}
@@ -129,6 +126,9 @@ declare const tokens: {
       "margin-block-end": DesignToken,
       "margin-inline-start": DesignToken,
       "margin-inline-end": DesignToken,
+      "min-block-size": {
+        "css": {}
+      },
       "min-inline-size": {
         "css": {}
       },
@@ -471,6 +471,9 @@ declare const tokens: {
       "color": DesignToken,
       "font-family": DesignToken,
       "font-size": DesignToken,
+      "font-style": {
+        "css": {}
+      },
       "max-inline-size": DesignToken,
       "padding-block-end": DesignToken,
       "padding-block-start": DesignToken,
@@ -719,6 +722,7 @@ declare const tokens: {
     "link": {
       "color": DesignToken,
       "text-decoration": DesignToken,
+      "text-underline-offset": DesignToken,
       "active": {
         "color": DesignToken
       },
@@ -1211,6 +1215,9 @@ declare const tokens: {
       },
       "header": {
         "font-weight": DesignToken,
+        "background-color": {
+          "css": {}
+        },
         "color": {
           "css": {}
         },

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 11 Oct 2021 11:57:40 GMT
+ * Generated on Thu, 14 Oct 2021 15:58:30 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -236,6 +236,7 @@ export const utrechtLinkListItemFontWeight = "bold";
 export const utrechtLinkListMarkerInlineSize = "16px";
 export const utrechtLinkColor = "hsl(211 60% 30%)";
 export const utrechtLinkTextDecoration = "underline";
+export const utrechtLinkTextUnderlineOffset = "3px";
 export const utrechtLinkActiveColor = "hsl(211 60% 30%)";
 export const utrechtLinkFocusColor = "hsl(211 60% 40%)";
 export const utrechtLinkFocusTextDecoration = "none";

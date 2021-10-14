@@ -7274,6 +7274,33 @@
   },
   {
     "css": {
+      "syntax": "<length>",
+      "inherits": true
+    },
+    "value": "3px",
+    "filePath": "./src/component/utrecht/link/block.tokens.json",
+    "isSource": true,
+    "original": {
+      "css": {
+        "syntax": "<length>",
+        "inherits": true
+      },
+      "value": "3px"
+    },
+    "name": "utrechtLinkTextUnderlineOffset",
+    "attributes": {
+      "category": "utrecht",
+      "type": "link",
+      "item": "text-underline-offset"
+    },
+    "path": [
+      "utrecht",
+      "link",
+      "text-underline-offset"
+    ]
+  },
+  {
+    "css": {
       "syntax": "<color>",
       "inherits": true
     },

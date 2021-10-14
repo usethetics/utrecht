@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 11 Oct 2021 11:57:40 GMT
+ * Generated on Thu, 14 Oct 2021 15:58:30 GMT
  */
 
 module.exports = {
@@ -938,12 +938,6 @@ module.exports = {
           "border-width"
         ]
       },
-      "block-size": {
-        "css": {
-          "syntax": "<length>",
-          "inherits": true
-        }
-      },
       "color": {
         "css": {
           "syntax": "<color>",
@@ -1129,6 +1123,12 @@ module.exports = {
           "button",
           "margin-inline-end"
         ]
+      },
+      "min-block-size": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        }
       },
       "min-inline-size": {
         "css": {
@@ -4804,6 +4804,12 @@ module.exports = {
           "font-size"
         ]
       },
+      "font-style": {
+        "css": {
+          "syntax": "inherit | italic | normal",
+          "inherits": true
+        }
+      },
       "max-inline-size": {
         "css": {
           "syntax": "<length>",
@@ -7052,6 +7058,33 @@ module.exports = {
           "utrecht",
           "link",
           "text-decoration"
+        ]
+      },
+      "text-underline-offset": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "3px",
+        "filePath": "./src/component/utrecht/link/block.tokens.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "3px"
+        },
+        "name": "utrechtLinkTextUnderlineOffset",
+        "attributes": {
+          "category": "utrecht",
+          "type": "link",
+          "item": "text-underline-offset"
+        },
+        "path": [
+          "utrecht",
+          "link",
+          "text-underline-offset"
         ]
       },
       "active": {
@@ -12377,6 +12410,12 @@ module.exports = {
             "header",
             "font-weight"
           ]
+        },
+        "background-color": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          }
         },
         "color": {
           "css": {

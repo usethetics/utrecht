@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 11 Oct 2021 11:57:40 GMT
+ * Generated on Thu, 14 Oct 2021 15:58:31 GMT
  */
 
 export const UtrechtArticleMaxInlineSize : string;
@@ -236,6 +236,7 @@ export const UtrechtLinkListItemFontWeight : string;
 export const UtrechtLinkListMarkerInlineSize : string;
 export const UtrechtLinkColor : string;
 export const UtrechtLinkTextDecoration : string;
+export const UtrechtLinkTextUnderlineOffset : string;
 export const UtrechtLinkActiveColor : string;
 export const UtrechtLinkFocusColor : string;
 export const UtrechtLinkFocusTextDecoration : string;
