@@ -4,6 +4,10 @@
  */
 
 .utrecht-blockquote {
+  border-color: var(--utrecht-blockquote-border-color);
+  border-inline-start-width: var(--utrecht-blockquote-border-inline-start-width, 0);
+  border-style: solid;
+  border-width: 0;
   font-family: var(--utrecht-document-font-family);
   font-size: var(--utrecht-blockquote-font-size);
   margin-inline-end: var(--utrecht-blockquote-margin-inline-end);
