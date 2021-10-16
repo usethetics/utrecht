@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 14 Oct 2021 15:58:30 GMT
+ * Generated on Sat, 16 Oct 2021 13:54:42 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
