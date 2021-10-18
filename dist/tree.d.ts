@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 17 Oct 2021 10:20:25 GMT
+ * Generated on Mon, 18 Oct 2021 11:58:23 GMT
  */
 
 export default tokens;
@@ -206,6 +206,22 @@ declare const tokens: {
         "cursor": DesignToken
       }
     },
+    "focus": {
+      "background-color": {
+        "css": {}
+      },
+      "border-color": DesignToken,
+      "border-style": DesignToken,
+      "box-shadow-color": DesignToken,
+      "box-shadow-spread-radius": DesignToken,
+      "color": DesignToken,
+      "outline-color": DesignToken,
+      "outline-offset": {
+        "css": {}
+      },
+      "outline-style": DesignToken,
+      "outline-width": DesignToken
+    },
     "custom-checkbox": {
       "background-color": DesignToken,
       "border-color": DesignToken,
@@ -388,22 +404,6 @@ declare const tokens: {
           "color": DesignToken
         }
       }
-    },
-    "focus": {
-      "background-color": {
-        "css": {}
-      },
-      "border-color": DesignToken,
-      "border-style": DesignToken,
-      "box-shadow-color": DesignToken,
-      "box-shadow-spread-radius": DesignToken,
-      "color": DesignToken,
-      "outline-color": DesignToken,
-      "outline-offset": {
-        "css": {}
-      },
-      "outline-style": DesignToken,
-      "outline-width": DesignToken
     },
     "form-field-description": {
       "color": {

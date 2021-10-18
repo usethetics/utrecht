@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 17 Oct 2021 10:20:25 GMT
+ * Generated on Mon, 18 Oct 2021 11:58:23 GMT
  */
 
 :root {
@@ -388,14 +388,6 @@
   --utrecht-form-fieldset-margin-block-end: var(--utrecht-space-block-2xs);
   --utrecht-form-field-margin-block-end: var(--utrecht-space-block-2xs);
   --utrecht-form-field-margin-block-start: var(--utrecht-space-block-2xs);
-  --utrecht-focus-outline-width: var(--utrecht-border-width-md);
-  --utrecht-focus-outline-style: var(--utrecht-border-style-dotted);
-  --utrecht-focus-outline-color: var(--utrecht-color-black);
-  --utrecht-focus-color: var(--utrecht-color-black);
-  --utrecht-focus-box-shadow-spread-radius: var(--utrecht-border-width-md);
-  --utrecht-focus-box-shadow-color: var(--utrecht-color-white);
-  --utrecht-focus-border-style: var(--utrecht-border-style-dotted);
-  --utrecht-focus-border-color: var(--utrecht-color-black);
   --utrecht-feedback-active-fill-color: var(--utrecht-color-white);
   --utrecht-feedback-inactive-fill-color: var(--utrecht-color-white);
   --utrecht-feedback-success-fill-color: var(--utrecht-color-white);
@@ -423,6 +415,14 @@
   --utrecht-custom-checkbox-disabled-color: var(--utrecht-color-grey-80);
   --utrecht-custom-checkbox-disabled-background-color: var(--utrecht-color-white);
   --utrecht-custom-checkbox-disabled-border-color: var(--utrecht-color-grey-80);
+  --utrecht-focus-outline-width: var(--utrecht-border-width-md);
+  --utrecht-focus-outline-style: var(--utrecht-border-style-dotted);
+  --utrecht-focus-outline-color: var(--utrecht-color-black);
+  --utrecht-focus-color: var(--utrecht-color-black);
+  --utrecht-focus-box-shadow-spread-radius: var(--utrecht-border-width-md);
+  --utrecht-focus-box-shadow-color: var(--utrecht-color-white);
+  --utrecht-focus-border-style: var(--utrecht-border-style-dotted);
+  --utrecht-focus-border-color: var(--utrecht-color-black);
   --utrecht-button-secondary-action-border-width: var(--utrecht-border-width-md);
   --utrecht-button-secondary-action-border-color: var(--utrecht-color-blue-35);
   --utrecht-button-secondary-action-color: var(--utrecht-color-blue-35);

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 17 Oct 2021 10:20:25 GMT
+ * Generated on Mon, 18 Oct 2021 11:58:23 GMT
  */
 
 export const UtrechtArticleMaxInlineSize : string;
@@ -67,6 +67,14 @@ export const UtrechtButtonSecondaryActionBorderWidth : string;
 export const UtrechtActionBusyCursor : string;
 export const UtrechtActionDisabledCursor : string;
 export const UtrechtActionSubmitCursor : string;
+export const UtrechtFocusBorderColor : string;
+export const UtrechtFocusBorderStyle : string;
+export const UtrechtFocusBoxShadowColor : string;
+export const UtrechtFocusBoxShadowSpreadRadius : string;
+export const UtrechtFocusColor : string;
+export const UtrechtFocusOutlineColor : string;
+export const UtrechtFocusOutlineStyle : string;
+export const UtrechtFocusOutlineWidth : string;
 export const UtrechtCustomCheckboxBackgroundColor : string;
 export const UtrechtCustomCheckboxBorderColor : string;
 export const UtrechtCustomCheckboxBorderRadius : string;
@@ -135,14 +143,6 @@ export const UtrechtFeedbackActiveBorderColor : string;
 export const UtrechtFeedbackActiveColor : string;
 export const UtrechtFeedbackActiveFillBackgroundColor : string;
 export const UtrechtFeedbackActiveFillColor : string;
-export const UtrechtFocusBorderColor : string;
-export const UtrechtFocusBorderStyle : string;
-export const UtrechtFocusBoxShadowColor : string;
-export const UtrechtFocusBoxShadowSpreadRadius : string;
-export const UtrechtFocusColor : string;
-export const UtrechtFocusOutlineColor : string;
-export const UtrechtFocusOutlineStyle : string;
-export const UtrechtFocusOutlineWidth : string;
 export const UtrechtFormFieldMarginBlockStart : string;
 export const UtrechtFormFieldMarginBlockEnd : string;
 export const UtrechtFormFieldsetMarginBlockEnd : string;

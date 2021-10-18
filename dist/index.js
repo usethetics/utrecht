@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 17 Oct 2021 10:20:24 GMT
+ * Generated on Mon, 18 Oct 2021 11:58:23 GMT
  */
 
 export const utrechtArticleMaxInlineSize = "780px";
@@ -67,6 +67,14 @@ export const utrechtButtonSecondaryActionBorderWidth = "2px";
 export const utrechtActionBusyCursor = "wait";
 export const utrechtActionDisabledCursor = "not-allowed";
 export const utrechtActionSubmitCursor = "pointer";
+export const utrechtFocusBorderColor = "hsl(0 0% 0%)";
+export const utrechtFocusBorderStyle = "dotted";
+export const utrechtFocusBoxShadowColor = "hsl(0 0% 100%)";
+export const utrechtFocusBoxShadowSpreadRadius = "2px";
+export const utrechtFocusColor = "hsl(0 0% 0%)";
+export const utrechtFocusOutlineColor = "hsl(0 0% 0%)";
+export const utrechtFocusOutlineStyle = "dotted";
+export const utrechtFocusOutlineWidth = "2px";
 export const utrechtCustomCheckboxBackgroundColor = "hsl(0 0% 100%)";
 export const utrechtCustomCheckboxBorderColor = "hsl(0 0% 30%)";
 export const utrechtCustomCheckboxBorderRadius = "0";
@@ -135,14 +143,6 @@ export const utrechtFeedbackActiveBorderColor = "hsl(90 30% 50%)";
 export const utrechtFeedbackActiveColor = "hsl(90 30% 50%)";
 export const utrechtFeedbackActiveFillBackgroundColor = "hsl(90 30% 50%)";
 export const utrechtFeedbackActiveFillColor = "hsl(0 0% 100%)";
-export const utrechtFocusBorderColor = "hsl(0 0% 0%)";
-export const utrechtFocusBorderStyle = "dotted";
-export const utrechtFocusBoxShadowColor = "hsl(0 0% 100%)";
-export const utrechtFocusBoxShadowSpreadRadius = "2px";
-export const utrechtFocusColor = "hsl(0 0% 0%)";
-export const utrechtFocusOutlineColor = "hsl(0 0% 0%)";
-export const utrechtFocusOutlineStyle = "dotted";
-export const utrechtFocusOutlineWidth = "2px";
 export const utrechtFormFieldMarginBlockStart = "4px";
 export const utrechtFormFieldMarginBlockEnd = "4px";
 export const utrechtFormFieldsetMarginBlockEnd = "4px";

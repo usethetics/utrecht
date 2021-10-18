@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 17 Oct 2021 10:20:24 GMT
+ * Generated on Mon, 18 Oct 2021 11:58:23 GMT
  */
 
 module.exports = {
@@ -1873,6 +1873,236 @@ module.exports = {
             "cursor"
           ]
         }
+      }
+    },
+    "focus": {
+      "background-color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        }
+      },
+      "border-color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        },
+        "value": "hsl(0 0% 0%)",
+        "filePath": "./src/common/utrecht/focus.tokens.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "{utrecht.color.black.value}"
+        },
+        "name": "utrechtFocusBorderColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "focus",
+          "item": "border-color"
+        },
+        "path": [
+          "utrecht",
+          "focus",
+          "border-color"
+        ]
+      },
+      "border-style": {
+        "css": {
+          "syntax": "dotted | none | solid",
+          "inherits": true
+        },
+        "value": "dotted",
+        "filePath": "./src/common/utrecht/focus.tokens.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "dotted | none | solid",
+            "inherits": true
+          },
+          "value": "{utrecht.border-style.dotted.value}"
+        },
+        "name": "utrechtFocusBorderStyle",
+        "attributes": {
+          "category": "utrecht",
+          "type": "focus",
+          "item": "border-style"
+        },
+        "path": [
+          "utrecht",
+          "focus",
+          "border-style"
+        ]
+      },
+      "box-shadow-color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        },
+        "value": "hsl(0 0% 100%)",
+        "filePath": "./src/common/utrecht/focus.tokens.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "{utrecht.color.white.value}"
+        },
+        "name": "utrechtFocusBoxShadowColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "focus",
+          "item": "box-shadow-color"
+        },
+        "path": [
+          "utrecht",
+          "focus",
+          "box-shadow-color"
+        ]
+      },
+      "box-shadow-spread-radius": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "2px",
+        "filePath": "./src/common/utrecht/focus.tokens.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "{utrecht.border-width.md.value}"
+        },
+        "name": "utrechtFocusBoxShadowSpreadRadius",
+        "attributes": {
+          "category": "utrecht",
+          "type": "focus",
+          "item": "box-shadow-spread-radius"
+        },
+        "path": [
+          "utrecht",
+          "focus",
+          "box-shadow-spread-radius"
+        ]
+      },
+      "color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        },
+        "value": "hsl(0 0% 0%)",
+        "filePath": "./src/common/utrecht/focus.tokens.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "{utrecht.color.black.value}"
+        },
+        "name": "utrechtFocusColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "focus",
+          "item": "color"
+        },
+        "path": [
+          "utrecht",
+          "focus",
+          "color"
+        ]
+      },
+      "outline-color": {
+        "css": {
+          "syntax": "<color>",
+          "inherits": true
+        },
+        "value": "hsl(0 0% 0%)",
+        "filePath": "./src/common/utrecht/focus.tokens.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<color>",
+            "inherits": true
+          },
+          "value": "{utrecht.color.black.value}"
+        },
+        "name": "utrechtFocusOutlineColor",
+        "attributes": {
+          "category": "utrecht",
+          "type": "focus",
+          "item": "outline-color"
+        },
+        "path": [
+          "utrecht",
+          "focus",
+          "outline-color"
+        ]
+      },
+      "outline-offset": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        }
+      },
+      "outline-style": {
+        "css": {
+          "syntax": "dotted | none | solid",
+          "inherits": true
+        },
+        "value": "dotted",
+        "filePath": "./src/common/utrecht/focus.tokens.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "dotted | none | solid",
+            "inherits": true
+          },
+          "value": "{utrecht.border-style.dotted.value}"
+        },
+        "name": "utrechtFocusOutlineStyle",
+        "attributes": {
+          "category": "utrecht",
+          "type": "focus",
+          "item": "outline-style"
+        },
+        "path": [
+          "utrecht",
+          "focus",
+          "outline-style"
+        ]
+      },
+      "outline-width": {
+        "css": {
+          "syntax": "<length>",
+          "inherits": true
+        },
+        "value": "2px",
+        "filePath": "./src/common/utrecht/focus.tokens.json",
+        "isSource": true,
+        "original": {
+          "css": {
+            "syntax": "<length>",
+            "inherits": true
+          },
+          "value": "{utrecht.border-width.md.value}"
+        },
+        "name": "utrechtFocusOutlineWidth",
+        "attributes": {
+          "category": "utrecht",
+          "type": "focus",
+          "item": "outline-width"
+        },
+        "path": [
+          "utrecht",
+          "focus",
+          "outline-width"
+        ]
       }
     },
     "custom-checkbox": {
@@ -4016,236 +4246,6 @@ module.exports = {
             ]
           }
         }
-      }
-    },
-    "focus": {
-      "background-color": {
-        "css": {
-          "syntax": "<color>",
-          "inherits": true
-        }
-      },
-      "border-color": {
-        "css": {
-          "syntax": "<color>",
-          "inherits": true
-        },
-        "value": "hsl(0 0% 0%)",
-        "filePath": "./src/common/utrecht/focus.tokens.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<color>",
-            "inherits": true
-          },
-          "value": "{utrecht.color.black.value}"
-        },
-        "name": "utrechtFocusBorderColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "focus",
-          "item": "border-color"
-        },
-        "path": [
-          "utrecht",
-          "focus",
-          "border-color"
-        ]
-      },
-      "border-style": {
-        "css": {
-          "syntax": "dotted | none | solid",
-          "inherits": true
-        },
-        "value": "dotted",
-        "filePath": "./src/common/utrecht/focus.tokens.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "dotted | none | solid",
-            "inherits": true
-          },
-          "value": "{utrecht.border-style.dotted.value}"
-        },
-        "name": "utrechtFocusBorderStyle",
-        "attributes": {
-          "category": "utrecht",
-          "type": "focus",
-          "item": "border-style"
-        },
-        "path": [
-          "utrecht",
-          "focus",
-          "border-style"
-        ]
-      },
-      "box-shadow-color": {
-        "css": {
-          "syntax": "<color>",
-          "inherits": true
-        },
-        "value": "hsl(0 0% 100%)",
-        "filePath": "./src/common/utrecht/focus.tokens.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<color>",
-            "inherits": true
-          },
-          "value": "{utrecht.color.white.value}"
-        },
-        "name": "utrechtFocusBoxShadowColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "focus",
-          "item": "box-shadow-color"
-        },
-        "path": [
-          "utrecht",
-          "focus",
-          "box-shadow-color"
-        ]
-      },
-      "box-shadow-spread-radius": {
-        "css": {
-          "syntax": "<length>",
-          "inherits": true
-        },
-        "value": "2px",
-        "filePath": "./src/common/utrecht/focus.tokens.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length>",
-            "inherits": true
-          },
-          "value": "{utrecht.border-width.md.value}"
-        },
-        "name": "utrechtFocusBoxShadowSpreadRadius",
-        "attributes": {
-          "category": "utrecht",
-          "type": "focus",
-          "item": "box-shadow-spread-radius"
-        },
-        "path": [
-          "utrecht",
-          "focus",
-          "box-shadow-spread-radius"
-        ]
-      },
-      "color": {
-        "css": {
-          "syntax": "<color>",
-          "inherits": true
-        },
-        "value": "hsl(0 0% 0%)",
-        "filePath": "./src/common/utrecht/focus.tokens.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<color>",
-            "inherits": true
-          },
-          "value": "{utrecht.color.black.value}"
-        },
-        "name": "utrechtFocusColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "focus",
-          "item": "color"
-        },
-        "path": [
-          "utrecht",
-          "focus",
-          "color"
-        ]
-      },
-      "outline-color": {
-        "css": {
-          "syntax": "<color>",
-          "inherits": true
-        },
-        "value": "hsl(0 0% 0%)",
-        "filePath": "./src/common/utrecht/focus.tokens.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<color>",
-            "inherits": true
-          },
-          "value": "{utrecht.color.black.value}"
-        },
-        "name": "utrechtFocusOutlineColor",
-        "attributes": {
-          "category": "utrecht",
-          "type": "focus",
-          "item": "outline-color"
-        },
-        "path": [
-          "utrecht",
-          "focus",
-          "outline-color"
-        ]
-      },
-      "outline-offset": {
-        "css": {
-          "syntax": "<length>",
-          "inherits": true
-        }
-      },
-      "outline-style": {
-        "css": {
-          "syntax": "dotted | none | solid",
-          "inherits": true
-        },
-        "value": "dotted",
-        "filePath": "./src/common/utrecht/focus.tokens.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "dotted | none | solid",
-            "inherits": true
-          },
-          "value": "{utrecht.border-style.dotted.value}"
-        },
-        "name": "utrechtFocusOutlineStyle",
-        "attributes": {
-          "category": "utrecht",
-          "type": "focus",
-          "item": "outline-style"
-        },
-        "path": [
-          "utrecht",
-          "focus",
-          "outline-style"
-        ]
-      },
-      "outline-width": {
-        "css": {
-          "syntax": "<length>",
-          "inherits": true
-        },
-        "value": "2px",
-        "filePath": "./src/common/utrecht/focus.tokens.json",
-        "isSource": true,
-        "original": {
-          "css": {
-            "syntax": "<length>",
-            "inherits": true
-          },
-          "value": "{utrecht.border-width.md.value}"
-        },
-        "name": "utrechtFocusOutlineWidth",
-        "attributes": {
-          "category": "utrecht",
-          "type": "focus",
-          "item": "outline-width"
-        },
-        "path": [
-          "utrecht",
-          "focus",
-          "outline-width"
-        ]
       }
     },
     "form-field-description": {
